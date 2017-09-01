@@ -1,4 +1,7 @@
 #python
+1. Seedstars Labs Base Django React Redux Project (django react redux)
+https://github.com/mengyou658/django-react-redux-base
+
 * install ubuntu16.04
 ```cmd
 #默认安装的有python2 和python3，先执行更新
@@ -16,4 +19,28 @@ pip3 install xxx
     update-alternatives --config python
     #或者使用
     python 或者python2 或者python3
+#使用virtualenv来解决python版本问题
+
+```
+#uwsgi+supervisor
+uwsgi python 服务器
+supervisor 服务器监控重启
+* http://www.cnblogs.com/dspace/p/5647587.html
+
+#
+```sh
+
+supervisord -c G:\afunqi\supervisord.conf
+
+sudo service supervisor stop 停止supervisor服务
+ 
+sudo service supervisor start 启动supervisor服务
+ 
+supervisorctl shutdown #关闭所有任务
+ 
+supervisorctl stop|start program_name #启动或停止服务
+ 
+supervisorctl status #查看所有任务状态
+
+
 ```

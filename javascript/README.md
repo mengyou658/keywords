@@ -29,3 +29,10 @@ https://github.com/JetBrains/ring-ui
 #####game 游戏
 1. trust An interactive guide to the game theory of cooperation 游戏完整示例
 https://github.com/ncase/trust
+#####用于自动化测试和不需要可视化用户界面的服务器
+1. Headless Chrome Node API （）
+https://github.com/GoogleChrome/puppeteer
+1. A dockerized, headless Chrome rendering solution
+https://github.com/mengyou658/rendertron
+1. emoji （表情符号）
+https://github.com/mengyou658/emoji-cheat-sheet.com
