@@ -6,7 +6,7 @@
 ...
 # Awesome
 * https://github.com/sorrycc/awesome-javascript
-
+* https://github.com/vuejs/awesome-vue
 # coding style（代码风格规范）
 * https://github.com/google/styleguide
 

@@ -1,7 +1,14 @@
 #python
+
+##### 项目/代码片段/demo
 1. Seedstars Labs Base Django React Redux Project (django react redux)
 https://github.com/mengyou658/django-react-redux-base
-
+1. A collection of interesting, subtle, and tricky Python snippets(代码片段)
+https://github.com/mengyou658/wtfpython
+###### 工具
+1. A modern project, package, and virtual env manager for Python （python 开发环境工具，快速创建项目，管理虚拟环境）
+https://github.com/ofek/hatch
+#### 小抄/记事
 * install ubuntu16.04
 ```cmd
 #默认安装的有python2 和python3，先执行更新

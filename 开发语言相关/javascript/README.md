@@ -1,9 +1,22 @@
 #javascript
-##### 教程
+##### 规范/教程
 1. you don't know js (js进阶教程)
 https://github.com/getify/You-Dont-Know-JS
 1. A list of funny and tricky JavaScript examples (js有意思的代码片段)
 https://github.com/denysdovhan/wtfjs
+1. JavaScript Style Guide
+https://github.com/airbnb/javascript
+
+    ```js
+    // .eslintrc file
+    // Use this file as a starting point for your project's .eslintrc.
+    // Copy this file, and add rule overrides as needed.
+    {
+      "extends": "airbnb"
+    }
+    ```
+1. A collection of (mostly) technical things every software developer should know （技术问题得收集）
+https://github.com/mengyou658/every-programmer-should-know
 ##### 实用 库/模块
 1. search JavaScript （js中搜索）
 https://github.com/KingPixil/wade
@@ -25,8 +38,12 @@ https://github.com/lord/slate
 https://github.com/yezihaohao/react-admin
 1. A tiny, secure URL-friendly unique string ID generator for JavaScript (js唯一ID生成器)
 https://github.com/mengyou658/nanoid
-1. HTTP client. Spiritual successor to request (fetch 封装)
+1. HTTP client. Spiritual successor to request (fetch 封装 httpclient)
 https://github.com/mengyou658/r2
+1. Promise based HTTP client for the browser and node.js (httpclient)
+https://github.com/mzabriskie/axios
+1. 优雅的页面下拉刷新组件
+https://github.com/minirefresh/minirefresh
 ##### VR/AR
 1. A helper three.js library for building AR web experiences that run in WebARonARKit and WebARonARCore （做类似淘宝捉猫猫AR互动的组件）
 https://github.com/mengyou658/three.ar.js
@@ -38,6 +55,8 @@ https://github.com/thinkjs/thinkjs
 ##### ui
 1. ui 列表
 https://github.com/JetBrains/ring-ui
+1. layer ui (经常使用的一个简单的前端UI框架)
+https://github.com/mengyou658/layui
 ##### game 游戏
 1. trust An interactive guide to the game theory of cooperation 游戏完整示例
 https://github.com/ncase/trust
