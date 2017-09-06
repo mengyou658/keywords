@@ -1,5 +1,8 @@
 #javascript
-##### 规范/教程
+### 现成列表
+1. 
+1. 
+### 教程/文章/小抄/规范/记事
 1. you don't know js (js进阶教程)
 https://github.com/getify/You-Dont-Know-JS
 1. A list of funny and tricky JavaScript examples (js有意思的代码片段)
@@ -17,7 +20,9 @@ https://github.com/airbnb/javascript
     ```
 1. A collection of (mostly) technical things every software developer should know （技术问题得收集）
 https://github.com/mengyou658/every-programmer-should-know
-##### 实用 库/模块
+1. 
+1. 
+### 实用 库/模块/框架
 1. search JavaScript （js中搜索）
 https://github.com/KingPixil/wade
 1. web test editor （web编辑器）
@@ -49,17 +54,16 @@ https://github.com/minirefresh/minirefresh
 https://github.com/mengyou658/three.ar.js
 1.  Framework for creating Live Tours. Add React VR components.  (做VR展览，观光旅游VR等)
 https://github.com/livetourlab/live-tour-lab
-##### 完整项目/示例/demo
+1. 
+1. 
+### 完整项目/示例/demo/代码片段
 1. Use full ES2015+ features to develop Node.js applications (实用es2015+的语法开发node应用)
 https://github.com/thinkjs/thinkjs
-##### ui
-1. ui 列表
-https://github.com/JetBrains/ring-ui
-1. layer ui (经常使用的一个简单的前端UI框架)
-https://github.com/mengyou658/layui
 ##### game 游戏
 1. trust An interactive guide to the game theory of cooperation 游戏完整示例
 https://github.com/ncase/trust
+1. 
+1. 
 ### 测试
 1. 一个可视化, 并且能快速生成模拟数据的持久化服务
 https://github.com/mengyou658/easy-mock
@@ -70,3 +74,15 @@ https://github.com/GoogleChrome/puppeteer
 https://github.com/mengyou658/rendertron
 1. emoji （表情符号）
 https://github.com/mengyou658/emoji-cheat-sheet.com
+1. 
+1. 
+### UI
+1. ui 列表
+https://github.com/JetBrains/ring-ui
+1. layer ui (经常使用的一个简单的前端UI框架)
+https://github.com/mengyou658/layui
+1. 
+1. 
+### 工具
+1. 
+1. 
