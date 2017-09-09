@@ -49,6 +49,8 @@ https://github.com/mengyou658/r2
 https://github.com/mzabriskie/axios
 1. 优雅的页面下拉刷新组件
 https://github.com/minirefresh/minirefresh
+1. A javascript library that makes your page dance （页面动画先关）
+https://github.com/mengyou658/Rythm.js
 ##### VR/AR
 1. A helper three.js library for building AR web experiences that run in WebARonARKit and WebARonARCore （做类似淘宝捉猫猫AR互动的组件）
 https://github.com/mengyou658/three.ar.js
