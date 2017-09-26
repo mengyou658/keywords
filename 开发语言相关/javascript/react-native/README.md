@@ -21,7 +21,10 @@ https://github.com/mengyou658/native-starter-kit
 https://github.com/phodal/growth
 1. starter kit 
 https://github.com/akveo/kittenTricks
-1. 
+1.聊天
+https://github.com/mengyou658/react-native-wechat
+1. 高仿QQ
+https://github.com/mengyou658/QQ
 1. 
 ### 测试
 1. 

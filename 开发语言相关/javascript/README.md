@@ -20,6 +20,10 @@ https://github.com/airbnb/javascript
     ```
 1. A collection of (mostly) technical things every software developer should know （技术问题得收集）
 https://github.com/mengyou658/every-programmer-should-know
+1. Modern JavaScript Tutorial （javascript 教程）
+https://github.com/iliakan/javascript-tutorial-en
+1. js 小抄
+https://github.com/mbeaudru/modern-js-cheatsheet#notions
 1. 
 1. 
 ### 实用 库/模块/框架
@@ -56,6 +60,10 @@ https://github.com/mengyou658/Rythm.js
 https://github.com/mengyou658/three.ar.js
 1.  Framework for creating Live Tours. Add React VR components.  (做VR展览，观光旅游VR等)
 https://github.com/livetourlab/live-tour-lab
+1. Tree editor for writers (页面树状编辑器，为写文章的人准备的)
+https://github.com/mengyou658/nulis
+1. Efficient AR for web
+https://github.com/mengyou658/AR.js
 1. 
 1. 
 ### 完整项目/示例/demo/代码片段
