@@ -35,3 +35,9 @@ http://mp.weixin.qq.com/s/1C9ucY2Cbc2_8yK1IfVTMQ
 http://mp.weixin.qq.com/s/eW0ptVDqGO3kfHpX_GMn9w
 1. Nginx反向代理，负载均衡，redis session共享，keepalived高可用
 http://mp.weixin.qq.com/s/P4jwsiZwTdDGoQdRu8Flww
+
+# 地图，geolocation 
+1. 位置计算
+https://github.com/mengyou658/tile38
+1. 把地图导入到unity4中
+https://github.com/mengyou658/StreetMap
