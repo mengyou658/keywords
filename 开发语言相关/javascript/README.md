@@ -69,6 +69,8 @@ https://github.com/mengyou658/AR.js
 ### 完整项目/示例/demo/代码片段
 1. Use full ES2015+ features to develop Node.js applications (实用es2015+的语法开发node应用)
 https://github.com/thinkjs/thinkjs
+1.线稿自动上色的程序
+https://github.com/mengyou658/style2paints
 ##### game 游戏
 1. trust An interactive guide to the game theory of cooperation 游戏完整示例
 https://github.com/ncase/trust
