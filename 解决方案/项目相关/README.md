@@ -28,6 +28,10 @@ https://github.com/mengyou658/pomelo
 #游戏服务器开发
 1. A fast,scalable,distributed game server framework for Node.js. Pomelo 是基于 Node.js的高性能、分布式游戏服务器框架。它包括基础的开发框架和相关的扩展组件（库和工具包），可以帮助你省去游戏开发枯燥中的重复劳动和底层逻辑的开发。Pomelo 不但适用于游戏服务器开发，也可用于开发高实时Web应用，它的分布式架构可以使 Pomelo 比普通的实时 Web 框架扩展性更好。
 https://github.com/mengyou658/pomelo
+1. trust An interactive guide to the game theory of cooperation 游戏完整示例
+https://github.com/ncase/trust
+1. Tetris in 512b 俄罗斯方块
+https://github.com/mengyou658/mini-tetris
 1. 
 
 #自动化的SQL解决方案
@@ -35,7 +39,9 @@ https://github.com/mengyou658/pomelo
 1. https://github.com/uwdb/Cosette
 
 #直播项目完整解决方案
-https://github.com/mengyou658/SmarterStreaming
+1. https://github.com/mengyou658/SmarterStreaming
+1. NGINX-based Media Streaming Server http://nginx-rtmp.blogspot.com
+https://github.com/mengyou658/nginx-rtmp-module
 
 #安全相关、性能相关
 1. 一系列安全须知
@@ -46,6 +52,14 @@ http://mp.weixin.qq.com/s/1C9ucY2Cbc2_8yK1IfVTMQ
 http://mp.weixin.qq.com/s/eW0ptVDqGO3kfHpX_GMn9w
 1. Nginx反向代理，负载均衡，redis session共享，keepalived高可用
 http://mp.weixin.qq.com/s/P4jwsiZwTdDGoQdRu8Flww
+1. Nginx configuration static analyzer nginx安全配置扫描
+https://github.com/yandex/gixy
+1. 它在Nginx的基础上，针对大访问量网站的需求，添加了很多高级功能和特性
+https://github.com/alibaba/tengine
+1. NGINX-based Media Streaming Server http://nginx-rtmp.blogspot.com
+https://github.com/mengyou658/nginx-rtmp-module
+1. Embed the Power of Lua into NGINX HTTP servers  lua for nginx
+https://github.com/mengyou658/lua-nginx-module
 
 # 微服务
 1. Microservices from Design to Deployment 中文版 — 《微服务：从设计到部署》
@@ -56,15 +70,30 @@ https://github.com/mengyou658/tile38
 1. 把地图导入到unity4中
 https://github.com/mengyou658/StreetMap
 
-#接口管理工具
+#接口管理
 1.RAP Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理
 https://github.com/mengyou658/RAP
+#自动化接口
+1.RAP Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理
+https://github.com/mengyou658/RAP
+#自动化测试
+1.RAP Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理
+https://github.com/mengyou658/RAP
+1. 一个可视化, 并且能快速生成模拟数据的持久化服务
+https://github.com/mengyou658/easy-mock
+1. Headless Chrome Node API （）
+https://github.com/GoogleChrome/puppeteer
+1. A dockerized, headless Chrome rendering solution
+https://github.com/mengyou658/rendertron
+# 压力测试
+1. tcpcopy是一种应用请求复制（基于tcp的packets）工具，其应用领域较广，目前已经应用于国内各大互联网公司,tcpcopy主要有如下功能： 1）分布式压力测试工具，利用在线数据，可以测试系统能够承受的压力大小（远比ab压力测试工具真实地多）,也可以提前发现一些bug 2）普通上线测试，可以发现新系统是否稳定，提前发现上线过程中会出现的诸多问题，让开发者有信心上线 3）对比试验，同样请求，针对不同或不同版本程序，可以做性能对比等试验 4）利用多种手段，构造无限在线压力，满足中小网站压力测试要求 5）实战演习（架构师必备）
+https://github.com/mengyou658/tcpcopy
 
 #可伸缩布局方案
 1. amfe-flexible 
 https://github.com/mengyou658/lib-flexible
 
-# admin 快速开发 方案
+# admin / 快速开发 方案
 1. 直接挑选看中的模板，下载代码即可使用
 * https://github.com/mengyou658/design-blocks
 1. xadmin （django bootstrap）
@@ -75,7 +104,44 @@ https://github.com/sshwsfc/xadmin
 https://github.com/mengyou658/charisma
 1. AdminLTE
 https://github.com/mengyou658/AdminLTE
+1. 基于Spring+SpringMVC+Mybatis分布式敏捷开发系统架构，提供整套公共微服务服务模块：集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位J2EE企业级开发解决方案。
+https://github.com/mengyou658/zheng
+1. the JavaScript App Platform （web应用框架）
+https://github.com/mengyou658/meteor
 
-# 压力测试
-1. tcpcopy是一种应用请求复制（基于tcp的packets）工具，其应用领域较广，目前已经应用于国内各大互联网公司,tcpcopy主要有如下功能： 1）分布式压力测试工具，利用在线数据，可以测试系统能够承受的压力大小（远比ab压力测试工具真实地多）,也可以提前发现一些bug 2）普通上线测试，可以发现新系统是否稳定，提前发现上线过程中会出现的诸多问题，让开发者有信心上线 3）对比试验，同样请求，针对不同或不同版本程序，可以做性能对比等试验 4）利用多种手段，构造无限在线压力，满足中小网站压力测试要求 5）实战演习（架构师必备）
-https://github.com/mengyou658/tcpcopy
+# nginx
+##### nginx monitor （nginx 监控）
+1. https://github.com/sumory/orange
+##### NGINX Unit is a dynamic web application server
+1. https://github.com/nginx/unit
+##### nginx configs nginx配置片段列表，参考使用
+1. https://github.com/mengyou658/server-configs-nginx
+#####  The Microservice API Gateway  api防火墙
+1. https://github.com/mengyou658/kong
+#####  它在Nginx的基础上，针对大访问量网站的需求，添加了很多高级功能和特性
+1. https://github.com/alibaba/tengine
+#####  NGINX-based Media Streaming Server http://nginx-rtmp.blogspot.com
+1. https://github.com/mengyou658/nginx-rtmp-module
+#####  Embed the Power of Lua into NGINX HTTP servers 
+1. https://github.com/mengyou658/lua-nginx-module
+#####  Nginx configuration static analyzer nginx安全配置扫描
+1. https://github.com/yandex/gixy
+#####  集合了大部分nginx的模块，可以直接使用，免去自己找的麻烦
+1. https://github.com/mengyou658/openresty
+
+
+# IM 聊天 chat
+1. The most complete chat UI for React Native (聊天UI chat)
+https://github.com/mengyou658/react-native-gifted-chat
+1. Have your own Slack like online chat, built with Meteor. (Rocket.Chat 是特性最丰富的 Slack 开源替代品之一。 主要功能：群组聊天，直接通信，私聊群，桌面通知，媒体嵌入，链接预览，文件上传，语音/视频 聊天，截图等等。)
+https://github.com/mengyou658/Rocket.Chat
+1. General IM UI components. Android/iOS/RectNative ready. 通用 IM 聊天 UI 组件，已经同时支持 Android/iOS/RN
+https://github.com/mengyou658/aurora-imui
+1.聊天
+https://github.com/mengyou658/react-native-wechat
+1. 高仿QQ
+https://github.com/mengyou658/QQ
+
+# 唯一ID生成 方案
+1. A tiny, secure URL-friendly unique string ID generator for JavaScript (js唯一ID生成器)
+https://github.com/mengyou658/nanoid

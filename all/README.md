@@ -10,11 +10,11 @@ https://github.com/kdn251/interviews
 https://github.com/mengyou658/best-resume-ever
 1. node-js 面试
 https://github.com/mengyou658/node-interview
+1. 安卓面试
+https://github.com/mengyou658/android_interview
 ###深入研究
 1. Writing a sqlite clone from scratch in C （教你怎么样写一个数据库）
 https://github.com/cstack/db_tutorial
-1. Have your own Slack like online chat, built with Meteor. (Rocket.Chat 是特性最丰富的 Slack 开源替代品之一。 主要功能：群组聊天，直接通信，私聊群，桌面通知，媒体嵌入，链接预览，文件上传，语音/视频 聊天，截图等等。)
-https://github.com/mengyou658/Rocket.Chat
 1. 知识点
 https://github.com/pzxwhc/MineKnowContainer/
 1. 规范
@@ -44,6 +44,14 @@ https://github.com/mengyou658/awesome-programming-books
 https://github.com/mengyou658/books
 1. 书籍列表4
 https://github.com/mengyou658/free-programming-books-zh_CN
+1. Node.js 实践教程
+https://github.com/ElemeFE/node-practice
+1. you don't know js (js进阶教程)
+https://github.com/getify/You-Dont-Know-JS
+1. A collection of (mostly) technical things every software developer should know （技术问题得收集）
+https://github.com/mengyou658/every-programmer-should-know
+1. Modern JavaScript Tutorial （javascript 教程）
+https://github.com/iliakan/javascript-tutorial-en
 #######规范
 1. 阿里云java代码规范
 https://github.com/alibaba/p3c
@@ -57,6 +65,4 @@ https://github.com/aymericdamien/TensorFlow-Examples
 ### 黑客相关
 1. wifi漏洞
 https://github.com/kristate/krackinfo
-### 通用 IM 聊天 UI 组件
-1. General IM UI components. Android/iOS/RectNative ready. 通用 IM 聊天 UI 组件，已经同时支持 Android/iOS/RN
-https://github.com/mengyou658/aurora-imui
+

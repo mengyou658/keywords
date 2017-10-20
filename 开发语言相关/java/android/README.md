@@ -4,7 +4,7 @@
 https://github.com/wasabeef/awesome-android-ui
 1. 
 ### 教程/文章/小抄/规范/记事
-1. Android教程
+1. 安卓面试
 https://github.com/mengyou658/android_interview
 1. 
 ### 实用 库/模块/框架
@@ -18,8 +18,7 @@ https://github.com/mengyou658/BGAQRCode-Android
 https://github.com/mengyou658/Luban
 1. A High Copy WeChat ,SNS APP (高仿微信)
 https://github.com/mengyou658/wechat
-1. [DEPRECATED] 完全仿微信的图片选择，并且提供了多种图片加载接口，选择图片后可以旋转，可以裁剪成矩形或圆形，可以配置各种其他的参数 Edit
-   Add topics
+1. [DEPRECATED] 完全仿微信的图片选择，并且提供了多种图片加载接口，选择图片后可以旋转，可以裁剪成矩形或圆形，可以配置各种其他的参数
 https://github.com/mengyou658/ImagePicker
 1. 类似半糖、美丽说主页与QQ音乐歌曲列表布局效果，实现不同菜单的左右滑动切换，同时支持类似tableview的顶部工具栏悬停（既可以左右滑动，又可以上下滑动）。兼容下拉刷新，自定义 collectionview实现自适应 contentSize 还可实现瀑布流功能
 https://github.com/mengyou658/SwipeTableView

@@ -54,11 +54,13 @@ https://github.com/mengyou658/django-react-redux-base
 https://github.com/mengyou658/wtfpython
 1. django 学习参考项目
 https://github.com/mengyou658/imooc-django
-1. 
+1. xadmin
+https://github.com/mengyou658/xadmin
 1. 
 1. 
 ### 实用 库/模块/框架
 1. xadmin
+https://github.com/mengyou658/xadmin
 1. 
 ### 完整项目/示例/demo/代码片段
 1. 

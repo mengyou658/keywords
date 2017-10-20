@@ -8,6 +8,13 @@ https://github.com/eon01/DockerCheatSheet
 1. https://github.com/sumory/orange
 ##### NGINX Unit is a dynamic web application server
 1. https://github.com/nginx/unit
+##### nginx configs nginx配置片段列表，参考使用
+1. https://github.com/mengyou658/server-configs-nginx
+#####  The Microservice API Gateway  api防火墙
+1. https://github.com/mengyou658/kong
+#####  它在Nginx的基础上，针对大访问量网站的需求，添加了很多高级功能和特性
+1. https://github.com/alibaba/tengine
+
 # 脚本
 ##### bash snippets (有意思的脚本)
 1. https://github.com/alexanderepstein/Bash-Snippets

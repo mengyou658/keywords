@@ -61,6 +61,10 @@ https://github.com/mengyou658/bubbly-bg
 https://github.com/mengyou658/st.js
 1.HTML5 FLV Player html5播放js库
 https://github.com/mengyou658/flv.js
+1. amfe-flexible  可伸缩布局方案
+https://github.com/mengyou658/lib-flexible
+1. Tree editor for writers (页面树状编辑器，为写文章的人准备的)
+https://github.com/mengyou658/nulis
 
 #####admin
 1. vue iview-admin
@@ -70,8 +74,6 @@ https://github.com/mengyou658/flv.js
 https://github.com/mengyou658/three.ar.js
 1.  Framework for creating Live Tours. Add React VR components.  (做VR展览，观光旅游VR等)
 https://github.com/livetourlab/live-tour-lab
-1. Tree editor for writers (页面树状编辑器，为写文章的人准备的)
-https://github.com/mengyou658/nulis
 1. Efficient AR for web
 https://github.com/mengyou658/AR.js
 1. 
@@ -107,6 +109,9 @@ https://github.com/JetBrains/ring-ui
 https://github.com/mengyou658/layui
 1. vue iview-admin
 * https://github.com/mengyou658/iview-admin
+### 可伸缩布局方案
+1. amfe-flexible 
+https://github.com/mengyou658/lib-flexible
 1. 
 1. 
 ### 工具
