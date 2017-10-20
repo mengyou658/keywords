@@ -25,5 +25,9 @@ https://github.com/mengyou658/innerself
 https://github.com/facebookincubator/create-react-app
 1. React for interactive command-line apps （命令行中使用react的解决方案）
 https://github.com/vadimdemedes/ink
+1. A tool for monitoring webpack optimization metrics through the development process （监控webpack模块使用情况）
+https://github.com/mengyou658/webpackmonitor
+1. a live view of the component hierarchy tree of your React application with support for React Router and Redux (react 开发工具)
+https://github.com/mengyou658/React-Sight
 1. 
 1. 

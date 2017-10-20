@@ -41,8 +41,24 @@ http://mp.weixin.qq.com/s/eW0ptVDqGO3kfHpX_GMn9w
 1. Nginx反向代理，负载均衡，redis session共享，keepalived高可用
 http://mp.weixin.qq.com/s/P4jwsiZwTdDGoQdRu8Flww
 
+# 微服务
+1. Microservices from Design to Deployment 中文版 — 《微服务：从设计到部署》
+https://github.com/mengyou658/microservices-from-design-to-deployment-chinese
 # 地图，geolocation 
 1. 位置计算
 https://github.com/mengyou658/tile38
 1. 把地图导入到unity4中
 https://github.com/mengyou658/StreetMap
+
+
+# admin 方案
+1. 直接挑选看中的模板，下载代码即可使用
+* https://github.com/mengyou658/design-blocks
+1. xadmin （django bootstrap）
+https://github.com/sshwsfc/xadmin
+1. vue iview-admin
+* https://github.com/mengyou658/iview-admin
+1. charisma (bootstrap)
+https://github.com/mengyou658/charisma
+1. AdminLTE
+https://github.com/mengyou658/AdminLTE

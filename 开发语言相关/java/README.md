@@ -8,6 +8,9 @@ https://github.com/iluwatar/java-design-patterns
 1. 
 1. 
 ### 实用 库/模块/框架
+1. The simplest, fastest way to get business intelligence and analytics to everyone in your company
+https://github.com/mengyou658/metabase
+
 ###### 微服务
 1. https://github.com/anilallewar/microservices-basics-spring-boot 
 1. https://github.com/rohitghatol/spring-boot-microservices 

@@ -39,7 +39,7 @@ https://github.com/rikschennink/fitty
 https://github.com/AlloyTeam/AlloyCrop
 1. backpack minimalistic build system for Node.js projects （零配置nodejs 类似create-react-app）
 https://github.com/palmerhq/backpack
-1. Colorful animations in terminal stdout
+1. Colorful animations in terminal stdout （控制台输出颜色库）
 https://github.com/bokub/chalk-animation
 1. Beautiful static documentation for your API 美化API文档
 https://github.com/lord/slate
@@ -55,6 +55,13 @@ https://github.com/mzabriskie/axios
 https://github.com/minirefresh/minirefresh
 1. A javascript library that makes your page dance （页面动画先关）
 https://github.com/mengyou658/Rythm.js
+1. Beautiful bubbly backgrounds 气泡背景
+https://github.com/mengyou658/bubbly-bg
+1. JSON template over JSON
+https://github.com/mengyou658/st.js
+#####admin
+1. vue iview-admin
+* https://github.com/mengyou658/iview-admin
 ##### VR/AR
 1. A helper three.js library for building AR web experiences that run in WebARonARKit and WebARonARCore （做类似淘宝捉猫猫AR互动的组件）
 https://github.com/mengyou658/three.ar.js
@@ -74,6 +81,8 @@ https://github.com/mengyou658/style2paints
 ##### game 游戏
 1. trust An interactive guide to the game theory of cooperation 游戏完整示例
 https://github.com/ncase/trust
+1. Tetris in 512b 俄罗斯方块
+https://github.com/mengyou658/mini-tetris
 1. 
 1. 
 ### 测试
@@ -93,6 +102,8 @@ https://github.com/mengyou658/emoji-cheat-sheet.com
 https://github.com/JetBrains/ring-ui
 1. layer ui (经常使用的一个简单的前端UI框架)
 https://github.com/mengyou658/layui
+1. vue iview-admin
+* https://github.com/mengyou658/iview-admin
 1. 
 1. 
 ### 工具

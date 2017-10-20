@@ -40,6 +40,11 @@ https://github.com/mengyou658/free-programming-books-zh_CN
 https://github.com/mengyou658/awesome-programming-books
 1. 书籍列表3
 https://github.com/mengyou658/books
+1. 书籍列表4
+https://github.com/mengyou658/free-programming-books-zh_CN
+#######规范
+1. 阿里云java代码规范
+https://github.com/alibaba/p3c
 ### 人工智能 / 机器学习
 1. TensorFlow Tutorial and Examples for beginners （TensorFlow 入门）
 https://github.com/aymericdamien/TensorFlow-Examples
@@ -47,3 +52,6 @@ https://github.com/aymericdamien/TensorFlow-Examples
 * https://github.com/google/styleguide
 ### The Gambler's Fallacy Dice 赌徒谬误的一个实现
 * https://github.com/xori/gamblers-dice
+### 黑客相关
+1. wifi漏洞
+https://github.com/kristate/krackinfo

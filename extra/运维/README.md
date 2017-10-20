@@ -16,3 +16,7 @@ https://github.com/eon01/DockerCheatSheet
 https://github.com/mengyou658/ansible
 1. AWX provides a web-based user interface, REST API, and task engine built on top of Ansible （web api版本的ansible）
 https://github.com/ansible/awx
+# 开源线上部署工具
+1. jenkins jenkins.io
+1. Walle web上线部署系统工具
+https://github.com/mengyou658/walle-web
