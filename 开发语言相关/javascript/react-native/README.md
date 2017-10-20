@@ -32,6 +32,8 @@ https://github.com/mengyou658/QQ
 ### UI
 1. The most complete chat UI for React Native (聊天UI chat)
 https://github.com/mengyou658/react-native-gifted-chat
+1. General IM UI components. Android/iOS/RectNative ready. 通用 IM 聊天 UI 组件，已经同时支持 Android/iOS/RN
+https://github.com/mengyou658/aurora-imui
 1. 
 1. 
 ### 工具

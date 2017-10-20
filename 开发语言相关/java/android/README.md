@@ -23,6 +23,12 @@ https://github.com/mengyou658/wechat
 https://github.com/mengyou658/ImagePicker
 1. 类似半糖、美丽说主页与QQ音乐歌曲列表布局效果，实现不同菜单的左右滑动切换，同时支持类似tableview的顶部工具栏悬停（既可以左右滑动，又可以上下滑动）。兼容下拉刷新，自定义 collectionview实现自适应 contentSize 还可实现瀑布流功能
 https://github.com/mengyou658/SwipeTableView
+1.MagicaSakura 是 Android 多主题框架。~ is an Android multi theme library which supporting both daily colorful theme and night theme. http://app.bilibili.com
+https://github.com/mengyou658/MagicaSakura
+1.Android开源弹幕引擎·烈焰弹幕使 ～ http://app.bilibili.com/
+https://github.com/mengyou658/DanmakuFlameMaster
+1.Android/iOS video player based on FFmpeg n3.3, with MediaCodec, VideoToolbox support.  手机端视频播放组件
+https://github.com/mengyou658/ijkplayer
 ### AR
 1. Google ARCore SDK for Android （google AR 库）
 https://github.com/google-ar/arcore-android-sdk

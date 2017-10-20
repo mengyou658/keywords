@@ -8,6 +8,8 @@
 https://github.com/kdn251/interviews
 1. 创建cv（创建个人简历）
 https://github.com/mengyou658/best-resume-ever
+1. node-js 面试
+https://github.com/mengyou658/node-interview
 ###深入研究
 1. Writing a sqlite clone from scratch in C （教你怎么样写一个数据库）
 https://github.com/cstack/db_tutorial
@@ -55,3 +57,6 @@ https://github.com/aymericdamien/TensorFlow-Examples
 ### 黑客相关
 1. wifi漏洞
 https://github.com/kristate/krackinfo
+### 通用 IM 聊天 UI 组件
+1. General IM UI components. Android/iOS/RectNative ready. 通用 IM 聊天 UI 组件，已经同时支持 Android/iOS/RN
+https://github.com/mengyou658/aurora-imui

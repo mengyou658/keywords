@@ -59,6 +59,9 @@ https://github.com/mengyou658/Rythm.js
 https://github.com/mengyou658/bubbly-bg
 1. JSON template over JSON
 https://github.com/mengyou658/st.js
+1.HTML5 FLV Player html5播放js库
+https://github.com/mengyou658/flv.js
+
 #####admin
 1. vue iview-admin
 * https://github.com/mengyou658/iview-admin
