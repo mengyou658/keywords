@@ -44,6 +44,8 @@ https://github.com/mengyou658/mini-tetris
 https://github.com/mengyou658/nginx-rtmp-module
 
 #安全相关、性能相关
+1.Security Guide for Developers (实用性开发人员安全须知) https://git.io/security
+https://github.com/FallibleInc/security-guide-for-developers
 1. 一系列安全须知
 www.freebuf.com/articles/web/135278.html
 1. nginx + lua api 网关限流
@@ -106,6 +108,12 @@ https://github.com/mengyou658/charisma
 https://github.com/mengyou658/AdminLTE
 1. 基于Spring+SpringMVC+Mybatis分布式敏捷开发系统架构，提供整套公共微服务服务模块：集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位J2EE企业级开发解决方案。
 https://github.com/mengyou658/zheng
+1. hsweb (haʊs wɛb) 是一个用于快速搭建企业后台管理系统的基础项目,集成一揽子便捷功能如:通用增删改查，在线代码生成，权限管理(可控制到列和行)，动态多数据源分布式事务，动态脚本，动态定时任务，在线数据库维护等等. 基于 spring-boot,mybaits
+https://github.com/mengyou658/hsweb-framework
+1. JeeSite 是一个企业信息化开发基础平台，Java企业应用开源框架，Java EE（J2EE）快速开发框架，使用经典技术组合（Spring、Spring MVC、Apache Shiro、MyBatis、Bootstrap UI），包括核心模块如：组织机构、角色用户、权限授权、数据权限、内容管理、工作流等。 
+https://github.com/thinkgem/jeesite
+1. JEECG 基于代码生成器的智能开发平台
+https://github.com/mengyou658/jeecg
 1. the JavaScript App Platform （web应用框架）
 https://github.com/mengyou658/meteor
 
@@ -145,3 +153,19 @@ https://github.com/mengyou658/QQ
 # 唯一ID生成 方案
 1. A tiny, secure URL-friendly unique string ID generator for JavaScript (js唯一ID生成器)
 https://github.com/mengyou658/nanoid
+
+
+# 进销存 ERP CRM WMS 仓储管理系统
+1. 仓储管理系统 进销存
+https://github.com/mengyou658/erp-1
+1.
+https://github.com/mengyou658/wms
+1.
+https://github.com/mengyou658/silo
+1.
+https://github.com/mengyou658/warehouse-inventory-system
+1.
+https://github.com/mengyou658/JXCMS
+1.
+https://github.com/mengyou658/ERP
+
