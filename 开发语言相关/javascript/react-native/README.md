@@ -25,6 +25,8 @@ https://github.com/akveo/kittenTricks
 https://github.com/mengyou658/react-native-wechat
 1. 高仿QQ
 https://github.com/mengyou658/QQ
+1. 现成项目
+https://github.com/mengyou658/RNPolymerPo
 1. 
 ### 测试
 1. 

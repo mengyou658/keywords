@@ -3,6 +3,7 @@
 * https://github.com/sorrycc/awesome-javascript
 * https://github.com/vuejs/awesome-vue
 * https://github.com/mengyou658/awesome-coins
+* https://github.com/mengyou658/awesome
 ###面试
 1. 面试
 https://github.com/kdn251/interviews
@@ -52,6 +53,12 @@ https://github.com/getify/You-Dont-Know-JS
 https://github.com/mengyou658/every-programmer-should-know
 1. Modern JavaScript Tutorial （javascript 教程）
 https://github.com/iliakan/javascript-tutorial-en
+1. 移动前端开发收藏夹
+https://github.com/hoosin/mobile-web-favorites
+1. 腾讯移动Web前端知识库
+https://github.com/mengyou658/Mars-1
+1. 列表
+https://github.com/mengyou658/awesome
 #######规范
 1. 阿里云java代码规范
 https://github.com/alibaba/p3c
