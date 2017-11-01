@@ -35,6 +35,8 @@ https://github.com/mengyou658/vrn
 1. mac os 工具应用列表
 https://github.com/nikitavoloboev/my-mac-os
 ### 教程/文章/规范
+1. 清单
+https://github.com/mengyou658/Web-Development-And-Engineering-Practices
 1. Coder-Knowledge-Management 程序员的知识管理：技术视野与职业规划
 * https://github.com/wxyyxc1992/Coder-Knowledge-Management
 1. 书籍列表

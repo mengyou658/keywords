@@ -3,6 +3,8 @@
 1. 
 1. 
 ### 教程/文章/小抄/规范/记事
+1. 清单
+https://github.com/mengyou658/Web-Development-And-Engineering-Practices
 1. you don't know js (js进阶教程)
 https://github.com/getify/You-Dont-Know-JS
 1. A list of funny and tricky JavaScript examples (js有意思的代码片段)
@@ -94,6 +96,10 @@ https://github.com/mengyou658/mini-tetris
 ### 测试
 1. 一个可视化, 并且能快速生成模拟数据的持久化服务
 https://github.com/mengyou658/easy-mock
+1. 一个轻量、可拓展、针对手机网页的前端开发者调试面板。 A lightweight, extendable front-end developer tool for mobile web page.
+https://github.com/mengyou658/vConsole
+1. 配合vconsole使用
+https://github.com/AlloyTeam/AlloyLever
 ##### 用于自动化测试和不需要可视化用户界面的服务器
 1. Headless Chrome Node API （）
 https://github.com/GoogleChrome/puppeteer
