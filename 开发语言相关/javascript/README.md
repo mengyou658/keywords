@@ -65,7 +65,8 @@ https://github.com/mengyou658/flv.js
 https://github.com/mengyou658/lib-flexible
 1. Tree editor for writers (页面树状编辑器，为写文章的人准备的)
 https://github.com/mengyou658/nulis
-
+1. 支持请求重定向的轻量级、跨平台Javascript http网络库
+https://github.com/wendux/fly
 #####admin
 1. vue iview-admin
 * https://github.com/mengyou658/iview-admin

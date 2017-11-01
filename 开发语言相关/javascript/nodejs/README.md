@@ -26,6 +26,8 @@ https://github.com/thinkjs/thinkjs
 https://github.com/mengyou658/framework
 1. NodeJs Web Application Framework. Makes it easy for you to write webapps with less code 😃 http://adonisjs.com 
 https://github.com/adonisjs/adonis-framework
+1. A boilerplate for Node.js web applications. (一个样板项目) 
+https://github.com/sahat/hackathon-starter.git
 1. 
 ### 完整项目/示例/demo/代码片段
 1. 

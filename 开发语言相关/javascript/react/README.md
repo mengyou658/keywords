@@ -29,5 +29,6 @@ https://github.com/vadimdemedes/ink
 https://github.com/mengyou658/webpackmonitor
 1. a live view of the component hierarchy tree of your React application with support for React Router and Redux (react 开发工具)
 https://github.com/mengyou658/React-Sight
-1. 
+1. Transform SVG into React components （SVG 转换 react组件）
+https://github.com/mengyou658/svgr
 1. 

@@ -27,6 +27,8 @@ https://github.com/mengyou658/react-native-wechat
 https://github.com/mengyou658/QQ
 1. 现成项目
 https://github.com/mengyou658/RNPolymerPo
+1.  网易云音乐
+https://github.com/mengyou658/NeteaseCloudMusic
 1. 
 ### 测试
 1. 

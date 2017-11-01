@@ -33,6 +33,8 @@ https://github.com/mengyou658/ijkplayer
 https://github.com/google-ar/arcore-android-sdk
 1. 
 ### 完整项目/示例/demo/代码片段
+1.  网易云音乐
+https://github.com/mengyou658/NeteaseCloudMusic
 1. 
 1. 
 ### 测试
@@ -41,7 +43,10 @@ https://github.com/google-ar/arcore-android-sdk
 ### UI
 1. Android UI 库
 https://github.com/QMUI/QMUI_Android
-1. 
+1. RapidView是一套用于开发Android客户端界面、逻辑以及功能的开发组件。布局文件(XML)及逻辑文件(Lua)可以运行时执行，主要用以解决Android客户端界面、逻辑快速更新以及快速开发的诉求。RapidView的XML语法规则与Android原生XML类似，而写逻辑的Lua部分除语言语法规则外，可以直接使用我们提供的Java API以及Android原生API，因此熟悉Android客户端开发的开发者上手成本会非常小。
+除了解决动态更新问题外，RapidView希望Android开发者能够以更快的速度开发产品功能需求，因此我们在语法和开发方式上做了一些改变，期望开发者能够实现：小功能极速开发、大功能极速上线。
+RapidView希望为开发者带来更小的安装包增量以及更加简单、易于维护和修改的组件库，RapidView的代码组件约180KB(30KB组件+150KB luaj)。
+https://github.com/mengyou658/RapidView
 1. 
 ### 工具
 1. 

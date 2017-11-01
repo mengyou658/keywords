@@ -56,7 +56,8 @@ https://github.com/mengyou658/wtfpython
 https://github.com/mengyou658/imooc-django
 1. xadmin
 https://github.com/mengyou658/xadmin
-1. 
+1. oauth2
+https://github.com/evonove/django-oauth-toolkit
 1. 
 ### 实用 库/模块/框架
 1. xadmin

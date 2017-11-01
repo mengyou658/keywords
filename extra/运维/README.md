@@ -25,6 +25,8 @@ https://github.com/mengyou658/ansible
 https://github.com/ansible/awx
 # 开源线上部署工具
 1. jenkins jenkins.io
+1. 一个现代的自动 App 部署与 Web server 管理器 Docker+nginx+LetsEncrypt+NetData
+https://github.com/mengyou658/captainduckduck
 1. Walle web上线部署系统工具
 https://github.com/mengyou658/walle-web
 # 压力测试

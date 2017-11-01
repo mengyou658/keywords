@@ -9,6 +9,18 @@
 *  https://github.com/spring-guides/tut-spring-boot-oauth2.git 
 *  https://github.com/making/oauth2-sso-demo.git 
 *  https://github.com/spring-guides/tut-spring-security-and-angular-js.git
+1. client 
+* https://github.com/mengyou658/scribejava
+1. node
+* https://github.com/jaredhanson/oauth2orize.git
+* https://github.com/auth0/node-jsonwebtoken
+* https://github.com/oauthjs/node-oauth2-server
+* https://github.com/mengyou658/MyOIDC.git
+* A boilerplate for Node.js web applications. (一个样板项目) 
+https://github.com/sahat/hackathon-starter.git
+1. python django
+* https://github.com/evonove/django-oauth-toolkit
+
 ###### go实现
 1. https://github.com/ory/hydra
 
@@ -87,6 +99,8 @@ https://github.com/mengyou658/easy-mock
 https://github.com/GoogleChrome/puppeteer
 1. A dockerized, headless Chrome rendering solution
 https://github.com/mengyou658/rendertron
+2. 快速生成mysql-rest-api 快速为 Rails，django 等不遵循惯例的框架生成 MySql 数据库 REST API 返回json
+https://github.com/mengyou658/xmysql
 # 压力测试
 1. tcpcopy是一种应用请求复制（基于tcp的packets）工具，其应用领域较广，目前已经应用于国内各大互联网公司,tcpcopy主要有如下功能： 1）分布式压力测试工具，利用在线数据，可以测试系统能够承受的压力大小（远比ab压力测试工具真实地多）,也可以提前发现一些bug 2）普通上线测试，可以发现新系统是否稳定，提前发现上线过程中会出现的诸多问题，让开发者有信心上线 3）对比试验，同样请求，针对不同或不同版本程序，可以做性能对比等试验 4）利用多种手段，构造无限在线压力，满足中小网站压力测试要求 5）实战演习（架构师必备）
 https://github.com/mengyou658/tcpcopy
@@ -96,6 +110,8 @@ https://github.com/mengyou658/tcpcopy
 https://github.com/mengyou658/lib-flexible
 
 # admin / 快速开发 方案
+1. ant-design-pro开箱即用的中台前端/设计解决方案
+https://github.com/mengyou658/ant-design-pro
 1. 直接挑选看中的模板，下载代码即可使用
 * https://github.com/mengyou658/design-blocks
 1. xadmin （django bootstrap）
@@ -116,6 +132,9 @@ https://github.com/thinkgem/jeesite
 https://github.com/mengyou658/jeecg
 1. the JavaScript App Platform （web应用框架）
 https://github.com/mengyou658/meteor
+1. 权限管理
+https://github.com/mengyou658/cl-privilege.git
+
 
 # nginx
 ##### nginx monitor （nginx 监控）
@@ -149,7 +168,10 @@ https://github.com/mengyou658/aurora-imui
 https://github.com/mengyou658/react-native-wechat
 1. 高仿QQ
 https://github.com/mengyou658/QQ
-
+1. 迷你版本 聊天客户端
+https://github.com/mengyou658/client·
+1. 阿里百川，即时通讯，免费聊天
+http://baichuan.taobao.com/
 # 唯一ID生成 方案
 1. A tiny, secure URL-friendly unique string ID generator for JavaScript (js唯一ID生成器)
 https://github.com/mengyou658/nanoid
