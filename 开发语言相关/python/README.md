@@ -62,6 +62,8 @@ https://github.com/evonove/django-oauth-toolkit
 ### 实用 库/模块/框架
 1. xadmin
 https://github.com/mengyou658/xadmin
+1. Natural Language Processing (NLP) with Python and Cython / python 自然语言处理工具包 
+https://github.com/mengyou658/spaCy
 1. 
 ### 完整项目/示例/demo/代码片段
 1. 

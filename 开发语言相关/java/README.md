@@ -6,7 +6,12 @@ https://github.com/jobbole/awesome-java-cn
 ### 教程/文章/小抄/规范/记事
 1. Design patterns implemented in Java （设计模式java版本）
 https://github.com/iluwatar/java-design-patterns
-1. 
+1. java 入门
+https://github.com/zhanglei-workspace/shopping-management-system
+1. java 入门
+https://github.com/brianway/java-learning
+1. java learn
+https://github.com/francistao/LearningNotes
 1. 
 ### 实用 库/模块/框架
 1. The simplest, fastest way to get business intelligence and analytics to everyone in your company
