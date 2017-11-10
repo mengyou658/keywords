@@ -63,12 +63,20 @@ https://github.com/mengyou658/bubbly-bg
 https://github.com/mengyou658/st.js
 1.HTML5 FLV Player html5播放js库
 https://github.com/mengyou658/flv.js
+1.html5 h5 播放器，它支持 mp4、m3u8、flv 等多种格式
+https://github.com/mengyou658/chimee
 1. amfe-flexible  可伸缩布局方案
 https://github.com/mengyou658/lib-flexible
 1. Tree editor for writers (页面树状编辑器，为写文章的人准备的)
 https://github.com/mengyou658/nulis
 1. 支持请求重定向的轻量级、跨平台Javascript http网络库
 https://github.com/wendux/fly
+1.  socket io client (web socket client)
+https://github.com/socketio/socket.io-client
+1. RSA/RSAPSS/ECDSA/DSA signing/validation, ASN.1, PKCS#1/5/8 private/public key, X.509 certificate, CRL, OCSP, CMS SignedData, TimeStamp, CAdES JSON Web Signature/Token in pure JavaScript Encryption, Decryption,
+https://github.com/mengyou658/jsrsasign
+1. Detect element visibility in the browser , 滑动展示， 页面元素是否在屏幕中可见，用来做懒加载
+https://github.com/mengyou658/emergence.js
 #####admin
 1. vue iview-admin
 * https://github.com/mengyou658/iview-admin
@@ -116,6 +124,8 @@ https://github.com/JetBrains/ring-ui
 https://github.com/mengyou658/layui
 1. vue iview-admin
 * https://github.com/mengyou658/iview-admin
+1. mobile ui lib implement by Vue 
+https://github.com/mengyou658/cube-ui
 ### 可伸缩布局方案
 1. amfe-flexible 
 https://github.com/mengyou658/lib-flexible

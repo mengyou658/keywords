@@ -20,4 +20,8 @@ https://github.com/mengyou658/ant-design-pro
 1. vue iview-admin
 * https://github.com/mengyou658/iview-admin
 
+# 计算机 论文 Papers We Love (PWL) is a community built around reading, discussing and learning more about academic computer science papers
+https://github.com/mengyou658/papers-we-love
 
+# 函数式编程术语
+https://github.com/shfshanyue/fp-jargon-zh

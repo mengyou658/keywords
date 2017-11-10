@@ -3,8 +3,10 @@
 1. 
 1. 
 ### 教程/文章/小抄/规范/记事
-1. Node.js 实践教程
+1. practices Node.js 实践教程
 https://github.com/ElemeFE/node-practice
+1.The largest Node.JS best practices list. Node.js 实践教程
+https://github.com/mengyou658/nodebestpractices
 1. node-js 面试
 https://github.com/mengyou658/node-interview
 1. 
