@@ -33,6 +33,8 @@ https://github.com/mengyou658/brpc
 #实时交易推送
 1. A high performance and real time quotation push trade engine.（一种高性能实时报价推送交易引擎）
 https://github.com/mengyou658/viabtc_exchange_server
+1. 低延迟交易执行系统 
+https://github.com/mengyou658/kungfu
 1. A fast,scalable,distributed game server framework for Node.js. Pomelo 是基于 Node.js的高性能、分布式游戏服务器框架。它包括基础的开发框架和相关的扩展组件（库和工具包），可以帮助你省去游戏开发枯燥中的重复劳动和底层逻辑的开发。Pomelo 不但适用于游戏服务器开发，也可用于开发高实时Web应用，它的分布式架构可以使 Pomelo 比普通的实时 Web 框架扩展性更好。
 https://github.com/mengyou658/pomelo
 1. 
@@ -44,6 +46,8 @@ https://github.com/mengyou658/pomelo
 https://github.com/ncase/trust
 1. Tetris in 512b 俄罗斯方块
 https://github.com/mengyou658/mini-tetris
+1. A curated list of awesome Game Boy (Color) Development resources, tools, docs, related projects and open-source ROMs. Inspired by the awesome list thing. 任天堂游戏开发工具，文档，相关项目，开源ROMS
+https://github.com/mengyou658/awesome-gbdev
 1. 
 
 #自动化的SQL解决方案
@@ -78,6 +82,8 @@ https://github.com/mengyou658/lua-nginx-module
 # 微服务
 1. Microservices from Design to Deployment 中文版 — 《微服务：从设计到部署》
 https://github.com/mengyou658/microservices-from-design-to-deployment-chinese
+1. 微服务App案例 示例 实例
+https://github.com/mengyou658/microservice-app-example
 # 地图，geolocation 
 1. 位置计算
 https://github.com/mengyou658/tile38
@@ -109,6 +115,9 @@ https://github.com/mengyou658/tcpcopy
 https://github.com/mengyou658/vConsole
 1. 配合vconsole使用
 https://github.com/AlloyTeam/AlloyLever
+1. json server Get a full fake REST API with zero coding in less than 30 seconds
+https://github.com/mengyou658/json-server
+
 
 #可伸缩布局方案
 1. amfe-flexible 
@@ -210,3 +219,12 @@ https://github.com/mengyou658/RNPolymerPo
 https://github.com/mengyou658/apollo-client
 1. GraphQL server
 https://github.com/mengyou658/framework-1
+
+
+
+# 逆向工程 反编译  
+1. List of awesome reverse engineering resources
+https://github.com/mengyou658/reverse-engineering
+1. 
+
+

@@ -108,6 +108,9 @@ https://github.com/mengyou658/easy-mock
 https://github.com/mengyou658/vConsole
 1. 配合vconsole使用
 https://github.com/AlloyTeam/AlloyLever
+1. json server Get a full fake REST API with zero coding in less than 30 seconds, 快速生成测试服务
+https://github.com/mengyou658/json-server
+
 ##### 用于自动化测试和不需要可视化用户界面的服务器
 1. Headless Chrome Node API （）
 https://github.com/GoogleChrome/puppeteer
@@ -134,4 +137,6 @@ https://github.com/mengyou658/lib-flexible
 ### 工具
 1. jwt解析工具
 https://github.com/mengyou658/jwt-decode
+1. 前端业务代码工具库
+https://github.com/mengyou658/outils
 1. 

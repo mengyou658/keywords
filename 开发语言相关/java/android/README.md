@@ -28,6 +28,8 @@ https://github.com/mengyou658/MagicaSakura
 https://github.com/mengyou658/DanmakuFlameMaster
 1.Android/iOS video player based on FFmpeg n3.3, with MediaCodec, VideoToolbox support.  手机端视频播放组件
 https://github.com/mengyou658/ijkplayer
+1. 日历库
+https://github.com/mengyou658/CalendarView
 ### AR
 1. Google ARCore SDK for Android （google AR 库）
 https://github.com/google-ar/arcore-android-sdk

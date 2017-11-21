@@ -10,6 +10,8 @@
 https://github.com/jaredpalmer/formik
 1. 类似 react+redux框架，不过更轻量级
 https://github.com/mengyou658/innerself
+1. react ar 增强实现
+https://github.com/mengyou658/React-AR
 1. 
 ### 完整项目/示例/demo/代码片段
 1. 

@@ -5,7 +5,7 @@
 ### 教程/文章/小抄/规范/记事
 1. practices Node.js 实践教程
 https://github.com/ElemeFE/node-practice
-1.The largest Node.JS best practices list. Node.js 实践教程
+1.The largest Node.JS best practices list. Node.js 实践教程 最佳实践
 https://github.com/mengyou658/nodebestpractices
 1. node-js 面试
 https://github.com/mengyou658/node-interview
@@ -30,6 +30,8 @@ https://github.com/mengyou658/framework
 https://github.com/adonisjs/adonis-framework
 1. A boilerplate for Node.js web applications. (一个样板项目) 
 https://github.com/sahat/hackathon-starter.git
+1. json server Get a full fake REST API with zero coding in less than 30 seconds
+https://github.com/mengyou658/json-server
 1. 
 ### 完整项目/示例/demo/代码片段
 1. 
@@ -41,5 +43,7 @@ https://github.com/sahat/hackathon-starter.git
 1. 
 1. 
 ### 工具
+1. Remove unnecessary files from node_modules ， 删除node_modules中多余的文件
+https://github.com/mengyou658/node-prune
 1. 
 1. 
