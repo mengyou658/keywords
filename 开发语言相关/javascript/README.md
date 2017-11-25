@@ -77,6 +77,10 @@ https://github.com/socketio/socket.io-client
 https://github.com/mengyou658/jsrsasign
 1. Detect element visibility in the browser , 滑动展示， 页面元素是否在屏幕中可见，用来做懒加载
 https://github.com/mengyou658/emergence.js
+1. scrollama: 为 Scrollytelling 开发的现代、轻量级的 JavaScript 库  Scrollama is a modern & lightweight JavaScript library for scrollytelling using IntersectionObserver in favor of scroll events.
+https://github.com/mengyou658/scrollama
+1. Modern JavaScript date utility library , 含有与 moment.js 的对比, 可以考虑替换moment
+https://github.com/mengyou658/date-fns
 #####admin
 1. vue iview-admin
 * https://github.com/mengyou658/iview-admin
@@ -99,6 +103,8 @@ https://github.com/mengyou658/style2paints
 https://github.com/ncase/trust
 1. Tetris in 512b 俄罗斯方块
 https://github.com/mengyou658/mini-tetris
+1. Hilo，一套HTML5跨终端的互动游戏解决方案。Hilo支持了多届淘宝&天猫狂欢城等双十一大型和日常营销活动。内核极简，提供包括DOM，Canvas，Flash，WebGL等多种渲染方案，满足全终端和性能要求。支持多种模块范式的包装版本以及开放的扩展方式，方便接入和扩展。提供对2D物理，骨骼动画的内建和扩展支持。另外，Hilo提供丰富的周边工具及开发案例。
+https://github.com/mengyou658/Hilo
 1. 
 1. 
 ### 测试
@@ -139,4 +145,8 @@ https://github.com/mengyou658/lib-flexible
 https://github.com/mengyou658/jwt-decode
 1. 前端业务代码工具库
 https://github.com/mengyou658/outils
+1. G2 是一套基于可视化编码的图形语法，以数据驱动，具有高度的易用性和扩展性，用户无需关注各种繁琐的实现细节，一条语句即可构建出各种各样的可交互的统计图表。足你无限的创意
+https://github.com/mengyou658/g2
+1. 文档工具 linux中的man工具
+https://github.com/mengyou658/tldr
 1. 

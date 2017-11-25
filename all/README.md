@@ -61,6 +61,8 @@ https://github.com/hoosin/mobile-web-favorites
 https://github.com/mengyou658/Mars-1
 1. 列表
 https://github.com/mengyou658/awesome
+1. 天猫前端 知识分享
+https://github.com/mengyou658/tmallfe.github.io
 #######规范
 1. 阿里云java代码规范
 https://github.com/alibaba/p3c
@@ -77,3 +79,6 @@ https://github.com/kristate/krackinfo
 
 # cheatsheet 备忘录
 https://github.com/mengyou658/cheatsheets
+
+# An instant JSON API for your SQLite databases (将 sqlite 数据暴露成一个只读的json-api)
+https://github.com/mengyou658/datasette

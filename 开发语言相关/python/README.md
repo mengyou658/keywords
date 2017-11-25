@@ -79,5 +79,6 @@ https://github.com/mengyou658/kungfu
 ### 工具
 1. A modern project, package, and virtual env manager for Python （python 开发环境工具，快速创建项目，管理虚拟环境）
 https://github.com/ofek/hatch
-1. 
+1. An instant JSON API for your SQLite databases (将 sqlite 数据暴露成一个只读的json-api)
+https://github.com/mengyou658/datasette
 1. 

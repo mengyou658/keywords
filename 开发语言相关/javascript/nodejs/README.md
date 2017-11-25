@@ -34,7 +34,10 @@ https://github.com/sahat/hackathon-starter.git
 https://github.com/mengyou658/json-server
 1. 
 ### 完整项目/示例/demo/代码片段
-1. 
+1. NideShop：基于Node.js+MySQL开发的开源免费商城（微信小程序商城端）
+https://github.com/mengyou658/nideshop-mini-program
+1. NideShop：基于Node.js+MySQL开发的开源免费商城（api服务器端）
+https://github.com/mengyou658/nideshop
 1. 
 ### 测试
 1. 

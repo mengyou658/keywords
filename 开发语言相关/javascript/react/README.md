@@ -3,6 +3,8 @@
 1. 
 1. 
 ### 教程/文章/小抄/规范/记事
+1. 一个 react + redux 的完整项目 和 个人总结
+https://github.com/mengyou658/react-pxq
 1. 
 1. 
 ### 实用 库/模块/框架
@@ -12,8 +14,15 @@ https://github.com/jaredpalmer/formik
 https://github.com/mengyou658/innerself
 1. react ar 增强实现
 https://github.com/mengyou658/React-AR
+1. chart react 
+https://github.com/mengyou658/react-chartkick
+1. 一个react+redux+webpack+ES6+antd的SPA的后台管理底层框架 react + redux + react-router + webpack + ES6/7 + fetch + less
+https://github.com/mengyou658/react-1
+1. 
 1. 
 ### 完整项目/示例/demo/代码片段
+1. 一个 react + redux 的完整项目 和 个人总结
+https://github.com/mengyou658/react-pxq
 1. 
 1. 
 ### 测试

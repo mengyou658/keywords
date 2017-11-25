@@ -48,6 +48,8 @@ https://github.com/ncase/trust
 https://github.com/mengyou658/mini-tetris
 1. A curated list of awesome Game Boy (Color) Development resources, tools, docs, related projects and open-source ROMs. Inspired by the awesome list thing. 任天堂游戏开发工具，文档，相关项目，开源ROMS
 https://github.com/mengyou658/awesome-gbdev
+1. Hilo，一套HTML5跨终端的互动游戏解决方案。Hilo支持了多届淘宝&天猫狂欢城等双十一大型和日常营销活动。内核极简，提供包括DOM，Canvas，Flash，WebGL等多种渲染方案，满足全终端和性能要求。支持多种模块范式的包装版本以及开放的扩展方式，方便接入和扩展。提供对2D物理，骨骼动画的内建和扩展支持。另外，Hilo提供丰富的周边工具及开发案例。
+https://github.com/mengyou658/Hilo
 1. 
 
 #自动化的SQL解决方案
@@ -89,6 +91,8 @@ https://github.com/mengyou658/microservice-app-example
 https://github.com/mengyou658/tile38
 1. 把地图导入到unity4中
 https://github.com/mengyou658/StreetMap
+1. High Quality GeoJSON maps programmatically generated.
+https://github.com/mengyou658/geo-maps
 
 #接口管理
 1.RAP Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理
@@ -228,3 +232,17 @@ https://github.com/mengyou658/reverse-engineering
 1. 
 
 
+# 快速设计工具
+1. G2 是一套基于可视化编码的图形语法，以数据驱动，具有高度的易用性和扩展性，用户无需关注各种繁琐的实现细节，一条语句即可构建出各种各样的可交互的统计图表。足你无限的创意
+https://github.com/mengyou658/g2
+
+
+# 监控自己的电脑
+1. Log what you do on your computer. Simple (yet powerful), extensible, no third parties. 
+https://github.com/mengyou658/activitywatch
+
+# 英语语法自动校正Chrome插件
+https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=zh-CN
+
+# 浏览器兼容性报告 This repository contains compatibility data for Web technologies 
+https://github.com/mdn/browser-compat-data
