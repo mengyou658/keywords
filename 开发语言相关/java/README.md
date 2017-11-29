@@ -34,6 +34,8 @@ https://github.com/mengyou658/hsweb-framework
 https://github.com/thinkgem/jeesite
 1. JEECG 基于代码生成器的智能开发平台
 https://github.com/mengyou658/jeecg
+1. Software and Skills for Personal Assistants using SUSI AI / Artificial Intelligence for Chat Bots （AI 聊天机器人）
+https://github.com/mengyou658/susi_server
 1. 
 1. 
 ### 测试

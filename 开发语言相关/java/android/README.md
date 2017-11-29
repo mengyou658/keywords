@@ -30,6 +30,10 @@ https://github.com/mengyou658/DanmakuFlameMaster
 https://github.com/mengyou658/ijkplayer
 1. 日历库
 https://github.com/mengyou658/CalendarView
+1. A powerful Android chart view / graph view library Android 图表库
+https://github.com/mengyou658/MPAndroidChart
+1. Project vlayout is a powerfull LayoutManager extension for RecyclerView, it provides a group of layouts for RecyclerView. Make it able to handle a complicate situation when grid, list and other layouts in the same recyclerview. VirtualLayout是一个针对RecyclerView的LayoutManager扩展, 主要提供一整套布局方案和布局间的组件复用的问题。
+https://github.com/mengyou658/vlayout
 ### AR
 1. Google ARCore SDK for Android （google AR 库）
 https://github.com/google-ar/arcore-android-sdk
@@ -67,11 +71,14 @@ RapidView希望为开发者带来更小的安装包增量以及更加简单、�
 https://github.com/mengyou658/RapidView
 1. 
 ### 工具
-1. 
+1. Android开发人员不得不收集的代码 一个强大易用的安卓工具类库
+https://github.com/mengyou658/AndroidUtilCode
 1. 
 ### 快速开发模板项目
 1. A common Architecture for Android Applications developing based on MVP，integrates many Open Source Projects( like Dagger2,RxJava,Retrofit... ),to make your developing quicker and easier. 一个整合了大量主流开源项目高度可配置化的 Android MVP 快速集成框架
 https://github.com/mengyou658/MVPArms
 1. 终极组件化框架项目方案 该项目目前集成现在主流的开发框架和技术，包括okhttp3、rxjava2、retrofit2、glide、greendao3.0、dagger2、mvp、md风格、热修复tinker,bugly和组件化等。 采用组件化开发框架，可以使模块单独编译调试，可以有效地减少编译的时间，更好地进行并发开发，从而极大的提高了并行开发效率。
 https://github.com/mengyou658/NewFastFrame
+1. Multi-project Clean Architecture MVP app using Conductor, Room, RxJava 2, Dagger 2 with custom scopes
+https://github.com/mengyou658/ConductorMVP
 1. 

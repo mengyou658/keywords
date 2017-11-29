@@ -270,8 +270,22 @@ https://github.com/mdn/browser-compat-data
 https://github.com/mengyou658/gotty
 
 
-### 快速开发模板项目
+# 快速开发模板项目
 1. A common Architecture for Android Applications developing based on MVP，integrates many Open Source Projects( like Dagger2,RxJava,Retrofit... ),to make your developing quicker and easier. 一个整合了大量主流开源项目高度可配置化的 Android MVP 快速集成框架
 https://github.com/mengyou658/MVPArms
 1. 终极组件化框架项目方案 该项目目前集成现在主流的开发框架和技术，包括okhttp3、rxjava2、retrofit2、glide、greendao3.0、dagger2、mvp、md风格、热修复tinker,bugly和组件化等。 采用组件化开发框架，可以使模块单独编译调试，可以有效地减少编译的时间，更好地进行并发开发，从而极大的提高了并行开发效率。
 https://github.com/mengyou658/NewFastFrame
+1. Multi-project Clean Architecture MVP app using Conductor, Room, RxJava 2, Dagger 2 with custom scopes
+https://github.com/mengyou658/ConductorMVP
+
+# kotlin 开发
+1. Anko is a Kotlin library which makes Android application development faster and easier. kotlin 开发库
+https://github.com/mengyou658/anko
+1. Flexbox for Android. FlexboxLayout 是 Android 上实现了类似 CSS Flexible Box Layout Module 效果的界面排版。
+https://github.com/mengyou658/flexbox-layout
+1. RxJava bindings for Kotlin RxKotlin is a lightweight library that adds convenient extension functions to RxJava. 在kotlin中使用rxjava
+https://github.com/mengyou658/RxKotlin
+1. Free and open source manga reader for Android 开源漫画阅读器
+https://github.com/mengyou658/tachiyomi
+1. kotlin 学习
+https://github.com/mengyou658/kotlin
