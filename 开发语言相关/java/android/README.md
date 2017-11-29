@@ -37,8 +37,24 @@ https://github.com/google-ar/arcore-android-sdk
 ### 完整项目/示例/demo/代码片段
 1.  网易云音乐
 https://github.com/mengyou658/NeteaseCloudMusic
-1. 
-1. 
+1. Elephant is PHPHub Community Android unofficial client, base on Material Design + MVP+RxJava+Retrofit .
+https://github.com/mengyou658/Elephant
+1. A common Architecture for Android Applications developing based on MVP，integrates many Open Source Projects( like Dagger2,RxJava,Retrofit... ),to make your developing quicker and easier. 一个整合了大量主流开源项目高度可配置化的 Android MVP 快速集成框架
+https://github.com/mengyou658/MVPArms
+1.高仿全民直播（全民TV），项目采用 MVP + RXJava + Retrofit + OKHttp + Material Design + Dagger2 + Base + Glide + GreenDao构建。
+https://github.com/mengyou658/KingTV 
+1. 一款优雅的遵循 Material Design 的开源音乐播放器，UI参考 腾讯轻听 音乐播放器,使用 Lastfm Api 与 酷狗歌词Api。项目架构采用 mvp-clean，基于 Retrofit2 + Dagger2 + Rxjava + RxBus + Glide。
+https://github.com/mengyou658/ListenerMusicPlayer
+1. 仿网易云音乐 安卓版，netease android，音乐播放器 在线 下载
+https://github.com/mengyou658/remusic1. 
+1. 练习MVP架构开发的App
+https://github.com/mengyou658/MvpApp
+1.云阅：一款基于网易云音乐UI，使用Gank.Io及豆瓣api开发的符合Google Material Design的Android客户端。项目采取的是MVVM-DataBinding架构开发，现主要包括：干货区、电影区和书籍区三个子模块。DIY网易云音乐原来是如此Cool~
+https://github.com/mengyou658/CloudReader
+1. 终极组件化框架项目方案 该项目目前集成现在主流的开发框架和技术，包括okhttp3、rxjava2、retrofit2、glide、greendao3.0、dagger2、mvp、md风格、热修复tinker,bugly和组件化等。 采用组件化开发框架，可以使模块单独编译调试，可以有效地减少编译的时间，更好地进行并发开发，从而极大的提高了并行开发效率。
+https://github.com/mengyou658/NewFastFrame
+1.
+1.
 ### 测试
 1. 
 1. 
@@ -52,4 +68,10 @@ https://github.com/mengyou658/RapidView
 1. 
 ### 工具
 1. 
+1. 
+### 快速开发模板项目
+1. A common Architecture for Android Applications developing based on MVP，integrates many Open Source Projects( like Dagger2,RxJava,Retrofit... ),to make your developing quicker and easier. 一个整合了大量主流开源项目高度可配置化的 Android MVP 快速集成框架
+https://github.com/mengyou658/MVPArms
+1. 终极组件化框架项目方案 该项目目前集成现在主流的开发框架和技术，包括okhttp3、rxjava2、retrofit2、glide、greendao3.0、dagger2、mvp、md风格、热修复tinker,bugly和组件化等。 采用组件化开发框架，可以使模块单独编译调试，可以有效地减少编译的时间，更好地进行并发开发，从而极大的提高了并行开发效率。
+https://github.com/mengyou658/NewFastFrame
 1. 

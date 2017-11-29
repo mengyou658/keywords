@@ -50,6 +50,14 @@ https://github.com/mengyou658/mini-tetris
 https://github.com/mengyou658/awesome-gbdev
 1. Hilo，一套HTML5跨终端的互动游戏解决方案。Hilo支持了多届淘宝&天猫狂欢城等双十一大型和日常营销活动。内核极简，提供包括DOM，Canvas，Flash，WebGL等多种渲染方案，满足全终端和性能要求。支持多种模块范式的包装版本以及开放的扩展方式，方便接入和扩展。提供对2D物理，骨骼动画的内建和扩展支持。另外，Hilo提供丰富的周边工具及开发案例。
 https://github.com/mengyou658/Hilo
+1. A fast, customizable and compatible open source server for Minecraft: Java Edition 游戏：我的世界，Java版本服务器
+https://github.com/mengyou658/Glowstone
+1. 
+
+# 游戏前端 游戏H5 
+1. A+ animation module for the modern web Animate Plus is a JavaScript animation library focusing on performance and authoring flexibility. It aims to deliver a steady 60 FPS and weighs less than 2 KB (minified and gzipped), making it particularly well-suited for mobile. （小体积，专注于游戏的动画）
+https://github.com/mengyou658/animateplus
+1. 
 1. 
 
 #自动化的SQL解决方案
@@ -60,6 +68,8 @@ https://github.com/mengyou658/Hilo
 1. https://github.com/mengyou658/SmarterStreaming
 1. NGINX-based Media Streaming Server http://nginx-rtmp.blogspot.com
 https://github.com/mengyou658/nginx-rtmp-module
+1.高仿全民直播（全民TV），项目采用 MVP + RXJava + Retrofit + OKHttp + Material Design + Dagger2 + Base + Glide + GreenDao构建。
+https://github.com/mengyou658/KingTV 
 
 #安全相关、性能相关
 1.Security Guide for Developers (实用性开发人员安全须知) https://git.io/security
@@ -111,6 +121,13 @@ https://github.com/GoogleChrome/puppeteer
 https://github.com/mengyou658/rendertron
 2. 快速生成mysql-rest-api 快速为 Rails，django 等不遵循惯例的框架生成 MySql 数据库 REST API 返回json
 https://github.com/mengyou658/xmysql
+##### 用于自动化测试和不需要可视化用户界面的服务器
+1. Headless Chrome Node API （）
+https://github.com/GoogleChrome/puppeteer
+1. A dockerized, headless Chrome rendering solution
+https://github.com/mengyou658/rendertron
+1. Integration layer between Requests and Selenium for automation of web actions Requestium is a python library that merges the power of Requests, Selenium, and Parsel into a single integrated tool for automatizing web actions. Requestium是一个Python库，它将Requests，Selenium和Parsel的功能合并为一个集成的工具，用于自动化Web操作。
+https://github.com/mengyou658/requestium
 # 压力测试
 1. tcpcopy是一种应用请求复制（基于tcp的packets）工具，其应用领域较广，目前已经应用于国内各大互联网公司,tcpcopy主要有如下功能： 1）分布式压力测试工具，利用在线数据，可以测试系统能够承受的压力大小（远比ab压力测试工具真实地多）,也可以提前发现一些bug 2）普通上线测试，可以发现新系统是否稳定，提前发现上线过程中会出现的诸多问题，让开发者有信心上线 3）对比试验，同样请求，针对不同或不同版本程序，可以做性能对比等试验 4）利用多种手段，构造无限在线压力，满足中小网站压力测试要求 5）实战演习（架构师必备）
 https://github.com/mengyou658/tcpcopy
@@ -212,6 +229,8 @@ https://github.com/mengyou658/ERP
 # Android IOS 手机端开发 react-native react native
 1. 现成项目
 https://github.com/mengyou658/RNPolymerPo
+1.A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, images, and other artifacts. 将数据定义转化为多平台的代码等等
+https://github.com/mengyou658/Lona
 
 
 # 免费 api 列表
@@ -246,3 +265,13 @@ https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakk
 
 # 浏览器兼容性报告 This repository contains compatibility data for Web technologies 
 https://github.com/mdn/browser-compat-data
+
+# gotty: 将命令行工具转变成 Web 程序的工具 GoTTY is a simple command line tool that turns your CLI tools into web applications.
+https://github.com/mengyou658/gotty
+
+
+### 快速开发模板项目
+1. A common Architecture for Android Applications developing based on MVP，integrates many Open Source Projects( like Dagger2,RxJava,Retrofit... ),to make your developing quicker and easier. 一个整合了大量主流开源项目高度可配置化的 Android MVP 快速集成框架
+https://github.com/mengyou658/MVPArms
+1. 终极组件化框架项目方案 该项目目前集成现在主流的开发框架和技术，包括okhttp3、rxjava2、retrofit2、glide、greendao3.0、dagger2、mvp、md风格、热修复tinker,bugly和组件化等。 采用组件化开发框架，可以使模块单独编译调试，可以有效地减少编译的时间，更好地进行并发开发，从而极大的提高了并行开发效率。
+https://github.com/mengyou658/NewFastFrame

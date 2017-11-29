@@ -81,6 +81,10 @@ https://github.com/mengyou658/emergence.js
 https://github.com/mengyou658/scrollama
 1. Modern JavaScript date utility library , 含有与 moment.js 的对比, 可以考虑替换moment
 https://github.com/mengyou658/date-fns
+1. native pattern matching for javascript (模式匹配,match，解放if else)
+https://github.com/mengyou658/z
+1. emoji （表情符号）
+https://github.com/mengyou658/emoji-cheat-sheet.com
 #####admin
 1. vue iview-admin
 * https://github.com/mengyou658/iview-admin
@@ -105,7 +109,10 @@ https://github.com/ncase/trust
 https://github.com/mengyou658/mini-tetris
 1. Hilo，一套HTML5跨终端的互动游戏解决方案。Hilo支持了多届淘宝&天猫狂欢城等双十一大型和日常营销活动。内核极简，提供包括DOM，Canvas，Flash，WebGL等多种渲染方案，满足全终端和性能要求。支持多种模块范式的包装版本以及开放的扩展方式，方便接入和扩展。提供对2D物理，骨骼动画的内建和扩展支持。另外，Hilo提供丰富的周边工具及开发案例。
 https://github.com/mengyou658/Hilo
-1. 
+1.  小于20行代码的地形渲染 Terrain rendering in less than 20 lines of code
+https://github.com/mengyou658/VoxelSpace
+1. A+ animation module for the modern web Animate Plus is a JavaScript animation library focusing on performance and authoring flexibility. It aims to deliver a steady 60 FPS and weighs less than 2 KB (minified and gzipped), making it particularly well-suited for mobile. （小体积，专注于游戏的动画）
+https://github.com/mengyou658/animateplus
 1. 
 ### 测试
 1. 一个可视化, 并且能快速生成模拟数据的持久化服务
@@ -122,8 +129,8 @@ https://github.com/mengyou658/json-server
 https://github.com/GoogleChrome/puppeteer
 1. A dockerized, headless Chrome rendering solution
 https://github.com/mengyou658/rendertron
-1. emoji （表情符号）
-https://github.com/mengyou658/emoji-cheat-sheet.com
+1. Integration layer between Requests and Selenium for automation of web actions Requestium is a python library that merges the power of Requests, Selenium, and Parsel into a single integrated tool for automatizing web actions. Requestium是一个Python库，它将Requests，Selenium和Parsel的功能合并为一个集成的工具，用于自动化Web操作。
+https://github.com/mengyou658/requestium
 1. 
 1. 
 ### UI
@@ -149,4 +156,6 @@ https://github.com/mengyou658/outils
 https://github.com/mengyou658/g2
 1. 文档工具 linux中的man工具
 https://github.com/mengyou658/tldr
+1. Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.  统一的消息软件集合
+https://github.com/mengyou658/franz
 1. 

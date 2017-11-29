@@ -82,3 +82,24 @@ https://github.com/mengyou658/cheatsheets
 
 # An instant JSON API for your SQLite databases (将 sqlite 数据暴露成一个只读的json-api)
 https://github.com/mengyou658/datasette
+
+# Secure Socket Funneling - Network tool and toolkit - TCP and UDP port forwarding, SOCKS proxy, remote shell, standalone and cross platform 类似Shadowsocks的工具跨平台
+https://github.com/mengyou658/ssf
+
+# 英文字体，适合排版，写作用的字体
+https://github.com/mengyou658/iA-Fonts
+
+# svg icon 
+https://github.com/mengyou658/SuperTinyIcons
+
+#开源项目怎么挣钱
+https://github.com/mengyou658/lemonade-stand
+
+#浏览器
+1. nEXT is the fastest productivity browser. It is designed from the ground up to be customizable for your workflow. nEXT Browser is the infinitely EXTensible browser. 自带快捷，快捷提示的浏览器
+https://github.com/mengyou658/nEXT
+
+
+#游戏
+1. 3D using bitblting in Windows. 使用windows的接口开发游戏
+https://github.com/mengyou658/3D-Game-Programming

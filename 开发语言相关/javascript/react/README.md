@@ -18,6 +18,12 @@ https://github.com/mengyou658/React-AR
 https://github.com/mengyou658/react-chartkick
 1. 一个react+redux+webpack+ES6+antd的SPA的后台管理底层框架 react + redux + react-router + webpack + ES6/7 + fetch + less
 https://github.com/mengyou658/react-1
+1. Excel-like grid component for React with custom cell editors, performant scroll & resizable columns 
+https://github.com/mengyou658/react-spreadsheet-grid
+1. Browser API's turned into declarative React components and HoC's ， 对浏览器API的react封装
+https://github.com/mengyou658/react-fns
+1. High performance subscription-based form state management for React 
+https://github.com/mengyou658/react-final-form
 1. 
 1. 
 ### 完整项目/示例/demo/代码片段

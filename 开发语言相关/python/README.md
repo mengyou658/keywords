@@ -66,8 +66,14 @@ https://github.com/mengyou658/xadmin
 https://github.com/mengyou658/spaCy
 1. 低延迟交易执行系统 
 https://github.com/mengyou658/kungfu
+1. Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation （可以将表情等直接复制到相似的图像中，达到同步更改人物的影像）
+https://github.com/mengyou658/StarGAN
+1. 
+1. 
 1. 
 ### 完整项目/示例/demo/代码片段
+1. machine learning algorithm with pure python which let pramgramer learn easily; 机器学习算法代码库
+https://github.com/mengyou658/moodstyle
 1. 
 1. 
 ### 测试
@@ -81,4 +87,6 @@ https://github.com/mengyou658/kungfu
 https://github.com/ofek/hatch
 1. An instant JSON API for your SQLite databases (将 sqlite 数据暴露成一个只读的json-api)
 https://github.com/mengyou658/datasette
+1. Integration layer between Requests and Selenium for automation of web actions Requestium is a python library that merges the power of Requests, Selenium, and Parsel into a single integrated tool for automatizing web actions. Requestium是一个Python库，它将Requests，Selenium和Parsel的功能合并为一个集成的工具，用于自动化Web操作。
+https://github.com/mengyou658/requestium
 1. 
