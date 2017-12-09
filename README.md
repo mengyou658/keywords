@@ -25,3 +25,6 @@ https://github.com/mengyou658/papers-we-love
 
 # 函数式编程术语
 https://github.com/shfshanyue/fp-jargon-zh
+
+# LeetCode
+https://github.com/mengyou658/awesome-java-leetcode

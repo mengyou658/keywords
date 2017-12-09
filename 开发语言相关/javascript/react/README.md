@@ -48,4 +48,6 @@ https://github.com/mengyou658/webpackmonitor
 https://github.com/mengyou658/React-Sight
 1. Transform SVG into React components （SVG 转换 react组件）
 https://github.com/mengyou658/svgr
+1. 将react转换成静态网站 Blazing fast static site generator for React 
+https://github.com/mengyou658/gatsby
 1. 

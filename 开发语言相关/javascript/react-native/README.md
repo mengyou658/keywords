@@ -10,7 +10,8 @@
 https://github.com/expo/expo
 1. meteor （web app 开发框架）
 https://github.com/meteor-factory/awesome-react-native-meteor
-1. 
+1. Creating great Text Styles in React Native 用简单的方式创建友好的字体排版风格
+https://github.com/mengyou658/react-native-typography
 1. 
 ### 完整项目/示例/demo/代码片段
 1. meituan (美团app)

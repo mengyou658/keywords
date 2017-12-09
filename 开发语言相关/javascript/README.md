@@ -85,6 +85,8 @@ https://github.com/mengyou658/date-fns
 https://github.com/mengyou658/z
 1. emoji （表情符号）
 https://github.com/mengyou658/emoji-cheat-sheet.com
+1. lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser) 小型的json数据库
+https://github.com/mengyou658/lowdb
 #####admin
 1. vue iview-admin
 * https://github.com/mengyou658/iview-admin
@@ -102,6 +104,8 @@ https://github.com/mengyou658/AR.js
 https://github.com/thinkjs/thinkjs
 1.线稿自动上色的程序
 https://github.com/mengyou658/style2paints
+1. IOTA Wallet (物联网数字货币 钱包)
+https://github.com/mengyou658/wallet
 ##### game 游戏
 1. trust An interactive guide to the game theory of cooperation 游戏完整示例
 https://github.com/ncase/trust
@@ -145,9 +149,13 @@ https://github.com/mengyou658/cube-ui
 ### 可伸缩布局方案
 1. amfe-flexible 
 https://github.com/mengyou658/lib-flexible
+1. JS 布局引擎 响应式，可排序，可过滤和可拖动的网格布局  Responsive, sortable, filterable and draggable grid layouts
+https://github.com/mengyou658/muuri
 1. 
 1. 
 ### 工具
+1. webpack 的替代解决方案， 最佳的使用方式 ，编译更快
+https://github.com/mengyou658/parcel
 1. jwt解析工具
 https://github.com/mengyou658/jwt-decode
 1. 前端业务代码工具库
@@ -158,4 +166,38 @@ https://github.com/mengyou658/g2
 https://github.com/mengyou658/tldr
 1. Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.  统一的消息软件集合
 https://github.com/mengyou658/franz
+1. Insomnia is a cross-platform REST client, built on top of Electron. 可以替代SoapUI和POSTman
+https://github.com/mengyou658/insomnia
 1. 
+1. 
+
+
+#代码生成脚手架cli工具
+1. The hottest CLI for React Native, boilerplates, plugins, generators, and more! 
+https://github.com/mengyou658/ignite
+1. An opinionated CLI for building redux/react apps quicker blueprint 
+https://github.com/mengyou658/redux-cli
+1. A simple CLI for Ant Design Pro projects.
+https://github.com/ant-design/ant-design-pro-cli
+1. yeoman generator yo 
+https://github.com/yeoman/generator-generator
+
+
+#babel
+1. babel-polyfill
+```
+// If you would like to use async/await in browsers that don't support it natively, remember to include babel-polyfill in your app or babel-runtime + babel-plugin-transform-runtime in libraries).
+import "babel-polyfill";
+import "./app";
+// Read the docs on babel-polyfill (http://babeljs.io/docs/usage/polyfill) and babel-runtime (http://babeljs.io/docs/plugins/transform-runtime).
+```
+
+#办公 代办事项
+1. a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS 一个笔记和待办事项的应用程序与同步功能的Windows，MacOS，Linux，Android和iOS （类似滴答清单，有道云笔记，）
+https://github.com/mengyou658/joplin
+
+#桌面应用工具
+1. A desktop application for creating invoices with beautiful and customizable templates.
+https://github.com/mengyou658/Manta 
+1. electron
+https://github.com/electron/electron
