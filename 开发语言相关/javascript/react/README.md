@@ -50,4 +50,6 @@ https://github.com/mengyou658/React-Sight
 https://github.com/mengyou658/svgr
 1. 将react转换成静态网站 Blazing fast static site generator for React 
 https://github.com/mengyou658/gatsby
+1. A CLI React performance optimization tool that identifies potential unnecessary re-rendering 检测react中的重复渲染问题
+https://github.com/mengyou658/reactopt
 1. 

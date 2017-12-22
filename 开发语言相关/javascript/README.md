@@ -26,7 +26,8 @@ https://github.com/mengyou658/every-programmer-should-know
 https://github.com/iliakan/javascript-tutorial-en
 1. js 小抄
 https://github.com/mbeaudru/modern-js-cheatsheet#notions
-1. 
+1.  js 代码 片段 code
+https://github.com/mengyou658/30-seconds-of-code
 1. 
 ### 实用 库/模块/框架
 1. search JavaScript （js中搜索）
@@ -156,6 +157,12 @@ https://github.com/mengyou658/muuri
 ### 工具
 1. webpack 的替代解决方案， 最佳的使用方式 ，编译更快
 https://github.com/mengyou658/parcel
+1. 类似create-react-app的工具，对webpack的封装，无需多余的配置
+https://github.com/mengyou658/poi
+1. 类似create-react-app的工具，对webpack的封装，无需多余的配置 国产
+https://github.com/mengyou658/roadhog
+1. Zero-configuration bundler for tiny modules. 小型打包工具
+https://github.com/mengyou658/microbundle
 1. jwt解析工具
 https://github.com/mengyou658/jwt-decode
 1. 前端业务代码工具库
@@ -164,7 +171,7 @@ https://github.com/mengyou658/outils
 https://github.com/mengyou658/g2
 1. 文档工具 linux中的man工具
 https://github.com/mengyou658/tldr
-1. Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.  统一的消息软件集合
+1. Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.  统一的消息收发软件集合
 https://github.com/mengyou658/franz
 1. Insomnia is a cross-platform REST client, built on top of Electron. 可以替代SoapUI和POSTman
 https://github.com/mengyou658/insomnia
