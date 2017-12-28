@@ -4,7 +4,7 @@
 # 最近尝试
 ### kotlin
 ### 机器学习入门示例 https://github.com/aymericdamien/TensorFlow-Examples
-
+### https://github.com/mengyou658/every-programmer-should-know
 # 大公司团队开源项目
 https://github.com/niezhiyang/open_source_team
 

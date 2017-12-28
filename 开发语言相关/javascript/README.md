@@ -108,6 +108,8 @@ https://github.com/mengyou658/style2paints
 1. IOTA Wallet (物联网数字货币 钱包)
 https://github.com/mengyou658/wallet
 ##### game 游戏
+1. State management and more for turn based games. 游戏框架 回合制游戏
+https://github.com/mengyou658/boardgame.io
 1. trust An interactive guide to the game theory of cooperation 游戏完整示例
 https://github.com/ncase/trust
 1. Tetris in 512b 俄罗斯方块
@@ -175,7 +177,14 @@ https://github.com/mengyou658/tldr
 https://github.com/mengyou658/franz
 1. Insomnia is a cross-platform REST client, built on top of Electron. 可以替代SoapUI和POSTman
 https://github.com/mengyou658/insomnia
-1. 
+1. Analyze website stack from the terminal 从 CLI 分析网站使用技术小工具 技术栈
+https://github.com/mengyou658/stacks-cli
+1.  Cross-platform utility that uncovers the technologies used on websites 分析网站使用技术小工具 技术栈
+https://github.com/mengyou658/Wappalyzer
+1. Alva is a radically new design tool that enables cross-functional teams to design digital products.  (前端设计工具)
+https://github.com/mengyou658/alva
+1. Toapi is a clever, simple and fast library letting any web site provide APIs.  把网站通过xpath的方式转换成api
+https://github.com/mengyou658/toapi
 1. 
 
 
@@ -188,7 +197,8 @@ https://github.com/mengyou658/redux-cli
 https://github.com/ant-design/ant-design-pro-cli
 1. yeoman generator yo 
 https://github.com/yeoman/generator-generator
-
+1. Boilerplate for creating React Npm packages with ES2015 创建可以上传到npm的项目工程模板
+https://github.com/mengyou658/react-npm-boilerplate
 
 #babel
 1. babel-polyfill

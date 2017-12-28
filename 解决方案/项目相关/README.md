@@ -90,6 +90,9 @@ https://github.com/alibaba/tengine
 https://github.com/mengyou658/nginx-rtmp-module
 1. Embed the Power of Lua into NGINX HTTP servers  lua for nginx
 https://github.com/mengyou658/lua-nginx-module
+1. SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more.  SecLists 是安全测试人员的手册，它是在安全评估中使用的多种测试类型的列表集合，类型包括用户名，密码，URL，敏感数据，模糊内容，Web shells 等等。
+https://github.com/mengyou658/SecLists
+
 
 # 微服务
 1. Microservices from Design to Deployment 中文版 — 《微服务：从设计到部署》
@@ -138,6 +141,8 @@ https://github.com/mengyou658/vConsole
 https://github.com/AlloyTeam/AlloyLever
 1. json server Get a full fake REST API with zero coding in less than 30 seconds
 https://github.com/mengyou658/json-server
+1. A list of software that turns your database into a REST/GraphQL API 把数据库转换成API
+https://github.com/mengyou658/automatic-api
 
 
 #可伸缩布局方案
@@ -242,6 +247,8 @@ https://github.com/mengyou658/Lona
 https://github.com/mengyou658/apollo-client
 1. GraphQL server
 https://github.com/mengyou658/framework-1
+1. A list of software that turns your database into a REST/GraphQL API 把数据库转换成API
+https://github.com/mengyou658/automatic-api
 
 
 

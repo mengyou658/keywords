@@ -34,6 +34,8 @@ https://github.com/mengyou658/CalendarView
 https://github.com/mengyou658/MPAndroidChart
 1. Project vlayout is a powerfull LayoutManager extension for RecyclerView, it provides a group of layouts for RecyclerView. Make it able to handle a complicate situation when grid, list and other layouts in the same recyclerview. VirtualLayout是一个针对RecyclerView的LayoutManager扩展, 主要提供一整套布局方案和布局间的组件复用的问题。
 https://github.com/mengyou658/vlayout
+1.Andorid 任意界面悬浮窗，实现悬浮窗如此简单
+https://github.com/mengyou658/FloatWindow
 ### AR
 1. Google ARCore SDK for Android （google AR 库）
 https://github.com/google-ar/arcore-android-sdk
@@ -57,6 +59,8 @@ https://github.com/mengyou658/MvpApp
 https://github.com/mengyou658/CloudReader
 1. 终极组件化框架项目方案 该项目目前集成现在主流的开发框架和技术，包括okhttp3、rxjava2、retrofit2、glide、greendao3.0、dagger2、mvp、md风格、热修复tinker,bugly和组件化等。 采用组件化开发框架，可以使模块单独编译调试，可以有效地减少编译的时间，更好地进行并发开发，从而极大的提高了并行开发效率。
 https://github.com/mengyou658/NewFastFrame
+1. 综合案例训练，包含新闻，视频，图片，音乐，记事本等等模块。采用MVP+Rx+Retrofit+Desgin+Dagger2+阿里VLayout+腾讯X5等架构模式。
+https://github.com/mengyou658/LifeHelper
 1.
 1.
 ### 测试

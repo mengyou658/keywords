@@ -23,5 +23,10 @@ https://github.com/mengyou658/oh-my-zsh
 1. 
 1. 
 ### 工具
+1. The missing terminal file browser for X 
+https://github.com/mengyou658/nnn
 1. 
+### 有意思的
+1. bash游戏
+https://github.com/mengyou658/piu-piu-SH
 1. 

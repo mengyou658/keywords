@@ -3,6 +3,8 @@
 1. 
 1. 
 ### 教程/文章/小抄/规范/记事
+1. 利用Python进行数据分析 第二版 (2017) 中文翻译笔记
+https://github.com/mengyou658/pydata-notebook
 ###### 记事
 
     * install ubuntu16.04
@@ -68,7 +70,8 @@ https://github.com/mengyou658/spaCy
 https://github.com/mengyou658/kungfu
 1. Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation （可以将表情等直接复制到相似的图像中，达到同步更改人物的影像）
 https://github.com/mengyou658/StarGAN
-1. 
+1.  The easy way to send notifications 通过第三方的服务，发送通知  (Pushover SimplePush Slack Gmail Email (SMTP) Telegram Gitter Pushbullet Join Hipchat Zulip)
+https://github.com/mengyou658/notifiers
 1. 
 1. 
 ### 完整项目/示例/demo/代码片段
@@ -89,4 +92,10 @@ https://github.com/ofek/hatch
 https://github.com/mengyou658/datasette
 1. Integration layer between Requests and Selenium for automation of web actions Requestium is a python library that merges the power of Requests, Selenium, and Parsel into a single integrated tool for automatizing web actions. Requestium是一个Python库，它将Requests，Selenium和Parsel的功能合并为一个集成的工具，用于自动化Web操作。
 https://github.com/mengyou658/requestium
+1.  python 环境管理工具 类似 bundler, composer, npm, cargo, yarn, etc.
+https://github.com/mengyou658/pipenv
+1.  python 性能分析工具 
+https://github.com/mengyou658/snakeviz
+1. Silk is a live profiling and inspection tool for the Django framework django 性能分析工具  (参考文章，http://www.iteye.com/news/32809)
+https://github.com/mengyou658/silk
 1. 
