@@ -72,6 +72,8 @@ https://github.com/mengyou658/kungfu
 https://github.com/mengyou658/StarGAN
 1.  The easy way to send notifications 通过第三方的服务，发送通知  (Pushover SimplePush Slack Gmail Email (SMTP) Telegram Gitter Pushbullet Join Hipchat Zulip)
 https://github.com/mengyou658/notifiers
+1.  中文处理工具包
+https://github.com/mengyou658/FoolNLTK
 1. 
 1. 
 ### 完整项目/示例/demo/代码片段

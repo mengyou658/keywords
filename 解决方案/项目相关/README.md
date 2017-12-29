@@ -92,7 +92,11 @@ https://github.com/mengyou658/nginx-rtmp-module
 https://github.com/mengyou658/lua-nginx-module
 1. SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more.  SecLists 是安全测试人员的手册，它是在安全评估中使用的多种测试类型的列表集合，类型包括用户名，密码，URL，敏感数据，模糊内容，Web shells 等等。
 https://github.com/mengyou658/SecLists
-
+1.  DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. 防止html xss 攻击工具
+https://github.com/mengyou658/DOMPurify
+1.  Clean up user-submitted HTML, preserving whitelisted elements and whitelisted attributes on a per-element basis. Built on htmlparser2 for speed and tolerance. 防止html xss 攻击工具
+https://github.com/mengyou658/sanitize-html
+1. 
 
 # 微服务
 1. Microservices from Design to Deployment 中文版 — 《微服务：从设计到部署》
@@ -300,3 +304,19 @@ https://github.com/mengyou658/kotlin
 #react 转化 静态网站
 1. 将react转换成静态网站 Blazing fast static site generator for React 
 https://github.com/mengyou658/gatsby
+
+
+#流处理 大数据实时分析
+1.  流处理工具 开源大数据实时分析系统Heron
+https://github.com/mengyou658/heron
+```
+Storm适用于需要快速响应、中等流量的场景。Storm和Heron在API上兼容，在功能上基本可以互换；Twitter从Storm迁移到了Heron，说明如果Storm和Heron二选一的话，一般都是选Heron。
+
+Kafka Streams与Kafka绑定，如果现有系统是基于Kafka构建的，可以考虑使用Kafka Streams，减少各种开销。
+
+一般认为Spark Streaming的流量是这些项目中最高的，但是它的响应延迟也是最高的。对于响应速度要求不高、但是对流通量要求高的系统，可以采用Spark Streaming；如果把这种情况推广到极致就可以直接使用Spark系统。
+
+Flink使用了流处理的内核，同时提供了流处理和批处理的接口。如果项目中需要同时兼顾流处理和批处理的情况，Flink比较适合。同时因为需要兼顾两边的取舍，在单个方面就不容易进行针对性的优化和处理。
+
+总结上面，Spark Streaming、Kafka Streams、Flink都有特定的应用场景，其他一般流处理情况下可以使用Heron。
+```

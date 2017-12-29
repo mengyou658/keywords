@@ -19,7 +19,8 @@ https://github.com/mengyou658/flexbox-layout
 https://github.com/mengyou658/RxKotlin
 1. Free and open source manga reader for Android 开源漫画阅读器
 https://github.com/mengyou658/tachiyomi
-1. 
+1.  A Retrofit 2 adapter for Kotlin coroutine's Deferred type.
+https://github.com/mengyou658/retrofit2-kotlin-coroutines-adapter
 1. 
 ### 完整项目/示例/demo/代码片段
 1. 

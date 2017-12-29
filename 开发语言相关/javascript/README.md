@@ -185,7 +185,19 @@ https://github.com/mengyou658/Wappalyzer
 https://github.com/mengyou658/alva
 1. Toapi is a clever, simple and fast library letting any web site provide APIs.  把网站通过xpath的方式转换成api
 https://github.com/mengyou658/toapi
+####  文件上传
+1.  新一代的文件上传组件 Uppy is a sleek, modular file uploader that integrates seemlessly with any application. It’s fast, easy to use and lets you worry about more important problems than building a file uploader.
+https://github.com/mengyou658/uppy
+1. webuploader 文件上传，支持h5和swf
+http://fex.baidu.com/webuploader/
 1. 
+####  安全 html过滤 防止xss 攻击
+1.  DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. 防止html xss 攻击工具
+https://github.com/mengyou658/DOMPurify
+1.  Clean up user-submitted HTML, preserving whitelisted elements and whitelisted attributes on a per-element basis. Built on htmlparser2 for speed and tolerance. 防止html xss 攻击工具
+https://github.com/mengyou658/sanitize-html
+1. 
+
 
 
 #代码生成脚手架cli工具
@@ -218,3 +230,10 @@ https://github.com/mengyou658/joplin
 https://github.com/mengyou658/Manta 
 1. electron
 https://github.com/electron/electron
+
+
+# 类似react的工具
+1. 1kb JavaScript library for building frontend applications 简单小
+https://github.com/mengyou658/hyperapp
+1. vue
+
