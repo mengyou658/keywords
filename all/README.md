@@ -18,8 +18,6 @@ https://github.com/mengyou658/coding-interview-university
 ###深入研究
 1. Writing a sqlite clone from scratch in C （教你怎么样写一个数据库）
 https://github.com/cstack/db_tutorial
-1. 知识点
-https://github.com/pzxwhc/MineKnowContainer/
 1. 规范
 https://github.com/wearehive/project-guidelines/blob/master/README-zh.md
 1. Web Security Learning (web安全)
@@ -40,15 +38,13 @@ https://github.com/nikitavoloboev/my-mac-os
 1. 清单
 https://github.com/mengyou658/Web-Development-And-Engineering-Practices
 1. Coder-Knowledge-Management 程序员的知识管理：技术视野与职业规划
-* https://github.com/wxyyxc1992/Coder-Knowledge-Management
+https://github.com/wxyyxc1992/Coder-Knowledge-Management
 1. 书籍列表
 https://github.com/mengyou658/free-programming-books-zh_CN
 1. 书籍列表2
 https://github.com/mengyou658/awesome-programming-books
 1. 书籍列表3
 https://github.com/mengyou658/books
-1. 书籍列表4
-https://github.com/mengyou658/free-programming-books-zh_CN
 1. Node.js 实践教程
 https://github.com/ElemeFE/node-practice
 1. you don't know js (js进阶教程)
@@ -63,8 +59,6 @@ https://github.com/hoosin/mobile-web-favorites
 https://github.com/mengyou658/Mars-1
 1. 列表
 https://github.com/mengyou658/awesome
-1. 天猫前端 知识分享
-https://github.com/mengyou658/tmallfe.github.io
 #######规范
 1. 阿里云java代码规范
 https://github.com/alibaba/p3c
@@ -88,7 +82,7 @@ https://github.com/mengyou658/datasette
 # Secure Socket Funneling - Network tool and toolkit - TCP and UDP port forwarding, SOCKS proxy, remote shell, standalone and cross platform 类似Shadowsocks的工具跨平台
 https://github.com/mengyou658/ssf
 
-# 英文字体，适合排版，写作用的字体
+# 英文字体，适合排版，写作用的字体 IBM 出品
 https://github.com/mengyou658/iA-Fonts
 
 # svg icon 

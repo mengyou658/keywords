@@ -185,6 +185,8 @@ https://github.com/mengyou658/Wappalyzer
 https://github.com/mengyou658/alva
 1. Toapi is a clever, simple and fast library letting any web site provide APIs.  把网站通过xpath的方式转换成api
 https://github.com/mengyou658/toapi
+1. A framework for easily creating beautiful presentations using HTML 创建 html ppt 使用HTML轻松创建精美的演示文稿的框架
+https://github.com/mengyou658/reveal.js
 ####  文件上传
 1.  新一代的文件上传组件 Uppy is a sleek, modular file uploader that integrates seemlessly with any application. It’s fast, easy to use and lets you worry about more important problems than building a file uploader.
 https://github.com/mengyou658/uppy

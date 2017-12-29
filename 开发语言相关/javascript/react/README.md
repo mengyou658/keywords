@@ -52,6 +52,8 @@ https://github.com/mengyou658/svgr
 https://github.com/mengyou658/gatsby
 1. A CLI React performance optimization tool that identifies potential unnecessary re-rendering 检测react中的重复渲染问题
 https://github.com/mengyou658/reactopt
-1.  React component that uses SVG to create a collection of loaders which simulates the structure of the content that will be loaded, similar to Facebook cards loaders.  使用svg来展示react等组件
+1.  React component that uses SVG to create a collection of loaders which simulates the structure of the content that will be loaded, similar to Facebook cards loaders.  
+使用svg来展示react等组件 react-content-loader 允许开发者利用 SVG，来创建模拟即将加载的内容块结构的提示条，其有点类似于 Facebook 的卡片加载样式。
+使用这个来消除react加载慢，导致页面空白的问题
 https://github.com/mengyou658/react-content-loader
 1. 

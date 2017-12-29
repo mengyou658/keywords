@@ -57,6 +57,8 @@ https://github.com/mengyou658/Glowstone
 # 游戏前端 游戏H5 
 1. A+ animation module for the modern web Animate Plus is a JavaScript animation library focusing on performance and authoring flexibility. It aims to deliver a steady 60 FPS and weighs less than 2 KB (minified and gzipped), making it particularly well-suited for mobile. （小体积，专注于游戏的动画）
 https://github.com/mengyou658/animateplus
+1. Hilo，一套HTML5跨终端的互动游戏解决方案。Hilo支持了多届淘宝&天猫狂欢城等双十一大型和日常营销活动。内核极简，提供包括DOM，Canvas，Flash，WebGL等多种渲染方案，满足全终端和性能要求。支持多种模块范式的包装版本以及开放的扩展方式，方便接入和扩展。提供对2D物理，骨骼动画的内建和扩展支持。另外，Hilo提供丰富的周边工具及开发案例。
+https://github.com/mengyou658/Hilo
 1. 
 1. 
 
@@ -103,6 +105,14 @@ https://github.com/mengyou658/sanitize-html
 https://github.com/mengyou658/microservices-from-design-to-deployment-chinese
 1. 微服务App案例 示例 实例
 https://github.com/mengyou658/microservice-app-example
+
+# 微服务升级 service  mesh
+1.  Production-grade feature-rich service mesh for any platform https://linkerd.io Buoyant 公司推出的 Linkerd
+https://github.com/mengyou658/linkerd
+1. An open platform to connect, manage, and secure microservices. https://istio.io Google、IBM 等厂商牵头的 Istio
+https://github.com/istio/istio
+
+
 # 地图，geolocation 
 1. 位置计算
 https://github.com/mengyou658/tile38
@@ -156,8 +166,8 @@ https://github.com/mengyou658/lib-flexible
 # admin / 快速开发 方案
 1. ant-design-pro开箱即用的中台前端/设计解决方案
 https://github.com/mengyou658/ant-design-pro
-1. 直接挑选看中的模板，下载代码即可使用
-* https://github.com/mengyou658/design-blocks
+1. A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites. 直接挑选看中的模板，下载代码即可使用 bootstrap 代码片段
+https://github.com/mengyou658/design-blocks
 1. xadmin （django bootstrap）
 https://github.com/sshwsfc/xadmin
 1. vue iview-admin
