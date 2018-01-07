@@ -86,3 +86,12 @@ https://github.com/mengyou658/NewFastFrame
 1. Multi-project Clean Architecture MVP app using Conductor, Room, RxJava 2, Dagger 2 with custom scopes
 https://github.com/mengyou658/ConductorMVP
 1. 
+
+
+### 反编译 反向工程 dex java 反混淆 消除混淆
+1. Dex to Java decompiler jadx: Dex转Java的反编译器
+https://github.com/mengyou658/jadx
+1. A Java 8 Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)  java 反编译
+https://github.com/mengyou658/bytecode-viewer
+1. Generic Android Deobfuscator
+https://github.com/mengyou658/simplify

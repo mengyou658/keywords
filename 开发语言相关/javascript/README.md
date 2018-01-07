@@ -120,6 +120,8 @@ https://github.com/mengyou658/Hilo
 https://github.com/mengyou658/VoxelSpace
 1. A+ animation module for the modern web Animate Plus is a JavaScript animation library focusing on performance and authoring flexibility. It aims to deliver a steady 60 FPS and weighs less than 2 KB (minified and gzipped), making it particularly well-suited for mobile. （小体积，专注于游戏的动画）
 https://github.com/mengyou658/animateplus
+1. The JavaScript motion engine. Create unique animations and interactions with tweens, physics and input tracking. js动画引擎
+https://github.com/mengyou658/popmotion
 1. 
 ### 测试
 1. 一个可视化, 并且能快速生成模拟数据的持久化服务

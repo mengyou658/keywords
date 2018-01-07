@@ -330,3 +330,18 @@ Flink使用了流处理的内核，同时提供了流处理和批处理的接口
 
 总结上面，Spark Streaming、Kafka Streams、Flink都有特定的应用场景，其他一般流处理情况下可以使用Heron。
 ```
+
+#微信小程序
+1.  微信小程序组件化开发框架 
+https://github.com/mengyou658/wepy
+
+# 加密
+1. A JavaScript / Python / PHP cryptocurrency trading library with support for more than 90 bitcoin/altcoin exchanges 货币交易 加密库
+https://github.com/mengyou658/ccxt
+1. Easy-to-use crypto toolkit google 谷歌出的加密工具库 
+https://github.com/mengyou658/keyczar
+1. Platform-Agnostic Security Tokens，PAST (Platform-Agnostic Security Tokens) is a specification and reference implementation for secure stateless tokens. php 实现的一个加密token PAST（平台不可知的安全令牌）是安全无状态令牌的规范和参考实现。
+https://github.com/mengyou658/past
+
+#rust 语言
+总体感觉是如果有一门语言能够取代C++，那么它只可能是Rust
