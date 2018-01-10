@@ -34,6 +34,8 @@ https://github.com/adonisjs/adonis-framework
 https://github.com/sahat/hackathon-starter.git
 1. json server Get a full fake REST API with zero coding in less than 30 seconds
 https://github.com/mengyou658/json-server
+1.  Easy to maintain open source documentation websites , 易于维护的开源文档网站搭建
+https://github.com/mengyou658/Docusaurus
 1. 
 ### 完整项目/示例/demo/代码片段
 1. NideShop：基于Node.js+MySQL开发的开源免费商城（微信小程序商城端）

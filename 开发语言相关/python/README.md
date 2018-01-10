@@ -74,7 +74,8 @@ https://github.com/mengyou658/StarGAN
 https://github.com/mengyou658/notifiers
 1.  中文处理工具包
 https://github.com/mengyou658/FoolNLTK
-1. 
+1.  The world's simplest facial recognition api for Python and the command line 世界上最简单的人脸识别库，使用 Python 或命令行，即可识别和控制人脸。该库使用 dlib 顶尖的深度学习人脸识别技术构建，在户外脸部检测数据库基准（Labeled Faces in the Wild benchmark）上的准确率高达 99.38%。
+https://github.com/mengyou658/face_recognition
 1. 
 ### 完整项目/示例/demo/代码片段
 1. machine learning algorithm with pure python which let pramgramer learn easily; 机器学习算法代码库

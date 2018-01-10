@@ -33,3 +33,9 @@ https://github.com/mengyou658/php-build
 https://github.com/mengyou658/phpenv
 1. 
 1. 
+
+### php 运行环境
+1. phpStudy 开发环境使用方便
+1.  待实践 新的PHP运行环境  PPM is a process manager, supercharger and load balancer for modern PHP applications. 比php-fpm快 https://github.com/php-pm/php-pm/wiki/Use-without-Docker
+https://github.com/mengyou658/php-pm
+1. https://lnmp.org/ linux nginx mysql php 线上运行环境 LNMP(Nginx/MySQL/PHP)、LNMPA(Nginx/MySQL/PHP/Apache)、LAMP(Apache/MySQL/PHP)

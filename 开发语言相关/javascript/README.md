@@ -88,6 +88,8 @@ https://github.com/mengyou658/z
 https://github.com/mengyou658/emoji-cheat-sheet.com
 1. lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser) 小型的json数据库
 https://github.com/mengyou658/lowdb
+1.  Fast math typesetting for the web 数学公式排版库，用于生成数学公式
+https://github.com/mengyou658/KaTeX
 #####admin
 1. vue iview-admin
 * https://github.com/mengyou658/iview-admin
@@ -240,4 +242,4 @@ https://github.com/electron/electron
 1. 1kb JavaScript library for building frontend applications 简单小
 https://github.com/mengyou658/hyperapp
 1. vue
-
+1. preact

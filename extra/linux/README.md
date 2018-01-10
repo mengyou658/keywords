@@ -8,7 +8,8 @@ https://github.com/LewisVo/Awesome-Linux-Software
 https://github.com/mengyou658/hacker-scripts
 1. zsh 工具 ， 一个可以让你的命令行看起来很好看的工具
 https://github.com/mengyou658/oh-my-zsh
-1. 
+1.  Linux 内核揭密
+https://github.com/MintCN/linux-insides-zh
 1. 
 ### 实用 库/模块/框架
 1. 
@@ -30,3 +31,7 @@ https://github.com/mengyou658/nnn
 1. bash游戏
 https://github.com/mengyou658/piu-piu-SH
 1. 
+
+### bug
+1.  2018年初著名的 cpu 硬件漏洞 演示项目 This repository contains several applications, demonstrating the Meltdown bug. 
+https://github.com/mengyou658/meltdown-1
