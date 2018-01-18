@@ -122,8 +122,10 @@ https://github.com/mengyou658/Hilo
 https://github.com/mengyou658/VoxelSpace
 1. A+ animation module for the modern web Animate Plus is a JavaScript animation library focusing on performance and authoring flexibility. It aims to deliver a steady 60 FPS and weighs less than 2 KB (minified and gzipped), making it particularly well-suited for mobile. （小体积，专注于游戏的动画）
 https://github.com/mengyou658/animateplus
-1. The JavaScript motion engine. Create unique animations and interactions with tweens, physics and input tracking. js动画引擎
+1. The JavaScript motion engine. Create unique animations and interactions with tweens, physics and input tracking. jsA tiny (~1.7 KB gzipped) spring physics micro-library that models a damped harmonic oscillator. 动画引擎
 https://github.com/mengyou658/popmotion
+1. A tiny (~1.7 KB gzipped) spring physics micro-library that models a damped harmonic oscillator. 
+https://github.com/mengyou658/wobble （一个微型（约1.7KB）的弹簧物理微库，用于模拟阻尼谐振子）
 1. 
 ### 测试
 1. 一个可视化, 并且能快速生成模拟数据的持久化服务
@@ -241,5 +243,7 @@ https://github.com/electron/electron
 # 类似react的工具
 1. 1kb JavaScript library for building frontend applications 简单小
 https://github.com/mengyou658/hyperapp
+1. A blazing fast React alternative, compatible with IE8 and React 16 
+https://github.com/mengyou658/nerv
 1. vue
 1. preact
