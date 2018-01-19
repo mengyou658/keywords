@@ -90,6 +90,8 @@ https://github.com/mengyou658/emoji-cheat-sheet.com
 https://github.com/mengyou658/lowdb
 1.  Fast math typesetting for the web 数学公式排版库，用于生成数学公式
 https://github.com/mengyou658/KaTeX
+1.  Classic MS Paint,  A nice web-based MS Paint remake  js 画画 画板
+https://github.com/mengyou658/jspaint
 #####admin
 1. vue iview-admin
 * https://github.com/mengyou658/iview-admin

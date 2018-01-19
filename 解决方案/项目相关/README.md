@@ -61,6 +61,9 @@ https://github.com/mengyou658/animateplus
 https://github.com/mengyou658/Hilo
 1. 
 1. 
+# 任天堂 游戏 模拟器
+1.yuzu is an experimental open-source emulator for the Nintendo Switch （Nintendo Switch模拟器）
+https://github.com/mengyou658/yuzu 
 
 #自动化的SQL解决方案
 ### sql solver （自动化的SQL解决方案，待实践）
