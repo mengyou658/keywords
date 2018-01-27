@@ -64,6 +64,14 @@ https://github.com/mengyou658/Hilo
 # 任天堂 游戏 模拟器
 1.yuzu is an experimental open-source emulator for the Nintendo Switch （Nintendo Switch模拟器）
 https://github.com/mengyou658/yuzu 
+# nes 游戏 模拟器
+1. A JavaScript NES emulator. js nes 模拟器
+https://github.com/mengyou658/jsnes
+
+# 游戏AI 游戏bot 
+1. Game Agent Framework. Helping you create AIs / Bots to play any game you own! BETA http://serpent.ai 游戏代理框架。帮助你创建AI /机器人来玩任何你自己的游戏
+https://github.com/mengyou658/SerpentAI
+
 
 #自动化的SQL解决方案
 ### sql solver （自动化的SQL解决方案，待实践）
@@ -101,6 +109,8 @@ https://github.com/mengyou658/SecLists
 https://github.com/mengyou658/DOMPurify
 1.  Clean up user-submitted HTML, preserving whitelisted elements and whitelisted attributes on a per-element basis. Built on htmlparser2 for speed and tolerance. 防止html xss 攻击工具
 https://github.com/mengyou658/sanitize-html
+1. Hacker101 is a free class for web security
+https://github.com/mengyou658/hacker101
 1. 
 
 # 微服务
@@ -141,6 +151,8 @@ https://github.com/GoogleChrome/puppeteer
 https://github.com/mengyou658/rendertron
 2. 快速生成mysql-rest-api 快速为 Rails，django 等不遵循惯例的框架生成 MySql 数据库 REST API 返回json
 https://github.com/mengyou658/xmysql
+1.  Easy automatic (headless) browser testing. Powered by Karma, Webpack & Jasmine （）
+https://github.com/mengyou658/karmatic
 ##### 用于自动化测试和不需要可视化用户界面的服务器
 1. Headless Chrome Node API （）
 https://github.com/GoogleChrome/puppeteer
@@ -355,3 +367,29 @@ https://github.com/mengyou658/past
 # 自动驾驶
 1. An open autonomous driving platform 开放的自动驾驶平台
 https://github.com/mengyou658/apollo
+
+#企业秀 易企秀
+https://github.com/mengyou658/eqxiu
+https://github.com/mengyou658/yiqixiu
+git@gitee.com:xiaokong658/yiqixiu.git
+
+#  目标检测算法 
+1. Detectron is Facebook AI Research's software system that implements state-of-the-art object detection algorithms, including Mask R-CNN. It is written in Python and powered by the Caffe2 deep learning framework. Detectron是Facebook AI Research的软件系统，实现了最先进的目标检测算法，包括Mask R-CNN。它是用Python编写的，由Caffe2深度学习框架支持。
+https://github.com/mengyou658/Detectron
+
+# VR 虚拟现实技术 AR 增强现实技术
+1. Build your own VR headset for $100 (自己制造虚拟现实头盔)
+https://github.com/mengyou658/Relativ
+
+# 高大上，假装你在干高大上的事
+1.  A nonsense activity generator
+https://github.com/mengyou658/genact
+
+# 英语学习
+https://github.com/mengyou658/english-level-up-tips-for-chinese-programmers-and-designers
+
+#OA
+https://gitee.com/youqiongwang/yqoas.git
+https://gitee.com/rainrock/xinhu.git
+https://gitee.com/xiaokong658/xiaoweioa
+https://gitee.com/ibos/IBOS 商业版本的全面，开源的阉割

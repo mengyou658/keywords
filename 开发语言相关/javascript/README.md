@@ -58,6 +58,8 @@ https://github.com/mzabriskie/axios
 https://github.com/minirefresh/minirefresh
 1. A javascript library that makes your page dance （页面动画先关）
 https://github.com/mengyou658/Rythm.js
+1. a [μ] microInteraction library built with CSS Animations and controlled by JavaScript Power （css 动画库）
+https://github.com/mengyou658/micron
 1. Beautiful bubbly backgrounds 气泡背景
 https://github.com/mengyou658/bubbly-bg
 1. JSON template over JSON
@@ -241,6 +243,9 @@ https://github.com/mengyou658/Manta
 1. electron
 https://github.com/electron/electron
 
+#pwa
+1.  Offload your store management to a worker easily (简单的使用 worker 来工作)
+https://github.com/mengyou658/stockroom
 
 # 类似react的工具
 1. 1kb JavaScript library for building frontend applications 简单小
@@ -249,3 +254,7 @@ https://github.com/mengyou658/hyperapp
 https://github.com/mengyou658/nerv
 1. vue
 1. preact
+
+# nes 游戏 模拟器
+1. A JavaScript NES emulator. js nes 模拟器
+https://github.com/mengyou658/jsnes

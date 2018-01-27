@@ -13,11 +13,14 @@ https://github.com/brianway/java-learning
 1. java learn
 https://github.com/francistao/LearningNotes
 1. 
+1. 
 ### 实用 库/模块/框架
 1. The simplest, fastest way to get business intelligence and analytics to everyone in your company
 https://github.com/mengyou658/metabase
 1. Neo4j is the world’s leading Graph Database. (java 图形 数据库)
 https://github.com/mengyou658/neo4j
+1. 使用spring boot打造文件文档在线预览项目解决方案，支持doc、docx、ppt、pptx、xls、xlsx、zip、rar、以及众多类文本如txt、html、xml、java、properties、mp3、mp4、sql、js、md、json、conf、ini、vue、php、py、bat、gitignore等文件在线预览 http://file.keking.cn/
+https://github.com/mengyou658/kkFileView
 ###### 微服务
 1. https://github.com/anilallewar/microservices-basics-spring-boot 
 1. https://github.com/rohitghatol/spring-boot-microservices 
