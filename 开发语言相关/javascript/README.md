@@ -76,6 +76,8 @@ https://github.com/mengyou658/nulis
 https://github.com/wendux/fly
 1.  socket io client (web socket client)
 https://github.com/socketio/socket.io-client
+1. The cutest little WebSocket wrapper!  轻量级的webscoket 封装（包括自动重连，优雅的关闭等）
+https://github.com/mengyou658/sockette
 1. RSA/RSAPSS/ECDSA/DSA signing/validation, ASN.1, PKCS#1/5/8 private/public key, X.509 certificate, CRL, OCSP, CMS SignedData, TimeStamp, CAdES JSON Web Signature/Token in pure JavaScript Encryption, Decryption,
 https://github.com/mengyou658/jsrsasign
 1. Detect element visibility in the browser , 滑动展示， 页面元素是否在屏幕中可见，用来做懒加载
@@ -94,6 +96,11 @@ https://github.com/mengyou658/lowdb
 https://github.com/mengyou658/KaTeX
 1.  Classic MS Paint,  A nice web-based MS Paint remake  js 画画 画板
 https://github.com/mengyou658/jspaint
+#####worker webworker web worker 
+1.Move an async function into its own thread 依赖webworker，将异步转移到单独的线程中运行
+https://github.com/mengyou658/greenlet
+1. Run a module in a Web Worker.  将一个模块再单独的线程中执行
+https://github.com/mengyou658/workerize
 #####admin
 1. vue iview-admin
 * https://github.com/mengyou658/iview-admin
@@ -197,6 +204,8 @@ https://github.com/mengyou658/alva
 https://github.com/mengyou658/toapi
 1. A framework for easily creating beautiful presentations using HTML 创建 html ppt 使用HTML轻松创建精美的演示文稿的框架
 https://github.com/mengyou658/reveal.js
+1. Remove unused css 删除无用的css
+https://github.com/mengyou658/purgecss
 ####  文件上传
 1.  新一代的文件上传组件 Uppy is a sleek, modular file uploader that integrates seemlessly with any application. It’s fast, easy to use and lets you worry about more important problems than building a file uploader.
 https://github.com/mengyou658/uppy

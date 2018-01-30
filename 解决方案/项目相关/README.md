@@ -393,3 +393,7 @@ https://gitee.com/youqiongwang/yqoas.git
 https://gitee.com/rainrock/xinhu.git
 https://gitee.com/xiaokong658/xiaoweioa
 https://gitee.com/ibos/IBOS 商业版本的全面，开源的阉割
+
+# 智能图片缩放 
+1. Caire is a content aware image resize library based on Seam Carving for Content-Aware Image Resizing paper. Caire是一个基于Seam内容感知图像调整大小的纸张的内容感知图像调整库。该算法试图找出图像中最不重要的部分
+https://github.com/mengyou658/caire

@@ -5,7 +5,7 @@
 * https://github.com/mengyou658/awesome-coins
 * https://github.com/mengyou658/awesome
 ###面试
-1. 面试相关
+1. Java面试相关
 https://github.com/mengyou658/interviews
 1. 面试
 https://github.com/kdn251/interviews

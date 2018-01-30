@@ -12,6 +12,8 @@ https://github.com/zhanglei-workspace/shopping-management-system
 https://github.com/brianway/java-learning
 1. java learn
 https://github.com/francistao/LearningNotes
+1. Java面试相关
+https://github.com/mengyou658/interviews
 1. 
 1. 
 ### 实用 库/模块/框架
