@@ -281,7 +281,8 @@ https://github.com/mengyou658/apollo-client
 https://github.com/mengyou658/framework-1
 1. A list of software that turns your database into a REST/GraphQL API 把数据库转换成API
 https://github.com/mengyou658/automatic-api
-
+1. Universal React Query Library urql is a GraphQL client, exposed as a set of ReactJS components. 通用的react graphQL client
+https://github.com/mengyou658/urql
 
 
 # 逆向工程 反编译  

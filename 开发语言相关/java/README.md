@@ -2,6 +2,8 @@
 ### 现成列表
 1. awesome-java-cn
 https://github.com/jobbole/awesome-java-cn
+1. Java8有用的代码片段
+https://github.com/mengyou658/30-seconds-of-java8
 1. 
 ### 教程/文章/小抄/规范/记事
 1. Design patterns implemented in Java （设计模式java版本）

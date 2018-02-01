@@ -96,6 +96,8 @@ https://github.com/mengyou658/lowdb
 https://github.com/mengyou658/KaTeX
 1.  Classic MS Paint,  A nice web-based MS Paint remake  js 画画 画板
 https://github.com/mengyou658/jspaint
+1.Skema provides a handy & composable way to validate / transform / purify the input data （JavaScript类型检查，校验工具）
+https://github.com/mengyou658/skema
 #####worker webworker web worker 
 1.Move an async function into its own thread 依赖webworker，将异步转移到单独的线程中运行
 https://github.com/mengyou658/greenlet
