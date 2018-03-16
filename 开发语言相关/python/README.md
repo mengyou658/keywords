@@ -76,10 +76,16 @@ https://github.com/mengyou658/notifiers
 https://github.com/mengyou658/FoolNLTK
 1.  The world's simplest facial recognition api for Python and the command line 世界上最简单的人脸识别库，使用 Python 或命令行，即可识别和控制人脸。该库使用 dlib 顶尖的深度学习人脸识别技术构建，在户外脸部检测数据库基准（Labeled Faces in the Wild benchmark）上的准确率高达 99.38%。
 https://github.com/mengyou658/face_recognition
+1. 另外一个框架
+https://github.com/pallets/flask
+1. HTML Parsing for Humans™ (简单的html解析工具)
+https://github.com/mengyou658/requests-html
 1. 
 ### 完整项目/示例/demo/代码片段
 1. machine learning algorithm with pure python which let pramgramer learn easily; 机器学习算法代码库
 https://github.com/mengyou658/moodstyle
+1. Odoo. Open Source Apps To Grow Your Business.The main Odoo Apps include an Open Source CRM, Website Builder, eCommerce, Warehouse Management, Project Management, Billing & Accounting, Point of Sale, Human Resources, Marketing, Manufacturing, Purchase Management, ... (类染之项目)
+https://github.com/mengyou658/odoo
 1. 
 1. 
 ### 测试
@@ -101,4 +107,7 @@ https://github.com/mengyou658/pipenv
 https://github.com/mengyou658/snakeviz
 1. Silk is a live profiling and inspection tool for the Django framework django 性能分析工具  (参考文章，http://www.iteye.com/news/32809)
 https://github.com/mengyou658/silk
-1. 
+1. Python Cheat Sheet python 速查表/备忘录
+https://github.com/mengyou658/pysheeet
+1. 开源跳板机(堡垒机):认证,授权,审计,自动化运维
+https://github.com/mengyou658/jumpserver

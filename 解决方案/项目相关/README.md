@@ -1,5 +1,13 @@
 # 项目相关
 
+# Open Data of China （CN 开放数据计划）https://github.com/cn
+1.中华人名共和国宪法
+https://github.com/cn/constitution
+
+# 区块链(BlockChain)
+1. 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
+https://github.com/mengyou658/awesome-blockchain
+
 # sso-server / oauth2 server
 1. https://github.com/mengyou658/sso-auth
 1. https://github.com/GluuFederation/oxAuth
@@ -244,12 +252,21 @@ https://github.com/mengyou658/QQ
 https://github.com/mengyou658/client·
 1. 阿里百川，即时通讯，免费聊天
 http://baichuan.taobao.com/
+1.An open source library for building end-to-end dialog systems and training chatbots.（一个用于构建端到端对话系统和培训chatbots的开源库）
+https://github.com/mengyou658/DeepPavlov
+
 # 唯一ID生成 方案
 1. A tiny, secure URL-friendly unique string ID generator for JavaScript (js唯一ID生成器)
 https://github.com/mengyou658/nanoid
 
 
 # 进销存 ERP CRM WMS 仓储管理系统
+1. 面向中小企业的协同管理系统：客户管理、日常办公、现金记账、团队分享 染之 http://www.ranzhi.org
+https://gitee.com/wwccss/ranzhi
+1. Odoo. Open Source Apps To Grow Your Business.The main Odoo Apps include an Open Source CRM, Website Builder, eCommerce, Warehouse Management, Project Management, Billing & Accounting, Point of Sale, Human Resources, Marketing, Manufacturing, Purchase Management, ... (项目 ranzhi 染之 )
+https://github.com/mengyou658/odoo
+1. koalixcrm is an Open Source Python CRM and ERP based on django
+https://github.com/scaphilo/koalixcrm
 1. 仓储管理系统 进销存
 https://github.com/mengyou658/erp-1
 1.
@@ -398,3 +415,9 @@ https://gitee.com/ibos/IBOS 商业版本的全面，开源的阉割
 # 智能图片缩放 
 1. Caire is a content aware image resize library based on Seam Carving for Content-Aware Image Resizing paper. Caire是一个基于Seam内容感知图像调整大小的纸张的内容感知图像调整库。该算法试图找出图像中最不重要的部分
 https://github.com/mengyou658/caire
+
+# 压力工具库 
+1. JavaScript library for handling Force Touch, 3D Touch, and Pointer Pressure （用于处理Force Touch，3D Touch和指针压力的JavaScript库）
+https://github.com/mengyou658/pressure
+
+

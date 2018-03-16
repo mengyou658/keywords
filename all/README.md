@@ -5,6 +5,8 @@
 * https://github.com/mengyou658/awesome-coins
 * https://github.com/mengyou658/awesome
 ###面试
+1. 最新的面试笔记
+https://github.com/mengyou658/InterviewNotes
 1. Java面试相关
 https://github.com/mengyou658/interviews
 1. 面试
@@ -67,6 +69,10 @@ https://github.com/alibaba/p3c
 ### 人工智能 / 机器学习
 1. TensorFlow Tutorial and Examples for beginners （TensorFlow 入门）
 https://github.com/aymericdamien/TensorFlow-Examples
+1. Style transfer, deep learning, feature transform （图片的样式材质转换，使用机器学习 NVIDIA ）
+https://github.com/mengyou658/FastPhotoStyle
+
+
 ### coding style（代码风格规范）
 * https://github.com/google/styleguide
 ### The Gambler's Fallacy Dice 赌徒谬误的一个实现
@@ -75,8 +81,9 @@ https://github.com/aymericdamien/TensorFlow-Examples
 1. wifi漏洞
 https://github.com/kristate/krackinfo
 
-# cheatsheet 备忘录
+# cheatsheet 备忘录 速查表
 https://github.com/mengyou658/cheatsheets
+https://github.com/mengyou658/awesome-cheatsheets
 
 # An instant JSON API for your SQLite databases (将 sqlite 数据暴露成一个只读的json-api)
 https://github.com/mengyou658/datasette

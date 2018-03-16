@@ -60,6 +60,10 @@ https://github.com/minirefresh/minirefresh
 https://github.com/mengyou658/Rythm.js
 1. a [μ] microInteraction library built with CSS Animations and controlled by JavaScript Power （css 动画库）
 https://github.com/mengyou658/micron
+1.  A cross-browser library of CSS animations. As easy to use as an easy thing.  （css 动画库）
+https://github.com/daneden/animate.css
+1.  It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.  （css 动画库）
+https://github.com/impress/impress.js
 1. Beautiful bubbly backgrounds 气泡背景
 https://github.com/mengyou658/bubbly-bg
 1. JSON template over JSON
@@ -98,6 +102,12 @@ https://github.com/mengyou658/KaTeX
 https://github.com/mengyou658/jspaint
 1.Skema provides a handy & composable way to validate / transform / purify the input data （JavaScript类型检查，校验工具）
 https://github.com/mengyou658/skema
+1. JavaScript library for handling Force Touch, 3D Touch, and Pointer Pressure
+https://github.com/mengyou658/pressure
+1. A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page (制作用户引导提示操作，制作用户引导界面)
+https://github.com/mengyou658/driver.js
+1. Rough.js is a light weight (~8k), Canvas based library that lets you draw in a sketchy, hand-drawn-like, style Rough.js是一种重量轻（〜8K），帆布基于库，可以让你在画粗略，手绘般的，风格
+https://github.com/mengyou658/rough
 #####worker webworker web worker 
 1.Move an async function into its own thread 依赖webworker，将异步转移到单独的线程中运行
 https://github.com/mengyou658/greenlet

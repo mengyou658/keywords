@@ -45,7 +45,8 @@ https://github.com/thinkgem/jeesite
 https://github.com/mengyou658/jeecg
 1. Software and Skills for Personal Assistants using SUSI AI / Artificial Intelligence for Chat Bots （AI 聊天机器人）
 https://github.com/mengyou658/susi_server
-1. 
+1. Yuna是一套基于Spring Session技术搭建的统一后台管理系统，集统一登录、统一授权、统一管理于一体
+http://gitee.com/jxttian/Yuna
 1. 
 ### 测试
 1. 
