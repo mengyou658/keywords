@@ -71,6 +71,9 @@ https://github.com/alibaba/p3c
 https://github.com/aymericdamien/TensorFlow-Examples
 1. Style transfer, deep learning, feature transform （图片的样式材质转换，使用机器学习 NVIDIA ）
 https://github.com/mengyou658/FastPhotoStyle
+1. TensorFlow 官方文档中文版 V1.7
+https://github.com/mengyou658/tensorflow-docs
+
 
 
 ### coding style（代码风格规范）

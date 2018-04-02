@@ -44,5 +44,6 @@ https://github.com/mengyou658/aurora-imui
 1. 
 1. 
 ### 工具
-1. 
+1. 调试react和react-native应用 A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
+https://github.com/mengyou658/reactotron
 1. 

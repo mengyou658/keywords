@@ -1,0 +1,26 @@
+# 机器学习相关
+### 现成列表
+1. 
+1. 
+### cheatsheet 备忘录
+1. 
+1. 
+### 教程/文章/小抄/规范/记事
+1. 
+1. 
+### 实用 库/模块/框架
+1.Automatically "block" people in images (like Black Mirror) using a pretrained neural network. 使用预训练的神经网络自动“阻挡”图像中的人（如黑镜）
+(自动识别图片中的人，车，长颈鹿，等80多种不同类型的对象，然后进行遮挡) (Python TensorFlow Keras Numpy，skimage，scipy，Pillow，cython，h5py)
+https://github.com/mengyou658/person-blocker
+### 完整项目/示例/demo/代码片段
+1. 
+1. 
+### 测试
+1. 
+1. 
+### UI
+1. 
+1. 
+### 工具
+1. 
+1. 

@@ -80,6 +80,10 @@ https://github.com/mengyou658/jsnes
 1. Game Agent Framework. Helping you create AIs / Bots to play any game you own! BETA http://serpent.ai 游戏代理框架。帮助你创建AI /机器人来玩任何你自己的游戏
 https://github.com/mengyou658/SerpentAI
 
+# 游戏 unity
+1. Unity C# reference source code (unity 编辑器 c#相关源码) 
+https://github.com/mengyou658/UnityCsReference
+
 
 #自动化的SQL解决方案
 ### sql solver （自动化的SQL解决方案，待实践）
@@ -161,6 +165,8 @@ https://github.com/mengyou658/rendertron
 https://github.com/mengyou658/xmysql
 1.  Easy automatic (headless) browser testing. Powered by Karma, Webpack & Jasmine （）
 https://github.com/mengyou658/karmatic
+1.Nightmare是来自Segment的高级浏览器自动化库 它使用了与PhantomJS类似的Electron  Nightmare is a high-level browser automation library from Segment
+https://github.com/segmentio/nightmare
 ##### 用于自动化测试和不需要可视化用户界面的服务器
 1. Headless Chrome Node API （）
 https://github.com/GoogleChrome/puppeteer
@@ -420,4 +426,11 @@ https://github.com/mengyou658/caire
 1. JavaScript library for handling Force Touch, 3D Touch, and Pointer Pressure （用于处理Force Touch，3D Touch和指针压力的JavaScript库）
 https://github.com/mengyou658/pressure
 
-
+# mindmap mind 脑图 工具
+1.xmind
+1. Online tool for making mindmaps by writing indented lists （把txt转换成脑图）
+https://github.com/mengyou658/text2mindmap 
+1. jsMind 是一个显示/编辑思维导图的纯 javascript 类库，其基于 html5 的 canvas 进行设计 http://hizzgdev.github.io/jsmind/example/1_basic.html
+https://github.com/mengyou658/jsmind
+1. mindmap 展示
+https://github.com/mengyou658/mindmap-layouts

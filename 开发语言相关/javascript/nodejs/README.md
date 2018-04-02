@@ -3,6 +3,8 @@
 1. 
 1. 
 ### 教程/文章/小抄/规范/记事
+1. nodejs 正确的学习教程
+https://github.com/mengyou658/How-to-learn-node-correctly
 1. practices Node.js 实践教程
 https://github.com/ElemeFE/node-practice
 1.The largest Node.JS best practices list. Node.js 实践教程 最佳实践

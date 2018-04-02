@@ -108,6 +108,8 @@ https://github.com/mengyou658/pressure
 https://github.com/mengyou658/driver.js
 1. Rough.js is a light weight (~8k), Canvas based library that lets you draw in a sketchy, hand-drawn-like, style Rough.js是一种重量轻（〜8K），帆布基于库，可以让你在画粗略，手绘般的，风格
 https://github.com/mengyou658/rough
+1. A functional, reactive animation library. 动画库
+https://github.com/Popmotion/popmotion
 #####worker webworker web worker 
 1.Move an async function into its own thread 依赖webworker，将异步转移到单独的线程中运行
 https://github.com/mengyou658/greenlet
@@ -264,6 +266,25 @@ https://github.com/mengyou658/Manta
 1. electron
 https://github.com/electron/electron
 
+#electron
+1. 直接把网页转变成桌面app Make any web page a desktop application
+https://github.com/jiahaog/nativefier
+1. 基础模板， 样板项目
+https://github.com/chentsulin/electron-react-boilerplate
+1. ui
+https://github.com/connors/photon
+1, db
+https://github.com/louischatriot/nedb
+1. json db
+https://github.com/typicode/lowdb
+1. db on all platform 
+https://github.com/pubkey/rxdb
+1. 打包工具
+https://github.com/electron-userland/electron-packager
+1. 打包分发工具
+https://github.com/electron-userland/electron-builder
+1. ui vue Framework 
+https://github.com/quasarframework/quasar
 #pwa
 1.  Offload your store management to a worker easily (简单的使用 worker 来工作)
 https://github.com/mengyou658/stockroom
