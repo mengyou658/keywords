@@ -110,6 +110,8 @@ https://github.com/mengyou658/driver.js
 https://github.com/mengyou658/rough
 1. A functional, reactive animation library. 动画库
 https://github.com/Popmotion/popmotion
+1. 简单的图表库 支持ie8+ (类似echart)
+https://github.com/mengyou658/tui.chart
 #####worker webworker web worker 
 1.Move an async function into its own thread 依赖webworker，将异步转移到单独的线程中运行
 https://github.com/mengyou658/greenlet

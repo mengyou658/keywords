@@ -14,6 +14,11 @@ https://github.com/mengyou658/node-interview
 1. 
 1. 
 ### 实用 库/模块/框架
+1. Eggjs 企业级Web开发框架
+1. ThinkJS  借鉴ThinkPHP，并慢慢走出自己的一条路，对于Async函数等新特性支持，无出其右，新版v3.0是基于Koa v2.0的作为内核的 
+1. Sails、Total.js 面向其他语言，Ruby、PHP等	借鉴业界优秀实现，也是 Node.js 成熟的一个标志
+1. Koa 2  专注于异步流程改进	下一代Web框架
+1. Hapi和Restfy	面向Api && 微服务	移动互联网时代Api的作用被放大，故而独立分类。尤其是对于微服务开发更是利器
 1. the JavaScript App Platform （web应用框架）
 https://github.com/mengyou658/meteor
 1. Expressive middleware for node.js using ES2017 async functions  (基于expres的服务器web服务器框架)
