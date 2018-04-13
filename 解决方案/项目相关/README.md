@@ -149,6 +149,8 @@ https://github.com/mengyou658/geo-maps
 #接口管理
 1.RAP Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理
 https://github.com/mengyou658/RAP
+1. YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
+https://github.com/YMFE/yapi
 #自动化接口
 1.RAP Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理
 https://github.com/mengyou658/RAP

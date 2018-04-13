@@ -48,7 +48,11 @@
 	},
 	"expanded_folders":
 	[
-		"/G/keywords"
+		"/G/pass",
+		"/G/keywords",
+		"/G/keywords/解决方案",
+		"/G/keywords/解决方案/项目相关",
+		"/G/doc"
 	],
 	"file_history":
 	[
@@ -183,7 +187,7 @@
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 40.0
 	},
 	"find_in_files":
 	{
@@ -198,6 +202,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"api",
+			"bin",
 			"www.tp-shop.cn",
 			"update",
 			"nbsp;&amp;nbsp;&amp;nbsp;",
