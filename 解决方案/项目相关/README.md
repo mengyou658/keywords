@@ -378,7 +378,8 @@ Flink使用了流处理的内核，同时提供了流处理和批处理的接口
 #微信小程序
 1.  微信小程序组件化开发框架 
 https://github.com/mengyou658/wepy
-
+1. 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
+https://github.com/Meituan-Dianping/mpvue
 # 加密
 1. A JavaScript / Python / PHP cryptocurrency trading library with support for more than 90 bitcoin/altcoin exchanges 货币交易 加密库
 https://github.com/mengyou658/ccxt
@@ -441,3 +442,7 @@ https://github.com/mengyou658/mindmap-layouts
 
 # 商城
 1. tpshop
+
+# ddos 防御
+1. http://www.fangyudun.net/CDN/
+1. http://win-man.com/
