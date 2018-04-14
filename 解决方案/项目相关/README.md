@@ -438,15 +438,3 @@ https://github.com/mengyou658/jsmind
 1. mindmap 展示
 https://github.com/mengyou658/mindmap-layouts
 1. echart 也有简单的
-
-
-# 商城
-1. tpshop
-
-# ddos 防御
-1. http://www.fangyudun.net/CDN/
-1. http://win-man.com/
-
-# 音视频播放问题
-1. 使用腾讯云
-1. 参考themes/haohaios/course_ma.dwt

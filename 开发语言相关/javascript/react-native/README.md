@@ -12,6 +12,8 @@ https://github.com/expo/expo
 https://github.com/meteor-factory/awesome-react-native-meteor
 1. Creating great Text Styles in React Native 用简单的方式创建友好的字体排版风格
 https://github.com/mengyou658/react-native-typography
+1. 打开软件欢迎图（项目中使用过）
+https://github.com/crazycodeboy/react-native-splash-screen
 1. 
 ### 完整项目/示例/demo/代码片段
 1. meituan (美团app)

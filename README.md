@@ -3,6 +3,7 @@
 
 # 最近尝试
 ### kotlin
+### lodash 东西多，需要多学学
 ### 机器学习入门示例 https://github.com/aymericdamien/TensorFlow-Examples
 ### https://github.com/mengyou658/every-programmer-should-know
 ### spring-framework 5.0 新功能
