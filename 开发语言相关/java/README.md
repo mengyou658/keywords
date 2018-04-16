@@ -47,7 +47,10 @@ https://github.com/mengyou658/jeecg
 https://github.com/mengyou658/susi_server
 1. Yuna是一套基于Spring Session技术搭建的统一后台管理系统，集统一登录、统一授权、统一管理于一体
 http://gitee.com/jxttian/Yuna
-1. 
+1. 基于Spring Cloud、oAuth2.0开发基于Vue前后分离的开发平台，支持账号、短信、SSO等多种登录，提供配套视频开发教程
+https://github.com/pig4cloud/pig
+1. 简单的开放框架 （springboot shiro 代码生成器）
+https://github.com/mengyou658/renren-security
 ### 测试
 1. 
 1. 
