@@ -116,6 +116,10 @@ https://github.com/Popmotion/popmotion
 https://github.com/mengyou658/tui.chart
 1. Useful for URLs, filenames, and IDs. Convert a string to a valid safe filename (去除字符中的特殊符号（不适合文件名，urls，ids的字符）)
 https://github.com/sindresorhus/slugify
+1. dom-to-image is a library which can turn arbitrary DOM node into a vector (SVG) or raster (PNG or JPEG) image (dom to image 页面截屏)
+https://github.com/tsayen/dom-to-image
+1. A Flexible and Fun JavaScript File Upload Library (file upload library)
+https://github.com/mengyou658/filepond
 #####worker webworker web worker 
 1.Move an async function into its own thread 依赖webworker，将异步转移到单独的线程中运行
 https://github.com/mengyou658/greenlet

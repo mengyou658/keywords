@@ -2,8 +2,12 @@
 搜索关键词
 
 # 最近尝试
+### https://github.com/MachineLP/Tensorflow-
 ### kotlin
+### 如何用 Kotlin 重构 Java 应用程序
 ### lodash 东西多，需要多学学
+### mobx
+### React Apollo
 ### 机器学习入门示例 https://github.com/aymericdamien/TensorFlow-Examples
 ### https://github.com/mengyou658/every-programmer-should-know
 ### spring-framework 5.0 新功能

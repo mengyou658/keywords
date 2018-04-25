@@ -6,6 +6,8 @@
 * https://github.com/mengyou658/awesome
 ###面试
 1. 最新的面试笔记
+https://github.com/CyC2018/Interview-Notebook
+1. 最新的面试笔记
 https://github.com/mengyou658/InterviewNotes
 1. Java面试相关
 https://github.com/mengyou658/interviews
