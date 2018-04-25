@@ -1,0 +1,30 @@
+# 机器学习人工智能
+### 现成列表
+1. 
+1. 
+### cheatsheet 备忘录
+1. 
+1. 
+### 教程/文章/小抄/规范/记事
+1. 
+1. 
+### 实用 库/模块/框架
+1. A face detection library in 200 lines of JavaScript （人脸检测 JavaScript ）
+https://github.com/mengyou658/picojs
+1. tensorflow
+https://github.com/tensorflow/tensorflow
+1. TensorFlow.js 
+https://github.com/mengyou658/tfjs
+1. 
+### 完整项目/示例/demo/代码片段
+1. 
+1. 
+### 测试
+1. 
+1. 
+### UI
+1. 
+1. 
+### 工具
+1. 
+1. 

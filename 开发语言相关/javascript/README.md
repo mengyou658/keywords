@@ -90,6 +90,8 @@ https://github.com/mengyou658/emergence.js
 https://github.com/mengyou658/scrollama
 1. Modern JavaScript date utility library , 含有与 moment.js 的对比, 可以考虑替换moment
 https://github.com/mengyou658/date-fns
+1. Fast 2KB date library alternative to Moment.js with the same modern API  Day.js 是一个轻量的 JavaScript 时间日期处理库，和 Moment.js 的 API 设计保持完全一样. 如果你曾经用过 Moment.js, 那么你已经知道如何使用 Day.js
+https://github.com/mengyou658/dayjs
 1. native pattern matching for javascript (模式匹配,match，解放if else)
 https://github.com/mengyou658/z
 1. emoji （表情符号）
@@ -112,6 +114,8 @@ https://github.com/mengyou658/rough
 https://github.com/Popmotion/popmotion
 1. 简单的图表库 支持ie8+ (类似echart)
 https://github.com/mengyou658/tui.chart
+1. Useful for URLs, filenames, and IDs. Convert a string to a valid safe filename (去除字符中的特殊符号（不适合文件名，urls，ids的字符）)
+https://github.com/sindresorhus/slugify
 #####worker webworker web worker 
 1.Move an async function into its own thread 依赖webworker，将异步转移到单独的线程中运行
 https://github.com/mengyou658/greenlet
@@ -136,6 +140,8 @@ https://github.com/thinkjs/thinkjs
 https://github.com/mengyou658/style2paints
 1. IOTA Wallet (物联网数字货币 钱包)
 https://github.com/mengyou658/wallet
+1. An interactive 3D visualization of the all the buildings in Manhattan 曼哈顿所有建筑物的交互式三维可视化
+https://github.com/rolyatmax/nyc-buildings
 ##### game 游戏
 1. State management and more for turn based games. 游戏框架 回合制游戏
 https://github.com/mengyou658/boardgame.io
@@ -153,6 +159,8 @@ https://github.com/mengyou658/animateplus
 https://github.com/mengyou658/popmotion
 1. A tiny (~1.7 KB gzipped) spring physics micro-library that models a damped harmonic oscillator. 
 https://github.com/mengyou658/wobble （一个微型（约1.7KB）的弹簧物理微库，用于模拟阻尼谐振子）
+1. HTML5创建引擎：使用最快，最灵活的2D WebGL渲染器创建精美的数字内容。
+https://github.com/pixijs/pixi.js
 1. 
 ### 测试
 1. 一个可视化, 并且能快速生成模拟数据的持久化服务
@@ -298,7 +306,14 @@ https://github.com/mengyou658/hyperapp
 https://github.com/mengyou658/nerv
 1. vue
 1. preact
+1. https://github.com/baidu/san
 
 # nes 游戏 模拟器
 1. A JavaScript NES emulator. js nes 模拟器
 https://github.com/mengyou658/jsnes
+
+# 机器学习
+1. A face detection library in 200 lines of JavaScript （人脸检测 JavaScript ）
+https://github.com/mengyou658/picojs
+1. TensorFlow.js 
+https://github.com/mengyou658/tfjs

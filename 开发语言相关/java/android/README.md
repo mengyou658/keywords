@@ -6,6 +6,8 @@ https://github.com/wasabeef/awesome-android-ui
 ### 教程/文章/小抄/规范/记事
 1. 安卓面试
 https://github.com/mengyou658/android_interview
+1. 安卓的提示和陷阱 
+https://github.com/mengyou658/android-tips-tricks
 1. 
 ### 实用 库/模块/框架
 1. 这是一个TV Leanback 风格桌面 

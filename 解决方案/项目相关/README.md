@@ -358,7 +358,8 @@ https://github.com/mengyou658/kotlin
 #react 转化 静态网站
 1. 将react转换成静态网站 Blazing fast static site generator for React 
 https://github.com/mengyou658/gatsby
-
+1. vue 静态页面生成
+https://github.com/mengyou658/vuepress
 
 #流处理 大数据实时分析
 1.  流处理工具 开源大数据实时分析系统Heron
