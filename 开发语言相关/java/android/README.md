@@ -90,10 +90,43 @@ https://github.com/mengyou658/ConductorMVP
 1. 
 
 
-### 反编译 反向工程 dex java 反混淆 消除混淆
+### 反编译 反向工程 dex java 反混淆 消除混淆 hack技术
 1. Dex to Java decompiler jadx: Dex转Java的反编译器
 https://github.com/mengyou658/jadx
 1. A Java 8 Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)  java 反编译
 https://github.com/mengyou658/bytecode-viewer
 1. Generic Android Deobfuscator
 https://github.com/mengyou658/simplify
+1. A Simple App to use Xposed without root or unlock the bootloader(or modify system image etc) VirtualXposed 是基于VirtualApp 和 epic 在非ROOT环境下运行Xposed模块的实现（支持5.0~8.1)。
+https://github.com/android-hacker/VirtualXposed
+
+
+# Xposed module
+- [微X模块][wx]
+- [微信巫师][wxws]
+- [MDWechat][mdwechat]
+- [应用变量][yybl]
+- [音量增强器][ylzqq]
+- [微信学英语][wxxyy]
+- [冲顶助手][cdzs]
+- [情迁抢包][qqqb]
+- [微信跳一跳助手][ttzs]
+- [步数修改器][bsxg]
+- [模拟位置][mnwz]
+- [指纹支付][zwzf]
+- [QQ精简模块][qqjj]
+- [微信增强插件][wxzqcj]
+[wx]: https://pan.baidu.com/s/1hrOzCnq#list/path=%2Freleases%2Fapk&parentPath=%2Freleases
+[wxws]: https://github.com/Gh0u1L5/WechatMagician/releases
+[yybl]: https://www.coolapk.com/apk/com.sollyu.xposed.hook.model
+[ylzqq]: https://github.com/bin456789/Unblock163MusicClient-Xposed/releases
+[wxxyy]: https://www.coolapk.com/apk/com.hiwechart.translate
+[cdzs]: https://www.coolapk.com/apk/com.gy.xposed.cddh
+[qqqb]: http://repo.xposed.info/module/cn.qssq666.redpacket
+[ttzs]: http://repo.xposed.info/module/com.emily.mmjumphelper
+[mnwz]: https://www.coolapk.com/apk/com.rong.xposed.fakelocation
+[zwzf]: https://github.com/android-hacker/Xposed-Fingerprint-pay/releases
+[bsxg]: https://www.coolapk.com/apk/com.specher.sm
+[mdwechat]: https://github.com/Blankeer/MDWechat
+[qqjj]: https://github.com/zpp0196/QQSimple
+[wxzqcj]:https://github.com/firesunCN/WechatEnhancement
