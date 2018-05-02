@@ -38,6 +38,8 @@ https://github.com/mengyou658/MPAndroidChart
 https://github.com/mengyou658/vlayout
 1.Andorid 任意界面悬浮窗，实现悬浮窗如此简单
 https://github.com/mengyou658/FloatWindow
+1. A highly customizable, powerful and easy-to-use alerting library for Android
+https://github.com/mengyou658/Flashbar
 ### AR
 1. Google ARCore SDK for Android （google AR 库）
 https://github.com/google-ar/arcore-android-sdk

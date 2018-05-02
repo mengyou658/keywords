@@ -5,6 +5,12 @@
 * https://github.com/mengyou658/awesome-coins
 * https://github.com/mengyou658/awesome
 ###面试
+1. 基于项目的学习教程
+https://github.com/mengyou658/project-based-learning
+1. 后端架构师技术图谱
+https://github.com/xingshaocheng/architect-awesome
+1. Google 面试自学手册
+https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md
 1. 最新的面试笔记
 https://github.com/CyC2018/Interview-Notebook
 1. 最新的面试笔记
@@ -41,6 +47,8 @@ https://github.com/mengyou658/vrn
 1. mac os 工具应用列表
 https://github.com/nikitavoloboev/my-mac-os
 ### 教程/文章/规范
+1. css 教程
+https://github.com/mengyou658/css-protips
 1. 清单
 https://github.com/mengyou658/Web-Development-And-Engineering-Practices
 1. Coder-Knowledge-Management 程序员的知识管理：技术视野与职业规划

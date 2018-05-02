@@ -120,6 +120,10 @@ https://github.com/sindresorhus/slugify
 https://github.com/tsayen/dom-to-image
 1. A Flexible and Fun JavaScript File Upload Library (file upload library)
 https://github.com/mengyou658/filepond
+1.  Create PDF documents (PDF 生成)
+https://github.com/mengyou658/ReLaXed
+1. 只用CSS和HTML创作艺术品
+https://github.com/cyanharlow/purecss-francine
 #####worker webworker web worker 
 1.Move an async function into its own thread 依赖webworker，将异步转移到单独的线程中运行
 https://github.com/mengyou658/greenlet
@@ -165,6 +169,7 @@ https://github.com/mengyou658/popmotion
 https://github.com/mengyou658/wobble （一个微型（约1.7KB）的弹簧物理微库，用于模拟阻尼谐振子）
 1. HTML5创建引擎：使用最快，最灵活的2D WebGL渲染器创建精美的数字内容。
 https://github.com/pixijs/pixi.js
+1. 
 1. 
 ### 测试
 1. 一个可视化, 并且能快速生成模拟数据的持久化服务
@@ -232,6 +237,8 @@ https://github.com/mengyou658/alva
 https://github.com/mengyou658/toapi
 1. A framework for easily creating beautiful presentations using HTML 创建 html ppt 使用HTML轻松创建精美的演示文稿的框架
 https://github.com/mengyou658/reveal.js
+1. A presentation system that works great for creative, hurried people making focused presentations
+https://github.com/mengyou658/big
 1. Remove unused css 删除无用的css
 https://github.com/mengyou658/purgecss
 ####  文件上传
@@ -279,7 +286,8 @@ https://github.com/mengyou658/joplin
 https://github.com/mengyou658/Manta 
 1. electron
 https://github.com/electron/electron
-
+1. Kanban board built with Rust and Elm The only different from this application and hundred thousands of web-based application out there is: We don't need Electron!.Instead, it use native WebView (WebKit for Linux/macOS, and MSHTML on Windows), more details
+https://github.com/mengyou658/kanban-app
 #electron
 1. 直接把网页转变成桌面app Make any web page a desktop application
 https://github.com/jiahaog/nativefier
@@ -321,3 +329,4 @@ https://github.com/mengyou658/jsnes
 https://github.com/mengyou658/picojs
 1. TensorFlow.js 
 https://github.com/mengyou658/tfjs
+

@@ -86,7 +86,8 @@ https://github.com/mengyou658/SerpentAI
 # 游戏 unity
 1. Unity C# reference source code (unity 编辑器 c#相关源码) 
 https://github.com/mengyou658/UnityCsReference
-
+1. unity 插件
+https://github.com/mengyou658/ShaderForge
 
 #自动化的SQL解决方案
 ### sql solver （自动化的SQL解决方案，待实践）
@@ -126,6 +127,8 @@ https://github.com/mengyou658/DOMPurify
 https://github.com/mengyou658/sanitize-html
 1. Hacker101 is a free class for web security
 https://github.com/mengyou658/hacker101
+1. 基于项目的学习教程
+https://github.com/mengyou658/project-based-learning
 1. 
 
 # 微服务
@@ -446,3 +449,10 @@ https://github.com/mengyou658/mindmap-layouts
 # css 框架
 1. https://bulma.io/
 1. bootstrap
+
+# 高并发 High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
+1. 高可扩展性，高可用性，高稳定性，高性能和高智能后端设计
+
+# css-block 
+1. 高性能，可维护的样式表。 http://css-blocks.com/ 
+https://github.com/linkedin/css-blocks
