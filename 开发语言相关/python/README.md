@@ -81,11 +81,14 @@ https://github.com/pallets/flask
 1. HTML Parsing for Humans™ (简单的html解析工具)
 https://github.com/mengyou658/requests-html
 1. 
+1. 
 ### 完整项目/示例/demo/代码片段
 1. machine learning algorithm with pure python which let pramgramer learn easily; 机器学习算法代码库
 https://github.com/mengyou658/moodstyle
 1. Odoo. Open Source Apps To Grow Your Business.The main Odoo Apps include an Open Source CRM, Website Builder, eCommerce, Warehouse Management, Project Management, Billing & Accounting, Point of Sale, Human Resources, Marketing, Manufacturing, Purchase Management, ... (类染之项目)
 https://github.com/mengyou658/odoo
+1. 'Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network'的源代码  联合三维人脸重建和位置图回归网络密集对齐
+https://github.com/YadiraF/PRNet
 1. 
 1. 
 ### 测试

@@ -14,6 +14,8 @@ https://github.com/meteor-factory/awesome-react-native-meteor
 https://github.com/mengyou658/react-native-typography
 1. 打开软件欢迎图（项目中使用过）
 https://github.com/crazycodeboy/react-native-splash-screen
+1. WeChat login, share, favorite and payment for React-Native on iOS and Android platforms 
+https://github.com/yorkie/react-native-wechat
 1. 
 ### 完整项目/示例/demo/代码片段
 1. meituan (美团app)
