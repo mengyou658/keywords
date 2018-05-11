@@ -7,7 +7,7 @@
 https://github.com/mengyou658/How-to-learn-node-correctly
 1. practices Node.js 实践教程
 https://github.com/ElemeFE/node-practice
-1.The largest Node.JS best practices list. Node.js 实践教程 最佳实践
+1. The largest Node.JS best practices list. Node.js 实践教程 最佳实践
 https://github.com/mengyou658/nodebestpractices
 1. node-js 面试
 https://github.com/mengyou658/node-interview
