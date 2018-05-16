@@ -308,8 +308,9 @@ https://github.com/mengyou658/Lona
 # GraphQL 
 1. GraphQL client
 https://github.com/mengyou658/apollo-client
-1. GraphQL server
+1. GraphQL server （scala 中间层 数据库 转换成 graphql server）
 https://github.com/mengyou658/framework-1
+https://github.com/prismagraphql/prisma
 1. A list of software that turns your database into a REST/GraphQL API 把数据库转换成API
 https://github.com/mengyou658/automatic-api
 1. Universal React Query Library urql is a GraphQL client, exposed as a set of ReactJS components. 通用的react graphQL client

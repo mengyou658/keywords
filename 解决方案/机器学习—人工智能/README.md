@@ -26,7 +26,8 @@ https://github.com/mengyou658/tfjs
 1. 
 1. 
 ### 工具
-1. 
+1. 100+ Chinese Word Vectors 上百种预训练中文词向量
+https://github.com/mengyou658/Chinese-Word-Vectors
 1. 
 #自然语言处理
 1. 
