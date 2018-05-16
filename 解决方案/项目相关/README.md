@@ -456,3 +456,9 @@ https://github.com/mengyou658/mindmap-layouts
 # css-block 
 1. 高性能，可维护的样式表。 http://css-blocks.com/ 
 https://github.com/linkedin/css-blocks
+
+# 验证码
+1. google recaptcha
+1. 点击验证码 图文点击验证码
+https://www.cnblogs.com/shihaiming/p/7657115.html
+https://blog.csdn.net/qq_26680031/article/details/51168527
