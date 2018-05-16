@@ -308,7 +308,7 @@ https://github.com/mengyou658/Lona
 # GraphQL 
 1. GraphQL client
 https://github.com/mengyou658/apollo-client
-1. GraphQL server （scala 中间层 数据库 转换成 graphql server）
+1. GraphQL server （scala 中间层 数据库 转换成 graphql server+）
 https://github.com/mengyou658/framework-1
 https://github.com/prismagraphql/prisma
 1. A list of software that turns your database into a REST/GraphQL API 把数据库转换成API
@@ -463,3 +463,7 @@ https://github.com/linkedin/css-blocks
 1. 点击验证码 图文点击验证码
 https://www.cnblogs.com/shihaiming/p/7657115.html
 https://blog.csdn.net/qq_26680031/article/details/51168527
+
+# 机器人
+1.  构建伟大机器人的唯一理智方式 The only sane way of building great bots
+https://github.com/botpress/botpress

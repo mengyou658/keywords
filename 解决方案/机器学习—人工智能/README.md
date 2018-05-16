@@ -15,7 +15,11 @@ https://github.com/mengyou658/picojs
 https://github.com/tensorflow/tensorflow
 1. TensorFlow.js 
 https://github.com/mengyou658/tfjs
+1. Automatically "block" people in images (like Black Mirror) using a pretrained neural network. 使用预训练的神经网络自动“阻挡”图像中的人（如黑镜）
+(自动识别图片中的人，车，长颈鹿，等80多种不同类型的对象，然后进行遮挡) (Python TensorFlow Keras Numpy，skimage，scipy，Pillow，cython，h5py)
+https://github.com/mengyou658/person-blocker
 1. 
+
 ### 完整项目/示例/demo/代码片段
 1. 
 1. 

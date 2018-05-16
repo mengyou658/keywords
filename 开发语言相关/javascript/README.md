@@ -241,6 +241,10 @@ https://github.com/mengyou658/reveal.js
 https://github.com/mengyou658/big
 1. Remove unused css 删除无用的css
 https://github.com/mengyou658/purgecss
+1. git client for node and WebWorkers and ServiceWorkers
+https://github.com/isomorphic-git/isomorphic-git
+1. A web component for drawing patterns with css.
+https://github.com/css-doodle/css-doodle
 ####  文件上传
 1.  新一代的文件上传组件 Uppy is a sleek, modular file uploader that integrates seemlessly with any application. It’s fast, easy to use and lets you worry about more important problems than building a file uploader.
 https://github.com/mengyou658/uppy
@@ -288,6 +292,8 @@ https://github.com/mengyou658/Manta
 https://github.com/electron/electron
 1. Kanban board built with Rust and Elm The only different from this application and hundred thousands of web-based application out there is: We don't need Electron!.Instead, it use native WebView (WebKit for Linux/macOS, and MSHTML on Windows), more details
 https://github.com/mengyou658/kanban-app
+1. Create native desktop applications through a React syntax, on all platforms , 没有使用electron
+https://github.com/kusti8/proton-native
 #electron
 1. 直接把网页转变成桌面app Make any web page a desktop application
 https://github.com/jiahaog/nativefier
