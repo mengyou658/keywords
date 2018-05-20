@@ -10,6 +10,9 @@ https://github.com/cn/constitution
 # 区块链(BlockChain)
 1. 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
 https://github.com/mengyou658/awesome-blockchain
+1. 黑马程序员 120天全栈区块链开发 开源教程
+https://github.com/mengyou658/BlockChain
+
 
 # sso-server / oauth2 server
 1. https://github.com/mengyou658/sso-auth

@@ -16,10 +16,24 @@ https://github.com/mengyou658/react-native-typography
 https://github.com/crazycodeboy/react-native-splash-screen
 1. WeChat login, share, favorite and payment for React-Native on iOS and Android platforms 
 https://github.com/yorkie/react-native-wechat
+1. native navigation on android and ios (导航的原生实现)
+https://github.com/wix/react-native-navigation
+1. native navigation on android and ios (导航的原生实现)
+https://github.com/airbnb/native-navigation/
 1. 
 ### 完整项目/示例/demo/代码片段
 1. meituan (美团app)
 https://github.com/mengyou658/MeiTuan
+1. 电商类APP
+https://github.com/mengyou658/ZTShop-React-Native
+1. 云生活超市——React Native项目 电商类APP 
+https://github.com/mengyou658/community_e_commerce
+https://github.com/mengyou658/backend_cloud_commodity
+https://github.com/mengyou658/cms_community_e_commerce
+1. 电商类APP
+https://github.com/EleTeam/Shop-React-Native
+1. 电商类APP
+https://github.com/bigsui/shopping-react-native
 1. React Native Starter App with NativeBase + CodePush + Redux (react native 示例程序)
 https://github.com/mengyou658/native-starter-kit
 1. growth （react-native 中文 应用程序示例）

@@ -13,6 +13,8 @@
 ### spring-framework 5.0 新功能
 ### spring-security 5.0 新功能
 ### spring- 新功能
+### 利用Android AccessibilityService 实现自动加好友，拉人进群聊
+https://github.com/coder-pig/WechatHelper
 
 # 大公司团队开源项目
 https://github.com/niezhiyang/open_source_team

@@ -81,6 +81,8 @@ https://github.com/mengyou658/RapidView
 ### 工具
 1. Android开发人员不得不收集的代码 一个强大易用的安卓工具类库
 https://github.com/mengyou658/AndroidUtilCode
+1. 利用Android AccessibilityService 实现自动加好友，拉人进群聊
+https://github.com/coder-pig/WechatHelper
 1. 
 ### 快速开发模板项目
 1. A common Architecture for Android Applications developing based on MVP，integrates many Open Source Projects( like Dagger2,RxJava,Retrofit... ),to make your developing quicker and easier. 一个整合了大量主流开源项目高度可配置化的 Android MVP 快速集成框架
