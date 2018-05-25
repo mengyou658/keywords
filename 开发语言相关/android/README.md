@@ -40,6 +40,8 @@ https://github.com/mengyou658/vlayout
 https://github.com/mengyou658/FloatWindow
 1. A highly customizable, powerful and easy-to-use alerting library for Android
 https://github.com/mengyou658/Flashbar
+1. 自定义LayoutManager，炫酷列表
+https://github.com/mengyou658/LayoutManagerGroup
 ### AR
 1. Google ARCore SDK for Android （google AR 库）
 https://github.com/google-ar/arcore-android-sdk

@@ -1,6 +1,7 @@
 #php
 ### 现成列表
-1. 
+1. PHPCON大会 中国技术峰会
+https://github.com/ThinkDevelopers/PHPConChina
 1. 
 ### 教程/文章/小抄/规范/记事
 1. guide to producing readable, reusable, and refactorable software in PHP (PHP编码规范)
