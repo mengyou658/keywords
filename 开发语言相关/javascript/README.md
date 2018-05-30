@@ -336,3 +336,10 @@ https://github.com/mengyou658/picojs
 1. TensorFlow.js 
 https://github.com/mengyou658/tfjs
 
+# 人脸识别
+1. 本项目是一个基于前端人脸识别技术实现的照片合成示例  a demo of frontend-face-detection
+https://github.com/tower1229/frontend-face-detection
+1. 人脸识别
+https://github.com/eduardolundgren/tracking.js/
+1. 照片合成
+https://github.com/AlloyTeam/AlloyImage

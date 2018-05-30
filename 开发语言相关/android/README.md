@@ -42,6 +42,10 @@ https://github.com/mengyou658/FloatWindow
 https://github.com/mengyou658/Flashbar
 1. 自定义LayoutManager，炫酷列表
 https://github.com/mengyou658/LayoutManagerGroup
+1. 一个非常方便实用的二维码扫描、解析、生成库
+https://github.com/xuexiangjys/XQRCode
+1. 一种优雅的方式来使用RecyclerView  Adapter 适配器模式
+https://github.com/xuehuayous/DelegationAdapter
 ### AR
 1. Google ARCore SDK for Android （google AR 库）
 https://github.com/google-ar/arcore-android-sdk
