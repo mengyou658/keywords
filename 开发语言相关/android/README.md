@@ -46,6 +46,8 @@ https://github.com/mengyou658/LayoutManagerGroup
 https://github.com/xuexiangjys/XQRCode
 1. 一种优雅的方式来使用RecyclerView  Adapter 适配器模式
 https://github.com/xuehuayous/DelegationAdapter
+1. EasySettings is a library to help you add and maintain settings (AKA preferences) to your Android app 一个轻松创建和添加设置（AKA首选项）到您的Android应用程序库 
+https://github.com/or-dvir/EasySettings
 ### AR
 1. Google ARCore SDK for Android （google AR 库）
 https://github.com/google-ar/arcore-android-sdk
