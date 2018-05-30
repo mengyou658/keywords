@@ -104,6 +104,12 @@ https://github.com/mengyou658/nginx-rtmp-module
 https://github.com/mengyou658/KingTV 
 
 #安全相关、性能相关
+1. 安全思维导图集合
+https://github.com/SecWiki/sec-chart
+1. 各种安全相关思维导图整理收集
+https://github.com/phith0n/Mind-Map
+1. Scanners Box是一个集合github平台上的安全行业从业者自研开源扫描器的仓库，包括子域名枚举、数据库漏洞扫描、弱口令或信息泄漏扫描、端口扫描、指纹识别以及其他大型扫描器或模块化扫描器，同时该仓库只收录各位网友自己编写的一般性开源扫描器，类似awvs、nmap、w3af等知名扫描工具不收录
+https://github.com/We5ter/Scanners-Box
 1.Security Guide for Developers (实用性开发人员安全须知) https://git.io/security
 https://github.com/FallibleInc/security-guide-for-developers
 1. 一系列安全须知

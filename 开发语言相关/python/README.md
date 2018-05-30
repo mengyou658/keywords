@@ -89,6 +89,8 @@ https://github.com/mengyou658/moodstyle
 https://github.com/mengyou658/odoo
 1. 'Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network'的源代码  联合三维人脸重建和位置图回归网络密集对齐
 https://github.com/YadiraF/PRNet
+1. Python3网络爬虫实战：VIP视频破解助手；GEETEST验证码破解；小说、动漫下载；手scylla机APP爬取；财务报表入库；火车票抢票；抖音APP视频下载；百万英雄辅助；网易云音乐批量下载
+https://github.com/Jack-Cherish/python-spider
 1. 
 1. 
 ### 测试
@@ -114,3 +116,5 @@ https://github.com/mengyou658/silk
 https://github.com/mengyou658/pysheeet
 1. 开源跳板机(堡垒机):认证,授权,审计,自动化运维
 https://github.com/mengyou658/jumpserver
+1. Scylla 是一款高质量的免费代理 IP 池工具
+https://github.com/imWildCat/scylla

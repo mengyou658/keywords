@@ -14,6 +14,8 @@ https://github.com/mengyou658/WinPwnage
 1. 感染猴 - 一种自动化的笔测试工具 The Infection Monkey is an open source security tool for testing a data center's resiliency to perimeter breaches and internal server infection.
 https://github.com/guardicore/monkey
 1. 
+https://github.com/mengyou658/PS4-5.05-Kernel-Exploit
+1. 
 ### 完整项目/示例/demo/代码片段
 1. 
 1. 
