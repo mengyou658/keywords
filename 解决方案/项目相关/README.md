@@ -12,7 +12,11 @@ https://github.com/cn/constitution
 https://github.com/mengyou658/awesome-blockchain
 1. 黑马程序员 120天全栈区块链开发 开源教程
 https://github.com/mengyou658/BlockChain
-
+1. https://www.bilibili.com/video/av21842988
+1. https://www.bilibili.com/video/av21842290
+1. https://ethfans.org/wikis/Home
+1. https://yeasy.gitbooks.io/blockchain_guide/content/
+1. https://github.com/LiuBoyu/blockchain
 
 # sso-server / oauth2 server
 1. https://github.com/mengyou658/sso-auth
@@ -398,6 +402,8 @@ https://github.com/mengyou658/wepy
 1. 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
 https://github.com/Meituan-Dianping/mpvue
 # 加密
+1. 加密学习入门 通过一个简单的银行的步骤，来一步一步讲解加密
+https://github.com/sodium-friends/learntocrypto
 1. A JavaScript / Python / PHP cryptocurrency trading library with support for more than 90 bitcoin/altcoin exchanges 货币交易 加密库
 https://github.com/mengyou658/ccxt
 1. Easy-to-use crypto toolkit google 谷歌出的加密工具库 
@@ -476,3 +482,6 @@ https://blog.csdn.net/qq_26680031/article/details/51168527
 # 机器人
 1.  构建伟大机器人的唯一理智方式 The only sane way of building great bots
 https://github.com/botpress/botpress
+
+# 一个轻量级的包托管网站，app-host 主要用于 iOS 和 Android 的包管理，作用类似于fir.im
+https://github.com/pluosi/app-host

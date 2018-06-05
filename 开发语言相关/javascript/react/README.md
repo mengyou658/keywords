@@ -47,6 +47,8 @@ https://github.com/mengyou658/react-pxq
 ### 工具
 1. 海量可复用物料，通过 GUI 工具极速构建中后台应用，可视化的构建后台应用，基于react,vue 快速自定义生成后台
 https://github.com/mengyou658/ice
+1. Painless universal pre-rendering for Webpack (webpack 预编译 插件 生成静态页面)
+https://github.com/GoogleChromeLabs/prerender-loader
 1. create-react-app （react 脚手架）
 https://github.com/facebookincubator/create-react-app
 1. React for interactive command-line apps （命令行中使用react的解决方案）
@@ -67,4 +69,5 @@ https://github.com/mengyou658/reactopt
 使用svg来展示react等组件 react-content-loader 允许开发者利用 SVG，来创建模拟即将加载的内容块结构的提示条，其有点类似于 Facebook 的卡片加载样式。
 使用这个来消除react加载慢，导致页面空白的问题
 https://github.com/mengyou658/react-content-loader
+1. 
 1. 

@@ -29,6 +29,8 @@ https://github.com/mengyou658/node-interview
 https://github.com/mengyou658/android_interview
 1.  代码面试
 https://github.com/mengyou658/coding-interview-university
+1. 面试问题集合
+https://github.com/fejes713/30-seconds-of-interviews
 ###深入研究
 1. Writing a sqlite clone from scratch in C （教你怎么样写一个数据库）
 https://github.com/cstack/db_tutorial
