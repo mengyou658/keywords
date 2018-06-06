@@ -485,3 +485,6 @@ https://github.com/botpress/botpress
 
 # 一个轻量级的包托管网站，app-host 主要用于 iOS 和 Android 的包管理，作用类似于fir.im
 https://github.com/pluosi/app-host
+
+#微信小游戏
+https://github.com/18770919803/runaway
