@@ -8,6 +8,8 @@ https://github.com/mengyou658/react-pxq
 1. 
 1. 
 ### 实用 库/模块/框架
+1. 类似redux，借鉴redux，但是更贴合的方式使用reducer
+https://github.com/mengyou658/react-recomponent
 1. forms in react
 https://github.com/jaredpalmer/formik
 1. 类似 react+redux框架，不过更轻量级

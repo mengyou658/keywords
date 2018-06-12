@@ -11,6 +11,8 @@ https://github.com/ElemeFE/node-practice
 https://github.com/mengyou658/nodebestpractices
 1. node-js 面试
 https://github.com/mengyou658/node-interview
+1. Nodejs学习笔记以及经验总结
+https://github.com/chyingp/nodejs-learning-guide
 1. 
 1. 
 ### 实用 库/模块/框架

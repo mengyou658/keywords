@@ -124,6 +124,9 @@ https://github.com/mengyou658/filepond
 https://github.com/mengyou658/ReLaXed
 1. 只用CSS和HTML创作艺术品
 https://github.com/cyanharlow/purecss-francine
+1. A JavaScript library to progressively highlight any text on a page （动画的形式高亮页面字体）
+![Demo gif](https://lumin.rocks/images/highlight.gif)
+https://github.com/pshihn/lumin
 #####worker webworker web worker 
 1.Move an async function into its own thread 依赖webworker，将异步转移到单独的线程中运行
 https://github.com/mengyou658/greenlet

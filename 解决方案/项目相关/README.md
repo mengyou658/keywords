@@ -401,6 +401,8 @@ Flink使用了流处理的内核，同时提供了流处理和批处理的接口
 https://github.com/mengyou658/wepy
 1. 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
 https://github.com/Meituan-Dianping/mpvue
+1. 类似react的形式开发小程序
+https://github.com/mengyou658/taro
 # 加密
 1. 加密学习入门 通过一个简单的银行的步骤，来一步一步讲解加密
 https://github.com/sodium-friends/learntocrypto
@@ -488,3 +490,7 @@ https://github.com/pluosi/app-host
 
 #微信小游戏
 https://github.com/18770919803/runaway
+
+# 语音识别
+1. 基于kaldi 的语音识别
+https://github.com/alibaba/Alibaba-MIT-Speech

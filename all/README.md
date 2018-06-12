@@ -7,6 +7,8 @@ https://github.com/mengyou658/build-your-own-x
 * https://github.com/mengyou658/awesome-coins
 * https://github.com/mengyou658/awesome
 ###面试
+1. java 面试
+https://github.com/crossoverJie/Java-Interview
 1. 基于项目的学习教程
 https://github.com/mengyou658/project-based-learning
 1. 后端架构师技术图谱
