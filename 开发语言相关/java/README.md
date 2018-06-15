@@ -4,6 +4,9 @@
 https://github.com/jobbole/awesome-java-cn
 1. Java8有用的代码片段
 https://github.com/mengyou658/30-seconds-of-java8
+1. 汇总java生态圈常用技术框架、开源中间件，系统架构、项目管理、经典架构案例、数据库、常用三方库、线上运维等知识
+https://github.com/aalansehaiyang/technology-talk
+1. 
 1. 
 ### 教程/文章/小抄/规范/记事
 1. Design patterns implemented in Java （设计模式java版本）
@@ -34,6 +37,8 @@ https://github.com/mengyou658/kkFileView
 https://github.com/mengyou658/myth
 1. 
 ### 完整项目/示例/demo/代码片段
+1.openzaly 是 Akaxin 的服务器源代码，用以搭建私有聊天服务器。 服务器安装教程：https://www.akaxin.com/docs/install/index.html QQ群: 655249600
+https://github.com/akaxincom/openzaly
 ##### 快速开发框架
 1. 基于Spring+SpringMVC+Mybatis分布式敏捷开发系统架构，提供整套公共微服务服务模块：集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位J2EE企业级开发解决方案。
 https://github.com/mengyou658/zheng

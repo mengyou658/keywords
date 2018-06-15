@@ -16,6 +16,8 @@ https://github.com/mengyou658/yii2
 ### 完整项目/示例/demo/代码片段
 1. 面向中小企业的协同管理系统：客户管理、日常办公、现金记账、团队分享 染之 http://www.ranzhi.org
 https://gitee.com/wwccss/ranzhi
+1. Laravel 电商实战教程的项目代码 商城 shop
+https://github.com/mengyou658/laravel-shop
 1. 
 ### 测试
 1. 

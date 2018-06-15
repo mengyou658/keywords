@@ -30,6 +30,8 @@ https://github.com/mbeaudru/modern-js-cheatsheet#notions
 https://github.com/mengyou658/30-seconds-of-code
 1. 
 ### 实用 库/模块/框架
+1. JavaScript math library 
+https://github.com/josdejong/mathjs
 1. search JavaScript （js中搜索）
 https://github.com/KingPixil/wade
 1. web test editor （web编辑器）
@@ -210,6 +212,8 @@ https://github.com/mengyou658/muuri
 1. 
 1. 
 ### 工具
+1. Random generator helper for JavaScript this single library can generate random numbers, characters, strings, names, addresses, dice, and pretty much anything else
+https://github.com/chancejs/chancejs
 1. webpack 的替代解决方案， 最佳的使用方式 ，编译更快
 https://github.com/mengyou658/parcel
 1. 类似create-react-app的工具，对webpack的封装，无需多余的配置
@@ -248,6 +252,8 @@ https://github.com/mengyou658/purgecss
 https://github.com/isomorphic-git/isomorphic-git
 1. A web component for drawing patterns with css.
 https://github.com/css-doodle/css-doodle
+1. Record, Replay, and Stub HTTP Interactions
+https://github.com/mengyou658/pollyjs
 ####  文件上传
 1.  新一代的文件上传组件 Uppy is a sleek, modular file uploader that integrates seemlessly with any application. It’s fast, easy to use and lets you worry about more important problems than building a file uploader.
 https://github.com/mengyou658/uppy
@@ -346,3 +352,5 @@ https://github.com/tower1229/frontend-face-detection
 https://github.com/eduardolundgren/tracking.js/
 1. 照片合成
 https://github.com/AlloyTeam/AlloyImage
+1. 简单的入门
+https://github.com/vipstone/faceai

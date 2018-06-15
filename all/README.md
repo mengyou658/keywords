@@ -7,6 +7,8 @@ https://github.com/mengyou658/build-your-own-x
 * https://github.com/mengyou658/awesome-coins
 * https://github.com/mengyou658/awesome
 ###面试
+1. 面试 java
+https://github.com/kdn251/interviews/blob/master/README-zh-cn.md
 1. java 面试
 https://github.com/crossoverJie/Java-Interview
 1. 基于项目的学习教程
