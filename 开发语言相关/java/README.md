@@ -48,8 +48,6 @@ https://github.com/mengyou658/hsweb-framework
 https://github.com/thinkgem/jeesite
 1. JEECG 基于代码生成器的智能开发平台
 https://github.com/mengyou658/jeecg
-1. Software and Skills for Personal Assistants using SUSI AI / Artificial Intelligence for Chat Bots （AI 聊天机器人）
-https://github.com/mengyou658/susi_server
 1. Yuna是一套基于Spring Session技术搭建的统一后台管理系统，集统一登录、统一授权、统一管理于一体
 http://gitee.com/jxttian/Yuna
 1. 基于Spring Cloud、oAuth2.0开发基于Vue前后分离的开发平台，支持账号、短信、SSO等多种登录，提供配套视频开发教程

@@ -118,3 +118,5 @@ https://github.com/mengyou658/pysheeet
 https://github.com/mengyou658/jumpserver
 1. Scylla 是一款高质量的免费代理 IP 池工具
 https://github.com/imWildCat/scylla
+1. cli 展示 gif
+https://github.com/google/gif-for-cli

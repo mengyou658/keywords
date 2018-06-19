@@ -68,5 +68,9 @@ https://github.com/mengyou658/nideshop
 ### 工具
 1. Remove unnecessary files from node_modules ， 删除node_modules中多余的文件
 https://github.com/mengyou658/node-prune
+1. Software and Skills for Personal Assistants using SUSI AI / Artificial Intelligence for Chat Bots （AI 聊天机器人）
+https://github.com/mengyou658/susi_server
+1. Botpress是一个用JavaScript编写的开源bot创建工具
+https://github.com/botpress/botpress
 1. 
 1. 

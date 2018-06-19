@@ -484,6 +484,10 @@ https://blog.csdn.net/qq_26680031/article/details/51168527
 # 机器人
 1.  构建伟大机器人的唯一理智方式 The only sane way of building great bots
 https://github.com/botpress/botpress
+1. Software and Skills for Personal Assistants using SUSI AI / Artificial Intelligence for Chat Bots （AI 聊天机器人）
+https://github.com/mengyou658/susi_server
+1. Botpress是一个用JavaScript编写的开源bot创建工具
+https://github.com/botpress/botpress
 
 # 一个轻量级的包托管网站，app-host 主要用于 iOS 和 Android 的包管理，作用类似于fir.im
 https://github.com/pluosi/app-host
