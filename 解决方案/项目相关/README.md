@@ -188,6 +188,8 @@ https://github.com/mengyou658/xmysql
 https://github.com/mengyou658/karmatic
 1.Nightmare是来自Segment的高级浏览器自动化库 它使用了与PhantomJS类似的Electron  Nightmare is a high-level browser automation library from Segment
 https://github.com/segmentio/nightmare
+1. 可以参考 它会自动打开 APP 对视频截图 点赞并关注，接着翻到下一页，重复进行该过程
+https://github.com/wangshub/Douyin-Bot
 ##### 用于自动化测试和不需要可视化用户界面的服务器
 1. Headless Chrome Node API （）
 https://github.com/GoogleChrome/puppeteer

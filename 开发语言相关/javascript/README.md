@@ -291,6 +291,9 @@ import "babel-polyfill";
 import "./app";
 // Read the docs on babel-polyfill (http://babeljs.io/docs/usage/polyfill) and babel-runtime (http://babeljs.io/docs/plugins/transform-runtime).
 ```
+#sucrase
+1. 号称比babel快25倍的javascript转码器
+https://github.com/alangpierce/sucrase
 
 #办公 代办事项
 1. a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS 一个笔记和待办事项的应用程序与同步功能的Windows，MacOS，Linux，Android和iOS （类似滴答清单，有道云笔记，）

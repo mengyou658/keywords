@@ -44,3 +44,7 @@ https://github.com/mengyou658/Chinese-Word-Vectors
 #通用机器学习
 1. 
 1. 
+# 公开数据集，大部分免费，涵盖机器学习、自然语言处理、图像识别等领域
+1. 公开数据集，大部分免费，涵盖机器学习、自然语言处理、图像识别等领域
+https://github.com/awesomedata/awesome-public-datasets
+1. 

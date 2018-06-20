@@ -16,6 +16,8 @@
 ### 利用Android AccessibilityService 实现自动加好友，拉人进群聊
 https://github.com/coder-pig/WechatHelper
 
+### 计算机科学速成课 https://github.com/1c7/crash-course-computer-science-chinese
+
 # 大公司团队开源项目
 https://github.com/niezhiyang/open_source_team
 
