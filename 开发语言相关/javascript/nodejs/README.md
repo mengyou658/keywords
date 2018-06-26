@@ -72,5 +72,6 @@ https://github.com/mengyou658/node-prune
 https://github.com/mengyou658/susi_server
 1. Botpress是一个用JavaScript编写的开源bot创建工具
 https://github.com/botpress/botpress
-1. 
+1. Elegant terminal spinner 做工具时候使用，优雅的展示操作进度
+https://github.com/sindresorhus/ora
 1. 

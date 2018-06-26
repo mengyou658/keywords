@@ -15,6 +15,8 @@
 ### spring- 新功能
 ### 利用Android AccessibilityService 实现自动加好友，拉人进群聊
 https://github.com/coder-pig/WechatHelper
+### 现代 Web 开发，现代 Web 开发导论 | 基础篇 | 进阶篇 | 架构优化篇 | React 篇 | Vue 篇
+https://github.com/wxyyxc1992/Web-Series
 
 ### 计算机科学速成课 https://github.com/1c7/crash-course-computer-science-chinese
 

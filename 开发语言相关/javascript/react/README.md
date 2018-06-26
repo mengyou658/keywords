@@ -32,6 +32,10 @@ https://github.com/mengyou658/after.js
 https://github.com/mengyou658/next.js
 1. A React environment for cross platform native desktop apps
 https://github.com/kusti8/proton-native
+1. 图像 裁剪 react
+https://github.com/ricardo-ch/react-easy-crop
+1. 异步 加载 图像 react
+https://github.com/stereobooster/react-ideal-image
 1. 
 ### 完整项目/示例/demo/代码片段
 1.  next.js antd  antd-mobile next-offline nprogress mobx

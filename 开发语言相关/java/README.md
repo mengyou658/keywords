@@ -28,6 +28,8 @@ https://github.com/mengyou658/metabase
 https://github.com/mengyou658/neo4j
 1. 使用spring boot打造文件文档在线预览项目解决方案，支持doc、docx、ppt、pptx、xls、xlsx、zip、rar、以及众多类文本如txt、html、xml、java、properties、mp3、mp4、sql、js、md、json、conf、ini、vue、php、py、bat、gitignore等文件在线预览 http://file.keking.cn/
 https://github.com/mengyou658/kkFileView
+1. 配置文件读取库
+https://github.com/lightbend/config
 ###### 微服务
 1. https://github.com/anilallewar/microservices-basics-spring-boot 
 1. https://github.com/rohitghatol/spring-boot-microservices 

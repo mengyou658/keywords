@@ -64,4 +64,6 @@ https://github.com/mengyou658/aurora-imui
 ### 工具
 1. 调试react和react-native应用 A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
 https://github.com/mengyou658/reactotron
+1. Sonar is a platform for debugging mobile apps on iOS and Android 调试
+https://github.com/facebook/Sonar
 1. 

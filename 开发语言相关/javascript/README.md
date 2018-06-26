@@ -34,6 +34,8 @@ https://github.com/mengyou658/30-seconds-of-code
 https://github.com/josdejong/mathjs
 1. search JavaScript （js中搜索）
 https://github.com/KingPixil/wade
+1. js 模糊搜索
+https://github.com/mengyou658/Fuse
 1. web test editor （web编辑器）
 https://github.com/jaredreich/pell
 1. mailit A tiny drop-in REST API to send emails
@@ -204,6 +206,8 @@ https://github.com/mengyou658/layui
 * https://github.com/mengyou658/iview-admin
 1. mobile ui lib implement by Vue 
 https://github.com/mengyou658/cube-ui
+1. 基于jQuery，针对PC网站，兼容IE7+（modern主题）或IE8+（peak主题）的前端UI框架
+https://github.com/yued-fe/lulu
 ### 可伸缩布局方案
 1. amfe-flexible 
 https://github.com/mengyou658/lib-flexible
