@@ -365,3 +365,5 @@ https://github.com/eduardolundgren/tracking.js/
 https://github.com/AlloyTeam/AlloyImage
 1. 简单的入门
 https://github.com/vipstone/faceai
+1. JavaScript API for face detection and face recognition in the browser with tensorflow.js face-recognition face javascript js tensorflow tfjs neural-network resnet-34 convolutional-neural-networks face-detection face-similarity ssd-mobilenet face-landmarks
+https://github.com/justadudewhohacks/face-api.js
