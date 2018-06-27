@@ -38,6 +38,8 @@ https://github.com/mengyou658/Chinese-Word-Vectors
 #自然语言处理
 1. 自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 关键词提取 新词发现 短语提取 自动摘要 文本分类 拼音简繁 http://hanlp.hankcs.com/
 https://github.com/hankcs/HanLP
+1. 存储库，用于跟踪自然语言处理（NLP）中的进度，包括数据集和最常用的NLP任务的当前最新技术。
+https://github.com/sebastianruder/NLP-progress
 1. 
 #数据分析/数据可视化
 1. 
