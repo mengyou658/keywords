@@ -91,6 +91,8 @@ https://github.com/mengyou658/RapidView
 https://github.com/mengyou658/AndroidUtilCode
 1. 利用Android AccessibilityService 实现自动加好友，拉人进群聊
 https://github.com/coder-pig/WechatHelper
+1. 视频裁剪 Android
+https://blog.zhoulujue.com/edit-local-video-using-customized-ffmpeg-so/
 1. 
 ### 快速开发模板项目
 1. A common Architecture for Android Applications developing based on MVP，integrates many Open Source Projects( like Dagger2,RxJava,Retrofit... ),to make your developing quicker and easier. 一个整合了大量主流开源项目高度可配置化的 Android MVP 快速集成框架
