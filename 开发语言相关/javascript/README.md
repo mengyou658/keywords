@@ -306,6 +306,8 @@ https://github.com/alangpierce/sucrase
 https://github.com/mengyou658/joplin
 
 #桌面应用工具
+1. Make any web page a desktop application
+https://github.com/jiahaog/nativefier
 1. A desktop application for creating invoices with beautiful and customizable templates.
 https://github.com/mengyou658/Manta 
 1. electron
