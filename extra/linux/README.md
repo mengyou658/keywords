@@ -26,6 +26,8 @@ https://github.com/MintCN/linux-insides-zh
 ### 工具
 1. The missing terminal file browser for X 
 https://github.com/mengyou658/nnn
+1. 统一的命令行数据库连接工具 在命令行下操作不同的数据库
+https://github.com/xo/usql
 1. 
 ### 有意思的
 1. bash游戏
