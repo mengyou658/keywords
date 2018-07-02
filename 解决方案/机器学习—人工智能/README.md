@@ -50,4 +50,10 @@ https://github.com/sebastianruder/NLP-progress
 # 公开数据集，大部分免费，涵盖机器学习、自然语言处理、图像识别等领域
 1. 公开数据集，大部分免费，涵盖机器学习、自然语言处理、图像识别等领域
 https://github.com/awesomedata/awesome-public-datasets
+1. 这里列出50个可以用来训练模型的免费大型数据集
+https://gengo.ai/articles/the-50-best-free-datasets-for-machine-learning/
 1. 
+
+#笔迹识别算法
+1. GRAIL 笔迹识别算法
+https://jackschaedler.github.io/handwriting-recognition/

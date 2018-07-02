@@ -30,4 +30,6 @@ https://github.com/mengyou658/zstd
 ### 工具
 1.  从google chrome 读取用户密码 Meltdown PoC for reading passwords from Google Chrome.
 https://github.com/mengyou658/Meltdown
+1. A command-line system information tool written in bash 3.2+ 一个显示 Linux 服务器信息的命令行工具
+https://github.com/dylanaraps/neofetch
 1. 
