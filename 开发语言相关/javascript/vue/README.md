@@ -11,6 +11,10 @@ https://github.com/ustbhuangyi/vue-analysis
 ### 实用 库/模块/框架
 1. vue 静态页面生成
 https://github.com/mengyou658/vuepress
+1. Vue Material框架 ssr pwa  vue-cli 模板 即时聊天 
+https://github.com/vuetifyjs/vuetify
+1. 电子商务的PWA。100％离线，平台无关，无头，支持Magento 2, vue 定制 主题
+https://github.com/DivanteLtd/vue-storefront
 1. 
 ### 完整项目/示例/demo/代码片段
 1. 

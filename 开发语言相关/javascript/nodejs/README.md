@@ -26,6 +26,8 @@ https://github.com/chyingp/nodejs-learning-guide
 https://github.com/balderdashy/sails
 1. node.js cms and web app framework
 https://github.com/keystonejs/keystone
+1. 通用CMS框架，使用React和Apollo GraphQL for Firebase，Prisma，GraphQL，Restful API 使用jsx语法定制自己想要的cms网站 是一个通用的CMS框架，允许您为Firebase，GraphQL，Restful API，Prisma构建React JSX（类似XML）CMS中的CMS，换句话说，可以为任何应用程序和数据源构建一个不可知的CMS框架
+https://github.com/Canner/canner
 1. the JavaScript App Platform （web应用框架）
 https://github.com/mengyou658/meteor
 1. Expressive middleware for node.js using ES2017 async functions  (基于expres的服务器web服务器框架)
