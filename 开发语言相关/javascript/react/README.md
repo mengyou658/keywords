@@ -8,6 +8,8 @@ https://github.com/mengyou658/react-pxq
 1. 
 1. 
 ### 实用 库/模块/框架
+1. react react-router parcel 类似create-react-app
+https://github.com/alidcastano/rogue
 1. 类似redux，借鉴redux，但是更贴合的方式使用reducer
 https://github.com/mengyou658/react-recomponent
 1. forms in react

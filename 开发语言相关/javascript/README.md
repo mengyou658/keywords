@@ -131,6 +131,12 @@ https://github.com/cyanharlow/purecss-francine
 1. A JavaScript library to progressively highlight any text on a page （动画的形式高亮页面字体）
 ![Demo gif](https://lumin.rocks/images/highlight.gif)
 https://github.com/pshihn/lumin
+1. 是一个基于Three.js的web 3D地球数据可视化的开源组件库
+https://github.com/syt123450/giojs
+1.
+1.
+1.
+1.
 #####worker webworker web worker 
 1.Move an async function into its own thread 依赖webworker，将异步转移到单独的线程中运行
 https://github.com/mengyou658/greenlet
@@ -280,7 +286,10 @@ https://github.com/mengyou658/sanitize-html
 # 算法
 1. JavaScript 算法与数据结构
 https://github.com/trekhleb/javascript-algorithms
-
+1. 模糊搜索数据结构 一种数据结构，它执行类似于全文搜索数据的内容，以确定可能的错误拼写和近似字符串匹配
+https://github.com/Glench/fuzzyset.js
+1. 吉他和弦推导算法，外带和弦指法svg可视化
+https://github.com/youngdro/guitarChord
 #代码生成脚手架cli工具
 1. The hottest CLI for React Native, boilerplates, plugins, generators, and more! 
 https://github.com/mengyou658/ignite
