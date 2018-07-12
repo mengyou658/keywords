@@ -19,6 +19,16 @@ https://github.com/mengyou658/BlockChain
 1. https://github.com/LiuBoyu/blockchain
 
 # sso-server / oauth2 server
+1. oath2 网站
+https://oauth.net
+1. oauth2
+https://github.com/scribejava/scribejava
+1. oauth2
+https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server
+1. oauth2
+https://github.com/networknt/light-oauth2
+1. tokens
+https://github.com/zalando/tokens
 1. https://github.com/mengyou658/sso-auth
 1. https://github.com/GluuFederation/oxAuth
 1. spring oauth2 相关参考
@@ -523,3 +533,18 @@ https://github.com/DivanteLtd/vue-storefront
 https://certbot.eff.org/
 1. mkcert is a simple tool for making locally-trusted development certificates. 生成本地 HTTPS 加密证书的工具，一个命令就可以生成证书，不需要任何配置。图片是就是它默认为 localhost 生成的加密证书
 https://github.com/FiloSottile/mkcert
+
+# 一个可以观看国内主流视频平台所有视频的客户端（Mac、Windows、Linux），包括 VIP 资源
+https://github.com/phobal/ivideo
+
+# cheat sheet 小抄
+1. 小抄
+https://github.com/chubin/cheat.sh
+
+# 代码美化
+1.  generate beautiful images of your source code 美化的代码图片生成
+https://github.com/mixn/carbon-now-cli
+
+# 远程桌面
+1. Remote desktop and file transfer tool
+https://github.com/dchapyshev/aspia

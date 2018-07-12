@@ -124,11 +124,10 @@ https://github.com/mengyou658/lemonade-stand
 #浏览器
 1. nEXT is the fastest productivity browser. It is designed from the ground up to be customizable for your workflow. nEXT Browser is the infinitely EXTensible browser. 自带快捷，快捷提示的浏览器
 https://github.com/mengyou658/nEXT
-
-#浏览器
 1. A fully implemented kernel exploit for the PS4 on 4.05FW PS4系统内核漏洞
 https://github.com/mengyou658/PS4-4.05-Kernel-Exploit
-
+1. A fully interactive, realtime and modern text-based browser rendered to TTYs and browsers 
+https://github.com/browsh-org/browsh
 
 #游戏
 1. 3D using bitblting in Windows. 使用windows的接口开发游戏
