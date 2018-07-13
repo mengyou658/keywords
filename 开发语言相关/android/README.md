@@ -10,6 +10,8 @@ https://github.com/mengyou658/android_interview
 https://github.com/mengyou658/android-tips-tricks
 1. 
 ### 实用 库/模块/框架
+1. 优化版MVP,使用注解泛型简化代码编写，使用模块化协议方便维护，APT过程使用注解解析器利用JavaPoet🌝完成重复模块的编写，利用ASpect+GradlePlugin 完成横向AOP编程+Javassist动态字节码注入+Tinker实现热修复+Retrofit实现优雅网络操作+RxJava轻松玩转数据处理
+https://github.com/UCodeUStory/S-MVP
 1. 这是一个TV Leanback 风格桌面 
 https://github.com/mengyou658/AndroidTVLauncher
 1. Android开发人员不得不收集的工具类集合 | 支付宝支付 | 微信支付（统一下单） | 微信分享 | 一键集成UCrop选择圆形头像 | 一键集成二维码和条形码的扫描与生成 | 常用Dialog | WebView的封装可播放视频 | 仿斗鱼滑动验证码 | Toast封装 | 震动 | GPS | Location定位 | 压缩与加密 | 图片缩放 | Exif 图片添加地理位置信息（经纬度） | 编译运行一下说不定会找到惊喜

@@ -230,6 +230,8 @@ https://github.com/mengyou658/muuri
 ### 工具
 1. Random generator helper for JavaScript this single library can generate random numbers, characters, strings, names, addresses, dice, and pretty much anything else
 https://github.com/chancejs/chancejs
+1. 号称更更快的编译器 webpack, parcel 替代
+http://fastpack.io/
 1. webpack 的替代解决方案， 最佳的使用方式 ，编译更快
 https://github.com/mengyou658/parcel
 1. 类似create-react-app的工具，对webpack的封装，无需多余的配置
@@ -270,6 +272,10 @@ https://github.com/isomorphic-git/isomorphic-git
 https://github.com/css-doodle/css-doodle
 1. Record, Replay, and Stub HTTP Interactions
 https://github.com/mengyou658/pollyjs
+1. 图片编辑器
+https://github.com/nhnent/tui.image-editor
+1. Fast, handcraft, pure JavaScript badge generator. Running in node & browser. 
+https://github.com/amio/badgen
 ####  文件上传
 1.  新一代的文件上传组件 Uppy is a sleek, modular file uploader that integrates seemlessly with any application. It’s fast, easy to use and lets you worry about more important problems than building a file uploader.
 https://github.com/mengyou658/uppy
@@ -330,6 +336,8 @@ https://github.com/mengyou658/kanban-app
 1. Create native desktop applications through a React syntax, on all platforms , 没有使用electron
 https://github.com/kusti8/proton-native
 #electron
+1. Electron application boilerplate based on React, Redux, React Router, Webpack, React Transform HMR for rapid application development.
+https://github.com/chentsulin/electron-react-boilerplate
 1. 直接把网页转变成桌面app Make any web page a desktop application
 https://github.com/jiahaog/nativefier
 1. 基础模板， 样板项目
