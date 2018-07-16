@@ -7,6 +7,10 @@ https://github.com/mengyou658/build-your-own-x
 * https://github.com/mengyou658/awesome-coins
 * https://github.com/mengyou658/awesome
 ###面试
+1. 系统设计 学习如何设计大型系统 为系统设计的面试做准备
+https://github.com/donnemartin/system-design-primer
+1. 面试图谱
+https://github.com/KieSun/InterviewMap
 1. 面试 java
 https://github.com/kdn251/interviews/blob/master/README-zh-cn.md
 1. java 面试
@@ -36,6 +40,8 @@ https://github.com/mengyou658/coding-interview-university
 1. 面试问题集合
 https://github.com/fejes713/30-seconds-of-interviews
 ###深入研究
+1. 系统设计 学习如何设计大型系统 为系统设计的面试做准备
+https://github.com/donnemartin/system-design-primer
 1. Writing a sqlite clone from scratch in C （教你怎么样写一个数据库）
 https://github.com/cstack/db_tutorial
 1. 规范
