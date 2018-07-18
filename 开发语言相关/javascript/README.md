@@ -128,6 +128,14 @@ https://github.com/mengyou658/filepond
 https://github.com/mengyou658/ReLaXed
 1. 只用CSS和HTML创作艺术品
 https://github.com/cyanharlow/purecss-francine
+1. JavaScript fluent validation library 
+https://github.com/imbrn/v8n
+1. 执行shell 常用的操作
+https://github.com/shelljs/shelljs
+1. SSH2 with Promises
+https://github.com/steelbrain/node-ssh
+1.
+1.
 1. A JavaScript library to progressively highlight any text on a page （动画的形式高亮页面字体）
 ![Demo gif](https://lumin.rocks/images/highlight.gif)
 https://github.com/pshihn/lumin

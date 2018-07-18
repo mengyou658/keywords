@@ -11,6 +11,8 @@
 ### 实用 库/模块/框架
 1. 完全使用rust开发的web程序
 https://github.com/saschagrunert/webapp.rs
+1. The fastest and safest AV1 encoder 
+https://github.com/xiph/rav1e
 1. 
 ### 完整项目/示例/demo/代码片段
 1. 
