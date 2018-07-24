@@ -136,6 +136,8 @@ https://github.com/shelljs/shelljs
 https://github.com/steelbrain/node-ssh
 1. node.js command-line interfaces made easy
 https://github.com/tj/commander.js
+1. Open-source WebRTC communication platform. https://vialer-js.io
+https://github.com/vialer/vialer-js
 1.
 1.
 1. A JavaScript library to progressively highlight any text on a page （动画的形式高亮页面字体）
@@ -217,7 +219,8 @@ https://github.com/GoogleChrome/puppeteer
 https://github.com/mengyou658/rendertron
 1. Integration layer between Requests and Selenium for automation of web actions Requestium is a python library that merges the power of Requests, Selenium, and Parsel into a single integrated tool for automatizing web actions. Requestium是一个Python库，它将Requests，Selenium和Parsel的功能合并为一个集成的工具，用于自动化Web操作。
 https://github.com/mengyou658/requestium
-1. 
+1. A browser automation framework and ecosystem. https://www.seleniumhq.org
+https://github.com/SeleniumHQ/selenium
 1. 
 ### UI
 1. ui 列表

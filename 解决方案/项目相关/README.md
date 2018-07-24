@@ -152,6 +152,8 @@ https://github.com/mengyou658/sanitize-html
 https://github.com/mengyou658/hacker101
 1. 基于项目的学习教程
 https://github.com/mengyou658/project-based-learning
+1. 页面性能分析和优化工具 Google 的网页性能优化工具
+http://developers.google.cn/speed/pagespeed/insights/
 1. 
 
 # 微服务
@@ -209,6 +211,8 @@ https://github.com/mengyou658/rendertron
 https://github.com/mengyou658/requestium
 1. Every web site provides APIs.  直接通过读取页面dom结构的形式把页面转换成api来使用 ，可以用来接管web版本的微信来做微信未提供的接口任务
 https://github.com/mengyou658/toapi
+1. A browser automation framework and ecosystem. https://www.seleniumhq.org
+https://github.com/SeleniumHQ/selenium
 
 # 压力测试
 1. tcpcopy是一种应用请求复制（基于tcp的packets）工具，其应用领域较广，目前已经应用于国内各大互联网公司,tcpcopy主要有如下功能： 1）分布式压力测试工具，利用在线数据，可以测试系统能够承受的压力大小（远比ab压力测试工具真实地多）,也可以提前发现一些bug 2）普通上线测试，可以发现新系统是否稳定，提前发现上线过程中会出现的诸多问题，让开发者有信心上线 3）对比试验，同样请求，针对不同或不同版本程序，可以做性能对比等试验 4）利用多种手段，构造无限在线压力，满足中小网站压力测试要求 5）实战演习（架构师必备）

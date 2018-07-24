@@ -30,6 +30,8 @@ https://github.com/mengyou658/neo4j
 https://github.com/mengyou658/kkFileView
 1. 配置文件读取库
 https://github.com/lightbend/config
+1. an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications https://nacos.io 一个更易于构建云原生应用的动态服务发现、配置管理和服务管理平台
+https://github.com/alibaba/nacos
 ###### 微服务
 1. https://github.com/anilallewar/microservices-basics-spring-boot 
 1. https://github.com/rohitghatol/spring-boot-microservices 
