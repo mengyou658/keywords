@@ -331,6 +331,8 @@ https://github.com/mengyou658/Lona
 * https://github.com/jokermonn/-Api
 
 # GraphQL 
+1. Hasura GraphQL Engine是一款超快的GraphQL服务器，可为您提供Postgres上的即时GraphQL API。Hasura帮助您构建Postgres支持的GraphQL应用程序，或者使用Postgres逐步转移到现有应用程序的GraphQL Hasura GraphQL Engine is a blazing-fast GraphQL server that gives you instant GraphQL APIs over Postgres. Hasura helps you build GraphQL apps backed by Postgres or incrementally move to GraphQL for existing applications using Postgres.
+https://github.com/hasura/graphql-engine
 1. GraphQL client
 https://github.com/mengyou658/apollo-client
 1. GraphQL server （scala 中间层 数据库 转换成 graphql server+）

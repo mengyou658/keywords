@@ -134,6 +134,8 @@ https://github.com/imbrn/v8n
 https://github.com/shelljs/shelljs
 1. SSH2 with Promises
 https://github.com/steelbrain/node-ssh
+1. node.js command-line interfaces made easy
+https://github.com/tj/commander.js
 1.
 1.
 1. A JavaScript library to progressively highlight any text on a page （动画的形式高亮页面字体）
@@ -284,6 +286,8 @@ https://github.com/mengyou658/pollyjs
 https://github.com/nhnent/tui.image-editor
 1. Fast, handcraft, pure JavaScript badge generator. Running in node & browser. 
 https://github.com/amio/badgen
+1. node debug
+https://github.com/GoogleChromeLabs/ndb
 ####  文件上传
 1.  新一代的文件上传组件 Uppy is a sleek, modular file uploader that integrates seemlessly with any application. It’s fast, easy to use and lets you worry about more important problems than building a file uploader.
 https://github.com/mengyou658/uppy
