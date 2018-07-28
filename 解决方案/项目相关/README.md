@@ -130,6 +130,8 @@ https://github.com/FallibleInc/security-guide-for-developers
 www.freebuf.com/articles/web/135278.html
 1. nginx + lua api 网关限流
 http://mp.weixin.qq.com/s/1C9ucY2Cbc2_8yK1IfVTMQ
+1. 分布式系统的流量防卫兵 随着微服务的流行，服务和服务之间的稳定性变得越来越重要。Sentinel 以流量为切入点，从流量控制、熔断降级、系统负载保护等多个维度保护服务的稳定性。
+https://github.com/alibaba/Sentinel
 1. 性能
 http://mp.weixin.qq.com/s/eW0ptVDqGO3kfHpX_GMn9w
 1. Nginx反向代理，负载均衡，redis session共享，keepalived高可用
@@ -297,6 +299,8 @@ https://github.com/mengyou658/client·
 http://baichuan.taobao.com/
 1.An open source library for building end-to-end dialog systems and training chatbots.（一个用于构建端到端对话系统和培训chatbots的开源库）
 https://github.com/mengyou658/DeepPavlov
+1. Zulip服务器 - 强大的开源团队聊天
+https://github.com/zulip/zulip
 
 # 唯一ID生成 方案
 1. A tiny, secure URL-friendly unique string ID generator for JavaScript (js唯一ID生成器)

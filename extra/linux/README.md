@@ -12,6 +12,8 @@ https://github.com/mengyou658/oh-my-zsh
 https://github.com/MintCN/linux-insides-zh
 1. 
 ### 实用 库/模块/框架
+1. Web server for Linux written in amd64 assembly 汇编语言写的web server  小 快 简单
+https://github.com/nemasu/asmttpd
 1. 
 1. 
 ### 完整项目/示例/demo/代码片段
