@@ -30,6 +30,8 @@ https://github.com/nemasu/asmttpd
 https://github.com/mengyou658/nnn
 1. 统一的命令行数据库连接工具 在命令行下操作不同的数据库
 https://github.com/xo/usql
+1. 监控工具 Glances an Eye on your system. A top/htop alternative
+https://github.com/nicolargo/glances
 1. 
 ### 有意思的
 1. bash游戏

@@ -116,6 +116,8 @@ https://github.com/mengyou658/driver.js
 https://github.com/mengyou658/rough
 1. A functional, reactive animation library. 动画库
 https://github.com/Popmotion/popmotion
+1. 类似echart 简单api 图表
+https://github.com/apexcharts/apexcharts.js
 1. 简单的图表库 支持ie8+ (类似echart)
 https://github.com/mengyou658/tui.chart
 1. Useful for URLs, filenames, and IDs. Convert a string to a valid safe filename (去除字符中的特殊符号（不适合文件名，urls，ids的字符）)
@@ -405,3 +407,8 @@ https://github.com/AlloyTeam/AlloyImage
 https://github.com/vipstone/faceai
 1. JavaScript API for face detection and face recognition in the browser with tensorflow.js face-recognition face javascript js tensorflow tfjs neural-network resnet-34 convolutional-neural-networks face-detection face-similarity ssd-mobilenet face-landmarks
 https://github.com/justadudewhohacks/face-api.js
+
+# webassembly 浏览器执行c代码
+1. webassembly 用于可见下推式语言的解析器生成器 A parser generator for visibly pushdown languages.
+https://github.com/ianh/owl
+

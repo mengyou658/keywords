@@ -8,6 +8,9 @@ https://github.com/wasabeef/awesome-android-ui
 https://github.com/mengyou658/android_interview
 1. 安卓的提示和陷阱 
 https://github.com/mengyou658/android-tips-tricks
+1. 安卓 屏幕适配方案 https://github.com/raul-lsj/ScreenDensityUtils
+https://www.jianshu.com/p/4254ea9d1b27
+1. 
 1. 
 ### 实用 库/模块/框架
 1. 优化版MVP,使用注解泛型简化代码编写，使用模块化协议方便维护，APT过程使用注解解析器利用JavaPoet🌝完成重复模块的编写，利用ASpect+GradlePlugin 完成横向AOP编程+Javassist动态字节码注入+Tinker实现热修复+Retrofit实现优雅网络操作+RxJava轻松玩转数据处理
