@@ -16,6 +16,25 @@ https://github.com/mengyou658/leetcode
 https://github.com/mengyou658/bitcoin
 1. Zstandard - Fast real-time compression algorithm Zstandard - 快速实时压缩算法 
 https://github.com/mengyou658/zstd
+1. Maybe the fastest string library ever
+https://github.com/boyerjohn/rapidstring
+        ```
+        rapidstring is maybe the fastest string library ever written in ANSI C. Here are some of the features:
+        
+        Highly performant. Every aspect of the library was first considered from a performance perspective, and it shows. The current benchmarks outperform the standard string implementations of GCC, Clang, MSVC and ICC by a factor of two or more in most tests.
+        
+        Trivial integration. The entire library consists of a single header file. The code is written in vanilla ANSI C that has been tested on all current compilers. Furthermore, the code is entirely C++ compatible.
+        
+        Minimalist design. Out of the ~1,500 lines of code, only 200 are used to implement the library functions, the rest being documentation. The library has the sole purpose of providing an efficient and reliable string library.
+        
+        Extensive documentation. All functions are thoroughly documented with information on its parameters, the complexity, whether it allocates, when it allocates and more.
+        
+        Configurable. The internal implementation of rapidstring is very open. All internal functions and macros are documented to allow the utmost leeway to the user. Any internal macros such as the allocations functions, the stack capacity, the growth multiplier or the inling settings may be redefined by the user.
+        
+        Vigorous testing. The library has 100% unit test coverage with valgrind memory leak checks. All tests are ran on GCC, Clang and MSVC in the continous integration builds to ensure the library is always up to par.
+        ```
+1. A glib-like multi-platform c library http://tboox.org BOX是一个用c语言实现的跨平台开发库。 针对各个平台，封装了统一的接口，简化了各类开发过程中常用操作，使你在开发过程中，更加关注实际应用的开发，而不是把时间浪费在琐碎的接口兼容性上面，并且充分利用了各个平台独有的一些特性进行优化。
+https://github.com/tboox/tbox
 1. 
 1. 
 ### 完整项目/示例/demo/代码片段

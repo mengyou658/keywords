@@ -140,6 +140,8 @@ https://github.com/steelbrain/node-ssh
 https://github.com/tj/commander.js
 1. Open-source WebRTC communication platform. https://vialer-js.io
 https://github.com/vialer/vialer-js
+1. blog A fast, simple & powerful blog framework, powered by Node.js
+https://github.com/hexojs/hexo
 1.
 1.
 1. A JavaScript library to progressively highlight any text on a page （动画的形式高亮页面字体）
@@ -293,6 +295,8 @@ https://github.com/nhnent/tui.image-editor
 https://github.com/amio/badgen
 1. node debug
 https://github.com/GoogleChromeLabs/ndb
+1. Stencila 是一套开源的办公套件，只包含文字处理器和电子表格
+https://github.com/stencila/stencila
 ####  文件上传
 1.  新一代的文件上传组件 Uppy is a sleek, modular file uploader that integrates seemlessly with any application. It’s fast, easy to use and lets you worry about more important problems than building a file uploader.
 https://github.com/mengyou658/uppy

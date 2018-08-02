@@ -7,6 +7,8 @@ https://github.com/mengyou658/build-your-own-x
 * https://github.com/mengyou658/awesome-coins
 * https://github.com/mengyou658/awesome
 ###面试
+1.  Java面试通关手册（Java学习指南）Java Interview Customs Manual (Java Study Guide)
+https://github.com/Snailclimb/Java-Guide
 1. 系统设计 学习如何设计大型系统 为系统设计的面试做准备
 https://github.com/donnemartin/system-design-primer
 1. 面试图谱
