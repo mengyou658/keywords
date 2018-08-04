@@ -91,6 +91,8 @@ https://github.com/mengyou658/odoo
 https://github.com/YadiraF/PRNet
 1. Python3网络爬虫实战：VIP视频破解助手；GEETEST验证码破解；小说、动漫下载；手scylla机APP爬取；财务报表入库；火车票抢票；抖音APP视频下载；百万英雄辅助；网易云音乐批量下载
 https://github.com/Jack-Cherish/python-spider
+1. UReport2是一款高性能的架构在Spring之上纯Java报表引擎，通过迭代单元格可以实现任意复杂的中国式报表。 在UReport2中，提供了全新的基于网页的报表设计器，可以在Chrome、Firefox、Edge等各种主流浏览器运行（IE浏览器除外）,打开浏览器即可完成各种复杂报表的设计制作。
+https://github.com/youseries/ureport
 1. 
 1. 
 ### 测试

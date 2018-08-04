@@ -301,7 +301,8 @@ http://baichuan.taobao.com/
 https://github.com/mengyou658/DeepPavlov
 1. Zulip服务器 - 强大的开源团队聊天
 https://github.com/zulip/zulip
-
+1. Pluggable WebRTC communication platform p2p 聊天
+https://github.com/vialer/vialer-js
 # 唯一ID生成 方案
 1. A tiny, secure URL-friendly unique string ID generator for JavaScript (js唯一ID生成器)
 https://github.com/mengyou658/nanoid
