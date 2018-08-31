@@ -4,12 +4,18 @@
 https://github.com/wasabeef/awesome-android-ui
 1. 
 ### 教程/文章/小抄/规范/记事
+1. Android 所有动画系列详尽教程
+https://github.com/OCNYang/Android-Animation-Set 
 1. 安卓面试
 https://github.com/mengyou658/android_interview
 1. 安卓的提示和陷阱 
 https://github.com/mengyou658/android-tips-tricks
 1. 安卓 屏幕适配方案 https://github.com/raul-lsj/ScreenDensityUtils
 https://www.jianshu.com/p/4254ea9d1b27
+1. 
+1. 
+1. 
+1. 
 1. 
 1. 
 ### 实用 库/模块/框架
@@ -55,6 +61,12 @@ https://github.com/xuehuayous/DelegationAdapter
 https://github.com/or-dvir/EasySettings
 1. An extensible media player for Android
 https://github.com/google/ExoPlayer
+1. 今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案
+https://github.com/JessYanCoding/AndroidAutoSize
+1. 提升布局加载速度200% 
+https://github.com/iReaderAndroid/X2C
+1. 一系列卷尺控件，包含：基本卷尺控件（体重尺，或其它）、金额卷尺控件、时间卷尺控件
+https://github.com/zjun615/RulerView
 ### AR
 1. Google ARCore SDK for Android （google AR 库）
 https://github.com/google-ar/arcore-android-sdk

@@ -142,7 +142,12 @@ https://github.com/tj/commander.js
 https://github.com/vialer/vialer-js
 1. blog A fast, simple & powerful blog framework, powered by Node.js
 https://github.com/hexojs/hexo
-1.
+1. an elaborate tool to create 3d model with svg
+https://github.com/captainwz/svg-3d-builder
+1. Next generation markdown editor, running on platforms of MacOS Windows and Linux
+https://github.com/marktext/marktext
+1. APIJSON是一种为API而生的JSON网络传输协议
+https://github.com/TommyLemon/APIJSON
 1.
 1. A JavaScript library to progressively highlight any text on a page （动画的形式高亮页面字体）
 ![Demo gif](https://lumin.rocks/images/highlight.gif)

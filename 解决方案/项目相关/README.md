@@ -429,6 +429,8 @@ https://github.com/mengyou658/taro
 1. 微信小程序和小游戏 小程序、小游戏以及 Web 通用 Canvas 渲染引擎 - Cross platform 2d rendering engine
 https://github.com/dntzhang/cax
 # 加密
+1. google 出版的各种语言的加密解密库
+https://github.com/google/tink
 1. 加密学习入门 通过一个简单的银行的步骤，来一步一步讲解加密
 https://github.com/sodium-friends/learntocrypto
 1. A JavaScript / Python / PHP cryptocurrency trading library with support for more than 90 bitcoin/altcoin exchanges 货币交易 加密库
@@ -559,3 +561,7 @@ https://github.com/mixn/carbon-now-cli
 # 远程桌面
 1. Remote desktop and file transfer tool
 https://github.com/dchapyshev/aspia
+
+#物联网 IOT thing
+1. Johnny-Five是一个开源，基于Firmata协议的物联网和机器人编程框架
+https://github.com/rwaldron/johnny-five
