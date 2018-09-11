@@ -1,10 +1,14 @@
+
 #python
+
 ### 现成列表
 1. 
 1. 
+
 ### 教程/文章/小抄/规范/记事
 1. 利用Python进行数据分析 第二版 (2017) 中文翻译笔记
 https://github.com/mengyou658/pydata-notebook
+
 ###### 记事
 
     * install ubuntu16.04
@@ -61,6 +65,7 @@ https://github.com/mengyou658/xadmin
 1. oauth2
 https://github.com/evonove/django-oauth-toolkit
 1. 
+
 ### 实用 库/模块/框架
 1. xadmin
 https://github.com/mengyou658/xadmin
@@ -82,6 +87,7 @@ https://github.com/pallets/flask
 https://github.com/mengyou658/requests-html
 1. 
 1. 
+
 ### 完整项目/示例/demo/代码片段
 1. machine learning algorithm with pure python which let pramgramer learn easily; 机器学习算法代码库
 https://github.com/mengyou658/moodstyle
@@ -95,12 +101,15 @@ https://github.com/Jack-Cherish/python-spider
 https://github.com/youseries/ureport
 1. 
 1. 
+
 ### 测试
 1. 
 1. 
+
 ### UI
 1. 
 1. 
+
 ### 工具
 1. A modern project, package, and virtual env manager for Python （python 开发环境工具，快速创建项目，管理虚拟环境）
 https://github.com/ofek/hatch

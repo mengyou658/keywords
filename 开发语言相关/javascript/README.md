@@ -1,7 +1,10 @@
+
 #javascript
+
 ### 现成列表
 1. 
 1. 
+
 ### 教程/文章/小抄/规范/记事
 1. 清单
 https://github.com/mengyou658/Web-Development-And-Engineering-Practices
@@ -29,6 +32,7 @@ https://github.com/mbeaudru/modern-js-cheatsheet#notions
 1.  js 代码 片段 code
 https://github.com/mengyou658/30-seconds-of-code
 1. 
+
 ### 实用 库/模块/框架
 1. JavaScript math library 
 https://github.com/josdejong/mathjs
@@ -158,11 +162,13 @@ https://github.com/syt123450/giojs
 1.
 1.
 1.
+
 #####worker webworker web worker 
 1.Move an async function into its own thread 依赖webworker，将异步转移到单独的线程中运行
 https://github.com/mengyou658/greenlet
 1. Run a module in a Web Worker.  将一个模块再单独的线程中执行
 https://github.com/mengyou658/workerize
+
 #####admin
 1. 漂亮的后台界面
 https://github.com/creativetimofficial/material-dashboard
@@ -172,6 +178,7 @@ https://github.com/BlackrockDigital/startbootstrap-sb-admin-2
 * https://github.com/mengyou658/iview-admin
 1. bootstrap material dashboard
 https://github.com/creativetimofficial/material-dashboard
+
 ##### VR/AR
 1. A helper three.js library for building AR web experiences that run in WebARonARKit and WebARonARCore （做类似淘宝捉猫猫AR互动的组件）
 https://github.com/mengyou658/three.ar.js
@@ -181,6 +188,7 @@ https://github.com/livetourlab/live-tour-lab
 https://github.com/mengyou658/AR.js
 1. 
 1. 
+
 ### 完整项目/示例/demo/代码片段
 1. Use full ES2015+ features to develop Node.js applications (实用es2015+的语法开发node应用)
 https://github.com/thinkjs/thinkjs
@@ -190,6 +198,7 @@ https://github.com/mengyou658/style2paints
 https://github.com/mengyou658/wallet
 1. An interactive 3D visualization of the all the buildings in Manhattan 曼哈顿所有建筑物的交互式三维可视化
 https://github.com/rolyatmax/nyc-buildings
+
 ##### game 游戏
 1. State management and more for turn based games. 游戏框架 回合制游戏
 https://github.com/mengyou658/boardgame.io
@@ -211,6 +220,7 @@ https://github.com/mengyou658/wobble （一个微型（约1.7KB）的弹簧物�
 https://github.com/pixijs/pixi.js
 1. 
 1. 
+
 ### 测试
 1. 一个可视化, 并且能快速生成模拟数据的持久化服务
 https://github.com/mengyou658/easy-mock
@@ -220,6 +230,7 @@ https://github.com/mengyou658/vConsole
 https://github.com/AlloyTeam/AlloyLever
 1. json server Get a full fake REST API with zero coding in less than 30 seconds, 快速生成测试服务
 https://github.com/mengyou658/json-server
+
 
 ##### 用于自动化测试和不需要可视化用户界面的服务器
 1. Headless Chrome Node API （）
@@ -231,6 +242,7 @@ https://github.com/mengyou658/requestium
 1. A browser automation framework and ecosystem. https://www.seleniumhq.org
 https://github.com/SeleniumHQ/selenium
 1. 
+
 ### UI
 1. ui 列表
 https://github.com/JetBrains/ring-ui
@@ -242,6 +254,7 @@ https://github.com/mengyou658/layui
 https://github.com/mengyou658/cube-ui
 1. 基于jQuery，针对PC网站，兼容IE7+（modern主题）或IE8+（peak主题）的前端UI框架
 https://github.com/yued-fe/lulu
+
 ### 可伸缩布局方案
 1. amfe-flexible 
 https://github.com/mengyou658/lib-flexible
@@ -249,6 +262,7 @@ https://github.com/mengyou658/lib-flexible
 https://github.com/mengyou658/muuri
 1. 
 1. 
+
 ### 工具
 1. Random generator helper for JavaScript this single library can generate random numbers, characters, strings, names, addresses, dice, and pretty much anything else
 https://github.com/chancejs/chancejs
@@ -302,18 +316,21 @@ https://github.com/amio/badgen
 https://github.com/GoogleChromeLabs/ndb
 1. Stencila 是一套开源的办公套件，只包含文字处理器和电子表格
 https://github.com/stencila/stencila
+
 ####  文件上传
 1.  新一代的文件上传组件 Uppy is a sleek, modular file uploader that integrates seemlessly with any application. It’s fast, easy to use and lets you worry about more important problems than building a file uploader.
 https://github.com/mengyou658/uppy
 1. webuploader 文件上传，支持h5和swf
 http://fex.baidu.com/webuploader/
 1. 
+
 ####  安全 html过滤 防止xss 攻击
 1.  DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. 防止html xss 攻击工具
 https://github.com/mengyou658/DOMPurify
 1.  Clean up user-submitted HTML, preserving whitelisted elements and whitelisted attributes on a per-element basis. Built on htmlparser2 for speed and tolerance. 防止html xss 攻击工具
 https://github.com/mengyou658/sanitize-html
 1. 
+
 
 # 算法
 1. JavaScript 算法与数据结构
@@ -322,6 +339,7 @@ https://github.com/trekhleb/javascript-algorithms
 https://github.com/Glench/fuzzyset.js
 1. 吉他和弦推导算法，外带和弦指法svg可视化
 https://github.com/youngdro/guitarChord
+
 #代码生成脚手架cli工具
 1. The hottest CLI for React Native, boilerplates, plugins, generators, and more! 
 https://github.com/mengyou658/ignite
@@ -334,6 +352,7 @@ https://github.com/yeoman/generator-generator
 1. Boilerplate for creating React Npm packages with ES2015 创建可以上传到npm的项目工程模板
 https://github.com/mengyou658/react-npm-boilerplate
 
+
 #babel
 1. babel-polyfill
 ```
@@ -342,13 +361,16 @@ import "babel-polyfill";
 import "./app";
 // Read the docs on babel-polyfill (http://babeljs.io/docs/usage/polyfill) and babel-runtime (http://babeljs.io/docs/plugins/transform-runtime).
 ```
+
 #sucrase
 1. 号称比babel快25倍的javascript转码器
 https://github.com/alangpierce/sucrase
 
+
 #办公 代办事项
 1. a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS 一个笔记和待办事项的应用程序与同步功能的Windows，MacOS，Linux，Android和iOS （类似滴答清单，有道云笔记，）
 https://github.com/mengyou658/joplin
+
 
 #桌面应用工具
 1. Make any web page a desktop application
@@ -361,6 +383,7 @@ https://github.com/electron/electron
 https://github.com/mengyou658/kanban-app
 1. Create native desktop applications through a React syntax, on all platforms , 没有使用electron
 https://github.com/kusti8/proton-native
+
 #electron
 1. Electron application boilerplate based on React, Redux, React Router, Webpack, React Transform HMR for rapid application development.
 https://github.com/chentsulin/electron-react-boilerplate
@@ -382,9 +405,11 @@ https://github.com/electron-userland/electron-packager
 https://github.com/electron-userland/electron-builder
 1. ui vue Framework 
 https://github.com/quasarframework/quasar
+
 #pwa
 1.  Offload your store management to a worker easily (简单的使用 worker 来工作)
 https://github.com/mengyou658/stockroom
+
 
 # 类似react的工具
 1. 1kb JavaScript library for building frontend applications 简单小
@@ -395,15 +420,18 @@ https://github.com/mengyou658/nerv
 1. preact
 1. https://github.com/baidu/san
 
+
 # nes 游戏 模拟器
 1. A JavaScript NES emulator. js nes 模拟器
 https://github.com/mengyou658/jsnes
+
 
 # 机器学习
 1. A face detection library in 200 lines of JavaScript （人脸检测 JavaScript ）
 https://github.com/mengyou658/picojs
 1. TensorFlow.js 
 https://github.com/mengyou658/tfjs
+
 
 # 人脸识别
 1. 本项目是一个基于前端人脸识别技术实现的照片合成示例  a demo of frontend-face-detection
@@ -416,6 +444,7 @@ https://github.com/AlloyTeam/AlloyImage
 https://github.com/vipstone/faceai
 1. JavaScript API for face detection and face recognition in the browser with tensorflow.js face-recognition face javascript js tensorflow tfjs neural-network resnet-34 convolutional-neural-networks face-detection face-similarity ssd-mobilenet face-landmarks
 https://github.com/justadudewhohacks/face-api.js
+
 
 # webassembly 浏览器执行c代码
 1. webassembly 用于可见下推式语言的解析器生成器 A parser generator for visibly pushdown languages.

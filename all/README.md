@@ -1,4 +1,6 @@
-#综合
+
+# 综合
+
 # Awesomes
 * Build your own (insert technology here) 创造自己的系统（各种各样的）
 https://github.com/mengyou658/build-your-own-x
@@ -6,7 +8,9 @@ https://github.com/mengyou658/build-your-own-x
 * https://github.com/vuejs/awesome-vue
 * https://github.com/mengyou658/awesome-coins
 * https://github.com/mengyou658/awesome
-###面试
+
+
+### 面试
 1.  Java面试通关手册（Java学习指南）Java Interview Customs Manual (Java Study Guide)
 https://github.com/Snailclimb/Java-Guide
 1. 系统设计 学习如何设计大型系统 为系统设计的面试做准备
@@ -41,7 +45,9 @@ https://github.com/mengyou658/android_interview
 https://github.com/mengyou658/coding-interview-university
 1. 面试问题集合
 https://github.com/fejes713/30-seconds-of-interviews
-###深入研究
+
+
+### 深入研究
 1. 系统设计 学习如何设计大型系统 为系统设计的面试做准备
 https://github.com/donnemartin/system-design-primer
 1. Writing a sqlite clone from scratch in C （教你怎么样写一个数据库）
@@ -56,12 +62,16 @@ https://github.com/mengyou658/public-apis-1
 https://github.com/Mashape/kong
 1. spark相关笔记
 https://github.com/ColZer/DigAndBuried/
+
+
 ### 3D
 1. Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression (将人像图片，转换成3D面部，将一个图片转换出3D面部)
 https://github.com/mengyou658/vrn
+
 ### 效率相关
 1. mac os 工具应用列表
 https://github.com/nikitavoloboev/my-mac-os
+
 ### 教程/文章/规范
 1. java 知识
 https://github.com/crossoverJie/JCSprout
@@ -91,9 +101,11 @@ https://github.com/hoosin/mobile-web-favorites
 https://github.com/mengyou658/Mars-1
 1. 列表
 https://github.com/mengyou658/awesome
+
 #######规范
 1. 阿里云java代码规范
 https://github.com/alibaba/p3c
+
 ### 人工智能 / 机器学习
 1. TensorFlow Tutorial and Examples for beginners （TensorFlow 入门）
 https://github.com/aymericdamien/TensorFlow-Examples
@@ -104,32 +116,42 @@ https://github.com/mengyou658/tensorflow-docs
 
 
 
+
 ### coding style（代码风格规范）
 * https://github.com/google/styleguide
+
 ### The Gambler's Fallacy Dice 赌徒谬误的一个实现
 * https://github.com/xori/gamblers-dice
+
 ### 黑客相关
 1. wifi漏洞
 https://github.com/kristate/krackinfo
+
 
 # cheatsheet 备忘录 速查表
 https://github.com/mengyou658/cheatsheets
 https://github.com/mengyou658/awesome-cheatsheets
 
+
 # An instant JSON API for your SQLite databases (将 sqlite 数据暴露成一个只读的json-api)
 https://github.com/mengyou658/datasette
+
 
 # Secure Socket Funneling - Network tool and toolkit - TCP and UDP port forwarding, SOCKS proxy, remote shell, standalone and cross platform 类似Shadowsocks的工具跨平台
 https://github.com/mengyou658/ssf
 
+
 # 英文字体，适合排版，写作用的字体 IBM 出品
 https://github.com/mengyou658/iA-Fonts
+
 
 # svg icon 
 https://github.com/mengyou658/SuperTinyIcons
 
+
 #开源项目怎么挣钱
 https://github.com/mengyou658/lemonade-stand
+
 
 #浏览器
 1. nEXT is the fastest productivity browser. It is designed from the ground up to be customizable for your workflow. nEXT Browser is the infinitely EXTensible browser. 自带快捷，快捷提示的浏览器
@@ -139,13 +161,16 @@ https://github.com/mengyou658/PS4-4.05-Kernel-Exploit
 1. A fully interactive, realtime and modern text-based browser rendered to TTYs and browsers 
 https://github.com/browsh-org/browsh
 
+
 #游戏
 1. 3D using bitblting in Windows. 使用windows的接口开发游戏
 https://github.com/mengyou658/3D-Game-Programming
 
 
+
 #  开发语言 luna (Visual and textual functional programming language with a focus on productivity, collaboration and development ergonomics. 基于图形方式变成的语言，视觉和文字功能性编程语言，重点是生产力，协作和开发人体工程学)
 https://github.com/mengyou658/luna
+
 
 # 黑苹果 Hackintosh 安装
 https://github.com/huangyz0918/Hackintosh-Installer-University

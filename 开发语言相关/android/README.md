@@ -1,8 +1,11 @@
+
 #android
+
 ### 现成列表
 1. awesome-android-ui
 https://github.com/wasabeef/awesome-android-ui
 1. 
+
 ### 教程/文章/小抄/规范/记事
 1. Android 所有动画系列详尽教程
 https://github.com/OCNYang/Android-Animation-Set 
@@ -18,6 +21,7 @@ https://www.jianshu.com/p/4254ea9d1b27
 1. 
 1. 
 1. 
+
 ### 实用 库/模块/框架
 1. 优化版MVP,使用注解泛型简化代码编写，使用模块化协议方便维护，APT过程使用注解解析器利用JavaPoet🌝完成重复模块的编写，利用ASpect+GradlePlugin 完成横向AOP编程+Javassist动态字节码注入+Tinker实现热修复+Retrofit实现优雅网络操作+RxJava轻松玩转数据处理
 https://github.com/UCodeUStory/S-MVP
@@ -67,10 +71,12 @@ https://github.com/JessYanCoding/AndroidAutoSize
 https://github.com/iReaderAndroid/X2C
 1. 一系列卷尺控件，包含：基本卷尺控件（体重尺，或其它）、金额卷尺控件、时间卷尺控件
 https://github.com/zjun615/RulerView
+
 ### AR
 1. Google ARCore SDK for Android （google AR 库）
 https://github.com/google-ar/arcore-android-sdk
 1. 
+
 ### 完整项目/示例/demo/代码片段
 1.  网易云音乐
 https://github.com/mengyou658/NeteaseCloudMusic
@@ -94,9 +100,11 @@ https://github.com/mengyou658/NewFastFrame
 https://github.com/mengyou658/LifeHelper
 1.
 1.
+
 ### 测试
 1. 
 1. 
+
 ### UI
 1. Android UI 库
 https://github.com/QMUI/QMUI_Android
@@ -105,6 +113,7 @@ https://github.com/QMUI/QMUI_Android
 RapidView希望为开发者带来更小的安装包增量以及更加简单、易于维护和修改的组件库，RapidView的代码组件约180KB(30KB组件+150KB luaj)。
 https://github.com/mengyou658/RapidView
 1. 
+
 ### 工具
 1. Android开发人员不得不收集的代码 一个强大易用的安卓工具类库
 https://github.com/mengyou658/AndroidUtilCode
@@ -113,6 +122,7 @@ https://github.com/coder-pig/WechatHelper
 1. 视频裁剪 Android
 https://blog.zhoulujue.com/edit-local-video-using-customized-ffmpeg-so/
 1. 
+
 ### 快速开发模板项目
 1. A common Architecture for Android Applications developing based on MVP，integrates many Open Source Projects( like Dagger2,RxJava,Retrofit... ),to make your developing quicker and easier. 一个整合了大量主流开源项目高度可配置化的 Android MVP 快速集成框架
 https://github.com/mengyou658/MVPArms
@@ -121,6 +131,7 @@ https://github.com/mengyou658/NewFastFrame
 1. Multi-project Clean Architecture MVP app using Conductor, Room, RxJava 2, Dagger 2 with custom scopes
 https://github.com/mengyou658/ConductorMVP
 1. 
+
 
 
 ### 反编译 反向工程 dex java 反混淆 消除混淆 hack技术
@@ -132,6 +143,7 @@ https://github.com/mengyou658/bytecode-viewer
 https://github.com/mengyou658/simplify
 1. A Simple App to use Xposed without root or unlock the bootloader(or modify system image etc) VirtualXposed 是基于VirtualApp 和 epic 在非ROOT环境下运行Xposed模块的实现（支持5.0~8.1)。
 https://github.com/android-hacker/VirtualXposed
+
 
 
 # Xposed module

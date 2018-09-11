@@ -1,4 +1,6 @@
+
 #java
+
 ### 现成列表
 1. awesome-java-cn
 https://github.com/jobbole/awesome-java-cn
@@ -8,6 +10,7 @@ https://github.com/mengyou658/30-seconds-of-java8
 https://github.com/aalansehaiyang/technology-talk
 1. 
 1. 
+
 ### 教程/文章/小抄/规范/记事
 1. Design patterns implemented in Java （设计模式java版本）
 https://github.com/iluwatar/java-design-patterns
@@ -21,6 +24,7 @@ https://github.com/francistao/LearningNotes
 https://github.com/mengyou658/interviews
 1. 
 1. 
+
 ### 实用 库/模块/框架
 1. The simplest, fastest way to get business intelligence and analytics to everyone in your company
 https://github.com/mengyou658/metabase
@@ -32,17 +36,21 @@ https://github.com/mengyou658/kkFileView
 https://github.com/lightbend/config
 1. an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications https://nacos.io 一个更易于构建云原生应用的动态服务发现、配置管理和服务管理平台
 https://github.com/alibaba/nacos
+
 ###### 微服务
 1. https://github.com/anilallewar/microservices-basics-spring-boot 
 1. https://github.com/rohitghatol/spring-boot-microservices 
+
 ###### 分布式服务框架
 1. http://dubbo.io/ 又重新开始维护了
 1.  基于消息队列解决分布式事务框架 
 https://github.com/mengyou658/myth
 1. 
+
 ### 完整项目/示例/demo/代码片段
 1.openzaly 是 Akaxin 的服务器源代码，用以搭建私有聊天服务器。 服务器安装教程：https://www.akaxin.com/docs/install/index.html QQ群: 655249600
 https://github.com/akaxincom/openzaly
+
 ##### 快速开发框架
 1. 基于Spring+SpringMVC+Mybatis分布式敏捷开发系统架构，提供整套公共微服务服务模块：集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位J2EE企业级开发解决方案。
 https://github.com/mengyou658/zheng
@@ -58,12 +66,15 @@ http://gitee.com/jxttian/Yuna
 https://github.com/pig4cloud/pig
 1. 简单的开放框架 （springboot shiro 代码生成器）
 https://github.com/mengyou658/renren-security
+
 ### 测试
 1. 
 1. 
+
 ### UI
 1. 
 1. 
+
 ### 工具
 1. 
 1. 

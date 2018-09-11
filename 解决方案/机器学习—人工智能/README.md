@@ -1,13 +1,18 @@
+
 # 机器学习人工智能
+
 ### 现成列表
 1. 
 1. 
+
 ### cheatsheet 备忘录
 1. 
 1. 
+
 ### 教程/文章/小抄/规范/记事
 1. 
 1. 
+
 ### 实用 库/模块/框架
 1. A face detection library in 200 lines of JavaScript （人脸检测 JavaScript ）
 https://github.com/mengyou658/picojs
@@ -22,19 +27,24 @@ https://github.com/mengyou658/person-blocker
 https://github.com/ml5js/ml5-library
 1. 
 
+
 ### 完整项目/示例/demo/代码片段
 1. 
 1. 
+
 ### 测试
 1. 
 1. 
+
 ### UI
 1. 
 1. 
+
 ### 工具
 1. 100+ Chinese Word Vectors 上百种预训练中文词向量
 https://github.com/mengyou658/Chinese-Word-Vectors
 1. 
+
 #自然语言处理 中文分词库
 1. 自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 关键词提取 新词发现 短语提取 自动摘要 文本分类 拼音简繁 http://hanlp.hankcs.com/
 https://github.com/hankcs/HanLP
@@ -53,18 +63,22 @@ https://www.oschina.net/p/ansj
 1. Java 分布式中文分词组件
 https://www.oschina.net/p/word
 1. 
+
 #数据分析/数据可视化
 1. 
 1. 
+
 #通用机器学习
 1. 
 1. 
+
 # 公开数据集，大部分免费，涵盖机器学习、自然语言处理、图像识别等领域
 1. 公开数据集，大部分免费，涵盖机器学习、自然语言处理、图像识别等领域
 https://github.com/awesomedata/awesome-public-datasets
 1. 这里列出50个可以用来训练模型的免费大型数据集
 https://gengo.ai/articles/the-50-best-free-datasets-for-machine-learning/
 1. 
+
 
 #笔迹识别算法
 1. GRAIL 笔迹识别算法

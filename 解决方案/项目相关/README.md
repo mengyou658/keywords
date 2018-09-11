@@ -1,11 +1,15 @@
+
 # 项目相关
+
 
 # 免费代理池
 https://github.com/cls1991/x-proxies
 
+
 # Open Data of China （CN 开放数据计划）https://github.com/cn
 1.中华人名共和国宪法
 https://github.com/cn/constitution
+
 
 # 区块链(BlockChain)
 1. 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
@@ -17,6 +21,7 @@ https://github.com/mengyou658/BlockChain
 1. https://ethfans.org/wikis/Home
 1. https://yeasy.gitbooks.io/blockchain_guide/content/
 1. https://github.com/LiuBoyu/blockchain
+
 
 # sso-server / oauth2 server
 1. oath2 网站
@@ -49,14 +54,17 @@ https://github.com/sahat/hackathon-starter.git
 1. python django
 * https://github.com/evonove/django-oauth-toolkit
 
+
 ###### go实现
 1. https://github.com/ory/hydra
+
 
 #rpc框架
 1. 阿里rpc框架（java）
 https://github.com/alibaba/dubbo
 1. 百度rpc框架（c++）
 https://github.com/mengyou658/brpc
+
 
 #实时交易推送
 1. A high performance and real time quotation push trade engine.（一种高性能实时报价推送交易引擎）
@@ -66,6 +74,7 @@ https://github.com/mengyou658/kungfu
 1. A fast,scalable,distributed game server framework for Node.js. Pomelo 是基于 Node.js的高性能、分布式游戏服务器框架。它包括基础的开发框架和相关的扩展组件（库和工具包），可以帮助你省去游戏开发枯燥中的重复劳动和底层逻辑的开发。Pomelo 不但适用于游戏服务器开发，也可用于开发高实时Web应用，它的分布式架构可以使 Pomelo 比普通的实时 Web 框架扩展性更好。
 https://github.com/mengyou658/pomelo
 1. 
+
 
 #游戏服务器开发
 1. A fast,scalable,distributed game server framework for Node.js. Pomelo 是基于 Node.js的高性能、分布式游戏服务器框架。它包括基础的开发框架和相关的扩展组件（库和工具包），可以帮助你省去游戏开发枯燥中的重复劳动和底层逻辑的开发。Pomelo 不但适用于游戏服务器开发，也可用于开发高实时Web应用，它的分布式架构可以使 Pomelo 比普通的实时 Web 框架扩展性更好。
@@ -82,6 +91,7 @@ https://github.com/mengyou658/Hilo
 https://github.com/mengyou658/Glowstone
 1. 
 
+
 # 游戏前端 游戏H5 
 1. A+ animation module for the modern web Animate Plus is a JavaScript animation library focusing on performance and authoring flexibility. It aims to deliver a steady 60 FPS and weighs less than 2 KB (minified and gzipped), making it particularly well-suited for mobile. （小体积，专注于游戏的动画）
 https://github.com/mengyou658/animateplus
@@ -89,16 +99,20 @@ https://github.com/mengyou658/animateplus
 https://github.com/mengyou658/Hilo
 1. 
 1. 
+
 # 任天堂 游戏 模拟器
 1.yuzu is an experimental open-source emulator for the Nintendo Switch （Nintendo Switch模拟器）
 https://github.com/mengyou658/yuzu 
+
 # nes 游戏 模拟器
 1. A JavaScript NES emulator. js nes 模拟器
 https://github.com/mengyou658/jsnes
 
+
 # 游戏AI 游戏bot 
 1. Game Agent Framework. Helping you create AIs / Bots to play any game you own! BETA http://serpent.ai 游戏代理框架。帮助你创建AI /机器人来玩任何你自己的游戏
 https://github.com/mengyou658/SerpentAI
+
 
 # 游戏 unity
 1. Unity C# reference source code (unity 编辑器 c#相关源码) 
@@ -106,9 +120,12 @@ https://github.com/mengyou658/UnityCsReference
 1. unity 插件
 https://github.com/mengyou658/ShaderForge
 
+
 #自动化的SQL解决方案
+
 ### sql solver （自动化的SQL解决方案，待实践）
 1. https://github.com/uwdb/Cosette
+
 
 #直播项目完整解决方案
 1. https://github.com/mengyou658/SmarterStreaming
@@ -116,6 +133,7 @@ https://github.com/mengyou658/ShaderForge
 https://github.com/mengyou658/nginx-rtmp-module
 1.高仿全民直播（全民TV），项目采用 MVP + RXJava + Retrofit + OKHttp + Material Design + Dagger2 + Base + Glide + GreenDao构建。
 https://github.com/mengyou658/KingTV 
+
 
 #安全相关、性能相关
 1. 安全思维导图集合
@@ -158,17 +176,20 @@ https://github.com/mengyou658/project-based-learning
 http://developers.google.cn/speed/pagespeed/insights/
 1. 
 
+
 # 微服务
 1. Microservices from Design to Deployment 中文版 — 《微服务：从设计到部署》
 https://github.com/mengyou658/microservices-from-design-to-deployment-chinese
 1. 微服务App案例 示例 实例
 https://github.com/mengyou658/microservice-app-example
 
+
 # 微服务升级 service  mesh
 1.  Production-grade feature-rich service mesh for any platform https://linkerd.io Buoyant 公司推出的 Linkerd
 https://github.com/mengyou658/linkerd
 1. An open platform to connect, manage, and secure microservices. https://istio.io Google、IBM 等厂商牵头的 Istio
 https://github.com/istio/istio
+
 
 
 # 地图，geolocation 
@@ -179,14 +200,17 @@ https://github.com/mengyou658/StreetMap
 1. High Quality GeoJSON maps programmatically generated.
 https://github.com/mengyou658/geo-maps
 
+
 #接口管理
 1.RAP Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理
 https://github.com/mengyou658/RAP
 1. YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
 https://github.com/YMFE/yapi
+
 #自动化接口
 1.RAP Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理
 https://github.com/mengyou658/RAP
+
 #自动化测试
 1.RAP Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理
 https://github.com/mengyou658/RAP
@@ -204,6 +228,7 @@ https://github.com/mengyou658/karmatic
 https://github.com/segmentio/nightmare
 1. 可以参考 它会自动打开 APP 对视频截图 点赞并关注，接着翻到下一页，重复进行该过程
 https://github.com/wangshub/Douyin-Bot
+
 ##### 用于自动化测试和不需要可视化用户界面的服务器
 1. Headless Chrome Node API （）
 https://github.com/GoogleChrome/puppeteer
@@ -216,9 +241,11 @@ https://github.com/mengyou658/toapi
 1. A browser automation framework and ecosystem. https://www.seleniumhq.org
 https://github.com/SeleniumHQ/selenium
 
+
 # 压力测试
 1. tcpcopy是一种应用请求复制（基于tcp的packets）工具，其应用领域较广，目前已经应用于国内各大互联网公司,tcpcopy主要有如下功能： 1）分布式压力测试工具，利用在线数据，可以测试系统能够承受的压力大小（远比ab压力测试工具真实地多）,也可以提前发现一些bug 2）普通上线测试，可以发现新系统是否稳定，提前发现上线过程中会出现的诸多问题，让开发者有信心上线 3）对比试验，同样请求，针对不同或不同版本程序，可以做性能对比等试验 4）利用多种手段，构造无限在线压力，满足中小网站压力测试要求 5）实战演习（架构师必备）
 https://github.com/mengyou658/tcpcopy
+
 # 测试相关工具
 1. 一个轻量、可拓展、针对手机网页的前端开发者调试面板。 A lightweight, extendable front-end developer tool for mobile web page.
 https://github.com/mengyou658/vConsole
@@ -230,9 +257,11 @@ https://github.com/mengyou658/json-server
 https://github.com/mengyou658/automatic-api
 
 
+
 #可伸缩布局方案
 1. amfe-flexible 
 https://github.com/mengyou658/lib-flexible
+
 
 # admin / 快速开发 方案
 1. ant-design-pro开箱即用的中台前端/设计解决方案
@@ -261,25 +290,36 @@ https://github.com/mengyou658/meteor
 https://github.com/mengyou658/cl-privilege.git
 
 
+
 # nginx
+
 ##### nginx monitor （nginx 监控）
 1. https://github.com/sumory/orange
+
 ##### NGINX Unit is a dynamic web application server
 1. https://github.com/nginx/unit
+
 ##### nginx configs nginx配置片段列表，参考使用
 1. https://github.com/mengyou658/server-configs-nginx
+
 #####  The Microservice API Gateway  api防火墙
 1. https://github.com/mengyou658/kong
+
 #####  它在Nginx的基础上，针对大访问量网站的需求，添加了很多高级功能和特性
 1. https://github.com/alibaba/tengine
+
 #####  NGINX-based Media Streaming Server http://nginx-rtmp.blogspot.com
 1. https://github.com/mengyou658/nginx-rtmp-module
+
 #####  Embed the Power of Lua into NGINX HTTP servers 
 1. https://github.com/mengyou658/lua-nginx-module
+
 #####  Nginx configuration static analyzer nginx安全配置扫描
 1. https://github.com/yandex/gixy
+
 #####  集合了大部分nginx的模块，可以直接使用，免去自己找的麻烦
 1. https://github.com/mengyou658/openresty
+
 
 
 # IM 聊天 chat
@@ -303,9 +343,11 @@ https://github.com/mengyou658/DeepPavlov
 https://github.com/zulip/zulip
 1. Pluggable WebRTC communication platform p2p 聊天
 https://github.com/vialer/vialer-js
+
 # 唯一ID生成 方案
 1. A tiny, secure URL-friendly unique string ID generator for JavaScript (js唯一ID生成器)
 https://github.com/mengyou658/nanoid
+
 
 
 # 进销存 ERP CRM WMS 仓储管理系统
@@ -328,6 +370,7 @@ https://github.com/mengyou658/JXCMS
 1.
 https://github.com/mengyou658/ERP
 
+
 # Android IOS 手机端开发 react-native react native
 1. 现成项目
 https://github.com/mengyou658/RNPolymerPo
@@ -335,9 +378,11 @@ https://github.com/mengyou658/RNPolymerPo
 https://github.com/mengyou658/Lona
 
 
+
 # 免费 api 列表
 * https://github.com/mengyou658/public-apis-1
 * https://github.com/jokermonn/-Api
+
 
 # GraphQL 
 1. Hasura GraphQL Engine是一款超快的GraphQL服务器，可为您提供Postgres上的即时GraphQL API。Hasura帮助您构建Postgres支持的GraphQL应用程序，或者使用Postgres逐步转移到现有应用程序的GraphQL Hasura GraphQL Engine is a blazing-fast GraphQL server that gives you instant GraphQL APIs over Postgres. Hasura helps you build GraphQL apps backed by Postgres or incrementally move to GraphQL for existing applications using Postgres.
@@ -353,10 +398,12 @@ https://github.com/mengyou658/automatic-api
 https://github.com/mengyou658/urql
 
 
+
 # 逆向工程 反编译  
 1. List of awesome reverse engineering resources
 https://github.com/mengyou658/reverse-engineering
 1. 
+
 
 
 # 快速设计工具
@@ -364,18 +411,23 @@ https://github.com/mengyou658/reverse-engineering
 https://github.com/mengyou658/g2
 
 
+
 # 监控自己的电脑
 1. Log what you do on your computer. Simple (yet powerful), extensible, no third parties. 
 https://github.com/mengyou658/activitywatch
 
+
 # 英语语法自动校正Chrome插件
 https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=zh-CN
+
 
 # 浏览器兼容性报告 This repository contains compatibility data for Web technologies 
 https://github.com/mdn/browser-compat-data
 
+
 # gotty: 将命令行工具转变成 Web 程序的工具 GoTTY is a simple command line tool that turns your CLI tools into web applications.
 https://github.com/mengyou658/gotty
+
 
 
 # 快速开发模板项目
@@ -385,6 +437,7 @@ https://github.com/mengyou658/MVPArms
 https://github.com/mengyou658/NewFastFrame
 1. Multi-project Clean Architecture MVP app using Conductor, Room, RxJava 2, Dagger 2 with custom scopes
 https://github.com/mengyou658/ConductorMVP
+
 
 # kotlin 开发
 1. Anko is a Kotlin library which makes Android application development faster and easier. kotlin 开发库
@@ -398,11 +451,13 @@ https://github.com/mengyou658/tachiyomi
 1. kotlin 学习
 https://github.com/mengyou658/kotlin
 
+
 #react 转化 静态网站
 1. 将react转换成静态网站 Blazing fast static site generator for React 
 https://github.com/mengyou658/gatsby
 1. vue 静态页面生成
 https://github.com/mengyou658/vuepress
+
 
 #流处理 大数据实时分析
 1.  流处理工具 开源大数据实时分析系统Heron
@@ -419,6 +474,7 @@ Flink使用了流处理的内核，同时提供了流处理和批处理的接口
 总结上面，Spark Streaming、Kafka Streams、Flink都有特定的应用场景，其他一般流处理情况下可以使用Heron。
 ```
 
+
 #微信小程序
 1.  微信小程序组件化开发框架 
 https://github.com/mengyou658/wepy
@@ -428,6 +484,7 @@ https://github.com/Meituan-Dianping/mpvue
 https://github.com/mengyou658/taro
 1. 微信小程序和小游戏 小程序、小游戏以及 Web 通用 Canvas 渲染引擎 - Cross platform 2d rendering engine
 https://github.com/dntzhang/cax
+
 # 加密
 1. google 出版的各种语言的加密解密库
 https://github.com/google/tink
@@ -440,32 +497,40 @@ https://github.com/mengyou658/keyczar
 1. Platform-Agnostic Security Tokens，PAST (Platform-Agnostic Security Tokens) is a specification and reference implementation for secure stateless tokens. php 实现的一个加密token PAST（平台不可知的安全令牌）是安全无状态令牌的规范和参考实现。
 https://github.com/mengyou658/past
 
+
 #rust 语言
 总体感觉是如果有一门语言能够取代C++，那么它只可能是Rust
+
 
 # 自动驾驶
 1. An open autonomous driving platform 开放的自动驾驶平台
 https://github.com/mengyou658/apollo
+
 
 #企业秀 易企秀
 https://github.com/mengyou658/eqxiu
 https://github.com/mengyou658/yiqixiu
 git@gitee.com:xiaokong658/yiqixiu.git
 
+
 #  目标检测算法 
 1. Detectron is Facebook AI Research's software system that implements state-of-the-art object detection algorithms, including Mask R-CNN. It is written in Python and powered by the Caffe2 deep learning framework. Detectron是Facebook AI Research的软件系统，实现了最先进的目标检测算法，包括Mask R-CNN。它是用Python编写的，由Caffe2深度学习框架支持。
 https://github.com/mengyou658/Detectron
+
 
 # VR 虚拟现实技术 AR 增强现实技术
 1. Build your own VR headset for $100 (自己制造虚拟现实头盔)
 https://github.com/mengyou658/Relativ
 
+
 # 高大上，假装你在干高大上的事
 1.  A nonsense activity generator
 https://github.com/mengyou658/genact
 
+
 # 英语学习
 https://github.com/mengyou658/english-level-up-tips-for-chinese-programmers-and-designers
+
 
 #OA
 https://gitee.com/youqiongwang/yqoas.git
@@ -473,13 +538,16 @@ https://gitee.com/rainrock/xinhu.git
 https://gitee.com/xiaokong658/xiaoweioa
 https://gitee.com/ibos/IBOS 商业版本的全面，开源的阉割
 
+
 # 智能图片缩放 
 1. Caire is a content aware image resize library based on Seam Carving for Content-Aware Image Resizing paper. Caire是一个基于Seam内容感知图像调整大小的纸张的内容感知图像调整库。该算法试图找出图像中最不重要的部分
 https://github.com/mengyou658/caire
 
+
 # 压力工具库 
 1. JavaScript library for handling Force Touch, 3D Touch, and Pointer Pressure （用于处理Force Touch，3D Touch和指针压力的JavaScript库）
 https://github.com/mengyou658/pressure
+
 
 # mindmap mind 脑图 工具
 1.xmind
@@ -491,22 +559,27 @@ https://github.com/mengyou658/jsmind
 https://github.com/mengyou658/mindmap-layouts
 1. echart 也有简单的
 
+
 # css 框架
 1. https://bulma.io/
 1. bootstrap
 
+
 # 高并发 High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
 1. 高可扩展性，高可用性，高稳定性，高性能和高智能后端设计
+
 
 # css-block 
 1. 高性能，可维护的样式表。 http://css-blocks.com/ 
 https://github.com/linkedin/css-blocks
+
 
 # 验证码
 1. google recaptcha
 1. 点击验证码 图文点击验证码
 https://www.cnblogs.com/shihaiming/p/7657115.html
 https://blog.csdn.net/qq_26680031/article/details/51168527
+
 
 # 机器人
 1.  构建伟大机器人的唯一理智方式 The only sane way of building great bots
@@ -516,24 +589,31 @@ https://github.com/mengyou658/susi_server
 1. Botpress是一个用JavaScript编写的开源bot创建工具
 https://github.com/botpress/botpress
 
+
 # 一个轻量级的包托管网站，app-host 主要用于 iOS 和 Android 的包管理，作用类似于fir.im
 https://github.com/pluosi/app-host
 
+
 #微信小游戏
 https://github.com/18770919803/runaway
+
 
 # 语音识别
 1. 基于kaldi 的语音识别
 https://github.com/alibaba/Alibaba-MIT-Speech
 
+
 # p2p 文件分发
 https://github.com/alibaba/Dragonfly
+
 
 # ip
 https://github.com/lionsoul2014/ip2region
 
+
 # 文档生成软件
 https://github.com/pedronauck/docz/
+
 
 # 电商 cms
 1. PHP 这是一款功能丰富的尖端电子商务解决方案
@@ -541,26 +621,32 @@ https://github.com/magento/magento2
 1. 电子商务的PWA。100％离线，平台无关，无头，支持Magento 2, vue 定制 主题
 https://github.com/DivanteLtd/vue-storefront
 
+
 #https cert 
 1. certbot let's encrypt
 https://certbot.eff.org/
 1. mkcert is a simple tool for making locally-trusted development certificates. 生成本地 HTTPS 加密证书的工具，一个命令就可以生成证书，不需要任何配置。图片是就是它默认为 localhost 生成的加密证书
 https://github.com/FiloSottile/mkcert
 
+
 # 一个可以观看国内主流视频平台所有视频的客户端（Mac、Windows、Linux），包括 VIP 资源
 https://github.com/phobal/ivideo
+
 
 # cheat sheet 小抄
 1. 小抄
 https://github.com/chubin/cheat.sh
 
+
 # 代码美化
 1.  generate beautiful images of your source code 美化的代码图片生成
 https://github.com/mixn/carbon-now-cli
 
+
 # 远程桌面
 1. Remote desktop and file transfer tool
 https://github.com/dchapyshev/aspia
+
 
 #物联网 IOT thing
 1. Johnny-Five是一个开源，基于Firmata协议的物联网和机器人编程框架

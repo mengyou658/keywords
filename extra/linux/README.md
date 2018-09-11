@@ -1,8 +1,11 @@
+
 #linux
+
 
 ### 现成列表
 1.  A list of awesome applications, software, tools and other materials for Linux distros. (linux 软件)
 https://github.com/LewisVo/Awesome-Linux-Software
+
 ### 教程/文章/小抄/规范/记事
 1. 有意思的脚本
 https://github.com/mengyou658/hacker-scripts
@@ -11,20 +14,25 @@ https://github.com/mengyou658/oh-my-zsh
 1.  Linux 内核揭密
 https://github.com/MintCN/linux-insides-zh
 1. 
+
 ### 实用 库/模块/框架
 1. Web server for Linux written in amd64 assembly 汇编语言写的web server  小 快 简单
 https://github.com/nemasu/asmttpd
 1. 
 1. 
+
 ### 完整项目/示例/demo/代码片段
 1. 
 1. 
+
 ### 测试
 1. 
 1. 
+
 ### UI
 1. 
 1. 
+
 ### 工具
 1. The missing terminal file browser for X 
 https://github.com/mengyou658/nnn
@@ -33,10 +41,12 @@ https://github.com/xo/usql
 1. 监控工具 Glances an Eye on your system. A top/htop alternative
 https://github.com/nicolargo/glances
 1. 
+
 ### 有意思的
 1. bash游戏
 https://github.com/mengyou658/piu-piu-SH
 1. 
+
 
 ### bug
 1.  2018年初著名的 cpu 硬件漏洞 演示项目 This repository contains several applications, demonstrating the Meltdown bug. 
