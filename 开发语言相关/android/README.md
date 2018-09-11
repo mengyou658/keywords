@@ -71,6 +71,8 @@ https://github.com/JessYanCoding/AndroidAutoSize
 https://github.com/iReaderAndroid/X2C
 1. 一系列卷尺控件，包含：基本卷尺控件（体重尺，或其它）、金额卷尺控件、时间卷尺控件
 https://github.com/zjun615/RulerView
+1. 安卓 水印
+https://github.com/huangyz0918/AndroidWM
 
 ### AR
 1. Google ARCore SDK for Android （google AR 库）
