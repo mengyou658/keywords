@@ -484,6 +484,8 @@ https://github.com/Meituan-Dianping/mpvue
 https://github.com/mengyou658/taro
 1. 微信小程序和小游戏 小程序、小游戏以及 Web 通用 Canvas 渲染引擎 - Cross platform 2d rendering engine
 https://github.com/dntzhang/cax
+1. 世界上最小却强大的小程序框架 - 100多行代码搞定全局或局部状态管理和跨页通讯
+https://github.com/dntzhang/westore
 
 # 加密
 1. google 出版的各种语言的加密解密库

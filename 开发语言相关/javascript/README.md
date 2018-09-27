@@ -397,7 +397,7 @@ https://github.com/connors/photon
 https://github.com/louischatriot/nedb
 1. json db
 https://github.com/typicode/lowdb
-1. db on all platform 
+1. db on all platform JavaScript 下的响应式、无服务器、客户端、离线优先的数据库
 https://github.com/pubkey/rxdb
 1. 打包工具
 https://github.com/electron-userland/electron-packager
