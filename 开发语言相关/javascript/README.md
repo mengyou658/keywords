@@ -40,6 +40,12 @@ https://github.com/josdejong/mathjs
 https://github.com/KingPixil/wade
 1. js 模糊搜索
 https://github.com/mengyou658/Fuse
+1. 富文本编辑器 替代ueditor
+https://github.com/ianstormtaylor/slate
+1. 富文本编辑器
+https://github.com/adobe/brackets
+1. 富文本编辑器
+https://github.com/quilljs/quill
 1. web test editor （web编辑器）
 https://github.com/jaredreich/pell
 1. mailit A tiny drop-in REST API to send emails
@@ -264,6 +270,8 @@ https://github.com/mengyou658/muuri
 1. 
 
 ### 工具
+1. YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台 https://yapi.ymfe.org
+https://github.com/YMFE/yapi
 1. Random generator helper for JavaScript this single library can generate random numbers, characters, strings, names, addresses, dice, and pretty much anything else
 https://github.com/chancejs/chancejs
 1. 号称更更快的编译器 webpack, parcel 替代
