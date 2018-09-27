@@ -58,6 +58,8 @@ https://github.com/sahat/hackathon-starter.git
 https://github.com/mengyou658/json-server
 1.  Easy to maintain open source documentation websites , 易于维护的开源文档网站搭建
 https://github.com/mengyou658/Docusaurus
+1. Sqorn is a Javascript library for building SQL queries.
+https://github.com/lusakasa/sqorn
 1. 
 
 ### 完整项目/示例/demo/代码片段
@@ -84,4 +86,8 @@ https://github.com/mengyou658/susi_server
 https://github.com/botpress/botpress
 1. Elegant terminal spinner 做工具时候使用，优雅的展示操作进度
 https://github.com/sindresorhus/ora
+1. nodejs再嵌入式设备中使用的系统 low.js is a port of Node.JS with far lower system requirements. With low.js, you can program JavaScript applications utilizing the full Node.JS API and run them not only on normal PCs, but also on embedded devices, such as ones based on the $3 ESP32 microcontroller with Wifi on-board.
+https://github.com/neonious/lowjs
+1. Apify SDK：适用于JavaScript的可扩展Web爬行和抓取库。通过无头Chrome和Puppeteer实现数据提取和Web自动化作业（不仅仅是）的开发。 爬虫 Apify SDK: The scalable web crawling and scraping library for JavaScript. Enables development of data extraction and web automation jobs (not only) with headless Chrome and Puppeteer. https://www.npmjs.com/package/apify
+https://github.com/apifytech/apify-js
 1. 

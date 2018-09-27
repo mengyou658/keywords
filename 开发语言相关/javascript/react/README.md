@@ -46,6 +46,8 @@ https://github.com/ricardo-ch/react-easy-crop
 https://github.com/stereobooster/react-ideal-image
 1. React components for efficiently rendering large lists and tabular data https://react-window.now.sh/ 用于有效渲染大型列表和表格数据的React组件
 https://github.com/bvaughn/react-window
+1. CLI for easily creating reusable react libraries.
+https://github.com/transitive-bullshit/create-react-library
 1. 
 
 ### 完整项目/示例/demo/代码片段
@@ -67,6 +69,9 @@ https://github.com/segmentio/evergreen
 1. 
 
 ### 工具
+1. 这也是下一代用于无编码构建模版的工具，设计师无需折腾代码，通过编辑器即可采用所见即所得的方式进行模版设计。样式管理器，用于组件的样式;布局管理器;代码查看器;附件管理器，用于上传和管理图片;本地和远程存储;内建命令用于创建和管理不同的组件。
+GrapesJS is a free and open source Web Builder Framework which helps building HTML templates, faster and easily, to be delivered in sites, newsletters or mobile apps. Mainly, GrapesJS was designed to be used inside a CMS to speed up the creation of dynamic templates. To better understand this concept check the image below
+https://github.com/artf/grapesjs 
 1. 海量可复用物料，通过 GUI 工具极速构建中后台应用，可视化的构建后台应用，基于react,vue 快速自定义生成后台
 https://github.com/mengyou658/ice
 1. Painless universal pre-rendering for Webpack (webpack 预编译 插件 生成静态页面)

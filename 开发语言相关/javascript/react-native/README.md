@@ -10,6 +10,8 @@
 1. 
 
 ### 实用 库/模块/框架
+1. react-native 离线数据操作库 MMVP的一个选择
+https://github.com/Nozbe/WatermelonDB
 1. expo a set of tools, libraries and services (react-native的工具集)
 https://github.com/expo/expo
 1. meteor （web app 开发框架）
@@ -24,6 +26,7 @@ https://github.com/yorkie/react-native-wechat
 https://github.com/wix/react-native-navigation
 1. native navigation on android and ios (导航的原生实现)
 https://github.com/airbnb/native-navigation/
+1. 
 1. 
 
 ### 完整项目/示例/demo/代码片段
