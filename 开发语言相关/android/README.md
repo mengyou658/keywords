@@ -80,6 +80,8 @@ https://github.com/google-ar/arcore-android-sdk
 1. 
 
 ### 完整项目/示例/demo/代码片段
+1. LiveData+ViewModel+RxJava+okHttp+Retrofit+Glide架构的项目 , 一个很好的示例教程项目
+https://github.com/SelfZhangTQ/T-MVVM
 1.  网易云音乐
 https://github.com/mengyou658/NeteaseCloudMusic
 1. Elephant is PHPHub Community Android unofficial client, base on Material Design + MVP+RxJava+Retrofit .
