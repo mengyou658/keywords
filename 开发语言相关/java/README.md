@@ -42,6 +42,9 @@ https://github.com/b3log/symphony
 
 
 ###### 微服务
+1. Spring Cloud Alibaba 致力于提供分布式应用服务开发的一站式解决方案。此项目包含开发分布式应用服务的必需组件，方便开发者通过 Spring Cloud 编程模型轻松使用这些组件来开发分布式应用服务。依托 Spring Cloud Alibaba，您只需要添加一些注解和少量配置，就可以将 Spring Cloud 应用接入阿里分布式应用解决方案，通过阿里中间件来迅速搭建分布式应用系统。
+    使用
+https://github.com/spring-cloud-incubator/spring-cloud-alibaba
 1. https://github.com/anilallewar/microservices-basics-spring-boot 
 1. https://github.com/rohitghatol/spring-boot-microservices 
 
