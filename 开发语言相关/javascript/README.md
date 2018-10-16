@@ -458,3 +458,5 @@ https://github.com/justadudewhohacks/face-api.js
 1. webassembly 用于可见下推式语言的解析器生成器 A parser generator for visibly pushdown languages.
 https://github.com/ianh/owl
 
+# Superset 是 Airbnb （知名在线房屋短租公司）开源的数据探查与可视化平台（曾用名 Panoramix、Caravel ），该工具在可视化、易用性和交互性上非常有特色，用户可以轻松对数据进行可视化分析。
+https://github.com/apache/incubator-superset
