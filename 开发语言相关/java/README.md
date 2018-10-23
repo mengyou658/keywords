@@ -22,6 +22,8 @@ https://github.com/brianway/java-learning
 https://github.com/francistao/LearningNotes
 1. Java面试相关
 https://github.com/mengyou658/interviews
+1. netty 学习
+https://github.com/sanshengshui/netty-learning-example
 1. 
 1. 
 
@@ -52,6 +54,7 @@ https://github.com/spring-cloud-incubator/spring-cloud-alibaba
 1. http://dubbo.io/ 又重新开始维护了
 1.  基于消息队列解决分布式事务框架 
 https://github.com/mengyou658/myth
+1. mpush
 1. 
 
 ### 完整项目/示例/demo/代码片段
@@ -85,4 +88,26 @@ https://github.com/mengyou658/renren-security
 ### 工具
 1.  是Alibaba开源的Java诊断工具 java优化 java内存诊断
 https://github.com/alibaba/arthas
+1. 
+
+### mybatis 代码生成
+1. 代码生成器
+https://github.com/zouzg/mybatis-generator-gui
+1. 通用扉页插件
+https://github.com/pagehelper/Mybatis-PageHelper
+1. 通用mapper
+https://github.com/abel533/Mapper
+1. 包括，通用分页，
+https://github.com/baomidou/mybatis-plus
+1. idea 代码生成插件
+http://plugins.jetbrains.com/plugin/10196-idea-mybatis-generator
+https://gitee.com/rohou/mybatis-generator
+1. idea 代码生成插件
+https://github.com/kmaster/better-mybatis-generator
+1. idea 代码生成插件
+https://github.com/heyuxian/code-generator
+1. idea 代码生成插件
+https://gitee.com/zhanghw/MybatisGenCode
+1. idea 代码生成插件
+https://github.com/fartherp/generator-idea-plugins
 1. 

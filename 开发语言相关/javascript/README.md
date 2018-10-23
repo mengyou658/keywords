@@ -236,6 +236,8 @@ https://github.com/mengyou658/vConsole
 https://github.com/AlloyTeam/AlloyLever
 1. json server Get a full fake REST API with zero coding in less than 30 seconds, 快速生成测试服务
 https://github.com/mengyou658/json-server
+1. Futuristic JavaScript test runner 
+https://github.com/avajs/ava
 
 
 ##### 用于自动化测试和不需要可视化用户界面的服务器
@@ -460,3 +462,8 @@ https://github.com/ianh/owl
 
 # Superset 是 Airbnb （知名在线房屋短租公司）开源的数据探查与可视化平台（曾用名 Panoramix、Caravel ），该工具在可视化、易用性和交互性上非常有特色，用户可以轻松对数据进行可视化分析。
 https://github.com/apache/incubator-superset
+
+# 代码风格
+1. Opinionated but configurable ESLint wrapper with lots of goodies included 现成的配置扩展，不需要一堆乱七八糟的配置
+https://github.com/xojs/xo
+1. eslint

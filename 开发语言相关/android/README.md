@@ -21,6 +21,7 @@ https://www.jianshu.com/p/4254ea9d1b27
 1. 
 1. 
 1. 
+1. 
 
 ### 实用 库/模块/框架
 1. 优化版MVP,使用注解泛型简化代码编写，使用模块化协议方便维护，APT过程使用注解解析器利用JavaPoet🌝完成重复模块的编写，利用ASpect+GradlePlugin 完成横向AOP编程+Javassist动态字节码注入+Tinker实现热修复+Retrofit实现优雅网络操作+RxJava轻松玩转数据处理
@@ -73,6 +74,10 @@ https://github.com/iReaderAndroid/X2C
 https://github.com/zjun615/RulerView
 1. 安卓 水印
 https://github.com/huangyz0918/AndroidWM
+1. JJEvent 一个可靠的Android端数据埋点SDK
+https://github.com/ccj659/JJEvent
+1. 滑轮样式的选择框，比如滑动的日期选择，滑动的省市县选择
+https://github.com/zyyoona7/WheelPicker
 
 ### AR
 1. Google ARCore SDK for Android （google AR 库）
@@ -134,6 +139,8 @@ https://github.com/mengyou658/MVPArms
 https://github.com/mengyou658/NewFastFrame
 1. Multi-project Clean Architecture MVP app using Conductor, Room, RxJava 2, Dagger 2 with custom scopes
 https://github.com/mengyou658/ConductorMVP
+1. 基于谷歌最新AAC架构，MVVM设计模式的一套快速开发库，整合Okhttp+RxJava+Retrofit+Glide等主流模块，满足日常开发需求。使用该框架可以快速开发一个健壮、易维护的Android应用。
+https://github.com/goldze/MVVMHabit
 1. 
 
 
