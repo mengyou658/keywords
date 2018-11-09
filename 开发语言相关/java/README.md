@@ -28,7 +28,7 @@ https://github.com/sanshengshui/netty-learning-example
 1. 
 
 ### 实用 库/模块/框架
-1. The simplest, fastest way to get business intelligence and analytics to everyone in your company
+1. The simplest, fastest way to get business intelligence and analytics to everyone in your company 数据分析工具
 https://github.com/mengyou658/metabase
 1. Neo4j is the world’s leading Graph Database. (java 图形 数据库)
 https://github.com/mengyou658/neo4j

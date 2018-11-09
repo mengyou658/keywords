@@ -59,7 +59,8 @@ https://github.com/mengyou658/react-pxq
 1. 
 
 ### 测试
-1. 
+1. Searchable library of React testing examples 教你怎么写test
+https://github.com/skidding/react-testing-examples
 1. 
 
 ### UI

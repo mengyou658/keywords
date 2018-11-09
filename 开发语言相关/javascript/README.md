@@ -6,6 +6,8 @@
 1. 
 
 ### 教程/文章/小抄/规范/记事
+1. JavaScript开发者应懂的33个概念  
+https://github.com/stephentian/33-js-concepts
 1. 清单
 https://github.com/mengyou658/Web-Development-And-Engineering-Practices
 1. you don't know js (js进阶教程)
@@ -40,6 +42,8 @@ https://github.com/josdejong/mathjs
 https://github.com/KingPixil/wade
 1. js 模糊搜索
 https://github.com/mengyou658/Fuse
+1. 苦于没有找到一个比较合适的敏感词过滤库，所以我自己花了点时间撸了一个。 它基于广为人知的 ahocorasick 字符串匹配算法，使用原生的 js 实现，浏览器和服务端都可以使用
+https://github.com/pyloque/fastscan
 1. 富文本编辑器 替代ueditor
 https://github.com/ianstormtaylor/slate
 1. 富文本编辑器

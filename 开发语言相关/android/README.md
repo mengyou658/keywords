@@ -1,5 +1,12 @@
+# android
 
-#android
+### 安卓的各种架构
+1. MVC
+1. MVP
+1. Clean
+1. AAC 
+https://github.com/KunMinX/android-viabus-architecture
+
 
 ### 现成列表
 1. awesome-android-ui
@@ -85,6 +92,8 @@ https://github.com/google-ar/arcore-android-sdk
 1. 
 
 ### 完整项目/示例/demo/代码片段
+1. An advanced template project 一个模板项目
+https://github.com/getActivity/AndroidProject
 1. LiveData+ViewModel+RxJava+okHttp+Retrofit+Glide架构的项目 , 一个很好的示例教程项目
 https://github.com/SelfZhangTQ/T-MVVM
 1.  网易云音乐
@@ -154,6 +163,14 @@ https://github.com/mengyou658/bytecode-viewer
 https://github.com/mengyou658/simplify
 1. A Simple App to use Xposed without root or unlock the bootloader(or modify system image etc) VirtualXposed 是基于VirtualApp 和 epic 在非ROOT环境下运行Xposed模块的实现（支持5.0~8.1)。
 https://github.com/android-hacker/VirtualXposed
+
+
+###  热更新，插件化
+1. Phantom — 唯一零 Hook 稳定占坑类 Android 热更新插件化方案
+https://github.com/ManbangGroup/Phantom
+1. https://github.com/alibaba/atlas
+1. https://github.com/wequick/Small
+1. https://github.com/didi/VirtualAPK
 
 
 
