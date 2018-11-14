@@ -28,6 +28,8 @@ https://github.com/get-alex/alex
 1. Koa 2  专注于异步流程改进	下一代Web框架
 1. Hapi和Restfy	面向Api && 微服务	移动互联网时代Api的作用被放大，故而独立分类。尤其是对于微服务开发更是利器
 
+1. node cms 内容管理系统框架
+https://github.com/strapi/strapi
 1. Realtime MVC Framework for Node.js
 https://github.com/balderdashy/sails
 1. node.js cms and web app framework

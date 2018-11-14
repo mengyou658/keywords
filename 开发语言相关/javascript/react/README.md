@@ -97,5 +97,6 @@ https://github.com/mengyou658/reactopt
 使用svg来展示react等组件 react-content-loader 允许开发者利用 SVG，来创建模拟即将加载的内容块结构的提示条，其有点类似于 Facebook 的卡片加载样式。
 使用这个来消除react加载慢，导致页面空白的问题
 https://github.com/mengyou658/react-content-loader
-1. 
+1. 将react组件编译成dom组件，减少react加载组件的反应时间，减少白屏， babel-plugin-rawact
+https://github.com/sokra/rawact
 1. 

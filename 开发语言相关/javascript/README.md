@@ -173,11 +173,15 @@ https://github.com/syt123450/giojs
 1.
 1.
 
-#####worker webworker web worker 
-1.Move an async function into its own thread 依赖webworker，将异步转移到单独的线程中运行
+#####worker webworker web worker child process child_process thread node electron
+1.Move an async function into its own thread 依赖webworker，将异步转移到单独的线程中运行,紧紧支持浏览器环境
 https://github.com/mengyou658/greenlet
 1. Run a module in a Web Worker.  将一个模块再单独的线程中执行
 https://github.com/mengyou658/workerize
+1. 
+https://github.com/pshihn/workly
+1.
+https://github.com/developit/workerize-loader
 
 #####admin
 1. 漂亮的后台界面
@@ -330,6 +334,12 @@ https://github.com/amio/badgen
 https://github.com/GoogleChromeLabs/ndb
 1. Stencila 是一套开源的办公套件，只包含文字处理器和电子表格
 https://github.com/stencila/stencila
+1. Swiper 目前应用较广泛的移动端网页触摸内容滑动js插件
+1. Swiper 类似 
+https://github.com/NickPiscitelli/Glider.js
+1. cli辅助工具，更加直观的cli辅助，让用户更容易选择和操作
+https://github.com/enquirer/enquirer
+
 
 ####  文件上传
 1.  新一代的文件上传组件 Uppy is a sleek, modular file uploader that integrates seemlessly with any application. It’s fast, easy to use and lets you worry about more important problems than building a file uploader.
