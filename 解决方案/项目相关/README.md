@@ -371,12 +371,14 @@ https://github.com/mengyou658/JXCMS
 https://github.com/mengyou658/ERP
 
 
-# Android IOS 手机端开发 react-native react native
+# Android IOS 手机端开发 react-native react native 跨平台
 1. 现成项目
 https://github.com/mengyou658/RNPolymerPo
 1.A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, images, and other artifacts. 将数据定义转化为多平台的代码等等
 https://github.com/mengyou658/Lona
-
+1. c++ 跨平台
+https://github.com/AshampooSystems/boden
+1. Dart flutter 跨平台解决方案
 
 
 # 免费 api 列表
@@ -653,3 +655,9 @@ https://github.com/dchapyshev/aspia
 #物联网 IOT thing
 1. Johnny-Five是一个开源，基于Firmata协议的物联网和机器人编程框架
 https://github.com/rwaldron/johnny-five
+
+# 项目管理
+1. vue 项目管理界面
+https://github.com/a54552239/projectManage
+1. 项目管理PHP 后台
+https://github.com/a54552239/projectManageApi

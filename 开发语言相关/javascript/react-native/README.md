@@ -30,6 +30,10 @@ https://github.com/airbnb/native-navigation/
 1. 
 
 ### 完整项目/示例/demo/代码片段
+1. React Native开发嘎嘎商城客户端
+https://github.com/gagakj/GaGaMall
+1. EleTeam开源项目 - 电商全套解决方案之 React Native 版 - Shop-React-Native。一个类似京东/天猫/淘宝的商城，有对应的服务端支持，由EleTeam团队维护！
+https://github.com/EleTeam/Shop-React-Native
 1. meituan (美团app)
 https://github.com/mengyou658/MeiTuan
 1. 电商类APP

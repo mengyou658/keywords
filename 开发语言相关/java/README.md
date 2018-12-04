@@ -58,8 +58,20 @@ https://github.com/mengyou658/myth
 1. 
 
 ### 完整项目/示例/demo/代码片段
-1.openzaly 是 Akaxin 的服务器源代码，用以搭建私有聊天服务器。 服务器安装教程：https://www.akaxin.com/docs/install/index.html QQ群: 655249600
+1. 完整开源！Java快速开发平台！基于Spring、SpringMVC、Mybatis架构，MStore提供更多好用的插件与模板（文章、商城、微信、论坛、会员、评论、支付、积分、工作流、任务调度等，同时提供上百套免费模板任意选择），价值源自分享！铭飞系统不仅一套简单好用的开源系统、更是一整套优质的开源生态内容体系。铭飞的使命就是降低开发成本提高开发效率，提供全方位的企业级开发解决方案，每月28定期更新版本 http://ms.mingsoft.net
+https://github.com/ming-soft/MCMS
+1. 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端
+https://github.com/linlinjava/litemall
+1. openzaly 是 Akaxin 的服务器源代码，用以搭建私有聊天服务器。 服务器安装教程：https://www.akaxin.com/docs/install/index.html QQ群: 655249600
 https://github.com/akaxincom/openzaly
+1. NideShop：基于Node.js+MySQL开发的开源微信小程序商城（微信小程序）
+https://github.com/tumobi/nideshop-mini-program
+1. 基于SOA架构的分布式电商购物商城 前后端分离 前台商城:Vue全家桶 后台管理系统:Dubbo/SSM/Elasticsearch/Redis/MySQL/ActiveMQ/Shiro/Zookeeper等 http://xmall.exrick.cn
+https://github.com/Exrick/xmall
+1. spring cloud + vue + oAuth2.0全家桶实战，前后端分离模拟商城，完整的购物流程、后端运营平台，可以实现快速搭建企业级微服务项目。支持微信登录等三方登录
+https://github.com/paascloud/paascloud-master
+1. 模仿国内知名B2C网站,实现的一个分布式B2C商城 使用Spring Boot 自动配置 Dubbox / MVC / MyBatis / Druid / Solr / Redis 等。使用Spring Cloud版本请查看 https://github.com/xubinux/xbin-store…
+https://github.com/xubinux/xbin-store
 
 ##### 快速开发框架
 1. 基于Spring+SpringMVC+Mybatis分布式敏捷开发系统架构，提供整套公共微服务服务模块：集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位J2EE企业级开发解决方案。
