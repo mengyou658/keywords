@@ -136,6 +136,8 @@ https://github.com/mengyou658/KingTV
 
 
 #安全相关、性能相关
+1. HAProxy 是一个负载均衡服务器，自带过滤 HTTP 请求的功能，可以防止应用层的 DDOS 攻击，这方面比 nginx 更强大 
+http://www.haproxy.org/#down
 1. 安全思维导图集合
 https://github.com/SecWiki/sec-chart
 1. 各种安全相关思维导图整理收集
