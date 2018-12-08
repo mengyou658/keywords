@@ -144,6 +144,8 @@ https://github.com/tsayen/dom-to-image
 https://github.com/mengyou658/filepond
 1.  Create PDF documents (PDF 生成)
 https://github.com/mengyou658/ReLaXed
+1.  Client-side JavaScript PDF generation for everyone. https://parall.ax/products/jspdf
+https://github.com/MrRio/jsPDF
 1. 只用CSS和HTML创作艺术品
 https://github.com/cyanharlow/purecss-francine
 1. JavaScript fluent validation library 
