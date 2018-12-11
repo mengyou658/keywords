@@ -124,6 +124,8 @@ https://github.com/mengyou658/KaTeX
 https://github.com/mengyou658/jspaint
 1.Skema provides a handy & composable way to validate / transform / purify the input data （JavaScript类型检查，校验工具）
 https://github.com/mengyou658/skema
+1. ForgJs is a javascript lightweight object validator. Go check the Quick start section and start coding with love
+https://github.com/oussamahamdaoui/forgJs
 1. JavaScript library for handling Force Touch, 3D Touch, and Pointer Pressure
 https://github.com/mengyou658/pressure
 1. A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page (制作用户引导提示操作，制作用户引导界面)
@@ -150,6 +152,8 @@ https://github.com/MrRio/jsPDF
 https://github.com/cyanharlow/purecss-francine
 1. JavaScript fluent validation library 
 https://github.com/imbrn/v8n
+1. ForgJs is a javascript lightweight object validator. Go check the Quick start section and start coding with love
+https://github.com/oussamahamdaoui/forgJs
 1. 执行shell 常用的操作
 https://github.com/shelljs/shelljs
 1. SSH2 with Promises
@@ -487,3 +491,9 @@ https://github.com/apache/incubator-superset
 1. Opinionated but configurable ESLint wrapper with lots of goodies included 现成的配置扩展，不需要一堆乱七八糟的配置
 https://github.com/xojs/xo
 1. eslint
+
+
+# 图片压缩 图像处理 图像缩放 图片压缩 图片缩放
+1. High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images. Uses the libvips library.http://sharp.pixelplumbing.com/ 
+Resizing an image is typically 4x-5x faster than using the quickest ImageMagick and GraphicsMagick settings.
+https://github.com/lovell/sharp

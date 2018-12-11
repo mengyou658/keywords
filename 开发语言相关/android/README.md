@@ -116,6 +116,8 @@ https://github.com/mengyou658/CloudReader
 https://github.com/mengyou658/NewFastFrame
 1. 综合案例训练，包含新闻，视频，图片，音乐，记事本等等模块。采用MVP+Rx+Retrofit+Desgin+Dagger2+阿里VLayout+腾讯X5等架构模式。
 https://github.com/mengyou658/LifeHelper
+1. 毛片 Android 有很多值得借鉴的地方
+https://github.com/SplashCodes/JAViewer
 1.
 1.
 

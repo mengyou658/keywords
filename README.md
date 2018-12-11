@@ -62,3 +62,6 @@ https://github.com/shfshanyue/fp-jargon-zh
 
 # LeetCode
 https://github.com/mengyou658/awesome-java-leetcode
+
+# gitlab公司政策手册
+https://about.gitlab.com/handbook/ Gitlab 将公司的所有内部政策，做成一份2000页的手册，公开在网上，以做到"透明公司"的承诺。
