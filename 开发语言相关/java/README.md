@@ -12,6 +12,8 @@ https://github.com/aalansehaiyang/technology-talk
 1. 
 
 ### 教程/文章/小抄/规范/记事
+1. java 进阶
+https://github.com/doocs/advanced-java
 1. Design patterns implemented in Java （设计模式java版本）
 https://github.com/iluwatar/java-design-patterns
 1. java 入门
@@ -44,6 +46,13 @@ https://github.com/b3log/symphony
 
 
 ###### 微服务 动态服务发现、配置管理和服务管理平台 微服务配置 分布式配置中心
+1. Spring Cloud Alibaba 致力于提供微服务开发的一站式解决方案。此项目包含开发分布式应用微服务的必需组件，方便开发者通过 Spring Cloud 编程模型轻松使用这些组件来开发分布式应用服务。
+   依托 Spring Cloud Alibaba，您只需要添加一些注解和少量配置，就可以将 Spring Cloud 应用接入阿里微服务解决方案，通过阿里中间件来迅速搭建分布式应用系统。
+https://github.com/spring-cloud-incubator/spring-cloud-alibaba
+1. 基于spring-boot兼容spring-cloud的微服务事件框架SOFABoot 是蚂蚁金服开源的基于 Spring Boot 的研发框架，它在 Spring Boot 的基础上，提供了诸如 Readiness Check，类隔离，日志空间隔离等等能力。在增强了 Spring Boot 的同时，SOFABoot 提供了让用户可以在 Spring Boot 中非常方便地使用 SOFA 中间件的能力。
+https://github.com/alipay/sofa-boot
+
+
 1.an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications(更易于构建云原生应用的动态服务发现、配置管理和服务管理平台) https://nacos.io
 https://github.com/alibaba/nacos
 1. Spring Cloud Alibaba 致力于提供分布式应用服务开发的一站式解决方案。此项目包含开发分布式应用服务的必需组件，方便开发者通过 Spring Cloud 编程模型轻松使用这些组件来开发分布式应用服务。依托 Spring Cloud Alibaba，您只需要添加一些注解和少量配置，就可以将 Spring Cloud 应用接入阿里分布式应用解决方案，通过阿里中间件来迅速搭建分布式应用系统。使用
