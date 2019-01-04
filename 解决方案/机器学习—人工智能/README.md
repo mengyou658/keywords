@@ -1,5 +1,5 @@
 
-# 机器学习人工智能 深度学习
+# 机器学习人工智能 深度学习 神经网络
 
 ### 现成列表
 1. 
@@ -27,8 +27,8 @@ https://github.com/mengyou658/tfjs
 https://github.com/mengyou658/person-blocker
 1. Friendly machine learning for the web! 友好的 机器学习 web js
 https://github.com/ml5js/ml5-library
-1. 
-
+1. JavaScript中的神经网络 
+https://github.com/BrainJS/brain.js
 
 ### 完整项目/示例/demo/代码片段
 1. 

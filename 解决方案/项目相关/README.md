@@ -325,6 +325,12 @@ https://github.com/mengyou658/cl-privilege.git
 
 
 # IM 聊天 chat
+1.CIM(CROSS-IM) 一款面向开发者的 IM(即时通讯)系统；同时提供了一些组件帮助开发者构建一款属于自己可水平扩展的 IM 。
+  借助 CIM 你可以实现以下需求：
+  IM 即时通讯系统。
+  适用于 APP 的消息推送中间件。
+  IOT 海量连接场景中的消息透传中间件。
+https://github.com/crossoverJie/cim
 1. The most complete chat UI for React Native (聊天UI chat)
 https://github.com/mengyou658/react-native-gifted-chat
 1. Have your own Slack like online chat, built with Meteor. (Rocket.Chat 是特性最丰富的 Slack 开源替代品之一。 主要功能：群组聊天，直接通信，私聊群，桌面通知，媒体嵌入，链接预览，文件上传，语音/视频 聊天，截图等等。)
