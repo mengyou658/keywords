@@ -6,6 +6,10 @@
 1. 
 
 ### 教程/文章/小抄/规范/记事
+1. CSS Inspiration，在这里找到写 CSS 的灵感！
+https://github.com/chokcoco/CSS-Inspiration
+1. 一些css常用样式
+https://github.com/QiShaoXuan/css_tricks
 1. JavaScript开发者应懂的33个概念  
 https://github.com/stephentian/33-js-concepts
 1. 清单
@@ -42,6 +46,8 @@ https://github.com/josdejong/mathjs
 https://github.com/KingPixil/wade
 1. js 模糊搜索
 https://github.com/mengyou658/Fuse
+1. 全文检索  Next-Generation full text search library for Browser and Node.js
+https://github.com/nextapps-de/flexsearch
 1. 苦于没有找到一个比较合适的敏感词过滤库，所以我自己花了点时间撸了一个。 它基于广为人知的 ahocorasick 字符串匹配算法，使用原生的 js 实现，浏览器和服务端都可以使用
 https://github.com/pyloque/fastscan
 1. 富文本编辑器 替代ueditor
@@ -180,6 +186,12 @@ https://github.com/syt123450/giojs
 https://github.com/olifolkerd/tabulator
 1. A React component for building Web forms from JSON Schema 从json定义中自动生成form表单
 https://github.com/mozilla-services/react-jsonschema-form
+1. js 实现的文本差异比较库
+https://github.com/kpdecker/jsdiff
+1. Browse the history of any file from GitHub with style
+https://github.com/pomber/github-history
+1. Add opacity to the body tag and increase it every day until their site completely fades away 对付不付钱的客户使用，让body每天变的透明
+https://github.com/kleampa/not-paid
 1.
 1.
 
@@ -482,7 +494,10 @@ https://github.com/AlloyTeam/AlloyImage
 https://github.com/vipstone/faceai
 1. JavaScript API for face detection and face recognition in the browser with tensorflow.js face-recognition face javascript js tensorflow tfjs neural-network resnet-34 convolutional-neural-networks face-detection face-similarity ssd-mobilenet face-landmarks
 https://github.com/justadudewhohacks/face-api.js
-
+1. pico.js：微型 JavaScript 人脸检测库
+   
+   pico.js 是一个只有 200 行纯 JavaScript 代码的人脸检测库，具备实时检测功能（在实际环境中可达到 200+ FPS），压缩后仅 2KB 。
+https://github.com/tehnokv/picojs
 
 # webassembly 浏览器执行c代码
 1. webassembly 用于可见下推式语言的解析器生成器 A parser generator for visibly pushdown languages.
@@ -501,3 +516,13 @@ https://github.com/xojs/xo
 1. High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images. Uses the libvips library.http://sharp.pixelplumbing.com/ 
 Resizing an image is typically 4x-5x faster than using the quickest ImageMagick and GraphicsMagick settings.
 https://github.com/lovell/sharp
+
+# 瓦片tile 地图离线下载
+https://github.com/stadt-bielefeld/wms-downloader
+https://github.com/AliFlux/MapTilesDownloader
+
+# 自动预加载
+1. https://github.com/instantpage/instant.page
+
+# 机器人 个人助理
+1. https://github.com/leon-ai/leon

@@ -2,6 +2,10 @@
 #运维相关
 
 #docker
+1. Dive：分析和浏览 Docker 容器镜像内部的工具
+   
+   Docker 容器镜像是一个轻量、独立、含有运行某个应用所需全部软件的可执行包，那么一个 Docker 镜像里面会包含什么东西？这个名为 Dive 的工具正是用来分析和浏览 Docker 镜像每层的内容。通过分析 Docker 镜像，我们可以发现在各个层之间可能重复的文件，并通过移除它们来减小 Docker 镜像的大小。
+https://github.com/wagoodman/dive
 
 ##### 教程或者说是小抄 
 https://github.com/eon01/DockerCheatSheet
@@ -58,3 +62,11 @@ https://github.com/gaia-pipeline/gaia
 # 压力测试
 1. tcpcopy是一种应用请求复制（基于tcp的packets）工具，其应用领域较广，目前已经应用于国内各大互联网公司,tcpcopy主要有如下功能： 1）分布式压力测试工具，利用在线数据，可以测试系统能够承受的压力大小（远比ab压力测试工具真实地多）,也可以提前发现一些bug 2）普通上线测试，可以发现新系统是否稳定，提前发现上线过程中会出现的诸多问题，让开发者有信心上线 3）对比试验，同样请求，针对不同或不同版本程序，可以做性能对比等试验 4）利用多种手段，构造无限在线压力，满足中小网站压力测试要求 5）实战演习（架构师必备）
 https://github.com/mengyou658/tcpcopy
+
+# 浏览器 linux 文本浏览器
+1. browsh：基于文本的现代 Web 浏览器
+https://www.brow.sh/
+
+# 服务器系统信息分析框架，发现潜在的漏洞
+1. AIL框架 - 信息泄漏分析框架
+https://github.com/CIRCL/AIL-framework

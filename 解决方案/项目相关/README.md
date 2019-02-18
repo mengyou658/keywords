@@ -492,6 +492,8 @@ https://github.com/mengyou658/wepy
 https://github.com/Meituan-Dianping/mpvue
 1. 类似react的形式开发小程序
 https://github.com/mengyou658/taro
+1. didi出品的类似taro的跨平台实现
+https://github.com/didi/chameleon
 1. 微信小程序和小游戏 小程序、小游戏以及 Web 通用 Canvas 渲染引擎 - Cross platform 2d rendering engine
 https://github.com/dntzhang/cax
 1. 世界上最小却强大的小程序框架 - 100多行代码搞定全局或局部状态管理和跨页通讯
@@ -579,7 +581,8 @@ https://github.com/mengyou658/mindmap-layouts
 
 # 高并发 High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
 1. 高可扩展性，高可用性，高稳定性，高性能和高智能后端设计
-
+1. 秒杀系统设计
+https://github.com/qiurunze123/miaosha
 
 # css-block 
 1. 高性能，可维护的样式表。 http://css-blocks.com/ 
@@ -600,7 +603,8 @@ https://github.com/botpress/botpress
 https://github.com/mengyou658/susi_server
 1. Botpress是一个用JavaScript编写的开源bot创建工具
 https://github.com/botpress/botpress
-
+1. 个人助理 机器人
+https://github.com/leon-ai/leon
 
 # 一个轻量级的包托管网站，app-host 主要用于 iOS 和 Android 的包管理，作用类似于fir.im
 https://github.com/pluosi/app-host
@@ -669,3 +673,13 @@ https://github.com/rwaldron/johnny-five
 https://github.com/a54552239/projectManage
 1. 项目管理PHP 后台
 https://github.com/a54552239/projectManageApi
+
+# erp
+https://github.com/totalo/erp
+
+# 帮助企业构建企业文化小程序，功能包括赞赏、悬赏、点赞、评论、排行榜、兑换商城、微信充值、微信服务通知
+https://github.com/cser700/play-together
+
+# 快速框架 现成框架 
+基于Dubbo微服务项目快速搭建脚手架，提供基础功能，方便企业快速搭建项目。主要技术Dubbo/SpringBoot/Jpa/Redis/MySQL/RabbitMq/Shiro/Zookeeper
+https://github.com/GeXyu/quick-cli-java

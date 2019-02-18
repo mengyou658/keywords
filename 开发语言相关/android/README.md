@@ -135,6 +135,8 @@ https://github.com/mengyou658/RapidView
 1. 
 
 ### 工具
+1. 一款功能齐全的客户端（ iOS 、Android ）研发助手
+https://github.com/didi/DoraemonKit
 1. Android开发人员不得不收集的代码 一个强大易用的安卓工具类库
 https://github.com/mengyou658/AndroidUtilCode
 1. 利用Android AccessibilityService 实现自动加好友，拉人进群聊

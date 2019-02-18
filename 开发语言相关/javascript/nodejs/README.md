@@ -71,6 +71,8 @@ https://github.com/lusakasa/sqorn
 https://github.com/mengyou658/nideshop-mini-program
 1. NideShop：基于Node.js+MySQL开发的开源免费商城（api服务器端）
 https://github.com/mengyou658/nideshop
+1. 奇舞团抽奖 node 
+https://github.com/75team/raffle
 1. 
 
 ### 测试

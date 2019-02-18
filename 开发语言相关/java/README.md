@@ -14,6 +14,8 @@ https://github.com/aalansehaiyang/technology-talk
 ### 教程/文章/小抄/规范/记事
 1. java 进阶
 https://github.com/doocs/advanced-java
+1. 秒杀系统设计
+https://github.com/qiurunze123/miaosha
 1. Design patterns implemented in Java （设计模式java版本）
 https://github.com/iluwatar/java-design-patterns
 1. java 入门
@@ -42,7 +44,9 @@ https://github.com/lightbend/config
 https://github.com/alibaba/nacos
 1. 一款用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台
 https://github.com/b3log/symphony
-
+1. Jib 是 Google 开发的可以直接构建 Java 应用的 Docker 和 OCI 镜像的类库，以 Maven 和 Gradle 插件形式提供。
+   通过 Jib，Java 开发者可以使用他们熟悉的 Java 工具来构建容器。Jib 是一个快速而简单的容器镜像构建工具，它负责处理将应用程序打包到容器镜像中所需的所有步骤。它不需要你编写 Dockerfile 或安装 Docker，而且可以直接集成到 Maven 和 Gradle中 —— 只需要将插件添加到构建中，就可以立即将 Java 应用程序容器化。
+https://github.com/GoogleContainerTools/jib
 
 
 ###### 微服务 动态服务发现、配置管理和服务管理平台 微服务配置 分布式配置中心

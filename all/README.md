@@ -167,7 +167,9 @@ https://github.com/browsh-org/browsh
 # 游戏
 1. 3D using bitblting in Windows. 使用windows的接口开发游戏
 https://github.com/mengyou658/3D-Game-Programming
-
+1. bs framework：新一代 C++ 游戏开发框架
+   bs :: framework 是一个新一代的 C ++ 游戏开发框架，专注于现代技术、高质量设计和高性能，旨在为开发实时图形应用程序（游戏、引擎或工具）提供统一的基础。
+https://www.bsframework.io/
 
 
 #  开发语言 luna (Visual and textual functional programming language with a focus on productivity, collaboration and development ergonomics. 基于图形方式变成的语言，视觉和文字功能性编程语言，重点是生产力，协作和开发人体工程学)
