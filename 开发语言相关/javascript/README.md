@@ -192,6 +192,8 @@ https://github.com/kpdecker/jsdiff
 https://github.com/pomber/github-history
 1. Add opacity to the body tag and increase it every day until their site completely fades away 对付不付钱的客户使用，让body每天变的透明
 https://github.com/kleampa/not-paid
+1. color颜色操作工具
+https://github.com/gka/chroma.js
 1.
 1.
 

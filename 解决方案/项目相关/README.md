@@ -498,6 +498,8 @@ https://github.com/didi/chameleon
 https://github.com/dntzhang/cax
 1. 世界上最小却强大的小程序框架 - 100多行代码搞定全局或局部状态管理和跨页通讯
 https://github.com/dntzhang/westore
+1. 鲜亮的高饱和色彩，专注视觉的小程序组件库 
+https://github.com/weilanwl/ColorUI
 
 # 加密
 1. google 出版的各种语言的加密解密库
