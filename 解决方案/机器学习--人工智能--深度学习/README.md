@@ -85,3 +85,7 @@ https://gengo.ai/articles/the-50-best-free-datasets-for-machine-learning/
 #笔迹识别算法
 1. GRAIL 笔迹识别算法
 https://jackschaedler.github.io/handwriting-recognition/
+
+
+# Faceswap是一种利用深度学习识别和交换图片和视频中的面孔的工具
+https://github.com/deepfakes/faceswap

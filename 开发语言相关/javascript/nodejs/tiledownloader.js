@@ -7,6 +7,7 @@ var EventEmitter = require('events').EventEmitter;
 var util = require('util');
 var tunnel = require('tunnel');
 var UUID = require('uuid');
+var path = require('path');
 
 const commitCount = 400;
 const maxgot = 100;
@@ -55,6 +56,8 @@ function TileDownloader(options) {
     this.downloadBytes = 0;
     //下载速度
     this.downloadSpeed = 0;
+    //状态
+    this.state = 'idle';
 
     this.failedTile = [];
 
@@ -121,45 +124,48 @@ function TileDownloader(options) {
         this.emit('progress');
     }
     //根据tile获得表名，对于超大数据，可以用来分表
-    this._getTableName = function(tile) {
 
-        if (tile.level < 10) {
-            return 'blocks';
-        } else {
-            var tx = Math.floor(tile.x / 512);
-            var ty = Math.floor(tile.y / 512);
-            return 'blocks_' + tile.level + "_" + tx + "_" + ty;
+      function mkdirs(dirpath) {
+        if (!fs.existsSync(path.dirname(dirpath))) {
+          mkdirs(path.dirname(dirpath));
         }
-
+        if (!fs.existsSync(dirpath)) {
+          fs.mkdirSync(dirpath);
+        }
+      }
+    this._getFilePath = function(tile) {
+      let res = ''
+      if (Number(tile.level) < 10) {
+        res = 'blocks';
+      } else {
+        var tx = Math.floor(tile.x / 512);
+        var ty = Math.floor(tile.y / 512);
+        res = 'blocks_' + tile.level + "_" + tx + "_" + ty;
+      }
+      let basePath = path.join(tile.output || this.output, res, tile.level + "", tile.x + "")
+      console.log("basePath", basePath)
+      try {
+        mkdirs(basePath);
+      } catch (e) {
+          console.error(e)
+      }
+      return path.join(basePath, tile.y + ".jpg");
     }
-    //生成一个got下载完成的响应函数 来保存到sqlite3数据库
+    //生成一个got下载完成的响应函数 来保存到文件
     this._saveTileData = function(tile) {
         var self = this;
         var db = this.db;
         return function(response) {
             self.downloadBytes += response.body.length;
 
-            var tname = self._getTableName(tile);
+            var basePath = self._getFilePath(tile);
 
             try {
-                //尝试插入
-                db.run("replace INTO " + tname + " VALUES (?,?,?,?)", [tile.level, tile.x, tile.y, response.body], function(err) {
-                    //如果表不存在，那么建表
-                    if (err && err.errno == 1) {
-                        console.log(err);
-                        var sql = "CREATE TABLE  if not exists  " + tname + " (z int, x long,y long,tile blob);";
-                        sql += "CREATE UNIQUE INDEX if not exists  " + tname + "index  ON  " + tname + "  (x,y,z);";
-                        //再次插入
-                        db.exec(sql, function() {
-                            db.run("replace INTO " + tname + " VALUES (?,?,?,?)", [tile.level, tile.x, tile.y, response.body], function(err) {
-                                self._finishedOne();
-                            });
-                        });
-                    } else {
-                        self._finishedOne();
-                    }
-
-                });
+              fs.writeFileSync(basePath, response.body, function (err) {
+                if (err) {
+                    console.log("write data error:", err)
+                }
+              })
             } catch (ex) {
                 console.log(ex);
             }
@@ -452,6 +458,7 @@ function TileDownloader(options) {
             if (this.downloading <= 0) {
                 var self = this;
                 this._stop(function() {
+                  self.state = 'finished';
                     self.emit('finished');
                 });
             }
@@ -486,6 +493,7 @@ function TileDownloader(options) {
         }, this.taskinterval);
 
 
+      this.state = 'started';
         this.emit('started');
     }
 
@@ -523,7 +531,7 @@ TileDownloader.prototype.start = function() {
 
 
     var self = this;
-    this.db = new sqlite.Database(this.output, sqlite.OPEN_READWRITE | sqlite.OPEN_CREATE);
+    this.db = new sqlite.Database(this.output + "/main.db", sqlite.OPEN_READWRITE | sqlite.OPEN_CREATE);
 
     this.db.on("error", function(error) {
         console.log("Getting an error : ", error);
@@ -577,11 +585,16 @@ TileDownloader.prototype.stop = function(cb) {
     var self = this;
     this._stop(function() {
 
+      self.state = 'stoped';
+
         self.emit('stoped');
 
         cb && cb();
     });
 
+}
+TileDownloader.prototype.getFilePath = function(tile) {
+    this._getFilePath(tile);
 }
 //原型派生
 util.inherits(TileDownloader, EventEmitter);
