@@ -31,6 +31,9 @@ https://morvanzhou.github.io/tutorials/machine-learning/ML-intro/1-1-machine-lea
 https://github.com/apachecn/hands-on-ml-zh
 1. 机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归 https://cuijiahua.com/blog/ml/
 https://github.com/Jack-Cherish/Machine-Learning
+1.  [译] 利用 Python 进行数据分析 · 第 2 版
+https://github.com/apachecn/pyda-2e-zh
+1. 
 1. 
 ### 实用 库/模块/框架
 1. A face detection library in 200 lines of JavaScript （人脸检测 JavaScript ）
