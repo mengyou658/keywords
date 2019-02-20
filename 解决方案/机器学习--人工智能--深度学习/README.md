@@ -2,6 +2,10 @@
 # 机器学习人工智能 深度学习 神经网络
 
 ### 现成列表
+1. 行动识别和相关区域资源的策划清单 A curated list of action recognition and related area resources
+https://github.com/jinwchoi/awesome-action-recognition
+1. A curated list of awesome computer vision resources 精彩的计算机视觉资源列表
+https://github.com/jbhuang0604/awesome-computer-vision
 1. 
 1. 
 
@@ -10,11 +14,24 @@
 1. 
 
 ### 教程/文章/小抄/规范/记事
+1. 计算机视觉相关论文整理、翻译、记录、分享; 包括图像分类、目标检测、视觉跟踪/目标跟踪、人脸识别/人脸验证、OCR/场景文本检测、识别等领域。
+https://github.com/yizt/cv-papers
 1.  深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 
 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06 
 https://github.com/scutan90/DeepLearning-500-questions
+1. 车牌识别训练代码 Training Tools Related to HyperLPR 
+https://github.com/zeusees/HyperLPR-Training
+1. 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记
+https://github.com/imhuay/Algorithm_Interview_Notes-Chinese 
+1. AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
+https://github.com/apachecn/AiLearning
+1. 机器学习视频教程
+https://morvanzhou.github.io/tutorials/machine-learning/ML-intro/1-1-machine-learning/
+1. Sklearn 与 TensorFlow 机器学习实用指南
+https://github.com/apachecn/hands-on-ml-zh
+1. 机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归 https://cuijiahua.com/blog/ml/
+https://github.com/Jack-Cherish/Machine-Learning
 1. 
-
 ### 实用 库/模块/框架
 1. A face detection library in 200 lines of JavaScript （人脸检测 JavaScript ）
 https://github.com/mengyou658/picojs
@@ -29,6 +46,58 @@ https://github.com/mengyou658/person-blocker
 https://github.com/ml5js/ml5-library
 1. JavaScript中的神经网络 
 https://github.com/BrainJS/brain.js
+1. 用python3+opencv3做的中国车牌识别，包括算法和客户端界面，只有2个文件，surface.py是界面代码，predict.py是算法代码，界面不是重点所以用tkinter写得很简单
+https://github.com/wzh191920/License-Plate-Recognition
+1. Car Recognition with Deep Learning 车辆识别
+https://github.com/foamliu/Car-Recognition
+1.  The world's simplest facial recognition api for Python and the command line 世界上最简单的人脸识别库，使用 Python 或命令行，即可识别和控制人脸。该库使用 dlib 顶尖的深度学习人脸识别技术构建，在户外脸部检测数据库基准（Labeled Faces in the Wild benchmark）上的准确率高达 99.38%。
+https://github.com/mengyou658/face_recognition
+1. 自动车牌识别库 http://www.openalpr.com Automatic License Plate Recognition library
+https://github.com/openalpr/openalpr
+1. 人脸识别 Face recognition using Tensorflow
+https://github.com/davidsandberg/facenet
+1. 简单的语音识别 Speech recognition for your site
+https://github.com/TalAter/annyang
+1. ANTLR（另一种语言识别工具）是一个功能强大的解析器生成器，用于读取，处理，执行或翻译结构化文本或二进制文件。 语法解析 ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. http://antlr.org
+https://github.com/antlr/antlr4
+1. 人脸识别 JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
+https://github.com/justadudewhohacks/face-api.js
+1. 互联网上的人物跟踪器：Jose Pino的OSINT分析和研究工具 互联网上的人物跟踪器：学习跟踪世界，避免被追踪。Trape是一种OSINT分析和研究工具，它允许人们实时跟踪和执行智能社交工程攻击。它的创建目的是向全世界教授大型互联网公司如何获取机密信息，例如其网站或服务的会话状态，并通过浏览器控制用户，而不是他们的知识，但它的发展是为了帮助政府组织，公司和研究人员跟踪网络犯罪分子。
+People tracker on the Internet: OSINT analysis and research tool by Jose Pino Trape is an OSINT analysis and research tool, which allows people to track and execute intelligent social engineering attacks in real time. It was created with the aim of teaching the world how large Internet companies could obtain confidential information such as the status of sessions of their websites or services and control their users through their browser, without their knowlege, but It evolves with the aim of helping government organizations, companies and researchers to track the cybercriminals.
+https://github.com/jofpin/trape
+1. 人脸识别 
+https://github.com/deepinsight/insightface/issues/256 包含训练数据下载
+https://github.com/deepinsight/insightface
+1. 基于深度学习高性能中文车牌识别 High Performance Chinese License Plate Recognition Framework.
+https://github.com/zeusees/HyperLPR
+1. 文字识别 其实现在做文字识别不是很难，特别基于深度学习
+https://github.com/JinpengLI/deep_ocr
+1. 一款入门级的人脸、视频、文字检测以及识别的项目.人脸检测、识别（图片、视频）
+                           轮廓标识
+                           头像合成（给人戴帽子）
+                           数字化妆（画口红、眉毛、眼睛等）
+                           性别识别
+                           表情识别（生气、厌恶、恐惧、开心、难过、惊喜、平静等七种情绪）
+                           视频对象提取
+                           图片修复（可用于水印去除）
+                           图片自动上色
+                           眼动追踪（待完善）
+                           换脸（待完善）
+https://github.com/vipstone/faceai
+1. 基于深度学习高性能中文车牌识别 High Performance Chinese License Plate Recognition Framework
+https://github.com/zeusees/HyperLPR
+1. 基于python图像识别实现的连连看外挂，可实现QQ连连看秒破
+https://github.com/TheThreeDog/Auto-Lianliankan
+1. Deep Pose Estimation implemented using Tensorflow with Custom Architectures for fast inference. 使用Tensorflow和自定义架构实现深度姿态估计，以实现快速推理 识别人体骨架 人体动作
+https://github.com/ildoonet/tf-pose-estimation
+1. TensorFlow android demo 车道线 车辆 人脸 动作 骨架 识别 检测
+https://github.com/yuxitong/TensorFlowAndroidDemo
+1. 换脸 Faceswap
+https://github.com/deepfakes/faceswap
+1. 身份证识别 ocr
+https://github.com/isee15/Card-Ocr
+1.
+1.
 
 ### 完整项目/示例/demo/代码片段
 1. 
@@ -79,7 +148,26 @@ https://www.oschina.net/p/word
 https://github.com/awesomedata/awesome-public-datasets
 1. 这里列出50个可以用来训练模型的免费大型数据集
 https://gengo.ai/articles/the-50-best-free-datasets-for-machine-learning/
+1. 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术
+数据集
+https://github.com/fighting41love/funNLP
+1. CCPD: Chinese City Parking Dataset 该存储库旨在提供用于车牌检测和识别的开源数据集
+https://github.com/detectRecog/CCPD
+1. Dataset for couplets. 70万条对联数据库。
+https://github.com/wb14123/couplet-dataset
+1. 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词
+https://github.com/chinese-poetry/chinese-poetry
+1. 中华新华字典数据库。包括歇后语，成语，词语，汉字。
+https://github.com/pwxcoo/chinese-xinhua
+1. 中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据 Node.js 爬虫。
+https://github.com/modood/Administrative-divisions-of-China
+1. 链家二手房爬取数据
+https://github.com/XuefengHuang/lianjia-scrawler
 1. 
+1. 
+1. 
+1. 
+
 
 
 #笔迹识别算法
@@ -89,3 +177,7 @@ https://jackschaedler.github.io/handwriting-recognition/
 
 # Faceswap是一种利用深度学习识别和交换图片和视频中的面孔的工具
 https://github.com/deepfakes/faceswap
+
+# 视频
+1. 流媒体技术视频教程
+https://github.com/EasyDarwin/Course

@@ -20,6 +20,8 @@ https://github.com/mengyou658/vuepress
 https://github.com/vuetifyjs/vuetify
 1. 电子商务的PWA。100％离线，平台无关，无头，支持Magento 2, vue 定制 主题
 https://github.com/DivanteLtd/vue-storefront
+1. An infinite scroll plugin for Vue.js  一款用于 Vue.js 的无限滚动插件
+https://github.com/PeachScript/vue-infinite-loading
 1. 
 
 ### 完整项目/示例/demo/代码片段
