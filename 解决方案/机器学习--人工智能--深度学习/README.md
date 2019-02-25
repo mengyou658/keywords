@@ -14,6 +14,10 @@ https://github.com/jbhuang0604/awesome-computer-vision
 1. 
 
 ### 教程/文章/小抄/规范/记事
+1. 基于视频的目标检测算法研究 对相应的视频目标检测论文整理实现综述文档。
+https://github.com/guanfuchen/video_obj
+1. 机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归 
+https://github.com/Jack-Cherish/Machine-Learning
 1. 计算机视觉相关论文整理、翻译、记录、分享; 包括图像分类、目标检测、视觉跟踪/目标跟踪、人脸识别/人脸验证、OCR/场景文本检测、识别等领域。
 https://github.com/yizt/cv-papers
 1.  深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 
@@ -33,6 +37,11 @@ https://github.com/apachecn/hands-on-ml-zh
 https://github.com/Jack-Cherish/Machine-Learning
 1.  [译] 利用 Python 进行数据分析 · 第 2 版
 https://github.com/apachecn/pyda-2e-zh
+1. YOLO v3 目标检测算法 源码
+https://github.com/SpikeKing/keras-yolo3-detection
+1. 机器人视觉 移动机器人 VS-SLAM ORB-SLAM2 深度学习目标检测 yolov3 行为检测 opencv PCL 机器学习 无人驾驶
+https://github.com/Ewenwan/MVision
+1. 
 1. 
 1. 
 ### 实用 库/模块/框架
@@ -99,6 +108,8 @@ https://github.com/yuxitong/TensorFlowAndroidDemo
 https://github.com/deepfakes/faceswap
 1. 身份证识别 ocr
 https://github.com/isee15/Card-Ocr
+1. wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目。 https://wukong.hahack.com/
+https://github.com/wzpan/wukong-robot
 1.
 1.
 
@@ -115,8 +126,14 @@ https://github.com/isee15/Card-Ocr
 1. 
 
 ### 工具
+1. Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code.一个不用写代码就可以训练和测试模型的数据
+https://github.com/uber/ludwig
 1. 100+ Chinese Word Vectors 上百种预训练中文词向量
 https://github.com/mengyou658/Chinese-Word-Vectors
+1. 采用python-flask框架开发，基于B/S方式交互，支持多人同时标注。
+https://github.com/hzylmf/od-annotation
+1. 
+1. 
 1. 
 
 #自然语言处理 中文分词库
@@ -124,6 +141,8 @@ https://github.com/mengyou658/Chinese-Word-Vectors
 https://github.com/hankcs/HanLP
 1. 存储库，用于跟踪自然语言处理（NLP）中的进度，包括数据集和最常用的NLP任务的当前最新技术。
 https://github.com/sebastianruder/NLP-progress
+1. Jiagu深度学习自然语言处理工具 中文分词 词性标注 命名实体识别 情感分析 新词发现 关键词 文本摘要Jiagu以BiLSTM等模型为基础，使用大规模语料训练而成。将提供中文分词、词性标注、命名实体识别、关键词抽取、文本摘要、新词发现等常用自然语言处理功能。参考了各大工具优缺点制作，将Jiagu回馈给大家
+https://github.com/ownthink/Jiagu
 1. Python 中文分词组件
 https://www.oschina.net/p/jieba
 1. 轻量级 Java 中文分词器
@@ -142,11 +161,15 @@ https://www.oschina.net/p/word
 1. 
 1. 
 
-#通用机器学习
+#框架
+1.  Parallel Deep Reinforcement Learning Framework Huskarl is a framework for deep reinforcement learning focused on research and fast prototyping. It's built on TensorFlow 2.0 and uses the tf.keras API when possible for conciseness and readability.
+https://github.com/danaugrs/huskarl
 1. 
 1. 
 
 # 公开数据集，大部分免费，涵盖机器学习、自然语言处理、图像识别等领域
+1. TensorFlow code and pre-trained models for BERT https://arxiv.org/abs/1810.04805
+https://github.com/google-research/bert
 1. 公开数据集，大部分免费，涵盖机器学习、自然语言处理、图像识别等领域
 https://github.com/awesomedata/awesome-public-datasets
 1. 这里列出50个可以用来训练模型的免费大型数据集
@@ -184,3 +207,29 @@ https://github.com/deepfakes/faceswap
 # 视频
 1. 流媒体技术视频教程
 https://github.com/EasyDarwin/Course
+
+
+# 基于opencv
+1. OpenCV 3.2.0 版本在Android平台实现目标检测和目标追踪
+https://github.com/kongqw/OpenCVForAndroid
+
+# 视频检测相关
+1. 基于视频的目标检测算法研究 对相应的视频目标检测论文整理实现综述文档。
+https://github.com/guanfuchen/video_obj
+1. 简明 SSD 目标检测模型 keras version（交通标志识别 训练部分见 dev 分支） 
+https://github.com/kuhung/SSD_keras
+1.  深度学习 + OpenCV，Python实现实时视频目标检测， 详细教程 https://www.voidking.com/dev-object-detection/
+https://github.com/voidking/object-detection
+1. 目标检测yolo算法，采用tensorflow框架编写，中文注释完全，含测试和训练，支持摄像头
+https://github.com/LeslieZhoa/tensorflow-YOLO1
+1. 对于小目标的检测和识别 主要是用来解决小目标的检测和跟踪问题 斯坦福无人机航拍数据 吉林一号视频数据 航拍数据检测
+https://github.com/liuguiyangnwpu/TinyObject
+1. 本工程主要目的是集成深度学习中常用的目标检测模型，并利用目标检测模型进行图像和视频中的检测！YOLOv1 航拍数据
+https://github.com/liuguiyangnwpu/DL.EyeSight
+1. 基于SCNN的航拍数据库分类
+https://github.com/Kerrwy/SCNN_Aerial_classify
+1. 航拍视频文件
+https://github.com/loxilo/yt_server/blob/master/server/public/statics/video/SM-G9550_20180709062058.mp4
+https://github.com/loxilo/yt_server/blob/master/server/public/statics/video/SM-G9550_20180709062253.mp4
+https://github.com/loxilo/yt_server/blob/master/server/public/statics/video/SM-G9550_20180709062432.mp4
+https://github.com/hust512/Transform_based_Tensor_Decomposition_FHE/blob/master/Aerial_data.mp4

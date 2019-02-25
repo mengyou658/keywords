@@ -99,6 +99,8 @@ https://github.com/YadiraF/PRNet
 https://github.com/Jack-Cherish/python-spider
 1. UReport2是一款高性能的架构在Spring之上纯Java报表引擎，通过迭代单元格可以实现任意复杂的中国式报表。 在UReport2中，提供了全新的基于网页的报表设计器，可以在Chrome、Firefox、Edge等各种主流浏览器运行（IE浏览器除外）,打开浏览器即可完成各种复杂报表的设计制作。
 https://github.com/youseries/ureport
+1. 邱威傑市民服務系統 https://service.froggychiu.com Project setup using cookiecutter-django-vue
+https://github.com/FroggyTaipei/froggy-service
 1. 
 1. 
 
@@ -133,3 +135,9 @@ https://github.com/imWildCat/scylla
 https://github.com/google/gif-for-cli
 1. 爬虫 Python Incredibly fast crawler which extracts urls, emails, files, website accounts and much more.
 https://github.com/s0md3v/Photon
+1. 集合了众多运维工具（puppet、cfengine、chef、func、fabric）的优点，实现了批量系统配置、批量程序部署、批量运行命令等功能 Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/ https://www.ansible.com/
+https://github.com/ansible/ansible
+1. 谷歌，Naver多进程图像网络爬虫（Selenium） Google, Naver multiprocess image web crawler (Selenium)
+https://github.com/YoongiKim/AutoCrawler
+1. 它可以追踪、控制你家里的所有设备，并且能实现自动化控制。它支持 Amazon Fire TV、Philips Hue、Google Chromecasts 等设备，还集成了 IFTTT。  Open source home automation that puts local control and privacy first
+https://github.com/home-assistant/home-assistant

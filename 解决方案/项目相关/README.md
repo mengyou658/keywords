@@ -133,6 +133,8 @@ https://github.com/mengyou658/ShaderForge
 https://github.com/mengyou658/nginx-rtmp-module
 1.高仿全民直播（全民TV），项目采用 MVP + RXJava + Retrofit + OKHttp + Material Design + Dagger2 + Base + Glide + GreenDao构建。
 https://github.com/mengyou658/KingTV 
+1. 安卓
+https://github.com/mengyou658/QiukuiLive
 
 
 #安全相关、性能相关
