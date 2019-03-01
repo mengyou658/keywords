@@ -194,6 +194,10 @@ https://github.com/pomber/github-history
 https://github.com/kleampa/not-paid
 1. color颜色操作工具
 https://github.com/gka/chroma.js
+1. js 使用gpu工具
+https://github.com/gpujs/gpu.js
+1.
+1.
 1.
 1.
 
@@ -236,6 +240,10 @@ https://github.com/mengyou658/style2paints
 https://github.com/mengyou658/wallet
 1. An interactive 3D visualization of the all the buildings in Manhattan 曼哈顿所有建筑物的交互式三维可视化
 https://github.com/rolyatmax/nyc-buildings
+1. 桌面下载工具 electron vue vuex element-ui A full-featured download manager
+https://github.com/agalwood/Motrix
+1. 个人知识管理工具
+https://github.com/xland/xiangxuema
 
 ##### game 游戏
 1. State management and more for turn based games. 游戏框架 回合制游戏

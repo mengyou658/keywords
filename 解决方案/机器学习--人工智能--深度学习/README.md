@@ -41,6 +41,8 @@ https://github.com/apachecn/pyda-2e-zh
 https://github.com/SpikeKing/keras-yolo3-detection
 1. 机器人视觉 移动机器人 VS-SLAM ORB-SLAM2 深度学习目标检测 yolov3 行为检测 opencv PCL 机器学习 无人驾驶
 https://github.com/Ewenwan/MVision
+1. 为 TF 2017 打造的新版可视化教学代码 可视化的教程
+https://github.com/MorvanZhou/Tensorflow-Tutorial
 1. 
 1. 
 1. 
@@ -110,6 +112,8 @@ https://github.com/deepfakes/faceswap
 https://github.com/isee15/Card-Ocr
 1. wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目。 https://wukong.hahack.com/
 https://github.com/wzpan/wukong-robot
+1. NSFW detection on the client-side via Tensorflow JS 
+https://github.com/infinitered/nsfwjs
 1.
 1.
 
