@@ -12,6 +12,8 @@ https://github.com/mengyou658/30-seconds-of-java8
 https://github.com/aalansehaiyang/technology-talk
 1. spring-boot学习
 https://github.com/dyc87112/SpringBoot-Learning
+1. spring-cloud 学习
+https://github.com/forezp/SpringCloudLearning
 1. 
 1. 
 
@@ -71,6 +73,8 @@ https://github.com/spring-cloud-incubator/spring-cloud-alibaba
 https://github.com/ctripcorp/apollo
 
 ###### 分布式服务框架
+1. Fescar是一种易于使用，高性能，基于Java的开源分布式事务解决方案  Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution.
+https://github.com/alibaba/fescar
 1. http://dubbo.io/ 又重新开始维护了
 1.  基于消息队列解决分布式事务框架 
 https://github.com/mengyou658/myth
@@ -80,6 +84,8 @@ https://github.com/mengyou658/myth
 ### 完整项目/示例/demo/代码片段
 1. 目前最看好的，mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。 http://39.98.69.210/index.html
 https://github.com/macrozheng/mall
+1. 商城mall-admin-web是一个电商后台管理系统的前端项目，基于Vue+Element实现。 主要包括商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等功能
+https://github.com/macrozheng/mall-admin-web
 1. 完整开源！Java快速开发平台！基于Spring、SpringMVC、Mybatis架构，MStore提供更多好用的插件与模板（文章、商城、微信、论坛、会员、评论、支付、积分、工作流、任务调度等，同时提供上百套免费模板任意选择），价值源自分享！铭飞系统不仅一套简单好用的开源系统、更是一整套优质的开源生态内容体系。铭飞的使命就是降低开发成本提高开发效率，提供全方位的企业级开发解决方案，每月28定期更新版本 http://ms.mingsoft.net
 https://github.com/ming-soft/MCMS
 1. 基于SOA架构的分布式电商购物商城 前后端分离 前台商城:Vue全家桶 后台管理系统:Dubbo/SSM/Elasticsearch/Redis/MySQL/ActiveMQ/Shiro/Zookeeper等 http://xmall.exrick.cn

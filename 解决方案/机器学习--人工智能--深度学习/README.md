@@ -237,3 +237,9 @@ https://github.com/loxilo/yt_server/blob/master/server/public/statics/video/SM-G
 https://github.com/loxilo/yt_server/blob/master/server/public/statics/video/SM-G9550_20180709062253.mp4
 https://github.com/loxilo/yt_server/blob/master/server/public/statics/video/SM-G9550_20180709062432.mp4
 https://github.com/hust512/Transform_based_Tensor_Decomposition_FHE/blob/master/Aerial_data.mp4
+1. A library for prototyping realtime hand detection (bounding box), directly in the browser 实时手部检测 卷积神经网络
+https://github.com/victordibia/handtrack.js
+1. 用于构建机器人的NLP库，具有实体提取，情感分析，自动语言识别等功能 An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
+https://github.com/axa-group/nlp.js
+1. 
+https://github.com/foolwood/SiamMask

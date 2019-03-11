@@ -502,6 +502,8 @@ https://github.com/dntzhang/cax
 https://github.com/dntzhang/westore
 1. 鲜亮的高饱和色彩，专注视觉的小程序组件库 
 https://github.com/weilanwl/ColorUI
+1. 小程序活动 九宫格 摇一摇 微信砍价
+https://github.com/zhangdaiscott/h5huodong
 
 # 加密
 1. google 出版的各种语言的加密解密库

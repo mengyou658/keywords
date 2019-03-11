@@ -196,6 +196,10 @@ https://github.com/kleampa/not-paid
 https://github.com/gka/chroma.js
 1. js 使用gpu工具
 https://github.com/gpujs/gpu.js
+1. git history Quickly browse the history of a file from any git repository
+https://github.com/pomber/git-history
+1. A tiny (247B) utility for check for deep equality 深度相等工具方法
+https://github.com/lukeed/dequal
 1.
 1.
 1.
