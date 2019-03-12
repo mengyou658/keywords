@@ -112,6 +112,9 @@ https://github.com/deepfakes/faceswap
 https://github.com/isee15/Card-Ocr
 1. wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目。 https://wukong.hahack.com/
 https://github.com/wzpan/wukong-robot
+1. 用于构建机器人的NLP库，具有实体提取，情感分析，自动语言识别等功能 An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
+https://github.com/axa-group/nlp.js
+![nlpDemo gif](resources/hybridbot.gif)
 1. NSFW detection on the client-side via Tensorflow JS 
 https://github.com/infinitered/nsfwjs
 1. 本项目face_recognition是一个强大、简单、易上手的人脸识别开源项目，并且配备了完整的开发文档和应用案例，特别是兼容树莓派系统。本项目的人脸识别是基于业内领先的C++开源库 dlib中的深度学习模型，用Labeled Faces in the Wild人脸数据集进行测试，有高达99.38%的准确率。但对小孩和亚洲人脸的识别准确率尚待提升。
@@ -245,8 +248,7 @@ https://github.com/loxilo/yt_server/blob/master/server/public/statics/video/SM-G
 https://github.com/hust512/Transform_based_Tensor_Decomposition_FHE/blob/master/Aerial_data.mp4
 1. A library for prototyping realtime hand detection (bounding box), directly in the browser 实时手部检测 卷积神经网络
 https://github.com/victordibia/handtrack.js
-1. 用于构建机器人的NLP库，具有实体提取，情感分析，自动语言识别等功能 An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
-https://github.com/axa-group/nlp.js
+![bossflip gif](resources/bossflip.gif)
 1. CVPR2019快速在线对象跟踪和分割：统一方法  Fast Online Object Tracking and Segmentation: A Unifying Approach
-![Demo gif](resources/cvr2019.gif)
 https://github.com/foolwood/SiamMask
+![CVPR2019Demo gif](resources/cvr2019.gif)
