@@ -114,6 +114,12 @@ https://github.com/isee15/Card-Ocr
 https://github.com/wzpan/wukong-robot
 1. NSFW detection on the client-side via Tensorflow JS 
 https://github.com/infinitered/nsfwjs
+1. 本项目face_recognition是一个强大、简单、易上手的人脸识别开源项目，并且配备了完整的开发文档和应用案例，特别是兼容树莓派系统。本项目的人脸识别是基于业内领先的C++开源库 dlib中的深度学习模型，用Labeled Faces in the Wild人脸数据集进行测试，有高达99.38%的准确率。但对小孩和亚洲人脸的识别准确率尚待提升。
+face_recognition is a powerful, simple and easy-to-use face recognition open source project with complete development documents and application cases, especially it is compatible with Raspberry Pi
+https://github.com/ageitgey/face_recognition
+1. Keras是一个高级神经网络API，用Python编写，能够在TensorFlow，CNTK或Theano之上运行。它的开发重点是实现快速实验。能够以最小的延迟从理念到结果是进行良好研究的关键。
+Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It was developed with a focus on enabling fast experimentation. Being able to go from idea to result with the least possible delay is key to doing good research.
+https://github.com/keras-team/keras
 1.
 1.
 
@@ -241,5 +247,6 @@ https://github.com/hust512/Transform_based_Tensor_Decomposition_FHE/blob/master/
 https://github.com/victordibia/handtrack.js
 1. 用于构建机器人的NLP库，具有实体提取，情感分析，自动语言识别等功能 An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
 https://github.com/axa-group/nlp.js
-1. 
+1. CVPR2019快速在线对象跟踪和分割：统一方法  Fast Online Object Tracking and Segmentation: A Unifying Approach
+![Demo gif](resources/cvr2019.gif)
 https://github.com/foolwood/SiamMask
