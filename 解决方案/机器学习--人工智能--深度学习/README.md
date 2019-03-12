@@ -108,6 +108,8 @@ https://github.com/ildoonet/tf-pose-estimation
 https://github.com/yuxitong/TensorFlowAndroidDemo
 1. 换脸 Faceswap
 https://github.com/deepfakes/faceswap
+1.  端到端的三维人脸重建，基于 MobileNet 网络框架，在 CPU 上能达到实时。  The pytorch improved re-implementation of TPAMI 2017 paper: Face Alignment in Full Pose Range: A 3D Total Solution.
+https://github.com/cleardusk/3DDFA
 1. 身份证识别 ocr
 https://github.com/isee15/Card-Ocr
 1. wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目。 https://wukong.hahack.com/
@@ -123,6 +125,8 @@ https://github.com/ageitgey/face_recognition
 1. Keras是一个高级神经网络API，用Python编写，能够在TensorFlow，CNTK或Theano之上运行。它的开发重点是实现快速实验。能够以最小的延迟从理念到结果是进行良好研究的关键。
 Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It was developed with a focus on enabling fast experimentation. Being able to go from idea to result with the least possible delay is key to doing good research.
 https://github.com/keras-team/keras
+1. Keras model to generate HTML code from hand-drawn website mockups. Implements an image captioning architecture to drawn source images. 人工智能生成前端网页的工具，已经可用了。自动将手绘图，变成 HTML 网页。作者还写了一篇文章介绍原理
+https://github.com/ashnkumar/sketch-code
 1.
 1.
 
@@ -145,6 +149,8 @@ https://github.com/uber/ludwig
 https://github.com/mengyou658/Chinese-Word-Vectors
 1. 采用python-flask框架开发，基于B/S方式交互，支持多人同时标注。
 https://github.com/hzylmf/od-annotation
+1. nvidia 官方的在线图像修复，自动生成图像缺失的部分。
+https://www.nvidia.com/research/inpainting/selection
 1. 
 1. 
 1. 
@@ -252,3 +258,5 @@ https://github.com/victordibia/handtrack.js
 1. CVPR2019快速在线对象跟踪和分割：统一方法  Fast Online Object Tracking and Segmentation: A Unifying Approach
 https://github.com/foolwood/SiamMask
 ![CVPR2019Demo gif](resources/cvr2019.gif)
+1.  端到端的三维人脸重建，基于 MobileNet 网络框架，在 CPU 上能达到实时。  The pytorch improved re-implementation of TPAMI 2017 paper: Face Alignment in Full Pose Range: A 3D Total Solution.
+https://github.com/cleardusk/3DDFA

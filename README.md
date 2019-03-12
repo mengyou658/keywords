@@ -3,6 +3,11 @@
 
 # 最近尝试
 
+### 使用动画的形式呈现解 LeetCode 题目的思路
+https://github.com/MisterBooo/LeetCodeAnimation
+1. Interactive Online Platform that Visualizes Algorithms from Code
+https://github.com/algorithm-visualizer/algorithm-visualizer
+
 ### https://github.com/MachineLP/Tensorflow-
 
 ### kotlin

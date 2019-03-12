@@ -176,7 +176,6 @@ https://github.com/captainwz/svg-3d-builder
 https://github.com/marktext/marktext
 1. APIJSON是一种为API而生的JSON网络传输协议
 https://github.com/TommyLemon/APIJSON
-1.
 1. A JavaScript library to progressively highlight any text on a page （动画的形式高亮页面字体）
 ![Demo gif](https://lumin.rocks/images/highlight.gif)
 https://github.com/pshihn/lumin
@@ -200,6 +199,8 @@ https://github.com/gpujs/gpu.js
 https://github.com/pomber/git-history
 1. A tiny (247B) utility for check for deep equality 深度相等工具方法
 https://github.com/lukeed/dequal
+1. A web-based JavaScript（canvas） spreadsheet  一个基于 Canvas 的 JS 电子表格库
+https://github.com/myliang/x-spreadsheet
 1.
 1.
 1.
@@ -316,6 +317,11 @@ https://github.com/mengyou658/muuri
 1. 
 
 ### 工具
+1. rrweb 是 'record and replay the web' 的简写，旨在利用现代浏览器所提供的强大 API 录制并回放任意 web 界面中的用户操作。
+一个可以录制网页操作的 JS 库，不是录制成视频，而是将用户的每一个操作，录制成可复现的脚本。
+https://github.com/rrweb-io/rrweb
+1. a UI builder for React web apps 一个 UI 原型设计的桌面软件，可以输出 JSX 代码
+https://github.com/Pagedraw/pagedraw
 1. YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台 https://yapi.ymfe.org
 https://github.com/YMFE/yapi
 1. Simple argument parsing another command line option parser.入参 命令行选项解析器 解析 https://npmjs.com/arg的简单参数
@@ -397,6 +403,8 @@ https://github.com/mengyou658/sanitize-html
 
 
 # 算法
+1. 使用动画的形式呈现解 LeetCode 题目的思路
+https://github.com/MisterBooo/LeetCodeAnimation
 1. JavaScript 算法与数据结构
 https://github.com/trekhleb/javascript-algorithms
 1. 模糊搜索数据结构 一种数据结构，它执行类似于全文搜索数据的内容，以确定可能的错误拼写和近似字符串匹配
@@ -418,6 +426,8 @@ https://github.com/mengyou658/react-npm-boilerplate
 
 
 #babel
+1. 使用rust开发的babel替代工具
+https://github.com/swc-project/swc
 1. babel-polyfill
 ```
 // If you would like to use async/await in browsers that don't support it natively, remember to include babel-polyfill in your app or babel-runtime + babel-plugin-transform-runtime in libraries).

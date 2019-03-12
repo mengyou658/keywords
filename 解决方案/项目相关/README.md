@@ -138,6 +138,8 @@ https://github.com/mengyou658/QiukuiLive
 
 
 #安全相关、性能相关
+1. 一个匿名作者写的渗透攻击教程，主要用于 Windows 主机。"适用于初中级安全从业人员，乙方安全测试，甲方安全自检，网络安全爱好者等，企业安全防护与提高"。
+https://github.com/Micropoor/Micro8
 1. HAProxy 是一个负载均衡服务器，自带过滤 HTTP 请求的功能，可以防止应用层的 DDOS 攻击，这方面比 nginx 更强大 
 http://www.haproxy.org/#down
 1. 安全思维导图集合
@@ -689,3 +691,11 @@ https://github.com/cser700/play-together
 # 快速框架 现成框架 
 基于Dubbo微服务项目快速搭建脚手架，提供基础功能，方便企业快速搭建项目。主要技术Dubbo/SpringBoot/Jpa/Redis/MySQL/RabbitMq/Shiro/Zookeeper
 https://github.com/GeXyu/quick-cli-java
+
+# 算法
+1. 使用动画的形式呈现解 LeetCode 题目的思路
+https://github.com/MisterBooo/LeetCodeAnimation
+1. Interactive Online Platform that Visualizes Algorithms from Code
+https://github.com/algorithm-visualizer/algorithm-visualizer
+1. 各种各样的数据结构，该网站收集各种数据结构，并将它们用可视化的形式表现出来。
+https://www.cs.usfca.edu/~galles/visualization/Algorithms.html

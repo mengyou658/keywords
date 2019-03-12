@@ -53,6 +53,8 @@ https://github.com/b3log/symphony
 1. Jib 是 Google 开发的可以直接构建 Java 应用的 Docker 和 OCI 镜像的类库，以 Maven 和 Gradle 插件形式提供。
    通过 Jib，Java 开发者可以使用他们熟悉的 Java 工具来构建容器。Jib 是一个快速而简单的容器镜像构建工具，它负责处理将应用程序打包到容器镜像中所需的所有步骤。它不需要你编写 Dockerfile 或安装 Docker，而且可以直接集成到 Maven 和 Gradle中 —— 只需要将插件添加到构建中，就可以立即将 Java 应用程序容器化。
 https://github.com/GoogleContainerTools/jib
+1. 一个 Java Spring 项目的文档处理器，可以自动生成文档。 借鉴swagger
+https://github.com/liuanxin/api-document
 
 
 ###### 微服务 动态服务发现、配置管理和服务管理平台 微服务配置 分布式配置中心
@@ -100,6 +102,8 @@ https://github.com/tumobi/nideshop-mini-program
 https://github.com/paascloud/paascloud-master
 1. 模仿国内知名B2C网站,实现的一个分布式B2C商城 使用Spring Boot 自动配置 Dubbox / MVC / MyBatis / Druid / Solr / Redis 等。使用Spring Cloud版本请查看 https://github.com/xubinux/xbin-store…
 https://github.com/xubinux/xbin-store
+1. 基于spring boot脚手架项目，spring data jpa+Spring Boot2+bootstrap/vuejs完整的后台管理系统
+https://github.com/enilu/guns-lite
 
 ##### 快速开发框架
 1. 基于Spring+SpringMVC+Mybatis分布式敏捷开发系统架构，提供整套公共微服务服务模块：集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位J2EE企业级开发解决方案。
@@ -128,6 +132,8 @@ https://github.com/mengyou658/renren-security
 ### 工具
 1.  是Alibaba开源的Java诊断工具 java优化 java内存诊断
 https://github.com/alibaba/arthas
+1. 一个针对高并发、低延迟应用设计的高性能 Java 性能监控和统计工具。
+https://github.com/LinShunKang/MyPerf4J
 1. 
 
 ### mybatis 代码生成
