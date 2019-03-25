@@ -64,6 +64,8 @@ https://github.com/mengyou658/imooc-django
 https://github.com/mengyou658/xadmin
 1. oauth2
 https://github.com/evonove/django-oauth-toolkit
+1. 一个令人敬畏的Django项目模板为web包括restful api 
+https://github.com/nature1995/ran-django-template
 1. 
 
 ### 实用 库/模块/框架

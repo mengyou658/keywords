@@ -96,6 +96,8 @@ https://github.com/mengyou658/bubbly-bg
 https://github.com/mengyou658/st.js
 1.HTML5 FLV Player html5播放js库
 https://github.com/mengyou658/flv.js
+1. 流式播放  mp4 还是 hls react或者standalone 
+https://github.com/zhihu/griffith
 1.html5 h5 播放器，它支持 mp4、m3u8、flv 等多种格式
 https://github.com/mengyou658/chimee
 1. amfe-flexible  可伸缩布局方案
@@ -385,6 +387,12 @@ https://github.com/NickPiscitelli/Glider.js
 https://github.com/enquirer/enquirer
 1. Signale 的核心是可扩展和可配置的，可将其用于日志记录、状态报告以及处理其他 Node 模块和应用的输出渲染方式
 https://github.com/klaussinani/signale
+1. 显示google因为版权等隐藏的搜索结果，有助于搜索破解软件等
+https://github.com/Ibit-to/google-unlocked
+1. 在页面上展示数学公式
+https://github.com/KaTeX/KaTeX
+1. 在线文档协作
+https://github.com/nytimes/library
 
 
 ####  文件上传
@@ -550,3 +558,10 @@ https://github.com/AliFlux/MapTilesDownloader
 
 # 机器人 个人助理
 1. https://github.com/leon-ai/leon
+
+# css 去除不用的
+1. A simple, thorough and fast unused-CSS cleaner 清理多余的css
+https://github.com/leeoniya/dropcss
+https://github.com/uncss/uncss
+https://github.com/FullHuman/purgecss
+https://github.com/purifycss/purifycss
