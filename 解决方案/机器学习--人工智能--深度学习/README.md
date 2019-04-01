@@ -127,6 +127,8 @@ Keras is a high-level neural networks API, written in Python and capable of runn
 https://github.com/keras-team/keras
 1. Keras model to generate HTML code from hand-drawn website mockups. Implements an image captioning architecture to drawn source images. 人工智能生成前端网页的工具，已经可用了。自动将手绘图，变成 HTML 网页。作者还写了一篇文章介绍原理
 https://github.com/ashnkumar/sketch-code
+1. FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation
+https://github.com/wuhuikai/FastFCN
 1.
 1.
 
