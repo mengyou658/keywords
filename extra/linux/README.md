@@ -47,11 +47,14 @@ https://github.com/nicolargo/glances
 ExplainShell.com
 1. 通过 Web 界面生成 Crontab 配置
 https://helloacm.com/crontab-generator/
+1. 命令行熟练使用命令行是一种常常被忽视，或被认为难以掌握的技能，但实际上，它会提高你作为工程师的灵活性以及生产力。本文是一份我在 Linux 上工作时，发现的一些命令行使用技巧的摘要。有些技巧非常基础，而另一些则相当复杂，甚至晦涩难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了。 linux 命令
+https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md
 1. 
 
 ### 有意思的
 1. bash游戏
 https://github.com/mengyou658/piu-piu-SH
+1. 
 1. 
 
 

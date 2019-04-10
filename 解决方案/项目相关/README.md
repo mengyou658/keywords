@@ -490,6 +490,8 @@ Flink使用了流处理的内核，同时提供了流处理和批处理的接口
 
 
 #微信小程序
+1. 将html和markdown转换成微信小程序组件wxml的工具 相当于把h5网站，直接转换成小程序
+https://github.com/icindy/wxParse
 1.  微信小程序组件化开发框架 
 https://github.com/mengyou658/wepy
 1. 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。

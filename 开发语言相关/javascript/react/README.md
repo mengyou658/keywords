@@ -28,6 +28,10 @@ https://github.com/mengyou658/react-chartkick
 https://github.com/mengyou658/react-1
 1. Excel-like grid component for React with custom cell editors, performant scroll & resizable columns 
 https://github.com/mengyou658/react-spreadsheet-grid
+1. Handsontable is a JavaScript/HTML5 data grid component with spreadsheet look & feel excel
+https://github.com/handsontable/handsontable
+1. A web-based JavaScript（canvas） spreadsheet excel
+https://github.com/myliang/x-spreadsheet
 1. Browser API's turned into declarative React components and HoC's ， 对浏览器API的react封装
 https://github.com/mengyou658/react-fns
 1. High performance subscription-based form state management for React 

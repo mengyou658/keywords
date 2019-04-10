@@ -251,6 +251,8 @@ https://github.com/rolyatmax/nyc-buildings
 https://github.com/agalwood/Motrix
 1. 个人知识管理工具
 https://github.com/xland/xiangxuema
+1. 最近用Vue + Tone.js做了一款钢琴类web应用，名字定为自由钢琴（AutoPiano），人生如音乐，欢快且自由
+https://github.com/WarpPrism/AutoPiano
 
 ##### game 游戏
 1. State management and more for turn based games. 游戏框架 回合制游戏

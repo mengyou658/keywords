@@ -125,7 +125,8 @@ https://github.com/ageitgey/face_recognition
 1. Keras是一个高级神经网络API，用Python编写，能够在TensorFlow，CNTK或Theano之上运行。它的开发重点是实现快速实验。能够以最小的延迟从理念到结果是进行良好研究的关键。
 Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It was developed with a focus on enabling fast experimentation. Being able to go from idea to result with the least possible delay is key to doing good research.
 https://github.com/keras-team/keras
-1. Keras model to generate HTML code from hand-drawn website mockups. Implements an image captioning architecture to drawn source images. 人工智能生成前端网页的工具，已经可用了。自动将手绘图，变成 HTML 网页。作者还写了一篇文章介绍原理
+1. Keras model to generate HTML code from hand-drawn website mockups. Implements an image captioning architecture to drawn source images. 
+人工智能生成前端网页的工具，已经可用了。自动将手绘图，变成 HTML 网页。作者还写了一篇文章介绍原理 手写 草稿 草图
 https://github.com/ashnkumar/sketch-code
 1. FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation
 https://github.com/wuhuikai/FastFCN
@@ -176,6 +177,9 @@ https://www.oschina.net/p/foolnltk
 https://www.oschina.net/p/ansj
 1. Java 分布式中文分词组件
 https://www.oschina.net/p/word
+1. Recursive Radical Packing Language (RRPL) is a proposal for a method of describing arbitrary Chinese characters concisely while retaining their structural information. Potential fields for usage include font design and machine learning. In RRPL, each Chinese character is described as a short string of numbers, symbols, and references to other characters. Its syntax is inspired by markup languages such as LaTeX, as well as the traditional "米" grids used for calligraphy practice.
+用递归激进包装语言描述汉字（RRPL）递归激进打包语言（RRPL）是一种在保留结构信息的同时简明地描述任意汉字的方法的提议。可能的使用领域包括字体设计和机器学习。在RRPL中，每个中文字符被描述为一串数字，符号和对其他字符的引用。它的语法灵感来自于LaTeX等标记语言，以及用于书法练习的传统“米”网格。
+https://github.com/LingDong-/rrpl
 1. 
 
 #数据分析/数据可视化
