@@ -526,6 +526,7 @@ https://github.com/mengyou658/past
 总体感觉是如果有一门语言能够取代C++，那么它只可能是Rust
 
 
+
 # 自动驾驶
 1. An open autonomous driving platform 开放的自动驾驶平台
 https://github.com/mengyou658/apollo
@@ -701,3 +702,13 @@ https://github.com/MisterBooo/LeetCodeAnimation
 https://github.com/algorithm-visualizer/algorithm-visualizer
 1. 各种各样的数据结构，该网站收集各种数据结构，并将它们用可视化的形式表现出来。
 https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+1. 各种算法的动态演示网站
+https://visualgo.net/zh
+
+# 语法分析，词法分析，
+1. 
+https://github.com/facebook/infer
+
+# 在线服务
+1.  黑白照片在线着色的服务
+https://colourise.sg/#colorize

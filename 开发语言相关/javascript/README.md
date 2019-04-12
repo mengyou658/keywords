@@ -395,6 +395,10 @@ https://github.com/Ibit-to/google-unlocked
 https://github.com/KaTeX/KaTeX
 1. 在线文档协作
 https://github.com/nytimes/library
+1. 不需要配置直接对应生成对应文件的路径的工具 
+https://github.com/remoteinterview/zero
+1. Run ES Module syntax (`import`, `import()`, and `export`) in any browser – even IE! 在浏览器上面使用import语法
+https://github.com/lukeed/dimport
 
 
 ####  文件上传
@@ -454,7 +458,8 @@ https://github.com/alangpierce/sucrase
 #办公 代办事项
 1. a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS 一个笔记和待办事项的应用程序与同步功能的Windows，MacOS，Linux，Android和iOS （类似滴答清单，有道云笔记，）
 https://github.com/mengyou658/joplin
-
+1. 云收藏，类似，pc版本的有道云笔记收藏
+https://github.com/cloudfavorites/favorites-web
 
 #桌面应用工具
 1. Make any web page a desktop application

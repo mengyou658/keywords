@@ -11,6 +11,8 @@ https://github.com/mengyou658/build-your-own-x
 
 
 ### 面试
+1. Java面试
+https://github.com/CyC2018/CS-Notes
 1. Android面试复习
 https://github.com/huannan/AndroidReview
 1.  Java面试通关手册（Java学习指南）Java Interview Customs Manual (Java Study Guide)
@@ -66,6 +68,9 @@ https://github.com/Mashape/kong
 1. spark相关笔记
 https://github.com/ColZer/DigAndBuried/
 
+# 课程教程视频文档下载
+1. 国内大学教学课程下载
+https://github.com/lib-pku/libpku
 
 ### 3D
 1. Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression (将人像图片，转换成3D面部，将一个图片转换出3D面部)

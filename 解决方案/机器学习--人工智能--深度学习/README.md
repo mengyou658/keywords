@@ -14,6 +14,8 @@ https://github.com/jbhuang0604/awesome-computer-vision
 1. 
 
 ### 教程/文章/小抄/规范/记事
+1. A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译 https://zhuanlan.zhihu.com/python-kivy
+https://github.com/Kivy-CN/Stanford-CS-229-CN
 1. 基于视频的目标检测算法研究 对相应的视频目标检测论文整理实现综述文档。
 https://github.com/guanfuchen/video_obj
 1. 机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归 
