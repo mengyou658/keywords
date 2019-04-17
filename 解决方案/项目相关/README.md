@@ -416,7 +416,8 @@ https://github.com/mengyou658/urql
 # 逆向工程 反编译  
 1. List of awesome reverse engineering resources
 https://github.com/mengyou658/reverse-engineering
-1. 
+1. Ghidra是由国家安全局研究理事会创建和维护的软件逆向工程（SRE）框架。该框架包括一套功能齐全的高端软件分析工具，使用户能够在各种平台上分析编译代码，包括Windows，macOS和Linux。功能包括反汇编，汇编，反编译，绘图和脚本，以及数百个其他功能。Ghidra支持各种处理器指令集和可执行格式，可以在用户交互和自动模式下运行。用户还可以使用Java或Python开发自己的Ghidra插件组件和/或脚本。
+https://github.com/NationalSecurityAgency/ghidra
 
 
 
@@ -712,3 +713,68 @@ https://github.com/facebook/infer
 # 在线服务
 1.  黑白照片在线着色的服务
 https://colourise.sg/#colorize
+
+# 令人敬畏得设计工具 https://github.com/LisaDziuba/Awesome-Design-Tools
+1. 增强现实 ar
+EasyAR https://www.easyar.com/
+1. 设计灵感
+    创作过程可能很艰难。因此，如果想法不会立即出现在您的脑海中，请尝试在其他设计师的工作中寻找灵感。这些设计灵感网站的特色是设计模式，用户流程，电子邮件标记以及受欢迎公司和优秀产品的创意解决方案：
+    * [Behance]（https://www.behance.net/） - 一个展示和发现创意作品的在线平台。！[free.svg（https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg）
+    * [CodeMyUI]（https://codemyui.com/） - 使用代码片段精心挑选网页设计和UI灵感。！[free.svg（https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg）
+    * [收集用户界面]（http://collectui.com/） - 从日常生活和超越中收集每日灵感的平台。基于Dribbble镜头，14419手工挑选设计。！[free.svg（https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg）
+    * [Creative Portfolios]（http://www.creative-portfolios.com/） - 由设计师和开发人员制作的最具创意的作品集。
+    * [Dribbble]（https://dribbble.com/） - 一个展示用户制作艺术品的在线社区。从其他人的工作中获得灵感的巨大资源。
+    * [Inspiration UI]（http://inspirationui.com/） - 旨在为网络创建者提供最佳设计资源的社区。！[free.svg（https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg）
+    * [悬停状态]（https://hoverstat.es/） - 展示来自创意社区和数字文化前沿的伟大作品。
+    * [Httpster]（https://httpster.net/） - 一个灵感资源，展示了来自世界各地的人们制作的摇滚网站。！[free.svg（https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg）
+    * [H69.Design]（https://www.h69.design/） - 设计师登陆页面收集和免费资源。
+    * [Lapa Ninja]（https://www.lapa.ninja/） - 来自网络的着陆页设计灵感。1800多个着陆页示例并每日更新。
+    * [Microcopy Inspirations]（https://www.microcopyinspirations.com） - 在网站和应用程序上策划的良好复制的示例。
+    * [移动模式]（https://www.mobile-patterns.com/） - 一个设计灵感的库，具有最好的UI UX模式（iOS和Android）。
+    * [Mobbin]（https://mobbin.design/） - 浏览热门应用的移动设计模式。探索常见的用户流程，例如入职，帐户注册和登录，核心功能等。！[free.svg（https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg）
+    * [One Page Love]（https://onepagelove.com/gallery） - 一系列美丽独特的One Page网站，用于网站设计灵感。！[free.svg（https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg）
+    * [Owwly]（https://owwly.com/feed/inspirations） - 热爱设计的数码产品之家。
+    * [页面流量]（https://pageflows.com/） - 用户流动视频和屏幕截图，以便在您遇到困难时激励您。发现超过160种不同任务的移动和网页设计模式。！[free.svg（https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg）
+    * [pttrns]（https://pttrns.com/） - 流行移动应用程序的设计模式。
+    * [真的很好的电子邮件]（https://reallygoodemails.com/） -  4,150+精心挑选的电子邮件设计。！[free.svg（https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg）
+    * [ReallyGoodUX]（https://www.reallygoodux.io/） - 来自真实移动和网络产品的优秀用户体验的截图和示例。发现最佳用户体验示例 - 包括入职旅游和演练。！[free.svg（https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg）
+    * [设计团队]（https://thedesignteam.io/） - 关于硅谷科技创业公司设计团队的漫画。
+    * [Typewolf]（https://www.typewolf.com/） - 帮助设计师为下一个设计项目选择完美的字体组合。
+    * [UI Garage]（https://uigarage.net/） - 为设计师，开发人员和营销人员提供一站式服务，帮助他们找到灵感，工具和最佳资源。
+    * [UI来源]（https://www.uisources.com/） - 今天App Store上设计最好且收入最高的应用程序超过500次互动。！[free.svg（https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg）
+    * [UI Recipes]（https://uirecipes.com/） - 每周15分钟的最热门应用程序UI设计课程。
+    * [UX Archive]（http://uxarchive.com/） - 浏览120个移动应用程序中的400多个用户流。检查预订，登录，入职，购买，搜索等任务。！[free.svg（https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg）
+    * [Waveguide]（https://www.waveguide.io/） - 一个设计知识库，拥有数千个人工丰富的产品和品牌体验示例（移动应用，登陆页面，电子商务，CX / UX模式的示例）。
+    * [网页设计博物馆]（https://www.webdesignmuseum.org/） - 超过1,200个精心挑选的网站，展示1994年至2006年间的网页设计趋势。
+1. 设计系统工具
+    我打赌你听说过Design Systems，因为它是一个非常时髦的主题。设计系统提供一致，稳健的设计模式，以保持设计和开发的同步。它们本质上是规则，约束和原则的集合，在设计和代码中实现。在这里，您可以找到构建，维护和组织自己的设计系统的工具。
+    * [Cabana]（https://cabanadesignsystem.com/） -  Sketch的高级设计系统，可帮助您以前所未有的速度创建出色的产品。
+    * [Design System Manager]（https://www.invisionapp.com/design-system-manager/） -  Invision的设计系统经理。
+    * [EOS设计系统]（https://www.eosdesignsystem.com） - 一个开源的，可根据原子设计概念构建在Bootstrap之上。！[开source.svg（https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg）
+    * [Frontify]（https://frontify.com/） - 创建图形指南，模式库，设计系统。
+    * [Lingo]（https://www.lingoapp.com/） - 与整个团队一起创建共享资产库。！[mac.svg（https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg）
+    * [Lucid]（https://lucid.style/） - 用于创建，管理和共享设计系统的工具。从简单的组件库到样式的详细描述。
+    * [Prime设计系统套件]（https://www.primedesignsystem.com） - 它包括设备模板，图表，UI工具包甚至插图套件。！[mac.svg（https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg）
+    * [指定]（https://www.specifyapp.com/） - 创建，扩展和维护设计系统的工具。
+    * [符号设计系统]（https://symboldesign.co/） - 基于原子元素设计Sketch系统。
+    * [Zeroheight]（https://www.zeroheight.com/） - 由设计师创建的风格指南，由开发人员扩展，每个人都可编辑。
+1. 设计代码工具
+    每个人都可以学习开发，但需要时间和精力。如果您现在需要网站或应用程序，并且您不想聘请开发人员，请关注网站构建者。这种代码工具设计将帮助您创建一个投资组合，简单的登陆或应用程序非常快速和美观。
+    
+    * [Blocs]（https://blocsapp.com/） - 一种快速，易用且功能强大的可视化网页设计工具，可让您无需编写代码即可创建自适应网站。！[mac.svg（https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg）
+    * [Bootstrap Studio]（https://bootstrapstudio.io/） - 一个功能强大的网页设计工具，用于使用Bootstrap框架创建响应式网站。
+    * [Grapedrop]（https://grapedrop.com/） - 使用易于使用的编辑器设计您的组件，Web项目并立即在线发布。
+    * [Mason]（https://www.trymason.com/core） - 是一个功能构建平台，现代产品团队可以将前端功能设计，构建和部署在一起。
+    * [Mobirise]（https://mobirise.com/） - 一个基于Bootstrap 3/4和\ AMP的离线拖放网站构建软件。！[free.svg（https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg）
+    * [PageCloud]（https://www.pagecloud.com/） - 最快，最可定制的网站建设者，允许任何人创建理想的网站。
+    * [PaintCode]（https://www.paintcodeapp.com） - 矢量绘图应用程序，可立即将图形转换为Swift，Objective-C，JavaScript或Java代码。！[mac.svg（https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg）
+    * [Pinegrow]（https://pinegrow.com/） -  CSS Grid，Bootstrap 4和3，Foundation，响应式设计，HTML和CSS的专业可视化编辑器。
+    * [px.div]（https://www.pxdiv.com） - 适用于开发人员和设计人员的适当网站构建工具。
+    * [Readymag]（https://readymag.com/） - 一个视觉上令人愉悦的工具，用于在网页上设计从登陆页面到多媒体长读取，演示和投资组合。
+    * [Sparkle]（https://sparkleapp.com/） - 制作真实网站，没有代码，没有行话的最简单方法。！[mac.svg（https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/mac.svg）
+    * [STUDIO]（https://studio.design/） - 从头开始​​设计，实时协作并发布网站。
+    * [Tilda]（https://tilda.cc/） - 在Tilda模块的帮助下免费创建网站，登陆页面或在线商店，并在同一天发布。
+    * [Wix]（https://www.wix.com/） - 最简单，功能最全的网站建设者，可让您创建自己的高度自定义网站。
+    * [Webflow]（https://webflow.com/） - 在您的浏览器中构建响应式网站，然后与我们一起托管或将代码导出到托管的任何地方。
+
+    

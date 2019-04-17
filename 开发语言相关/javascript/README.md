@@ -37,6 +37,8 @@ https://github.com/iliakan/javascript-tutorial-en
 https://github.com/mbeaudru/modern-js-cheatsheet#notions
 1.  js 代码 片段 code
 https://github.com/mengyou658/30-seconds-of-code
+1. 前端面试题和答案
+https://github.com/Advanced-Frontend/Daily-Interview-Question
 1. 
 
 ### 实用 库/模块/框架
@@ -52,6 +54,8 @@ https://github.com/nextapps-de/flexsearch
 https://github.com/pyloque/fastscan
 1. 富文本编辑器 替代ueditor
 https://github.com/ianstormtaylor/slate
+1. 富文本编辑器
+https://github.com/codex-team/editor.js
 1. Ace is a standalone code editor written in JavaScript
 https://github.com/ajaxorg/ace/
 1. 富文本编辑器

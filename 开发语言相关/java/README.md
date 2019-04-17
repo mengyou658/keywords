@@ -81,6 +81,8 @@ https://github.com/alibaba/fescar
 1.  基于消息队列解决分布式事务框架 
 https://github.com/mengyou658/myth
 1. mpush
+1. https://github.com/seata/seata
+一种分布式事务解决方案，具有高性能和易于使用的微服务架构。
 1. 
 
 ### 完整项目/示例/demo/代码片段

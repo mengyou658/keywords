@@ -87,4 +87,6 @@ https://github.com/galio-org/galio
 https://github.com/mengyou658/reactotron
 1. Sonar is a platform for debugging mobile apps on iOS and Android 调试
 https://github.com/facebook/Sonar
+1. react-native 携程定制版本，做了性能优化，业务开发优化
+https://github.com/ctripcorp/CRN
 1. 

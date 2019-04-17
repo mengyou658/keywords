@@ -14,6 +14,8 @@ https://github.com/jbhuang0604/awesome-computer-vision
 1. 
 
 ### 教程/文章/小抄/规范/记事
+1. 机器学习入门路径
+https://github.com/clone95/Virgilio/tree/master/zh-CN/LearningPaths/Machine%20Learning%20Engineer%20Career%20Path
 1. A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译 https://zhuanlan.zhihu.com/python-kivy
 https://github.com/Kivy-CN/Stanford-CS-229-CN
 1. 基于视频的目标检测算法研究 对相应的视频目标检测论文整理实现综述文档。
@@ -45,6 +47,8 @@ https://github.com/SpikeKing/keras-yolo3-detection
 https://github.com/Ewenwan/MVision
 1. 为 TF 2017 打造的新版可视化教学代码 可视化的教程
 https://github.com/MorvanZhou/Tensorflow-Tutorial
+1. 自动视频剪辑 自动编辑视频
+https://github.com/carykh/jumpcutter
 1. 
 1. 
 1. 
