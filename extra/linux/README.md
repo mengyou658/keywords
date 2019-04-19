@@ -7,6 +7,8 @@
 https://github.com/LewisVo/Awesome-Linux-Software
 
 ### 教程/文章/小抄/规范/记事
+1. 运维工程师教程资料
+http://www.opsschool.org/
 1. 有意思的脚本
 https://github.com/mengyou658/hacker-scripts
 1. zsh 工具 ， 一个可以让你的命令行看起来很好看的工具

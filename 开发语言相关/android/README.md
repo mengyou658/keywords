@@ -176,6 +176,9 @@ https://github.com/ManbangGroup/Phantom
 1. https://github.com/wequick/Small
 1. https://github.com/didi/VirtualAPK
 
+# 安卓手机安装linux版本
+1. 在现在的手机上安装linux系统，不需要root
+https://github.com/CypherpunkArmory/UserLAnd
 
 
 # Xposed module

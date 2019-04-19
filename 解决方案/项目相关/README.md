@@ -497,8 +497,10 @@ https://github.com/icindy/wxParse
 https://github.com/mengyou658/wepy
 1. 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
 https://github.com/Meituan-Dianping/mpvue
-1. 类似react的形式开发小程序
+1. 类似react的形式开发小程序, h5, app 多端统一开发框架 
 https://github.com/mengyou658/taro
+1. 腾讯出品得，多端统一开发框架 小程序，h5
+https://github.com/Tencent/omi
 1. didi出品的类似taro的跨平台实现
 https://github.com/didi/chameleon
 1. 微信小程序和小游戏 小程序、小游戏以及 Web 通用 Canvas 渲染引擎 - Cross platform 2d rendering engine

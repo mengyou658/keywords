@@ -403,7 +403,8 @@ https://github.com/nytimes/library
 https://github.com/remoteinterview/zero
 1. Run ES Module syntax (`import`, `import()`, and `export`) in any browser – even IE! 在浏览器上面使用import语法
 https://github.com/lukeed/dimport
-
+1. 网页离线下载工具，类似webzip
+https://github.com/pirate/ArchiveBox
 
 ####  文件上传
 1.  新一代的文件上传组件 Uppy is a sleek, modular file uploader that integrates seemlessly with any application. It’s fast, easy to use and lets you worry about more important problems than building a file uploader.
@@ -576,3 +577,9 @@ https://github.com/leeoniya/dropcss
 https://github.com/uncss/uncss
 https://github.com/FullHuman/purgecss
 https://github.com/purifycss/purifycss
+
+# 编辑器开发工具ide
+1. idea
+1. vscode
+1. 在线版本的vscode，可以运行在服务器端 开源的 VS Code 在线版，支持大部分 VS Code 插件
+https://github.com/codercom/code-server
