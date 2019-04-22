@@ -430,6 +430,8 @@ https://github.com/trekhleb/javascript-algorithms
 https://github.com/Glench/fuzzyset.js
 1. 吉他和弦推导算法，外带和弦指法svg可视化
 https://github.com/youngdro/guitarChord
+1. 数据结构和算法在JavaScript中解释和实现
+https://github.com/amejiarosario/dsa.js
 
 #代码生成脚手架cli工具
 1. The hottest CLI for React Native, boilerplates, plugins, generators, and more! 
@@ -583,3 +585,5 @@ https://github.com/purifycss/purifycss
 1. vscode
 1. 在线版本的vscode，可以运行在服务器端 开源的 VS Code 在线版，支持大部分 VS Code 插件
 https://github.com/codercom/code-server
+1. Run VS Code on any server over SSH
+https://github.com/codercom/sshcode

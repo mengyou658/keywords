@@ -220,6 +220,8 @@ https://github.com/pwxcoo/chinese-xinhua
 https://github.com/modood/Administrative-divisions-of-China
 1. 链家二手房爬取数据
 https://github.com/XuefengHuang/lianjia-scrawler
+1. CVPR2019的数据集和代码库“在密集场景中进行精确检测”
+https://github.com/eg4000/SKU110K_CVPR19
 1. 
 1. 
 1. 
