@@ -49,6 +49,8 @@ https://github.com/Ewenwan/MVision
 https://github.com/MorvanZhou/Tensorflow-Tutorial
 1. 自动视频剪辑 自动编辑视频
 https://github.com/carykh/jumpcutter
+1. Examples of using sparse attention, as in "Generating Long Sequences with Sparse Transformers" OpenAI
+https://github.com/openai/sparse_attention
 1. 
 1. 
 1. 
@@ -140,7 +142,8 @@ https://github.com/wuhuikai/FastFCN
 1.
 
 ### 完整项目/示例/demo/代码片段
-1. 
+1. CV算法复现
+https://github.com/bbaibowen/computer-vision
 1. 
 
 ### 测试

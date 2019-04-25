@@ -145,3 +145,5 @@ https://github.com/ansible/ansible
 https://github.com/YoongiKim/AutoCrawler
 1. 它可以追踪、控制你家里的所有设备，并且能实现自动化控制。它支持 Amazon Fire TV、Philips Hue、Google Chromecasts 等设备，还集成了 IFTTT。  Open source home automation that puts local control and privacy first
 https://github.com/home-assistant/home-assistant
+1. 一个很不错的调试工具类，能打印方法每一步执行的变量变化
+https://github.com/cool-RR/PySnooper

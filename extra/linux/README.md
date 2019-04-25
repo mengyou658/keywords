@@ -17,6 +17,8 @@ https://github.com/mengyou658/oh-my-zsh
 https://github.com/MintCN/linux-insides-zh
 1. 一个匿名作者写的渗透攻击教程，主要用于 Windows 主机。"适用于初中级安全从业人员，乙方安全测试，甲方安全自检，网络安全爱好者等，企业安全防护与提高"。
 https://github.com/Micropoor/Micro8
+1. 了解某些网络sysctl变量适合Linux /内核网络流的位置 sysctl linux网络优化完整实例
+https://github.com/leandromoreira/linux-network-performance-parameters
 1. 
 
 ### 实用 库/模块/框架

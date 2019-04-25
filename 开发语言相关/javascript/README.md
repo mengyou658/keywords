@@ -207,7 +207,10 @@ https://github.com/pomber/git-history
 https://github.com/lukeed/dequal
 1. A web-based JavaScript（canvas） spreadsheet  一个基于 Canvas 的 JS 电子表格库
 https://github.com/myliang/x-spreadsheet
-1.
+1. 数据(data)的管理和视图(view)分离
+https://github.com/alibaba/nopage
+1. 小程序二维码生成
+https://github.com/yingye/weapp-qrcode
 1.
 1.
 1.
@@ -257,6 +260,8 @@ https://github.com/agalwood/Motrix
 https://github.com/xland/xiangxuema
 1. 最近用Vue + Tone.js做了一款钢琴类web应用，名字定为自由钢琴（AutoPiano），人生如音乐，欢快且自由
 https://github.com/WarpPrism/AutoPiano
+1. ant-design-pro
+1. ice desigin
 
 ##### game 游戏
 1. State management and more for turn based games. 游戏框架 回合制游戏
@@ -508,6 +513,8 @@ https://github.com/mengyou658/stockroom
 
 
 # 类似react的工具
+1. 类似vue的语法，但是编译的结果是原生dom的操作，而不需要额外引入vue的文件等，也不使用虚拟dom，减小了开销
+https://github.com/sveltejs/svelte
 1. 1kb JavaScript library for building frontend applications 简单小
 https://github.com/mengyou658/hyperapp
 1. A blazing fast React alternative, compatible with IE8 and React 16 

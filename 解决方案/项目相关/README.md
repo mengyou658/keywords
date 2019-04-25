@@ -467,14 +467,14 @@ https://github.com/mengyou658/tachiyomi
 https://github.com/mengyou658/kotlin
 
 
-#react 转化 静态网站
+# react 转化 静态网站
 1. 将react转换成静态网站 Blazing fast static site generator for React 
 https://github.com/mengyou658/gatsby
 1. vue 静态页面生成
 https://github.com/mengyou658/vuepress
 
 
-#流处理 大数据实时分析
+# 流处理 大数据实时分析
 1.  流处理工具 开源大数据实时分析系统Heron
 https://github.com/mengyou658/heron
 ```
@@ -490,7 +490,7 @@ Flink使用了流处理的内核，同时提供了流处理和批处理的接口
 ```
 
 
-#微信小程序
+# 微信小程序
 1. 将html和markdown转换成微信小程序组件wxml的工具 相当于把h5网站，直接转换成小程序
 https://github.com/icindy/wxParse
 1.  微信小程序组件化开发框架 
@@ -560,7 +560,7 @@ https://github.com/mengyou658/genact
 https://github.com/mengyou658/english-level-up-tips-for-chinese-programmers-and-designers
 
 
-#OA
+# OA
 https://gitee.com/youqiongwang/yqoas.git
 https://gitee.com/rainrock/xinhu.git
 https://gitee.com/xiaokong658/xiaoweioa
@@ -624,7 +624,7 @@ https://github.com/leon-ai/leon
 https://github.com/pluosi/app-host
 
 
-#微信小游戏
+# 微信小游戏
 https://github.com/18770919803/runaway
 
 
@@ -652,7 +652,7 @@ https://github.com/magento/magento2
 https://github.com/DivanteLtd/vue-storefront
 
 
-#https cert 
+# https cert 
 1. certbot let's encrypt
 https://certbot.eff.org/
 1. mkcert is a simple tool for making locally-trusted development certificates. 生成本地 HTTPS 加密证书的工具，一个命令就可以生成证书，不需要任何配置。图片是就是它默认为 localhost 生成的加密证书
@@ -678,7 +678,7 @@ https://github.com/mixn/carbon-now-cli
 https://github.com/dchapyshev/aspia
 
 
-#物联网 IOT thing
+# 物联网 IOT thing
 1. Johnny-Five是一个开源，基于Firmata协议的物联网和机器人编程框架
 https://github.com/rwaldron/johnny-five
 
@@ -707,6 +707,10 @@ https://github.com/algorithm-visualizer/algorithm-visualizer
 https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 1. 各种算法的动态演示网站
 https://visualgo.net/zh
+
+# 项目管理
+1. 采用了SpringBoot和Vue实现了对城市消防监控设备的在线统计管理，具备区域管理、设备分类管理、设备管理、预警管理和报表统计五大功能， 特点： 1.前后端分离，Vue实现前端模块化，后台通过SpringBoot+Mysql,保证数据的有效性和安全性。 2.动态路由菜单栏、Element-UI、高德地图Api选择地理位置、Shiro权限控制、mybatis plus。 3.Docker做容器，Redis实现数据缓存，Nginx+Dubbo实现负载均衡，满足消防设备异常及时同步处理、高并发，真正的满足城市甚至省级所用消防设备的在线管理
+https://github.com/huqi1/City_Fire
 
 # 语法分析，词法分析，
 1. 

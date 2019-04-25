@@ -20,6 +20,8 @@ https://github.com/iceyhexman/onlinetools
 https://github.com/facebookincubator/oomd
 1. Docker and OCI images for your Java applications and is available as plugins for Maven and Gradle 构建docker的工具，有maven和gradle的插件
 https://github.com/GoogleContainerTools/jib
+1. tshark的终端UI，灵感来自Wireshark A terminal UI for tshark, inspired by Wireshark 控制台使用得类似wireshark，读取解析抓包文件
+https://github.com/gcla/termshark
 
 # nginx
 
