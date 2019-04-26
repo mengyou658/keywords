@@ -55,6 +55,8 @@ https://github.com/b3log/symphony
 https://github.com/GoogleContainerTools/jib
 1. 一个 Java Spring 项目的文档处理器，可以自动生成文档。 借鉴swagger
 https://github.com/liuanxin/api-document
+1. Java工具类 类似common
+https://github.com/SenhLinsh/Utils-Everywhere
 
 
 ###### 微服务 动态服务发现、配置管理和服务管理平台 微服务配置 分布式配置中心
@@ -63,8 +65,6 @@ https://github.com/liuanxin/api-document
 https://github.com/spring-cloud-incubator/spring-cloud-alibaba
 1. 基于spring-boot兼容spring-cloud的微服务事件框架SOFABoot 是蚂蚁金服开源的基于 Spring Boot 的研发框架，它在 Spring Boot 的基础上，提供了诸如 Readiness Check，类隔离，日志空间隔离等等能力。在增强了 Spring Boot 的同时，SOFABoot 提供了让用户可以在 Spring Boot 中非常方便地使用 SOFA 中间件的能力。
 https://github.com/alipay/sofa-boot
-
-
 1.an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications(更易于构建云原生应用的动态服务发现、配置管理和服务管理平台) https://nacos.io
 https://github.com/alibaba/nacos
 1. Spring Cloud Alibaba 致力于提供分布式应用服务开发的一站式解决方案。此项目包含开发分布式应用服务的必需组件，方便开发者通过 Spring Cloud 编程模型轻松使用这些组件来开发分布式应用服务。依托 Spring Cloud Alibaba，您只需要添加一些注解和少量配置，就可以将 Spring Cloud 应用接入阿里分布式应用解决方案，通过阿里中间件来迅速搭建分布式应用系统。使用
@@ -73,6 +73,8 @@ https://github.com/spring-cloud-incubator/spring-cloud-alibaba
 1. https://github.com/rohitghatol/spring-boot-microservices 
 1. Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。
 https://github.com/ctripcorp/apollo
+1. 现成可用，已经整合了常用的模块，直接可以使用。整合了 Spring Cloud 的配置中心、注册中心、服务网关，提供了一系列starter组件， 同时提供服务治理、服务监控、OAuth2 权限认证，支持服务降级/熔断、基于标签(x-label) 的路由、服务权重，前端采用vue+elementUI
+https://github.com/slowboy666/Taroco-Ui-Vue
 
 ###### 分布式服务框架
 1. Fescar是一种易于使用，高性能，基于Java的开源分布式事务解决方案  Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution.

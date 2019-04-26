@@ -24,35 +24,8 @@ https://github.com/mengyou658/BlockChain
 
 
 # sso-server / oauth2 server
-1. oath2 网站
-https://oauth.net
-1. oauth2
-https://github.com/scribejava/scribejava
-1. oauth2
-https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server
-1. oauth2
-https://github.com/networknt/light-oauth2
-1. tokens
-https://github.com/zalando/tokens
-1. https://github.com/mengyou658/sso-auth
-1. https://github.com/GluuFederation/oxAuth
-1. spring oauth2 相关参考
-*  https://github.com/zhangxd1989/spring-boot-cloud.git
-*  https://github.com/dynamind/spring-boot-security-oauth2-minimal.git
-*  https://github.com/spring-guides/tut-spring-boot-oauth2.git 
-*  https://github.com/making/oauth2-sso-demo.git 
-*  https://github.com/spring-guides/tut-spring-security-and-angular-js.git
-1. client 
-* https://github.com/mengyou658/scribejava
-1. node
-* https://github.com/jaredhanson/oauth2orize.git
-* https://github.com/auth0/node-jsonwebtoken
-* https://github.com/oauthjs/node-oauth2-server
-* https://github.com/mengyou658/MyOIDC.git
-* A boilerplate for Node.js web applications. (一个样板项目) 
-https://github.com/sahat/hackathon-starter.git
-1. python django
-* https://github.com/evonove/django-oauth-toolkit
+1. spring-boot 整合oauth
+https://github.com/longfeizheng/springboot2.0-oauth2
 
 
 ###### go实现
@@ -783,4 +756,6 @@ EasyAR https://www.easyar.com/
     * [Wix]（https://www.wix.com/） - 最简单，功能最全的网站建设者，可让您创建自己的高度自定义网站。
     * [Webflow]（https://webflow.com/） - 在您的浏览器中构建响应式网站，然后与我们一起托管或将代码导出到托管的任何地方。
 
-    
+# 可以使用的前端组件，数据可视化
+1. 一个基于数据驱动的节点式编排组件库，让您有方便快捷定制可视化流程图表
+https://github.com/alibaba/butterfly
