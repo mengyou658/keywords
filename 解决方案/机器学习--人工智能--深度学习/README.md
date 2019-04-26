@@ -163,6 +163,8 @@ https://github.com/mengyou658/Chinese-Word-Vectors
 https://github.com/hzylmf/od-annotation
 1. nvidia 官方的在线图像修复，自动生成图像缺失的部分。
 https://www.nvidia.com/research/inpainting/selection
+1. 生成假的照片的网站
+https://havetheyfaked.me
 1. 
 1. 
 1. 
@@ -250,6 +252,8 @@ https://github.com/EasyDarwin/Course
 https://github.com/kongqw/OpenCVForAndroid
 
 # 视频检测相关
+1. 实时检测手画形状 谷歌 QuickDraw 功能的开源实现，可以识别随手画出的图形
+https://github.com/vietnguyen91/QuickDraw
 1. 基于视频的目标检测算法研究 对相应的视频目标检测论文整理实现综述文档。
 https://github.com/guanfuchen/video_obj
 1. 简明 SSD 目标检测模型 keras version（交通标志识别 训练部分见 dev 分支） 

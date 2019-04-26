@@ -211,6 +211,8 @@ https://github.com/myliang/x-spreadsheet
 https://github.com/alibaba/nopage
 1. 小程序二维码生成
 https://github.com/yingye/weapp-qrcode
+1. 将Java转换成js代码
+http://www.jsweet.org/
 1.
 1.
 1.

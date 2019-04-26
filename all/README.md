@@ -186,3 +186,7 @@ https://github.com/mengyou658/luna
 
 # 黑苹果 Hackintosh 安装
 https://github.com/huangyz0918/Hackintosh-Installer-University
+
+# 工具
+1. 一个功能强大的开源的视频编辑器
+https://kdenlive.org
