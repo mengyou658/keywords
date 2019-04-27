@@ -1,5 +1,5 @@
-
-#java
+# java
+https://github.com/mengyou658/keywords/tree/master/%E5%BC%80%E5%8F%91%E8%AF%AD%E8%A8%80%E7%9B%B8%E5%85%B3/java
 
 ### 现成列表
 1. java成长路线
@@ -57,6 +57,8 @@ https://github.com/GoogleContainerTools/jib
 https://github.com/liuanxin/api-document
 1. Java工具类 类似common
 https://github.com/SenhLinsh/Utils-Everywhere
+1. Disruptor 是线程内通信框架，用于线程里共享数据。LMAX 创建Disruptor作为可靠消息架构的一部分并将它设计成一种在不同组件中共享数据非常快的方法
+https://github.com/LMAX-Exchange/disruptor
 
 
 ###### 微服务 动态服务发现、配置管理和服务管理平台 微服务配置 分布式配置中心

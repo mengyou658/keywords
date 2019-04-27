@@ -1,5 +1,5 @@
-
 # go语言
+https://github.com/mengyou658/keywords/tree/master/%E5%BC%80%E5%8F%91%E8%AF%AD%E8%A8%80%E7%9B%B8%E5%85%B3/go
 
 ### 现成列表
 1. 学习路线
