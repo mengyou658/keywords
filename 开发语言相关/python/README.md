@@ -87,6 +87,9 @@ https://github.com/mengyou658/face_recognition
 https://github.com/pallets/flask
 1. HTML Parsing for Humans™ (简单的html解析工具)
 https://github.com/mengyou658/requests-html
+1. 多数据流实时分布式分析系统 Confluo。它可以作为网络监控和诊断框架，也可以作为时序数据库和发布订阅消息系统。作为时序数据库，它的性能比其他时序数据库高出数倍，而作为发布消息订阅系统，它的吞吐量比 Kafka 高出 4 到 10 倍。
+https://github.com/ucbrise/confluo
+1. 
 1. 
 1. 
 

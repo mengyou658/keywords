@@ -67,6 +67,8 @@ https://github.com/mengyou658/public-apis-1
 https://github.com/Mashape/kong
 1. spark相关笔记
 https://github.com/ColZer/DigAndBuried/
+1. 学习教程
+https://github.com/clone95/Virgilio/blob/master/zh-CN/README.md
 
 # 课程教程视频文档下载
 1. 国内大学教学课程下载
@@ -178,6 +180,8 @@ https://github.com/mengyou658/3D-Game-Programming
 https://www.bsframework.io/
 1. 复古游戏开发工具，拖拽形式 视觉复古游戏制造商
 https://github.com/chrismaltby/gb-studio
+1. 开源的飞行模拟器
+http://home.flightgear.org/
 
 
 #  开发语言 luna (Visual and textual functional programming language with a focus on productivity, collaboration and development ergonomics. 基于图形方式变成的语言，视觉和文字功能性编程语言，重点是生产力，协作和开发人体工程学)
@@ -190,3 +194,5 @@ https://github.com/huangyz0918/Hackintosh-Installer-University
 # 工具
 1. 一个功能强大的开源的视频编辑器
 https://kdenlive.org
+1. win10激活工具
+https://github.com/mengyou658/CMWTAT_Digital_Edition

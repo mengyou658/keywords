@@ -14,6 +14,8 @@ https://github.com/jbhuang0604/awesome-computer-vision
 1. 
 
 ### 教程/文章/小抄/规范/记事
+1. tensorflow2中文教程
+https://github.com/czy36mengfei/tensorflow2_tutorials_chinese
 1. 机器学习入门路径
 https://github.com/clone95/Virgilio/tree/master/zh-CN/LearningPaths/Machine%20Learning%20Engineer%20Career%20Path
 1. A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译 https://zhuanlan.zhihu.com/python-kivy
@@ -138,6 +140,8 @@ https://github.com/keras-team/keras
 https://github.com/ashnkumar/sketch-code
 1. FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation
 https://github.com/wuhuikai/FastFCN
+1. 使用深度学习,神经网络去除马赛克 视频 马赛克
+https://github.com/deeppomf/DeepCreamPy
 1.
 1.
 
