@@ -53,6 +53,8 @@ https://github.com/MorvanZhou/Tensorflow-Tutorial
 https://github.com/carykh/jumpcutter
 1. Examples of using sparse attention, as in "Generating Long Sequences with Sparse Transformers" OpenAI
 https://github.com/openai/sparse_attention
+1. 机器学习 相关列表
+https://github.com/ty4z2008/Qix/blob/master/dl.md
 1. 
 1. 
 1. 
@@ -142,6 +144,8 @@ https://github.com/ashnkumar/sketch-code
 https://github.com/wuhuikai/FastFCN
 1. 使用深度学习,神经网络去除马赛克 视频 马赛克
 https://github.com/deeppomf/DeepCreamPy
+1. sqlflow简化 机器学习
+https://github.com/sql-machine-learning/sqlflow
 1.
 1.
 

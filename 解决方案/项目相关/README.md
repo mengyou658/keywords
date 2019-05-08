@@ -310,6 +310,8 @@ https://github.com/mengyou658/cl-privilege.git
 https://github.com/crossoverJie/cim
 1. The most complete chat UI for React Native (聊天UI chat)
 https://github.com/mengyou658/react-native-gifted-chat
+1. Golang和React中的开源Slack替代方案
+https://github.com/mattermost/mattermost-server
 1. Have your own Slack like online chat, built with Meteor. (Rocket.Chat 是特性最丰富的 Slack 开源替代品之一。 主要功能：群组聊天，直接通信，私聊群，桌面通知，媒体嵌入，链接预览，文件上传，语音/视频 聊天，截图等等。)
 https://github.com/mengyou658/Rocket.Chat
 1. General IM UI components. Android/iOS/RectNative ready. 通用 IM 聊天 UI 组件，已经同时支持 Android/iOS/RN
@@ -772,3 +774,6 @@ https://github.com/CasterWx/AntzOS
 https://github.com/MintCN/linux-insides-zh
 1. Container Runtime Sandbox go语言实现的沙箱,实现了linux大部分的功能
 https://github.com/google/gvisor
+
+# 内存问题分析工具 gperftools
+1. 不管你是Go/Rust/C/C++只要编译到目标机器指令的程序都可以使用这个工具和库来分析内存问题。
