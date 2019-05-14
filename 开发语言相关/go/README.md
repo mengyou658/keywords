@@ -5,6 +5,7 @@ https://github.com/mengyou658/keywords/tree/master/%E5%BC%80%E5%8F%91%E8%AF%AD%E
 windows对应的设置环境变量即可
 ```cmd
 export GOPROXY=https://goproxy.io
+# 可以不开启module，大部分go老模块不支持
 export GO111MODULE=on
 export all_proxy=https://goproxy.io
 上面的方式如果有问题,使用git-bash执行golang.sh来解决
@@ -14,6 +15,8 @@ export all_proxy=https://goproxy.io
 https://github.com/Quorafind/golang-developer-roadmap-cn
 1. 学习教程
 https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/preface.md
+1. 编写和优化Go代码
+https://github.com/dgryski/go-perfbook/blob/master/performance-zh.md
 1. 
 
 ### cheatsheet 备忘录

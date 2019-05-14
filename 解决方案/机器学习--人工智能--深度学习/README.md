@@ -146,6 +146,9 @@ https://github.com/wuhuikai/FastFCN
 https://github.com/deeppomf/DeepCreamPy
 1. sqlflow简化 机器学习
 https://github.com/sql-machine-learning/sqlflow
+1. 车辆自动驾驶客户端 本田，丰田，讴歌，雷克萨斯，雪佛兰，现代，起亚执行自适应巡航控制（ACC）和车道保持辅助系统（LKAS）的功能
+https://github.com/commaai/openpilot
+1.
 1.
 1.
 
@@ -260,6 +263,9 @@ https://github.com/EasyDarwin/Course
 https://github.com/kongqw/OpenCVForAndroid
 
 # 视频检测相关
+1. 物体检测 PyTorch 
+https://github.com/STVIR/pysot 
+![CVPR2019Demo png](resources/pysot.png)
 1. 实时检测手画形状 谷歌 QuickDraw 功能的开源实现，可以识别随手画出的图形
 https://github.com/vietnguyen91/QuickDraw
 1. 基于视频的目标检测算法研究 对相应的视频目标检测论文整理实现综述文档。

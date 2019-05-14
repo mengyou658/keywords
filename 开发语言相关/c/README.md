@@ -15,6 +15,8 @@
 ### 实用 库/模块/框架
 1. c实现的二维码生成工具
 https://github.com/ricmoo/QRCode
+1. 车辆自动驾驶客户端 本田，丰田，讴歌，雷克萨斯，雪佛兰，现代，起亚执行自适应巡航控制（ACC）和车道保持辅助系统（LKAS）的功能
+https://github.com/commaai/openpilot
 1. 
 1. 
 

@@ -22,6 +22,8 @@ https://github.com/vuetifyjs/vuetify
 https://github.com/DivanteLtd/vue-storefront
 1. An infinite scroll plugin for Vue.js  一款用于 Vue.js 的无限滚动插件
 https://github.com/PeachScript/vue-infinite-loading
+1. vue 组件效果，包括按钮，输入框的动画效果，直接点击即可获取vue代码 Beautifully simple click-to-copy CSS effects
+https://github.com/jolaleye/cssfx
 1. 
 
 ### 完整项目/示例/demo/代码片段

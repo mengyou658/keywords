@@ -42,6 +42,10 @@ https://github.com/Advanced-Frontend/Daily-Interview-Question
 1. 
 
 ### 实用 库/模块/框架
+1. es6 proxy polyfill
+https://github.com/GoogleChrome/proxy-polyfill
+1. Comlink 开发 WebWorkers 简单
+https://github.com/GoogleChromeLabs/comlink
 1. JavaScript math library 
 https://github.com/josdejong/mathjs
 1. search JavaScript （js中搜索）
