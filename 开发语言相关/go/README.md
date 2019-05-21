@@ -17,6 +17,10 @@ https://github.com/Quorafind/golang-developer-roadmap-cn
 https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/preface.md
 1. 编写和优化Go代码
 https://github.com/dgryski/go-perfbook/blob/master/performance-zh.md
+1. awesome
+https://github.com/hyper0x/awesome-go-China/blob/master/zh_CN/README.md#web-frameworks
+1. 一步一步教你，做Zinx框架的项目制作采用编码和学习教程同步进行，将开发的全部递进和迭代思维带入教程中，而不是一下子给大家一个非常完整的框架去学习，让很多人一头雾水，不知道该如何学起
+https://github.com/aceld/zinx
 1. 
 
 ### cheatsheet 备忘录
@@ -32,6 +36,9 @@ https://github.com/dgryski/go-perfbook/blob/master/performance-zh.md
 1. 
 
 ### 完整项目/示例/demo/代码片段
+1. 基于Golang解决的长连接并发服务器框架 一步一步教你，做Zinx框架的项目制作采用编码和学习教程同步进行，将开发的全部递进和迭代思维带入教程中，而不是一下子给大家一个非常完整的框架去学习，让很多人一头雾水，不知道该如何学起
+https://github.com/aceld/zinx
+1. 
 1. 
 1. 
 

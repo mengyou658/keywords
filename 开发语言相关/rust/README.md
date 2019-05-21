@@ -18,6 +18,8 @@
 https://github.com/saschagrunert/webapp.rs
 1. The fastest and safest AV1 encoder 
 https://github.com/xiph/rav1e
+1. 漂亮得，现代化得ls
+https://github.com/Peltoche/lsd
 1. 
 
 ### 完整项目/示例/demo/代码片段

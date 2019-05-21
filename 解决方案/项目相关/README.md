@@ -111,6 +111,8 @@ https://github.com/mengyou658/QiukuiLive
 
 
 #安全相关、性能相关
+1. 应急响应实战笔记，一个安全工程师的自我修养
+https://github.com/Bypass007/Emergency-Response-Notes
 1. 一个匿名作者写的渗透攻击教程，主要用于 Windows 主机。"适用于初中级安全从业人员，乙方安全测试，甲方安全自检，网络安全爱好者等，企业安全防护与提高"。
 https://github.com/Micropoor/Micro8
 1. HAProxy 是一个负载均衡服务器，自带过滤 HTTP 请求的功能，可以防止应用层的 DDOS 攻击，这方面比 nginx 更强大 
@@ -153,6 +155,8 @@ https://github.com/mengyou658/hacker101
 https://github.com/mengyou658/project-based-learning
 1. 页面性能分析和优化工具 Google 的网页性能优化工具
 http://developers.google.cn/speed/pagespeed/insights/
+1. A memory profiler for Linux 内存分析
+https://github.com/nokia/memory-profiler
 1. 
 
 
@@ -272,6 +276,9 @@ https://github.com/mengyou658/cl-privilege.git
 
 # nginx
 
+##### nginx 安全 配置 优化
+https://github.com/trimstray/nginx-admins-handbook
+
 ##### nginx monitor （nginx 监控）
 1. https://github.com/sumory/orange
 
@@ -330,6 +337,8 @@ https://github.com/mengyou658/DeepPavlov
 https://github.com/zulip/zulip
 1. Pluggable WebRTC communication platform p2p 聊天
 https://github.com/vialer/vialer-js
+1. WebRTC API
+https://github.com/pion/webrtc
 
 # 唯一ID生成 方案
 1. A tiny, secure URL-friendly unique string ID generator for JavaScript (js唯一ID生成器)
@@ -775,5 +784,9 @@ https://github.com/MintCN/linux-insides-zh
 1. Container Runtime Sandbox go语言实现的沙箱,实现了linux大部分的功能
 https://github.com/google/gvisor
 
-# 内存问题分析工具 gperftools
-1. 不管你是Go/Rust/C/C++只要编译到目标机器指令的程序都可以使用这个工具和库来分析内存问题。
+# 内存问题分析工具 
+1. gperftools 
+不管你是Go/Rust/C/C++只要编译到目标机器指令的程序都可以使用这个工具和库来分析内存问题。
+1. 一个易于使用且功能强大的混沌工程实验工具包 阿里巴巴开源的一款简单易用，功能强大的混沌实验注入工具 Chaosblade是一个遵循混沌工程原理的实验工具，用于模拟常见的故障情景，有助于提高故障系统的可恢复性和故障的容错能力
+填充磁盘，查杀进程，网络延迟，Dubbo，MySQL，Servlet和Java应用程序类延迟或异常的自定义类方法，kill容器，kill Pod
+https://github.com/chaosblade-io/chaosblade

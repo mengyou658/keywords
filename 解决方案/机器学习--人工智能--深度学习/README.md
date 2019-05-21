@@ -276,6 +276,8 @@ https://github.com/kuhung/SSD_keras
 https://github.com/voidking/object-detection
 1. 目标检测yolo算法，采用tensorflow框架编写，中文注释完全，含测试和训练，支持摄像头
 https://github.com/LeslieZhoa/tensorflow-YOLO1
+1. yolo做行人检测+deep-sort做匹配，端对端做多目标跟踪
+https://github.com/lyp-deeplearning/deep_sort_yolov3
 1. 对于小目标的检测和识别 主要是用来解决小目标的检测和跟踪问题 斯坦福无人机航拍数据 吉林一号视频数据 航拍数据检测
 https://github.com/liuguiyangnwpu/TinyObject
 1. 本工程主要目的是集成深度学习中常用的目标检测模型，并利用目标检测模型进行图像和视频中的检测！YOLOv1 航拍数据
