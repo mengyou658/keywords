@@ -21,6 +21,8 @@ https://github.com/dgryski/go-perfbook/blob/master/performance-zh.md
 https://github.com/hyper0x/awesome-go-China/blob/master/zh_CN/README.md#web-frameworks
 1. 一步一步教你，做Zinx框架的项目制作采用编码和学习教程同步进行，将开发的全部递进和迭代思维带入教程中，而不是一下子给大家一个非常完整的框架去学习，让很多人一头雾水，不知道该如何学起
 https://github.com/aceld/zinx
+1. 数据结构和算法必知必会的50个代码实现
+https://github.com/wangzheng0822/algo
 1. 
 
 ### cheatsheet 备忘录
@@ -32,13 +34,16 @@ https://github.com/aceld/zinx
 1. 
 
 ### 实用 库/模块/框架
+1. Golang framework for robotics, drones, and the Internet of Things (IoT)  iot控制框架
+https://github.com/hybridgroup/gobot
+1. mysql proxy Gaea是小米中国区电商研发部研发的基于mysql协议的数据库中间件，目前在小米商城大陆和海外得到广泛使用，包括订单、社区、活动等多个业务。Gaea支持分库分表、sql路由、读写分离等基本特性，更多详细功能可以参照下面的功能列表。其中分库分表方案兼容了mycat和kingshard两个项目的路由方式。Gaea在设计、实现阶段参照了mycat、kingshard和vitess，并使用tidb parser作为内置的sql parser，在此表达诚挚感谢
+https://github.com/XiaoMi/Gaea
 1. 
 1. 
 
 ### 完整项目/示例/demo/代码片段
 1. 基于Golang解决的长连接并发服务器框架 一步一步教你，做Zinx框架的项目制作采用编码和学习教程同步进行，将开发的全部递进和迭代思维带入教程中，而不是一下子给大家一个非常完整的框架去学习，让很多人一头雾水，不知道该如何学起
 https://github.com/aceld/zinx
-1. 
 1. 
 1. 
 

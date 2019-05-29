@@ -184,6 +184,8 @@ https://github.com/hexojs/hexo
 https://github.com/captainwz/svg-3d-builder
 1. Next generation markdown editor, running on platforms of MacOS Windows and Linux
 https://github.com/marktext/marktext
+1. markdown 编辑工具 桌面工具
+https://www.typora.io
 1. APIJSON是一种为API而生的JSON网络传输协议
 https://github.com/TommyLemon/APIJSON
 1. A JavaScript library to progressively highlight any text on a page （动画的形式高亮页面字体）
@@ -217,7 +219,10 @@ https://github.com/alibaba/nopage
 https://github.com/yingye/weapp-qrcode
 1. 将Java转换成js代码
 http://www.jsweet.org/
-1.
+1. 该项目的目的是提供一个适用于所有设备的快速轻量级2D库  HTML5创建引擎：使用最快，最灵活的2D WebGL渲染器创建精美的数字内容
+https://github.com/pixijs/pixi.js
+1. 扁平，圆形，设计师友好的伪3D引擎  Round, flat, designer-friendly pseudo-3D engine
+https://github.com/metafizzy/zdog
 1.
 1.
 
@@ -416,6 +421,8 @@ https://github.com/remoteinterview/zero
 https://github.com/lukeed/dimport
 1. 网页离线下载工具，类似webzip
 https://github.com/pirate/ArchiveBox
+1. Generate basic CSS Grid code to make dynamic layouts css layout生成工具 直接复制代码 https://cssgrid-generator.netlify.com/
+https://github.com/sdras/cssgridgenerator
 
 ####  文件上传
 1.  新一代的文件上传组件 Uppy is a sleek, modular file uploader that integrates seemlessly with any application. It’s fast, easy to use and lets you worry about more important problems than building a file uploader.

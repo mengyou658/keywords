@@ -5,6 +5,8 @@
 ### 现成列表
 1.  A list of awesome applications, software, tools and other materials for Linux distros. (linux 软件)
 https://github.com/LewisVo/Awesome-Linux-Software
+1. 熟练使用命令行是一种常常被忽视，或被认为难以掌握的技能，但实际上，它会提高你作为工程师的灵活性以及生产力。本文是一份我在 Linux 上工作时，发现的一些命令行使用技巧的摘要。有些技巧非常基础，而另一些则相当复杂，甚至晦涩难懂。这篇文章并不长，但当你能够熟练掌握这里列出的所有技巧时，你就学会了很多关于命令行的东西了
+https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md
 
 ### 教程/文章/小抄/规范/记事
 1. 运维工程师教程资料
