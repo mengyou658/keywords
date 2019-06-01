@@ -790,3 +790,55 @@ https://github.com/google/gvisor
 1. 一个易于使用且功能强大的混沌工程实验工具包 阿里巴巴开源的一款简单易用，功能强大的混沌实验注入工具 Chaosblade是一个遵循混沌工程原理的实验工具，用于模拟常见的故障情景，有助于提高故障系统的可恢复性和故障的容错能力
 填充磁盘，查杀进程，网络延迟，Dubbo，MySQL，Servlet和Java应用程序类延迟或异常的自定义类方法，kill容器，kill Pod
 https://github.com/chaosblade-io/chaosblade
+
+
+# 快速创建响应式首页的工具
+https://landing.ant.design/index-cn Ant Design Landing 平台拥有丰富的各类首页模板，下载模板代码包，即可快速使用，也可使用首页编辑器，快速搭建一个属于你的专属首页
+
+# 工作流 cms oa 后台 管理 系统
+1. activi
+1. jflow
+1. 一个符合直觉的，从伪码生成流程图的工具
+https://code2flow.com
+###### 工作流项目 完整后台项目
+1. 工程师知识管理系统：基于golang go语言（beego框架）。每个行业都有自己的知识管理系统，engineercms旨在为土木工程师们打造一款适用的基于web的知识管理系统。它既可以用于管理个人的项目资料，也可以用于管理项目团队资料；它既可以运行于个人电脑，也可以放到服务器上。支持onlyoffice实时文档协作，直接在线编辑dwg文件、office文档，预览PDF文件。通用的文档流程设置。手机端配套小程序，微信搜索“珠三角设代”或“青少儿书画”即可呼出小程序。 https://zsj.itdos.com/
+https://github.com/3xxx/engineercms
+1. 基于Spring Cloud系列整合的分布式项目的例子，监控管理、配置中心、注册中心、分布式锁、分布式事务、多数据源、工作流、单点登录、oauth2授权、接口文档、路由跳转、第三方集成等等
+https://github.com/daijiejay/daijie-example
+1. 基于Spring Cloud的微服务，订单，支付，商场（活动），工作流，用户，短信，极光
+https://github.com/Blucezhang/micro-server-own
+1. jbone基于Spring Cloud框架开发，旨在为中小企业提供稳定的微服务解决方案，为开发人员提供基础开发骨架，jbone包含微服务中所有常用组件，例如注册中心、服务管理、服务监控、JVM监控、内存分析、调用链跟踪、API网关等等。业务功能包括系统权限的统一管理、单点登录、CMS、电商平台、工作流平台、支付平台等等。 http://jbone.cn/
+https://github.com/417511458/jbone
+1. [废弃，太简单]基于Spring、SpringMVC、Mybatis架构，MStore提供更多好用的插件与模板（文章、商城、微信、论坛、会员、评论、支付、积分、工作流、任务调度
+https://github.com/ming-soft/MCMS
+1. [废弃，收费暂时没有源码研究]xboot
+https://github.com/Exrick/x-boot
+1. jeesite4
+1. 独立的工作流系统，包括完整的设计器，react开发，没有使用流程的工作流引擎
+https://github.com/youseries/uflo
+1. 简单的demo示例 activiti-demo 多实例会签、子流程并行审批、动态设置下一节点执行人员、任务超时自动完成
+https://github.com/guolf/activiti-demo
+1. 简单的demo示例
+https://github.com/Bryceyao/activitiDemo
+1. [废弃]不完整的项目，代码新，但是缺少很多的关键依赖，无法运行
+https://github.com/atongyeye/ydl-workflow
+1. activiti 5 相关的项目
+    
+    1. 基于 Activiti 扩展的工作流引擎，提供了催办、代办、加签（包括前加签/后加签）、自由跳转（包括前进/后退）、分裂节点等功能
+    https://gitee.com/bluejoe/openwebflow
+    1. 基于 springboot+myvatis_+ mvc + activiti+quarts+quartz 写的一个办公企业管理系统 OA 
+    https://github.com/lyj08/OA
+    1. Spring boot平台整合activiti工作流引擎实例
+    https://github.com/shenzhanwang/Spring-activiti
+    1. hxyFrame是一个OA办公系统，采用流行的框架springMvc+spring+mybatis+shiro+ehcache开发,还集成了权限管理（菜单权限、数据权限），完善的代码生成器，solr全文搜索引擎，activiti工作流程引擎，cas单点登陆等功能，后期还会考虑改造成Dubbo微服务化,做到模块的相对独立，使用更加灵活，努力做到快速开发OA办公系统。 感兴趣可以Watch、Start持续关注项目最新状态，加入QQ群：210315502 大家一起学习开发解决问题。
+    https://github.com/huangxianyuan/hxyFrame
+    1. 一个比较完整的工作流工程
+    https://github.com/dunzung/workflow
+    1. lenos(p为spring boot 2.0 版本扩展名)一款快速开发模块化脚手架，采用spring boot 2.0.1、spring、SpringMvc、mybatis、shiro、activiti工作流、swagger、ehcache、quartz、freemarker、layui技术开发；持久层集成tkmapper丰富简单数据交互，支持mysql/sqlserver数据源，实现功能有系统模块：菜单管理、用户管理、角色管理，系统监控：系统日志
+    https://github.com/yuanlinqiang/lenosp
+    1. 基于Activiti的工作流引擎扩展，接管了Activiti对活动权限以及用户表的管理，并提供了催办、代办、加签（包括前加签/后加签）、自由跳转、分裂节点等功能
+    https://github.com/bluejoe2008/openwebflow
+
+
+# 数据可视化 图表
+https://antv.alipay.com

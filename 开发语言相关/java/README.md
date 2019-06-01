@@ -77,6 +77,8 @@ https://github.com/spring-cloud-incubator/spring-cloud-alibaba
 https://github.com/ctripcorp/apollo
 1. 现成可用，已经整合了常用的模块，直接可以使用。整合了 Spring Cloud 的配置中心、注册中心、服务网关，提供了一系列starter组件， 同时提供服务治理、服务监控、OAuth2 权限认证，支持服务降级/熔断、基于标签(x-label) 的路由、服务权重，前端采用vue+elementUI
 https://github.com/slowboy666/Taroco-Ui-Vue
+1. 分布式
+https://github.com/yueyunyue/liteflow
 
 ###### 分布式服务框架
 1. Fescar是一种易于使用，高性能，基于Java的开源分布式事务解决方案  Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution.
@@ -110,6 +112,8 @@ https://github.com/paascloud/paascloud-master
 https://github.com/xubinux/xbin-store
 1. 基于spring boot脚手架项目，spring data jpa+Spring Boot2+bootstrap/vuejs完整的后台管理系统
 https://github.com/enilu/guns-lite
+1. 注册，绑定手机（短信验证码）、邮箱（邮箱验证码）成为会员 登陆，实名认证（人工审核／第三方接口），绑定银行卡（需check支持的银行卡类型） 借款申请，额度（下限1万，上限1000万）、还款方式、利率（日利率、月利率）、周期、还款账户、联系电话、抵押凭证（可选，例 房屋、豪车、个人公司、其他个人名下财产） 借款审核，系统初审（不良贷款记录、贷款上限、黑名单、贷款笔数最多同时贷5笔）、风控专员、电子合同专员、平台专员、银行系统。审核流程编辑与设定（可选，需要工作流比较熟悉）。 放款管理，开始放款，开始计息 还款管理，查询、详情（个人信息、贷款信息、还款记录、逾期记录、催收记录） 逾期管理，查询、详情（个人信息、贷款信息、还款记录、逾期记录、催收记录） 对账监控，每笔借款与还款总额（含利息、罚息）是否对应。若不对应，开启警告！ 系统设置，借款利率、逾期利率设定，逾期n天逾期，m天严重逾期，个人贷款上限、下限、最大笔数，催收短信模版，逾期短信通知模版，计息时间（T+0,T+1,T+n） 数据统计，放款总额，还款总额，申请总额，周期对比（周、月、年），折线、饼状图展现
+https://github.com/mengyou658/cloud
 
 ##### 快速开发框架
 1. 基于Spring+SpringMVC+Mybatis分布式敏捷开发系统架构，提供整套公共微服务服务模块：集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位J2EE企业级开发解决方案。
@@ -118,6 +122,8 @@ https://github.com/mengyou658/zheng
 https://github.com/mengyou658/hsweb-framework
 1. JeeSite 是一个企业信息化开发基础平台，Java企业应用开源框架，Java EE（J2EE）快速开发框架，使用经典技术组合（Spring、Spring MVC、Apache Shiro、MyBatis、Bootstrap UI），包括核心模块如：组织机构、角色用户、权限授权、数据权限、内容管理、工作流等。 
 https://github.com/thinkgem/jeesite
+1. 基于jeesite4的改造 
+https://github.com/mengyou658/Admin
 1. JEECG 基于代码生成器的智能开发平台
 https://github.com/mengyou658/jeecg
 1. Yuna是一套基于Spring Session技术搭建的统一后台管理系统，集统一登录、统一授权、统一管理于一体

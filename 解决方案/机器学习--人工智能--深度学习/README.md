@@ -256,6 +256,8 @@ https://github.com/deepfakes/faceswap
 # 视频
 1. 流媒体技术视频教程
 https://github.com/EasyDarwin/Course
+1. 视频素材
+https://andreaswannerstedt.se/oddly-satisfying-vol5
 
 
 # 基于opencv
