@@ -107,6 +107,12 @@ https://github.com/Mashape/kong
 https://github.com/ColZer/DigAndBuried/
 1. 学习教程
 https://github.com/clone95/Virgilio/blob/master/zh-CN/README.md
+1. 2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
+https://github.com/0voice/from_coder_to_expert
+1. readme 模板 Various README templates & tips on writing high-quality documentation that people want to read
+https://github.com/kylelobo/The-Documentation-Compendium
+
+
 
 # 课程教程视频文档下载
 1. 国内大学教学课程下载

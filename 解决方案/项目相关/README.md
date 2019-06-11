@@ -592,7 +592,8 @@ https://github.com/linkedin/css-blocks
 1. 点击验证码 图文点击验证码
 https://www.cnblogs.com/shihaiming/p/7657115.html
 https://blog.csdn.net/qq_26680031/article/details/51168527
-
+1. Captcha Captcha solver extension for humans 图片点击验证码
+https://github.com/dessant/buster
 
 # 机器人
 1.  构建伟大机器人的唯一理智方式 The only sane way of building great bots
@@ -814,6 +815,9 @@ https://github.com/ming-soft/MCMS
 1. [废弃，收费暂时没有源码研究]xboot
 https://github.com/Exrick/x-boot
 1. jeesite4
+1. 基于activiti6 和jeesite4的流程管理
+https://gitee.com/xiaokong658/dreamFlow
+git@gitee.com:xiezunjin/dreamFlow.git
 1. 独立的工作流系统，包括完整的设计器，react开发，没有使用流程的工作流引擎
 https://github.com/youseries/uflo
 1. 简单的demo示例 activiti-demo 多实例会签、子流程并行审批、动态设置下一节点执行人员、任务超时自动完成
@@ -842,3 +846,7 @@ https://github.com/atongyeye/ydl-workflow
 
 # 数据可视化 图表
 https://antv.alipay.com
+
+
+# 个人出行 公共交通 历史列表 详情信息、行程轨迹、路线规划 解决出行问题，用于出行行程记录，路线规划，数据可视化分析的移动端webapp
+https://github.com/wwenj/tripRecord

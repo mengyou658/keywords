@@ -6,6 +6,8 @@
 https://github.com/jinwchoi/awesome-action-recognition
 1. A curated list of awesome computer vision resources 精彩的计算机视觉资源列表
 https://github.com/jbhuang0604/awesome-computer-vision
+1. 《动手学深度学习》，英文版即伯克利深度学习（STAT 157，2019春）教材。面向中文读者、能运行、可讨论。 http://zh.d2l.ai
+https://github.com/d2l-ai/d2l-zh
 1. 
 1. 
 
@@ -214,6 +216,9 @@ https://github.com/danaugrs/huskarl
 1. 
 1. 
 
+# models 模型
+1. 各种深度学习架构，模型和技巧的集合 A collection of various deep learning architectures, models, and tips
+https://github.com/rasbt/deeplearning-models
 # 公开数据集，大部分免费，涵盖机器学习、自然语言处理、图像识别等领域
 1. TensorFlow code and pre-trained models for BERT https://arxiv.org/abs/1810.04805
 https://github.com/google-research/bert

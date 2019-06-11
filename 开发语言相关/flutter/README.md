@@ -4,6 +4,8 @@ Google出品的跨平台移动开发框架和解决方案
 ### 现成列表
 1. awesome-flutter flutter 集合列表
 https://github.com/Solido/awesome-flutter
+1. Flutter完整开发实战详解系列，提供在线预览和pdf下载，本系列将完整讲述：如何快速从 0 开发一个完整的 Flutter APP，配套高完成度 Flutter 开源项目 GSYGithubAppFlutter ，同时会提供一些Flutter的开发细节技巧，之后深入源码和实战为你全面解析 Flutter 。
+https://github.com/CarGuo/GSYFlutterBook
 1. 
 
 ### cheatsheet 备忘录

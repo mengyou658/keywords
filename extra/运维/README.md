@@ -47,6 +47,8 @@ https://github.com/gcla/termshark
 1. https://github.com/alexanderepstein/Bash-Snippets
 1. bash 脚本 片段 
 https://github.com/dylanaraps/pure-bash-bible
+1. A collection of pure bash alternatives to external processes.  bash 脚本 片段 
+https://github.com/dylanaraps/pure-bash-bible
 
 # 自动化工具系统
 1. IT automation system

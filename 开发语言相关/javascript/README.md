@@ -20,7 +20,6 @@ https://github.com/getify/You-Dont-Know-JS
 https://github.com/denysdovhan/wtfjs
 1. JavaScript Style Guide
 https://github.com/airbnb/javascript
-
     ```js
     // .eslintrc file
     // Use this file as a starting point for your project's .eslintrc.
@@ -39,6 +38,8 @@ https://github.com/mbeaudru/modern-js-cheatsheet#notions
 https://github.com/mengyou658/30-seconds-of-code
 1. 前端面试题和答案
 https://github.com/Advanced-Frontend/Daily-Interview-Question
+1. JavaScript是如何工作的系列 前端性能优化 JavaScript 数据结构
+https://github.com/qq449245884/xiaozhi
 1. 
 
 ### 实用 库/模块/框架
