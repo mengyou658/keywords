@@ -42,6 +42,8 @@ https://github.com/XiaoMi/Gaea
 1. 
 
 ### 完整项目/示例/demo/代码片段
+1. 也简单，可以作为基础的一个参考，beego + vue前后端分离个人博客
+https://github.com/louyan/go-vue-blog
 1. 基于Golang解决的长连接并发服务器框架 一步一步教你，做Zinx框架的项目制作采用编码和学习教程同步进行，将开发的全部递进和迭代思维带入教程中，而不是一下子给大家一个非常完整的框架去学习，让很多人一头雾水，不知道该如何学起
 https://github.com/aceld/zinx
 1. 成果、价值、进度管理系统——基于golang go语言（beego框架），本系统方便为工程师团队统计工作量，进行成果校审流程，对工程师进行价值评测，据此进行效益分配。系统既可以运行于个人电脑，也可以放到服务器上。本系统包含了EngineerCMS所有功能。
@@ -50,8 +52,12 @@ https://github.com/mengyou658/meritms
 https://github.com/3xxx/engineercms
 1. 一个简单直观的bug管理系统，但不仅仅只是一个bug管理系统，IT人员工作流程，go+vue
 https://github.com/hyahm/ITflow
-1. 
-
+1. 简单，界面还可以。 beego+layui+mysql 开发 简洁美观的个人博客系统
+https://github.com/Echosong/beego_blog
+1. 太简单，太老了，暂时不用。基于beego框架的cms系统
+https://github.com/linbaozhong/go-cms
+1. moshopserver小程序商城后台系统
+https://github.com/tumobi/nideshop-mini-program
 ### 测试
 1. 
 1. 

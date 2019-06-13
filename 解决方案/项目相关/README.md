@@ -850,3 +850,8 @@ https://antv.alipay.com
 
 # 个人出行 公共交通 历史列表 详情信息、行程轨迹、路线规划 解决出行问题，用于出行行程记录，路线规划，数据可视化分析的移动端webapp
 https://github.com/wwenj/tripRecord
+
+
+# 教育管理系统
+1. https://github.com/BELEdu/bel-admin
+1. https://github.com/jzxyouok/edumgmt_java
