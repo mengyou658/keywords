@@ -58,6 +58,10 @@ https://github.com/Echosong/beego_blog
 https://github.com/linbaozhong/go-cms
 1. moshopserver小程序商城后台系统
 https://github.com/tumobi/nideshop-mini-program
+1. 使用的前端技术有点老，暂时不用 beego RBAC 权限 文章 简单的cms blog
+https://github.com/mengyou658/rabbit
+1. OPMS项目+OA管理系统 协同办公 beego
+https://github.com/lock-upme/OPMS
 ### 测试
 1. 
 1. 
