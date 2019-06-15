@@ -1,22 +1,17 @@
 # 游戏相关
-
-俩字：努力
-
-四个字：努力努力
-
-六个字：努力努力努力。。。。。。
-
 自学要发散（查找所有不理解的）和回归（回到最初查找的问题）
 
 现成列表，里面是网络收集的列表，列出的比较全面的一些学习和建议
 
+这个仓库，是我所收集的各个方面的内容，有兴趣的都可以参考fork
+
 指完路，都需要自己走
 
-### 现成列表
-1. 
-https://github.com/sindresorhus/awesome#gaming
-1. https://github.com/RyanNielson/awesome-unity#readme
+### 现成列表 awesome 系列
 1. 游戏蛮牛，这个公众号一定关注一下
+1. 这里的学习历程https://github.com/QianMo/Game-Programmer-Study-Notes
+1. https://github.com/sindresorhus/awesome#gaming
+1. https://github.com/RyanNielson/awesome-unity#readme
 
 ### cheatsheet 备忘录
 1. 
@@ -31,7 +26,7 @@ https://github.com/sindresorhus/awesome#gaming
 1. 
 
 ### 完整项目/示例/demo/代码片段
-1. 
+1. https://github.com/CatImmortal/Trinity
 1. 
 
 ### 测试
