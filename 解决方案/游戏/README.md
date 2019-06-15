@@ -10,8 +10,12 @@
 ### 现成列表 awesome 系列
 1. 游戏蛮牛，这个公众号一定关注一下
 1. 这里的学习历程https://github.com/QianMo/Game-Programmer-Study-Notes
-1. https://github.com/sindresorhus/awesome#gaming
+1. 免费的视频教程 https://github.com/liangxiegame/awesome-unity-cn 
+    免费的视频教程 http://www.sikiedu.com/
 1. https://github.com/RyanNielson/awesome-unity#readme
+1. https://github.com/sindresorhus/awesome#gaming
+1. https://github.com/QianMo/Awesome-Unity-Shader
+1. https://github.com/U3DC/AS4U
 
 ### cheatsheet 备忘录
 1. 
