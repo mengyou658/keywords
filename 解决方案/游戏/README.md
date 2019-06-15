@@ -12,6 +12,7 @@
 1. 这里的学习历程https://github.com/QianMo/Game-Programmer-Study-Notes
 1. 免费的视频教程 https://github.com/liangxiegame/awesome-unity-cn 
     免费的视频教程 http://www.sikiedu.com/
+1. 这里可以对游戏开发整体的流程了解一下 https://blog.csdn.net/gitchat/article/details/78957555
 1. https://github.com/RyanNielson/awesome-unity#readme
 1. https://github.com/sindresorhus/awesome#gaming
 1. https://github.com/QianMo/Awesome-Unity-Shader
