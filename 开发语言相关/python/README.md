@@ -66,6 +66,8 @@ https://github.com/mengyou658/xadmin
 https://github.com/evonove/django-oauth-toolkit
 1. 一个令人敬畏的Django项目模板为web包括restful api 
 https://github.com/nature1995/ran-django-template
+1.  陌陌风控系统静态规则引擎，零基础简易便捷的配置多种复杂规则，实时高效管控用户异常行为。 介绍: https://dwz.cn/gJpICIQe
+https://github.com/momosecurity/aswan
 1. 
 
 ### 实用 库/模块/框架

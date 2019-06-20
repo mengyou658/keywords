@@ -8,6 +8,8 @@ https://github.com/jinwchoi/awesome-action-recognition
 https://github.com/jbhuang0604/awesome-computer-vision
 1. 《动手学深度学习》，英文版即伯克利深度学习（STAT 157，2019春）教材。面向中文读者、能运行、可讨论。 http://zh.d2l.ai
 https://github.com/d2l-ai/d2l-zh
+1. cvpr2019 papers，极市团队整理
+https://github.com/extreme-assistant/cvpr2019
 1. 
 1. 
 
