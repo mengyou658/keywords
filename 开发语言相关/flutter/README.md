@@ -21,7 +21,8 @@ https://github.com/CarGuo/GSYFlutterBook
 1. 
 
 ### 完整项目/示例/demo/代码片段
-1. 
+1. Flutter淘宝App，支持iOS、Android
+https://github.com/GanZhiXiong/GZXTaoBaoAppFlutter
 1. 
 
 ### 测试
