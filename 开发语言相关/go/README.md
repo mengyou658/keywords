@@ -66,6 +66,8 @@ https://github.com/tumobi/nideshop-mini-program
 https://github.com/mengyou658/rabbit
 1. OPMS项目+OA管理系统 协同办公 beego
 https://github.com/lock-upme/OPMS
+1. 基于go开发的一款新的开发语言，可以参考从头开始学习语言的设计
+https://github.com/vlang/v
 ### 测试
 1. 
 1. 

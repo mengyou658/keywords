@@ -112,7 +112,8 @@ https://github.com/0voice/from_coder_to_expert
 1. readme 模板 Various README templates & tips on writing high-quality documentation that people want to read
 https://github.com/kylelobo/The-Documentation-Compendium
 
-
+# 私单教程
+1. https://github.com/easychen/howto-make-more-money
 
 # 课程教程视频文档下载
 1. 国内大学教学课程下载

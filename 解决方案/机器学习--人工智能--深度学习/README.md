@@ -132,6 +132,10 @@ https://github.com/isee15/Card-Ocr
 https://github.com/wzpan/wukong-robot
 1. 用于构建机器人的NLP库，具有实体提取，情感分析，自动语言识别等功能 An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
 https://github.com/axa-group/nlp.js
+1. Keras的超参数调谐器，专门用于tf.kerasTensorFlow 2.0
+https://github.com/keras-team/keras-tuner
+1. 在5秒内克隆语音，实时生成任意语音 Clone a voice in 5 seconds to generate arbitrary speech in real-time
+https://github.com/CorentinJ/Real-Time-Voice-Cloning
 ![nlpDemo gif](resources/hybridbot.gif)
 1. NSFW detection on the client-side via Tensorflow JS 
 https://github.com/infinitered/nsfwjs
