@@ -59,6 +59,8 @@ https://github.com/carykh/jumpcutter
 https://github.com/openai/sparse_attention
 1. 机器学习 相关列表
 https://github.com/ty4z2008/Qix/blob/master/dl.md
+1.  流行的机器学习算法的Python示例，解释了交互式Jupyter演示和数学  Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
+https://github.com/trekhleb/homemade-machine-learning
 1. 
 1. 
 1. 
@@ -310,3 +312,8 @@ https://github.com/foolwood/SiamMask
 ![CVPR2019Demo gif](resources/cvr2019.gif)
 1.  端到端的三维人脸重建，基于 MobileNet 网络框架，在 CPU 上能达到实时。  The pytorch improved re-implementation of TPAMI 2017 paper: Face Alignment in Full Pose Range: A 3D Total Solution.
 https://github.com/cleardusk/3DDFA
+
+
+# 为关系数据库开发自然语言接口 自动生成sql的训练和示例
+https://github.com/ZhuiyiTechnology/nl2sql_baseline
+https://github.com/salesforce/WikiSQL

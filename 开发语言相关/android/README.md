@@ -143,6 +143,10 @@ https://github.com/mengyou658/AndroidUtilCode
 https://github.com/coder-pig/WechatHelper
 1. 视频裁剪 Android
 https://blog.zhoulujue.com/edit-local-video-using-customized-ffmpeg-so/
+1. 阻止读取联系人短信媒体文件和应用信息等并随机设备和网络信息 增加联系人与SIM卡号随机生成、短信返回通知类、图片音频视频信息随机生成、应用列表返回国内白名单应用
+https://github.com/HiedaNaKan/FuckMFS
+1. Display and control your Android device 电脑控制安卓手机
+https://github.com/Genymobile/scrcpy
 1. 
 
 ### 快速开发模板项目

@@ -111,6 +111,10 @@ https://github.com/clone95/Virgilio/blob/master/zh-CN/README.md
 https://github.com/0voice/from_coder_to_expert
 1. readme 模板 Various README templates & tips on writing high-quality documentation that people want to read
 https://github.com/kylelobo/The-Documentation-Compendium
+1. 每个软件开发人员应该知道的（大多数）技术事项的集合 A collection of (mostly) technical things every software developer should know
+https://github.com/mtdvio/every-programmer-should-know
+1. python3写的综合扫描工具，主要用来敏感文件探测(目录扫描与js泄露接口)，WAF/CDN识别，端口扫描，指纹/服务识别，操作系统识别，弱口令探测，POC扫描，SQL注入，绕过CDN，查询旁站等功能，主要用来甲方自测或乙方授权测试，请勿用来搞破坏
+https://github.com/al0ne/Vxscan
 
 # 私单教程
 1. https://github.com/easychen/howto-make-more-money

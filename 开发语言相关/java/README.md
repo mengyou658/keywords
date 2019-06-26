@@ -59,7 +59,8 @@ https://github.com/liuanxin/api-document
 https://github.com/SenhLinsh/Utils-Everywhere
 1. Disruptor 是线程内通信框架，用于线程里共享数据。LMAX 创建Disruptor作为可靠消息架构的一部分并将它设计成一种在不同组件中共享数据非常快的方法
 https://github.com/LMAX-Exchange/disruptor
-
+1. Easy Scheduler是一个分布式工作流任务调度系统
+https://github.com/analysys/EasyScheduler
 
 ###### 微服务 动态服务发现、配置管理和服务管理平台 微服务配置 分布式配置中心
 1. Spring Cloud Alibaba 致力于提供微服务开发的一站式解决方案。此项目包含开发分布式应用微服务的必需组件，方便开发者通过 Spring Cloud 编程模型轻松使用这些组件来开发分布式应用服务。
@@ -134,6 +135,8 @@ http://gitee.com/jxttian/Yuna
 https://github.com/pig4cloud/pig
 1. 简单的开放框架 （springboot shiro 代码生成器）
 https://github.com/mengyou658/renren-security
+1. 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
+https://github.com/lenve/vhr
 1.
 
 ### 测试

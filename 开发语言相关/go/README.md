@@ -11,6 +11,8 @@ export all_proxy=https://goproxy.io
 上面的方式如果有问题,使用git-bash执行golang.sh来解决
 ```
 ### 现成列表
+1. 为互联网IT人打造的中文版awesome-go
+https://github.com/hackstoic/golang-open-source-projects
 1. 学习路线
 https://github.com/Quorafind/golang-developer-roadmap-cn
 1. 学习教程
