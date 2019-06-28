@@ -246,3 +246,7 @@ https://github.com/huangyz0918/Hackintosh-Installer-University
 https://kdenlive.org
 1. win10激活工具
 https://github.com/mengyou658/CMWTAT_Digital_Edition
+
+
+# 1000多万中国大陆工商企业的注册信息库（下附链接）
+https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland

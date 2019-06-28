@@ -34,6 +34,8 @@ https://github.com/qcrao/Go-Questions
 1. 
 
 ### 教程/文章/小抄/规范/记事
+1. Dave Cheney 的教学记录，完整介绍了如何开发、测试、调试高性能 Go 程序的过程，包括所有周边工具的使用和相关运行时的概念及深入分析 https://dave.cheney.net/high-performance-go-workshop/gopherchina-2019.html
+https://github.com/davecheney/high-performance-go-workshop
 1. 
 1. 
 
@@ -87,7 +89,12 @@ https://github.com/go-gitea/gitea
 https://github.com/tsenart/vegeta
 1. GoReplay是一个开源工具，用于捕获实时HTTP流量并将其重放到测试环境中，以便使用真实数据持续测试您的系统。它可用于增加对代码部署，配置更改和基础结构更改的信心GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 https://github.com/buger/goreplay
-1. 
+1. https://staticcheck.io的静态分析工具的集合
+https://github.com/dominikh/go-tools
+1. Kubernetes Native Serverless Framework https://kubeless.io 
+https://github.com/kubeless/kubeless
+1. go 命令行dashboard工具 The personal information dashboard for your terminal
+https://github.com/wtfutil/wtf
 1. 
 
 ### web 框架

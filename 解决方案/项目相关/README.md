@@ -855,3 +855,7 @@ https://github.com/wwenj/tripRecord
 # 教育管理系统
 1. https://github.com/BELEdu/bel-admin
 1. https://github.com/jzxyouok/edumgmt_java
+
+
+# 用户反馈，简单接入，腾讯出品 "吐个槽"反馈平台 腾讯推出的工具，几行代码就可以为页面加入一个互动社区，可以接入应用程序、小程序、WEB、H5、微信公众号等各端
+https://tucao.qq.com/

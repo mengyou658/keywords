@@ -61,6 +61,8 @@ https://github.com/openai/sparse_attention
 https://github.com/ty4z2008/Qix/blob/master/dl.md
 1.  流行的机器学习算法的Python示例，解释了交互式Jupyter演示和数学  Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 https://github.com/trekhleb/homemade-machine-learning
+1. 面向机器学习的特征工程 开源的机器学习电子书的中文翻译，内容主要是关于如何找到数据集的特征
+http://fe4ml.apachecn.org/#/
 1. 
 1. 
 1. 
@@ -158,6 +160,8 @@ https://github.com/deeppomf/DeepCreamPy
 https://github.com/sql-machine-learning/sqlflow
 1. 车辆自动驾驶客户端 本田，丰田，讴歌，雷克萨斯，雪佛兰，现代，起亚执行自适应巡航控制（ACC）和车道保持辅助系统（LKAS）的功能
 https://github.com/commaai/openpilot
+1. Google X Lab 与加拿大 Perimeter 理论物理研究所的研究人员合作开发了TensorNetwork，以 TensorFlow 作为后端，针对 GPU 处理进行了优化。相比于单纯基于 CPU 的计算工作，TensorNetwork 可以实现高达 100 倍的加速。A library for easy and efficient manipulation of tensor networks.
+https://github.com/google/TensorNetwork
 1.
 1.
 1.

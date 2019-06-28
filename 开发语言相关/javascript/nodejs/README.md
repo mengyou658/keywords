@@ -96,6 +96,8 @@ https://github.com/sindresorhus/ora
 https://github.com/neonious/lowjs
 1. Apify SDK：适用于JavaScript的可扩展Web爬行和抓取库。通过无头Chrome和Puppeteer实现数据提取和Web自动化作业（不仅仅是）的开发。 爬虫 Apify SDK: The scalable web crawling and scraping library for JavaScript. Enables development of data extraction and web automation jobs (not only) with headless Chrome and Puppeteer. https://www.npmjs.com/package/apify
 https://github.com/apifytech/apify-js
+1. A little dashboard that tries to take care of you when you're using your terminal
+https://github.com/notwaldorf/tiny-care-terminal
 
 ### 进程管理 保证进程永远执行 类似 supervisor forever
 1. 进程管理 保证进程永远执行 类似 supervisor forever
