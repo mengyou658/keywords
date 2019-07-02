@@ -784,6 +784,8 @@ https://github.com/CasterWx/AntzOS
 https://github.com/MintCN/linux-insides-zh
 1. Container Runtime Sandbox go语言实现的沙箱,实现了linux大部分的功能
 https://github.com/google/gvisor
+1. 使用rust 从头开发一个操作系统
+https://github.com/phil-opp/blog_os
 
 # 内存问题分析工具 
 1. gperftools 
@@ -859,3 +861,6 @@ https://github.com/wwenj/tripRecord
 
 # 用户反馈，简单接入，腾讯出品 "吐个槽"反馈平台 腾讯推出的工具，几行代码就可以为页面加入一个互动社区，可以接入应用程序、小程序、WEB、H5、微信公众号等各端
 https://tucao.qq.com/
+
+# 一句话木马 很厉害 php java .net
+https://github.com/rebeyond/Behinder 

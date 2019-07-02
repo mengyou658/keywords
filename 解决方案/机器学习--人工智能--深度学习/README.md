@@ -190,6 +190,8 @@ https://github.com/hzylmf/od-annotation
 https://www.nvidia.com/research/inpainting/selection
 1. 生成假的照片的网站
 https://havetheyfaked.me
+1.  Research techniques and papers related to image generation and image restoration used by DeepNude. 研究DeepNude使用的图像生成和图像修复相关的技术和论文。
+https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology
 1. 
 1. 
 1. 

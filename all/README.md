@@ -250,3 +250,10 @@ https://github.com/mengyou658/CMWTAT_Digital_Edition
 
 # 1000多万中国大陆工商企业的注册信息库（下附链接）
 https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland
+
+
+# 定时任务生成器 html版本 页面版本 js版本
+1. https://github.com/mengyou658/cronGen
+1. https://github.com/mengyou658/cron-expression-generator
+1. https://github.com/jingtingzhiwu/CronExpressGenetor
+1. http://cron.qqe2.com/ 在线工具
