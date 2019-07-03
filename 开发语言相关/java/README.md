@@ -117,6 +117,8 @@ https://github.com/enilu/guns-lite
 https://github.com/mengyou658/cloud
 1. 全开源即时通讯(IM)系统 http://docs.wildfirechat.cn 包括 android ios pc 协议 server 机器人 推送 文档，全面
 https://github.com/wildfirechat/server
+1. 微同科技/微同商城 
+https://github.com/hufanglei/platform
 
 ##### 快速开发框架
 1. 基于Spring+SpringMVC+Mybatis分布式敏捷开发系统架构，提供整套公共微服务服务模块：集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位J2EE企业级开发解决方案。
