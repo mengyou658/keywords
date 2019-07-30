@@ -12,6 +12,8 @@
 ### 教程/文章/小抄/规范/记事
 1. Vue.js 技术揭秘
 https://github.com/ustbhuangyi/vue-analysis
+1. master分支：《渲染器》 elegant分支：逐行级别的源码分析
+https://github.com/HcySunYang/vue-design
 
 ### 实用 库/模块/框架
 1. vue 静态页面生成
@@ -45,4 +47,6 @@ https://github.com/vuetifyjs/vuetify
 ### 工具
 1. 
 https://github.com/Meituan-Dianping/mpvue
+1. Prototyping Tool For Vue Devs 适用于Vue的原型工具 
+https://github.com/TeamOverVue/OverVue
 1. 

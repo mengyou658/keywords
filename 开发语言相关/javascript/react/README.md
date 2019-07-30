@@ -32,6 +32,10 @@ https://github.com/mengyou658/react-spreadsheet-grid
 https://github.com/handsontable/handsontable
 1. A web-based JavaScript（canvas） spreadsheet excel
 https://github.com/myliang/x-spreadsheet
+1. jExcel is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with Excel or any other spreadsheet software. https://bossanova.uk/jexcel
+https://github.com/paulhodel/jexcel
+1. Grid studio is a web-based spreadsheet application with full integration of the Python programming language. excel
+https://github.com/ricklamers/gridstudio
 1. Browser API's turned into declarative React components and HoC's ， 对浏览器API的react封装
 https://github.com/mengyou658/react-fns
 1. High performance subscription-based form state management for React 

@@ -133,6 +133,8 @@ https://github.com/mengyou658/dayjs
 https://github.com/mengyou658/z
 1. emoji （表情符号）
 https://github.com/mengyou658/emoji-cheat-sheet.com
+1. 中国表情列表
+https://github.com/zhaoolee/ChineseBQB
 1. lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser) 小型的json数据库
 https://github.com/mengyou658/lowdb
 1.  Fast math typesetting for the web 数学公式排版库，用于生成数学公式

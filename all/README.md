@@ -257,3 +257,7 @@ https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland
 1. https://github.com/mengyou658/cron-expression-generator
 1. https://github.com/jingtingzhiwu/CronExpressGenetor
 1. http://cron.qqe2.com/ 在线工具
+
+# git 
+1. git 问题集锦
+https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md
