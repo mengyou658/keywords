@@ -232,6 +232,8 @@ https://www.bsframework.io/
 https://github.com/chrismaltby/gb-studio
 1. 开源的飞行模拟器
 http://home.flightgear.org/
+1. 开源游戏的列表
+https://osgameclones.com/
 
 
 #  开发语言 luna (Visual and textual functional programming language with a focus on productivity, collaboration and development ergonomics. 基于图形方式变成的语言，视觉和文字功能性编程语言，重点是生产力，协作和开发人体工程学)

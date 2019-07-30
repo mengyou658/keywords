@@ -139,6 +139,8 @@ https://github.com/pig4cloud/pig
 https://github.com/mengyou658/renren-security
 1. 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
 https://github.com/lenve/vhr
+1. web-flash是一个基于SrpingBoot2和Vue.JS的前后端分离的后台管理系统。而且不仅仅是一个后台管理系统，还提供了一个基于后台cms模块的手机端h5通用站点。
+https://github.com/enilu/web-flash
 1.
 
 ### 测试
@@ -160,6 +162,8 @@ http://www.jsweet.org/
 https://github.com/google/j2cl
 1. 海报生成器. 只需要一个简单的 json 配置即可生成你需要的海报
 https://github.com/qbhy/poster-generater
+1. A lightweight jvm written by python 一款 python 实现的 "超轻量级" jvm 的实现 (其实就是只实现了主要功能)
+https://github.com/5A59/Zvm
 1. 
 
 ### mybatis 代码生成

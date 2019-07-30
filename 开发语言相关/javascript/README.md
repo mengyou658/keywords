@@ -427,6 +427,13 @@ https://github.com/lukeed/dimport
 https://github.com/pirate/ArchiveBox
 1. Generate basic CSS Grid code to make dynamic layouts css layout生成工具 直接复制代码 https://cssgrid-generator.netlify.com/
 https://github.com/sdras/cssgridgenerator
+1. 一个网页工具，可以将 ASCII 字符的公式转为数学字体显示
+![](imgs/bg2019053002.jpg)
+http://asciimath.org/
+1. 一个网页工具，可以在线表格转成 Markdown、JSON、HTML、XML、YAML 等数据格式，并支持格式之间互相转化
+https://tableconvert.com/
+1. Chrome 浏览器插件，能够将操作录制成脚本，用于浏览器自动化
+https://github.com/checkly/puppeteer-recorder
 
 ####  文件上传
 1.  新一代的文件上传组件 Uppy is a sleek, modular file uploader that integrates seemlessly with any application. It’s fast, easy to use and lets you worry about more important problems than building a file uploader.
@@ -435,11 +442,13 @@ https://github.com/mengyou658/uppy
 http://fex.baidu.com/webuploader/
 1. 
 
-####  安全 html过滤 防止xss 攻击
+####  安全 html过滤 防止xss 攻击 加密 解密
 1.  DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. 防止html xss 攻击工具
 https://github.com/mengyou658/DOMPurify
 1.  Clean up user-submitted HTML, preserving whitelisted elements and whitelisted attributes on a per-element basis. Built on htmlparser2 for speed and tolerance. 防止html xss 攻击工具
 https://github.com/mengyou658/sanitize-html
+1. 一个开源的网页工具，可以离线使用，使用 AES-256-GCM 算法对文件进行本地的加密和解密 
+https://github.com/sh-dv/hat.sh
 1. 
 
 
