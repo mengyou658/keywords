@@ -157,6 +157,8 @@ https://github.com/mengyou658/project-based-learning
 http://developers.google.cn/speed/pagespeed/insights/
 1. A memory profiler for Linux 内存分析
 https://github.com/nokia/memory-profiler
+1. 应急响应实战笔记，一个安全工程师的自我修养
+https://github.com/Bypass007/Emergency-Response-Notes
 1. 
 
 

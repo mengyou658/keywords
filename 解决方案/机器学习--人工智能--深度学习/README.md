@@ -318,7 +318,8 @@ https://github.com/foolwood/SiamMask
 ![CVPR2019Demo gif](resources/cvr2019.gif)
 1.  端到端的三维人脸重建，基于 MobileNet 网络框架，在 CPU 上能达到实时。  The pytorch improved re-implementation of TPAMI 2017 paper: Face Alignment in Full Pose Range: A 3D Total Solution.
 https://github.com/cleardusk/3DDFA
-
+1. 只需绘制一个边界框，您就可以删除视频中要删除的对象
+https://github.com/zllrunning/video-object-removal
 
 # 为关系数据库开发自然语言接口 自动生成sql的训练和示例
 https://github.com/ZhuiyiTechnology/nl2sql_baseline
