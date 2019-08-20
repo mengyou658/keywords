@@ -63,7 +63,8 @@ https://github.com/ty4z2008/Qix/blob/master/dl.md
 https://github.com/trekhleb/homemade-machine-learning
 1. 面向机器学习的特征工程 开源的机器学习电子书的中文翻译，内容主要是关于如何找到数据集的特征
 http://fe4ml.apachecn.org/#/
-1. 
+1. 台湾大学李宏毅老师机器学习
+https://github.com/dafish-ai/NTU-Machine-learning
 1. 
 1. 
 ### 实用 库/模块/框架
@@ -162,7 +163,8 @@ https://github.com/sql-machine-learning/sqlflow
 https://github.com/commaai/openpilot
 1. Google X Lab 与加拿大 Perimeter 理论物理研究所的研究人员合作开发了TensorNetwork，以 TensorFlow 作为后端，针对 GPU 处理进行了优化。相比于单纯基于 CPU 的计算工作，TensorNetwork 可以实现高达 100 倍的加速。A library for easy and efficient manipulation of tensor networks.
 https://github.com/google/TensorNetwork
-1.
+1. Official Tensorflow implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation 
+https://github.com/taki0112/UGATIT
 1.
 1.
 
@@ -324,3 +326,7 @@ https://github.com/zllrunning/video-object-removal
 # 为关系数据库开发自然语言接口 自动生成sql的训练和示例
 https://github.com/ZhuiyiTechnology/nl2sql_baseline
 https://github.com/salesforce/WikiSQL
+
+
+# 机器学习中的公式
+https://github.com/datawhalechina/pumpkin-book

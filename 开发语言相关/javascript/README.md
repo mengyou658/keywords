@@ -228,6 +228,8 @@ https://github.com/pixijs/pixi.js
 https://github.com/metafizzy/zdog
 1. Collection of custom elements that appear hand drawn. Great for wireframes or a fun look 手绘风格UI集合
 https://github.com/wiredjs/wired-elements
+1. 微信小程序 转 支付宝小程序
+https://github.com/ant-move/antmove
 1.
 
 #####worker webworker web worker child process child_process thread node electron
@@ -297,7 +299,8 @@ https://github.com/mengyou658/popmotion
 https://github.com/mengyou658/wobble （一个微型（约1.7KB）的弹簧物理微库，用于模拟阻尼谐振子）
 1. HTML5创建引擎：使用最快，最灵活的2D WebGL渲染器创建精美的数字内容。
 https://github.com/pixijs/pixi.js
-1. 
+1. 使用ThreeJS，ReactJS，GraphQL和NodeJS构建的开源Minecraft克隆 我的世界
+https://github.com/ian13456/mc.js
 1. 
 
 ### 测试
@@ -510,6 +513,9 @@ https://github.com/electron/electron
 https://github.com/mengyou658/kanban-app
 1. Create native desktop applications through a React syntax, on all platforms , 没有使用electron
 https://github.com/kusti8/proton-native
+1. NodeGUI由Qt5提供支持 💚 与其他基于铬的解决方案（如electron）相比，它使CPU和内存效率更高
+https://github.com/nodegui/nodegui
+https://github.com/nodegui/react-nodegui
 
 #electron
 1. Electron application boilerplate based on React, Redux, React Router, Webpack, React Transform HMR for rapid application development.
@@ -620,3 +626,10 @@ https://github.com/purifycss/purifycss
 https://github.com/codercom/code-server
 1. Run VS Code on any server over SSH
 https://github.com/codercom/sshcode
+
+# 地图相关
+1. leaflet
+https://github.com/Leaflet/Leaflet
+1. openlayers
+1. 离线瓦片数据下载
+https://github.com/robertomlsoares/leaflet-offline

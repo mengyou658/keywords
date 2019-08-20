@@ -497,6 +497,8 @@ https://github.com/dntzhang/westore
 https://github.com/weilanwl/ColorUI
 1. 小程序活动 九宫格 摇一摇 微信砍价
 https://github.com/zhangdaiscott/h5huodong
+1. 微信小程序 转 支付宝小程序
+https://github.com/ant-move/antmove
 
 # 加密
 1. google 出版的各种语言的加密解密库
@@ -872,3 +874,6 @@ https://github.com/wangdeyi427/Honglema
 
 # 一个将本地计算机暴露在互联网上的服务。它的原理很简单，你在本地通过 SSH 与该网站建立远程代理，该网站会生成一个 URL，通过这个 URL 其他人就能访问你的本地计算机。
 https://serveo.net/
+
+# PC版微信机器人
+https://github.com/TonyChen56/WeChatRobot
