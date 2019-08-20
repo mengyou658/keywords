@@ -165,6 +165,8 @@ https://github.com/commaai/openpilot
 https://github.com/google/TensorNetwork
 1. Official Tensorflow implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation 
 https://github.com/taki0112/UGATIT
+1. 该仓库将包含TecoGAN项目的源代码和材料，即TEmporally COherent GAN的代码 模糊像素变高清
+https://github.com/thunil/TecoGAN
 1.
 1.
 

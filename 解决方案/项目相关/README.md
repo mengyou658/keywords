@@ -12,6 +12,9 @@ https://github.com/cn/constitution
 
 
 # 区块链(BlockChain)
+1. A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
+https://github.com/ccxt/ccxt
+1. get-scatter 用于前端交互
 1. 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
 https://github.com/mengyou658/awesome-blockchain
 1. 黑马程序员 120天全栈区块链开发 开源教程
