@@ -1,11 +1,11 @@
 
-#javascript
+# javascript
 
-### 现成列表
+###  现成列表
 1. 
 1. 
 
-### 教程/文章/小抄/规范/记事
+###  教程/文章/小抄/规范/记事
 1. CSS Inspiration，在这里找到写 CSS 的灵感！
 https://github.com/chokcoco/CSS-Inspiration
 1. 一些css常用样式
@@ -33,7 +33,7 @@ https://github.com/mengyou658/every-programmer-should-know
 1. Modern JavaScript Tutorial （javascript 教程）
 https://github.com/iliakan/javascript-tutorial-en
 1. js 小抄
-https://github.com/mbeaudru/modern-js-cheatsheet#notions
+https://github.com/mbeaudru/modern-js-cheatsheet# notions
 1.  js 代码 片段 code
 https://github.com/mengyou658/30-seconds-of-code
 1. 前端面试题和答案
@@ -42,7 +42,7 @@ https://github.com/Advanced-Frontend/Daily-Interview-Question
 https://github.com/qq449245884/xiaozhi
 1. 
 
-### 实用 库/模块/框架
+###   实用 库/模块/框架
 1. es6 proxy polyfill
 https://github.com/GoogleChrome/proxy-polyfill
 1. Comlink 开发 WebWorkers 简单
@@ -119,7 +119,7 @@ https://github.com/wendux/fly
 https://github.com/socketio/socket.io-client
 1. The cutest little WebSocket wrapper!  轻量级的webscoket 封装（包括自动重连，优雅的关闭等）
 https://github.com/mengyou658/sockette
-1. RSA/RSAPSS/ECDSA/DSA signing/validation, ASN.1, PKCS#1/5/8 private/public key, X.509 certificate, CRL, OCSP, CMS SignedData, TimeStamp, CAdES JSON Web Signature/Token in pure JavaScript Encryption, Decryption,
+1. RSA/RSAPSS/ECDSA/DSA signing/validation, ASN.1, PKCS# 1/5/8 private/public key, X.509 certificate, CRL, OCSP, CMS SignedData, TimeStamp, CAdES JSON Web Signature/Token in pure JavaScript Encryption, Decryption,
 https://github.com/mengyou658/jsrsasign
 1. Detect element visibility in the browser , 滑动展示， 页面元素是否在屏幕中可见，用来做懒加载
 https://github.com/mengyou658/emergence.js
@@ -230,9 +230,11 @@ https://github.com/metafizzy/zdog
 https://github.com/wiredjs/wired-elements
 1. 微信小程序 转 支付宝小程序
 https://github.com/ant-move/antmove
+1. Licia 是一套在开发中实践积累起来的实用 JavaScript 工具库。该库目前拥有超过 300 个模块，包括 Dom 操作，cookie 设置，类创建，模板函数，日期格式化等实用模块，同时配套有打包工具 Eustia 进行定制化，使JS脚本加载量缩减在 10KB 以下，极大优化移动端页面的加载速度。
+https://github.com/liriliri/licia
 1.
 
-#####worker webworker web worker child process child_process thread node electron
+#####  worker webworker web worker child process child_process thread node electron
 1.Move an async function into its own thread 依赖webworker，将异步转移到单独的线程中运行,紧紧支持浏览器环境
 https://github.com/mengyou658/greenlet
 1. Run a module in a Web Worker.  将一个模块再单独的线程中执行
@@ -242,7 +244,7 @@ https://github.com/pshihn/workly
 1.
 https://github.com/developit/workerize-loader
 
-#####admin
+#####  admin
 1. 漂亮的后台界面
 https://github.com/creativetimofficial/material-dashboard
 1. 漂亮干净的后台界面
@@ -252,7 +254,7 @@ https://github.com/BlackrockDigital/startbootstrap-sb-admin-2
 1. bootstrap material dashboard
 https://github.com/creativetimofficial/material-dashboard
 
-##### VR/AR
+#####   VR/AR
 1. A helper three.js library for building AR web experiences that run in WebARonARKit and WebARonARCore （做类似淘宝捉猫猫AR互动的组件）
 https://github.com/mengyou658/three.ar.js
 1.  Framework for creating Live Tours. Add React VR components.  (做VR展览，观光旅游VR等)
@@ -262,7 +264,7 @@ https://github.com/mengyou658/AR.js
 1. 
 1. 
 
-### 完整项目/示例/demo/代码片段
+###   完整项目/示例/demo/代码片段
 1. Use full ES2015+ features to develop Node.js applications (实用es2015+的语法开发node应用)
 https://github.com/thinkjs/thinkjs
 1.线稿自动上色的程序
@@ -280,7 +282,7 @@ https://github.com/WarpPrism/AutoPiano
 1. ant-design-pro
 1. ice desigin
 
-##### game 游戏
+#####   game 游戏
 1. State management and more for turn based games. 游戏框架 回合制游戏
 https://github.com/mengyou658/boardgame.io
 1. trust An interactive guide to the game theory of cooperation 游戏完整示例
@@ -303,7 +305,7 @@ https://github.com/pixijs/pixi.js
 https://github.com/ian13456/mc.js
 1. 
 
-### 测试
+###   测试
 1. 一个可视化, 并且能快速生成模拟数据的持久化服务
 https://github.com/mengyou658/easy-mock
 1. 一个轻量、可拓展、针对手机网页的前端开发者调试面板。 A lightweight, extendable front-end developer tool for mobile web page.
@@ -316,7 +318,7 @@ https://github.com/mengyou658/json-server
 https://github.com/avajs/ava
 
 
-##### 用于自动化测试和不需要可视化用户界面的服务器
+#####   用于自动化测试和不需要可视化用户界面的服务器
 1. Headless Chrome Node API （）
 https://github.com/GoogleChrome/puppeteer
 1. A dockerized, headless Chrome rendering solution
@@ -327,7 +329,7 @@ https://github.com/mengyou658/requestium
 https://github.com/SeleniumHQ/selenium
 1. 
 
-### UI
+###   UI
 1. ui 列表
 https://github.com/JetBrains/ring-ui
 1. layer ui (经常使用的一个简单的前端UI框架)
@@ -339,7 +341,7 @@ https://github.com/mengyou658/cube-ui
 1. 基于jQuery，针对PC网站，兼容IE7+（modern主题）或IE8+（peak主题）的前端UI框架
 https://github.com/yued-fe/lulu
 
-### 可伸缩布局方案
+###   可伸缩布局方案
 1. amfe-flexible 
 https://github.com/mengyou658/lib-flexible
 1. JS 布局引擎 响应式，可排序，可过滤和可拖动的网格布局  Responsive, sortable, filterable and draggable grid layouts
@@ -347,7 +349,7 @@ https://github.com/mengyou658/muuri
 1. 
 1. 
 
-### 工具
+###   工具
 1. rrweb 是 'record and replay the web' 的简写，旨在利用现代浏览器所提供的强大 API 录制并回放任意 web 界面中的用户操作。
 一个可以录制网页操作的 JS 库，不是录制成视频，而是将用户的每一个操作，录制成可复现的脚本。
 https://github.com/rrweb-io/rrweb
@@ -438,14 +440,14 @@ https://tableconvert.com/
 1. Chrome 浏览器插件，能够将操作录制成脚本，用于浏览器自动化
 https://github.com/checkly/puppeteer-recorder
 
-####  文件上传
+###  #   文件上传
 1.  新一代的文件上传组件 Uppy is a sleek, modular file uploader that integrates seemlessly with any application. It’s fast, easy to use and lets you worry about more important problems than building a file uploader.
 https://github.com/mengyou658/uppy
 1. webuploader 文件上传，支持h5和swf
 http://fex.baidu.com/webuploader/
 1. 
 
-####  安全 html过滤 防止xss 攻击 加密 解密
+###  #   安全 html过滤 防止xss 攻击 加密 解密
 1.  DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. 防止html xss 攻击工具
 https://github.com/mengyou658/DOMPurify
 1.  Clean up user-submitted HTML, preserving whitelisted elements and whitelisted attributes on a per-element basis. Built on htmlparser2 for speed and tolerance. 防止html xss 攻击工具
@@ -455,7 +457,7 @@ https://github.com/sh-dv/hat.sh
 1. 
 
 
-# 算法
+#  算法
 1. 使用动画的形式呈现解 LeetCode 题目的思路
 https://github.com/MisterBooo/LeetCodeAnimation
 1. JavaScript 算法与数据结构
@@ -467,7 +469,7 @@ https://github.com/youngdro/guitarChord
 1. 数据结构和算法在JavaScript中解释和实现
 https://github.com/amejiarosario/dsa.js
 
-#代码生成脚手架cli工具
+# 代码生成脚手架cli工具
 1. The hottest CLI for React Native, boilerplates, plugins, generators, and more! 
 https://github.com/mengyou658/ignite
 1. An opinionated CLI for building redux/react apps quicker blueprint 
@@ -480,7 +482,7 @@ https://github.com/yeoman/generator-generator
 https://github.com/mengyou658/react-npm-boilerplate
 
 
-#babel
+# babel
 1. 使用rust开发的babel替代工具
 https://github.com/swc-project/swc
 1. babel-polyfill
@@ -491,18 +493,18 @@ import "./app";
 // Read the docs on babel-polyfill (http://babeljs.io/docs/usage/polyfill) and babel-runtime (http://babeljs.io/docs/plugins/transform-runtime).
 ```
 
-#sucrase
+# sucrase
 1. 号称比babel快25倍的javascript转码器
 https://github.com/alangpierce/sucrase
 
 
-#办公 代办事项
+# 办公 代办事项
 1. a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS 一个笔记和待办事项的应用程序与同步功能的Windows，MacOS，Linux，Android和iOS （类似滴答清单，有道云笔记，）
 https://github.com/mengyou658/joplin
 1. 云收藏，类似，pc版本的有道云笔记收藏
 https://github.com/cloudfavorites/favorites-web
 
-#桌面应用工具
+# 桌面应用工具
 1. Make any web page a desktop application
 https://github.com/jiahaog/nativefier
 1. A desktop application for creating invoices with beautiful and customizable templates.
@@ -517,7 +519,7 @@ https://github.com/kusti8/proton-native
 https://github.com/nodegui/nodegui
 https://github.com/nodegui/react-nodegui
 
-#electron
+# electron
 1. Electron application boilerplate based on React, Redux, React Router, Webpack, React Transform HMR for rapid application development.
 https://github.com/chentsulin/electron-react-boilerplate
 1. 直接把网页转变成桌面app Make any web page a desktop application
@@ -539,12 +541,12 @@ https://github.com/electron-userland/electron-builder
 1. ui vue Framework 
 https://github.com/quasarframework/quasar
 
-#pwa
+# pwa
 1.  Offload your store management to a worker easily (简单的使用 worker 来工作)
 https://github.com/mengyou658/stockroom
 
 
-# 类似react的工具
+#  类似react的工具
 1. 类似vue的语法，但是编译的结果是原生dom的操作，而不需要额外引入vue的文件等，也不使用虚拟dom，减小了开销
 https://github.com/sveltejs/svelte
 1. 1kb JavaScript library for building frontend applications 简单小
@@ -556,19 +558,19 @@ https://github.com/mengyou658/nerv
 1. https://github.com/baidu/san
 
 
-# nes 游戏 模拟器
+#  nes 游戏 模拟器
 1. A JavaScript NES emulator. js nes 模拟器
 https://github.com/mengyou658/jsnes
 
 
-# 机器学习
+#  机器学习
 1. A face detection library in 200 lines of JavaScript （人脸检测 JavaScript ）
 https://github.com/mengyou658/picojs
 1. TensorFlow.js 
 https://github.com/mengyou658/tfjs
 
 
-# 人脸识别
+#  人脸识别
 1. 本项目是一个基于前端人脸识别技术实现的照片合成示例  a demo of frontend-face-detection
 https://github.com/tower1229/frontend-face-detection
 1. 人脸识别
@@ -584,42 +586,42 @@ https://github.com/justadudewhohacks/face-api.js
    pico.js 是一个只有 200 行纯 JavaScript 代码的人脸检测库，具备实时检测功能（在实际环境中可达到 200+ FPS），压缩后仅 2KB 。
 https://github.com/tehnokv/picojs
 
-# webassembly 浏览器执行c代码
+#  webassembly 浏览器执行c代码
 1. webassembly 用于可见下推式语言的解析器生成器 A parser generator for visibly pushdown languages.
 https://github.com/ianh/owl
 
-# Superset 是 Airbnb （知名在线房屋短租公司）开源的数据探查与可视化平台（曾用名 Panoramix、Caravel ），该工具在可视化、易用性和交互性上非常有特色，用户可以轻松对数据进行可视化分析。
+#  Superset 是 Airbnb （知名在线房屋短租公司）开源的数据探查与可视化平台（曾用名 Panoramix、Caravel ），该工具在可视化、易用性和交互性上非常有特色，用户可以轻松对数据进行可视化分析。
 https://github.com/apache/incubator-superset
 
-# 代码风格
+#  代码风格
 1. Opinionated but configurable ESLint wrapper with lots of goodies included 现成的配置扩展，不需要一堆乱七八糟的配置
 https://github.com/xojs/xo
 1. eslint
 
 
-# 图片压缩 图像处理 图像缩放 图片压缩 图片缩放
+#  图片压缩 图像处理 图像缩放 图片压缩 图片缩放
 1. High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images. Uses the libvips library.http://sharp.pixelplumbing.com/ 
 Resizing an image is typically 4x-5x faster than using the quickest ImageMagick and GraphicsMagick settings.
 https://github.com/lovell/sharp
 
-# 瓦片tile 地图离线下载
+#  瓦片tile 地图离线下载
 https://github.com/stadt-bielefeld/wms-downloader
 https://github.com/AliFlux/MapTilesDownloader
 
-# 自动预加载
+#  自动预加载
 1. https://github.com/instantpage/instant.page
 
-# 机器人 个人助理
+#  机器人 个人助理
 1. https://github.com/leon-ai/leon
 
-# css 去除不用的
+#  css 去除不用的
 1. A simple, thorough and fast unused-CSS cleaner 清理多余的css
 https://github.com/leeoniya/dropcss
 https://github.com/uncss/uncss
 https://github.com/FullHuman/purgecss
 https://github.com/purifycss/purifycss
 
-# 编辑器开发工具ide
+#  编辑器开发工具ide
 1. idea
 1. vscode
 1. 在线版本的vscode，可以运行在服务器端 开源的 VS Code 在线版，支持大部分 VS Code 插件
@@ -627,9 +629,19 @@ https://github.com/codercom/code-server
 1. Run VS Code on any server over SSH
 https://github.com/codercom/sshcode
 
-# 地图相关
+#  地图相关
 1. leaflet
 https://github.com/Leaflet/Leaflet
 1. openlayers
 1. 离线瓦片数据下载
 https://github.com/robertomlsoares/leaflet-offline
+
+# 编译原理 学习 The Super Tiny Compiler
+1. 更简单的编译原理 超级简单的编译器
+https://github.com/jamiebuilds/the-super-tiny-compiler
+1. Like The Super Tiny Compiler, but in Go 
+https://github.com/hazbo/the-super-tiny-compiler
+1. Python version of da suppa tiny compiler of 
+https://github.com/josegomezr/the-super-tiny-compiler
+1. 这是GitHub项目the-super-tiny-compiler的中文翻译。
+https://github.com/YongzeYao/the-super-tiny-compiler-CN

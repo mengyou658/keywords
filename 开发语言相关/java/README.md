@@ -141,6 +141,8 @@ https://github.com/mengyou658/renren-security
 https://github.com/lenve/vhr
 1. web-flash是一个基于SrpingBoot2和Vue.JS的前后端分离的后台管理系统。而且不仅仅是一个后台管理系统，还提供了一个基于后台cms模块的手机端h5通用站点。
 https://github.com/enilu/web-flash
+1. 
+spring-boot-plus
 1.
 
 ### 测试
