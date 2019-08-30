@@ -1,4 +1,5 @@
 const express = require('express');
+const path = require("path");
 const downloadTile = require('./tiledownloader');
 
 var currTileDownloader = null;
@@ -84,47 +85,65 @@ const init = function (app) {
   });
 
   router.post('/maps/down/start', function (req, res) {
-    var search = req.body;
-    console.log("maps start", req.query, search, dataSources[0].sources[search.dataSource])
-    var source = search.dataSource ? dataSources[0].sources[Number(search.dataSource)] : null;
-    if (!search['xyStart'] || !search['xyEnd'] || !search['rangeStart'] || !search['rangeEnd'] || !source
-      || search['xyStart'].indexOf(",") < 0
-      || search['xyEnd'].indexOf(",") < 0
-    ) {
+
+    try {
+      var search = req.body;
+      var basePath = path.join(__dirname, '../../img/tilemap');
+      var outPut = path.join(__dirname, '../../img/tilemap');
+      if (search['downloadDir']) {
+        outPut = path.join(search['downloadDir']);
+      }
+      console.log("basePath", {outPut, basePath});
+      console.log("maps start", dataSources[0].sources[search.dataSource])
+      var source = search.dataSource ? dataSources[0].sources[Number(search.dataSource)] : null;
+      if (!search['xyStart'] || !search['xyEnd'] || !search['rangeStart'] || !search['rangeEnd'] || !source
+        || search['xyStart'].indexOf(",") < 0
+        || search['xyEnd'].indexOf(",") < 0
+      ) {
+        console.log("maps start error", "参数错误")
+        res.json({
+          success: 0,
+          msg: '参数错误'
+        });
+        return
+      }
+
+      if (null != currTileDownloader) {
+        currTileDownloader.stop();
+        currTileDownloader = null;
+      }
+      var config = {
+        bounds: search['xyStart'].split(',').concat(search['xyEnd'].split(",")),   //下载范围
+        levelrange: [Number(search['rangeStart']), Number(search['rangeEnd'])],  //下载级别
+        output: outPut,  //存储的sqlite 下载结果可以直接在cesiumlab发布
+        basePath: basePath,  //存储的sqlite 下载结果可以直接在cesiumlab发布
+        source: source.name,   //名称
+        type: source.type,   //类型，默认为影像
+        //maxgot: 100,   //设置最大下载线程，默认是100，对于地形数据最好少一些
+        url: source.url,
+        proxy:undefined,   //默认不需要代理，如果下载官网地形，那么按下面的设置
+        /*
+        proxy: {
+            host: 'localhost',
+            port: 1080
+        }*/
+      }
+      console.log("map start config", config);
+      currTileDownloader = new downloadTile.TileDownloader(config);
+
+      currTileDownloader.start();
+
+      res.json({
+        success: 1,
+      });
+    } catch (e) {
+      console.log("error: " + e.message, e);
       res.json({
         success: 0,
-        msg: '参数错误'
+        msg: '系统错误'
       });
-      return
     }
 
-    if (null != currTileDownloader) {
-      currTileDownloader.stop();
-      currTileDownloader = null;
-    }
-    var config = {
-      bounds: search['xyStart'].split(',').concat(search['xyEnd'].split(",")),   //下载范围
-      levelrange: [Number(search['rangeStart']), Number(search['rangeEnd'])],  //下载级别
-      output: 'd:\\downloadtest.pak',  //存储的sqlite 下载结果可以直接在cesiumlab发布
-      source: source.name,   //名称
-      type: source.type,   //类型，默认为影像
-      //maxgot: 100,   //设置最大下载线程，默认是100，对于地形数据最好少一些
-      url: source.url,
-      proxy:undefined,   //默认不需要代理，如果下载官网地形，那么按下面的设置
-      /*
-      proxy: {
-          host: 'localhost',
-          port: 1080
-      }*/
-    }
-    console.log("map start config", config);
-    currTileDownloader = new downloadTile.TileDownloader(config);
-
-    currTileDownloader.start();
-
-    res.json({
-      success: 1,
-    });
   });
 
 

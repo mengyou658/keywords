@@ -13,7 +13,6 @@ const commitCount = 400;
 const maxgot = 100;
 
 
-
 function TileDownloader(options) {
 
     this.bounds = options.bounds;
@@ -21,10 +20,11 @@ function TileDownloader(options) {
     this.bounds[1] = Math.max(this.bounds[1], -90);
     this.bounds[2] = Math.min(this.bounds[2], 180);
     this.bounds[3] = Math.min(this.bounds[3], 90);
-    console.log(this.bounds);
+    console.log("TileDownloader", this.bounds);
 
     this.levelrange = options.levelrange;
     this.output = options.output;
+    this.basePath = options.basePath;
     this.url = options.url;
     this.type = options.type ? options.type : 'image';
     this.layerjson = options.layerjson;
@@ -35,8 +35,9 @@ function TileDownloader(options) {
         this.proxy = tunnel.httpOverHttp({
             proxy: options.proxy
         });
-    };
-    console.log(this.proxy);
+    }
+    ;
+    console.log("TileDownloader", this.proxy);
 
     //最大同时下载个数
     this.maxgot = options.maxgot ? options.maxgot : maxgot;
@@ -61,7 +62,8 @@ function TileDownloader(options) {
 
     this.failedTile = [];
 
-    this.lngLatToXY = function(lonlat, level, ltrb) {
+    this.lngLatToXY = function (lonlat, level, ltrb) {
+        console.log("TileDownloader lngLatToXY", this.type, level);
         if (this.type == 'image')
             return mercator.lngLatToGoogle(lonlat, level);
         else {
@@ -89,9 +91,13 @@ function TileDownloader(options) {
         }
 
 
-        console.log(level, lefttop, rightbuttom);
-        for (var y = lefttop[1]; y <= rightbuttom[1]; y++) {
-            for (var x = lefttop[0]; x <= rightbuttom[0]; x++) {
+        console.log("TileDownloader", level, lefttop, rightbuttom);
+        var yMax = lefttop[1] > rightbuttom[1] ? lefttop[1] : rightbuttom[1];
+        var yMin = lefttop[1] <= rightbuttom[1] ? lefttop[1] : rightbuttom[1];
+        var xMax = lefttop[0] > rightbuttom[0] ? lefttop[0] : rightbuttom[0];
+        var xMin = lefttop[0] <= rightbuttom[0] ? lefttop[0] : rightbuttom[0];
+        for (var y = yMin; y <= yMax; y++) {
+            for (var x = xMin; x <= xMax; x++) {
 
                 this.allTileCount++;
 
@@ -100,6 +106,7 @@ function TileDownloader(options) {
                 }
             }
         }
+        console.log("TileDownloader allTileCount", this.allTileCount);
     }
 
     if (this.allTileCount == 0) {
@@ -108,7 +115,7 @@ function TileDownloader(options) {
     }
 
     //保存完一个块之后，按需提交事务  放出进度事件
-    this._finishedOne = function() {
+    this._finishedOne = function () {
         this.finishedCount++;
 
         try {
@@ -123,49 +130,52 @@ function TileDownloader(options) {
 
         this.emit('progress');
     }
+
     //根据tile获得表名，对于超大数据，可以用来分表
 
-      function mkdirs(dirpath) {
+    function mkdirs(dirpath) {
         if (!fs.existsSync(path.dirname(dirpath))) {
-          mkdirs(path.dirname(dirpath));
+            mkdirs(path.dirname(dirpath));
         }
         if (!fs.existsSync(dirpath)) {
-          fs.mkdirSync(dirpath);
+            fs.mkdirSync(dirpath);
         }
-      }
-    this._getFilePath = function(tile) {
-      let res = ''
-      if (Number(tile.level) < 10) {
-        res = 'blocks';
-      } else {
-        var tx = Math.floor(tile.x / 512);
-        var ty = Math.floor(tile.y / 512);
-        res = 'blocks_' + tile.level + "_" + tx + "_" + ty;
-      }
-      let basePath = path.join(tile.output || this.output, res, tile.level + "", tile.x + "")
-      console.log("basePath", basePath)
-      try {
-        mkdirs(basePath);
-      } catch (e) {
-          console.error(e)
-      }
-      return path.join(basePath, tile.y + ".jpg");
+    }
+
+    this._getFilePath = function (tile) {
+        let res = ''
+        /*if (Number(tile.level) < 10) {
+          res = 'blocks';
+        } else {
+          var tx = Math.floor(tile.x / 512);
+          var ty = Math.floor(tile.y / 512);
+          res = 'blocks_' + tile.level + "_" + tx + "_" + ty;
+        }*/
+        let basePath = path.join(tile.output || this.output, res, tile.level + "", tile.x + "")
+        console.log("basePath", basePath)
+        try {
+            mkdirs(basePath);
+        } catch (e) {
+            console.error(e)
+        }
+        return path.join(basePath, tile.y + ".png");
     }
     //生成一个got下载完成的响应函数 来保存到文件
-    this._saveTileData = function(tile) {
+    this._saveTileData = function (tile) {
         var self = this;
         var db = this.db;
-        return function(response) {
+        return function (response) {
             self.downloadBytes += response.body.length;
 
             var basePath = self._getFilePath(tile);
 
             try {
-              fs.writeFileSync(basePath, response.body, function (err) {
-                if (err) {
-                    console.log("write data error:", err)
-                }
-              })
+                fs.writeFile(basePath, response.body, function (err) {
+                    if (err) {
+                        console.log("write data error:", err)
+                    }
+                    self._finishedOne();
+                })
             } catch (ex) {
                 console.log(ex);
             }
@@ -180,8 +190,9 @@ function TileDownloader(options) {
     function getRandomIp() {
         return r(1, 255) + "." + r(1, 255) + "." + r(1, 255) + "." + r(1, 255);
     }
+
     //下载某个tile
-    this._downloadTile = function(tile) {
+    this._downloadTile = function (tile) {
         if (this.filterTile(tile)) {
 
             this._finishedOne();
@@ -202,17 +213,17 @@ function TileDownloader(options) {
 
 
         got(url, {
-                encoding: null,
-                agent: this.proxy,
-                timeout: 100000,
-                retries: 5,
-                headers: {
-                    'X-Forwarded-For': getRandomIp(),
-                    Referer: 'http://cesiumjs.org/Cesium/Build/Apps/CesiumViewer/index.html?view=91.66990268014597%2C27.73688641447013%2C47612.305091729926%2C3.9597765481872633%2C-10.024064619450886%2C359.99745176237195',
-                    Accept: 'application/vnd.quantized-mesh;extensions=octvertexnormals-watermask,application/octet-stream;q=0.9,*/*;q=0.01',
-                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36'
-                }
-            })
+            encoding: null,
+            agent: this.proxy,
+            timeout: 100000,
+            retries: 5,
+            headers: {
+                'X-Forwarded-For': getRandomIp(),
+                Referer: 'http://cesiumjs.org/Cesium/Build/Apps/CesiumViewer/index.html?view=91.66990268014597%2C27.73688641447013%2C47612.305091729926%2C3.9597765481872633%2C-10.024064619450886%2C359.99745176237195',
+                Accept: 'application/vnd.quantized-mesh;extensions=octvertexnormals-watermask,application/octet-stream;q=0.9,*/*;q=0.01',
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.98 Safari/537.36'
+            }
+        })
             .then(this._saveTileData(tile))
             .then(response => {
                 self.downloading--;
@@ -239,7 +250,7 @@ function TileDownloader(options) {
         this.emit('progress');
     }
     //下一个级别
-    this._levelFirst = function(level) {
+    this._levelFirst = function (level) {
 
         //对于地形的第0级需要下载世界范围
         var lefttop, rightbuttom;
@@ -250,18 +261,23 @@ function TileDownloader(options) {
             lefttop = this.lngLatToXY([this.bounds[0], this.bounds[3]], level, true);
             rightbuttom = this.lngLatToXY([this.bounds[2], this.bounds[1]], level, false);
         }
+        console.log("_levelFirst", level, lefttop, rightbuttom);
+        var yMax = lefttop[1] > rightbuttom[1] ? lefttop[1] : rightbuttom[1];
+        var yMin = lefttop[1] <= rightbuttom[1] ? lefttop[1] : rightbuttom[1];
+        var xMax = lefttop[0] > rightbuttom[0] ? lefttop[0] : rightbuttom[0];
+        var xMin = lefttop[0] <= rightbuttom[0] ? lefttop[0] : rightbuttom[0];
 
         this.current = {
             level: level,
-            minx: lefttop[0],
-            maxx: rightbuttom[0],
-            miny: lefttop[1],
-            maxy: rightbuttom[1],
-            x: lefttop[0],
-            y: lefttop[1]
+            minx: xMin,
+            maxx: xMax,
+            miny: yMin,
+            maxy: yMax,
+            x: xMin,
+            y: yMin
         }
     }
-    this.filterTile = function(tile) {
+    this.filterTile = function (tile) {
         //return false;
         if (!this.layerjson)
             return false;
@@ -290,7 +306,7 @@ function TileDownloader(options) {
         return true;
     }
     //判断是否还有后续任务
-    this._hasNext = function() {
+    this._hasNext = function () {
 
         if (!this.current)
             return true;
@@ -310,7 +326,7 @@ function TileDownloader(options) {
         return false;
     }
     //退回到前一个块
-    this._goBack = function() {
+    this._goBack = function () {
 
         //横向下一个
         if (this.current.x > this.current.minx) {
@@ -328,7 +344,7 @@ function TileDownloader(options) {
         }
     }
 
-    this._caculFinished = function() {
+    this._caculFinished = function () {
         this.finishedCount = 0;
         for (var level = this.levelrange[0]; level <= this.current.level; level++) {
 
@@ -341,23 +357,28 @@ function TileDownloader(options) {
                 lefttop = this.lngLatToXY([this.bounds[0], this.bounds[3]], level, true);
                 rightbuttom = this.lngLatToXY([this.bounds[2], this.bounds[1]], level, false);
             }
+            console.log("TileDownloader", level, lefttop, rightbuttom);
+            var yMax = lefttop[1] > rightbuttom[1] ? lefttop[1] : rightbuttom[1];
+            var yMin = lefttop[1] <= rightbuttom[1] ? lefttop[1] : rightbuttom[1];
+            var xMax = lefttop[0] > rightbuttom[0] ? lefttop[0] : rightbuttom[0];
+            var xMin = lefttop[0] <= rightbuttom[0] ? lefttop[0] : rightbuttom[0];
 
             if (level != this.current.level) {
-                for (var y = lefttop[1]; y <= rightbuttom[1]; y++) {
-                    for (var x = lefttop[0]; x <= rightbuttom[0]; x++) {
+                for (var y = yMin; y <= yMax; y++) {
+                    for (var x = xMin; x <= xMax; x++) {
 
                         this.finishedCount++;
                     }
                 }
             } else {
-                for (var y = lefttop[1]; y <= this.current.y; y++) {
+                for (var y = yMin; y <= this.current.y; y++) {
                     if (y < this.current.y) {
-                        for (var x = lefttop[0]; x <= rightbuttom[0]; x++) {
+                        for (var x = xMin; x <= xMax; x++) {
 
                             this.finishedCount++;
                         }
                     } else {
-                        for (var x = lefttop[0]; x < this.current.x; x++) {
+                        for (var x = xMin; x < this.current.x; x++) {
                             this.finishedCount++;
                         }
                     }
@@ -368,7 +389,7 @@ function TileDownloader(options) {
 
     }
     //进度重启
-    this._resumeTask = function(cur) {
+    this._resumeTask = function (cur) {
 
         console.log('resumeTask:', cur);
 
@@ -407,7 +428,7 @@ function TileDownloader(options) {
     }
 
     //下一个块任务
-    this._next = function() {
+    this._next = function () {
 
         if (this.failedTile.length > 0) {
 
@@ -439,12 +460,12 @@ function TileDownloader(options) {
             }
         }
 
-        this._downloadTile({ level: this.current.level, x: this.current.x, y: this.current.y });
+        this._downloadTile({level: this.current.level, x: this.current.x, y: this.current.y});
 
         return true;
     }
     //该定时器函数用来定时判定 是否需要追加下载任务
-    this._intervalFunc = function() {
+    this._intervalFunc = function () {
 
         while (this.downloading < this.maxgot && this._hasNext()) {
             //console.log('while:', this.downloading, this.finishedCount, this.allTileCount);
@@ -457,28 +478,28 @@ function TileDownloader(options) {
 
             if (this.downloading <= 0) {
                 var self = this;
-                this._stop(function() {
-                  self.state = 'finished';
+                this._stop(function () {
+                    self.state = 'finished';
                     self.emit('finished');
                 });
             }
 
         }
     }
-    this._startAfterSomeTime = function(t) {
+    this._startAfterSomeTime = function (t) {
         clearInterval(this.intervalID);
         this.intervalID = undefined;
 
         var self = this;
-        setTimeout(function() {
+        setTimeout(function () {
             self._start();
         }, t);
     }
-    this._start = function() {
+    this._start = function () {
         var self = this;
         //启动定时器，每10ms去执行一下
         var start = new Date();
-        this.intervalID = setInterval(function() {
+        this.intervalID = setInterval(function () {
             self._intervalFunc();
 
             var td = new Date() - start;
@@ -493,12 +514,12 @@ function TileDownloader(options) {
         }, this.taskinterval);
 
 
-      this.state = 'started';
+        this.state = 'started';
         this.emit('started');
     }
 
     //结束函数，保存进度
-    this._stop = function(cb) {
+    this._stop = function (cb) {
         var self = this;
         clearInterval(this.intervalID);
         this.intervalID = null;
@@ -507,9 +528,9 @@ function TileDownloader(options) {
             this.db.run("REPlACE INTO infos VALUES (?,?,?,?,?,?,?,?,?,?,?)", [self.bounds[0], self.bounds[1], self.bounds[2], self.bounds[3],
                 self.levelrange[0], self.levelrange[1], self.source, self.type,
                 self.current.level, self.current.x, self.current.y
-            ], function() {
+            ], function () {
 
-                self.db.exec('COMMIT TRANSACTION;', function() {
+                self.db.exec('COMMIT TRANSACTION;', function () {
                     self.db.close();
 
                     cb && cb();
@@ -527,13 +548,20 @@ function TileDownloader(options) {
     EventEmitter.call(this);
 };
 //开始函数
-TileDownloader.prototype.start = function() {
+TileDownloader.prototype.start = function () {
 
+    console.log("start : ", this);
 
     var self = this;
-    this.db = new sqlite.Database(this.output + "/main.db", sqlite.OPEN_READWRITE | sqlite.OPEN_CREATE);
+    if (!fs.existsSync(this.output)) {
+        fs.mkdirSync(this.output, {recursive : true});
+    }
+    if (!fs.existsSync(this.basePath)) {
+        fs.mkdirSync(this.basePath, {recursive : true});
+    }
+    this.db = new sqlite.Database(path.join(this.basePath, "main.db"), sqlite.OPEN_READWRITE | sqlite.OPEN_CREATE);
 
-    this.db.on("error", function(error) {
+    this.db.on("error", function (error) {
         console.log("Getting an error : ", error);
     });
 
@@ -542,12 +570,12 @@ TileDownloader.prototype.start = function() {
     sql += "CREATE UNIQUE INDEX  if not exists infos_taskkey ON  infos  (minx, miny, maxx, maxy, minlevel, maxlevel, source);BEGIN TRANSACTION;"
 
     try {
-        this.db.exec(sql, function() {
+        this.db.exec(sql, function () {
 
             self.db.get("select cur_level, cur_x, cur_y  from infos where minx=? and miny = ? and  maxx = ? and maxy=? and minlevel = ? and maxlevel = ? and source = ? ", [self.bounds[0], self.bounds[1], self.bounds[2], self.bounds[3],
                     self.levelrange[0], self.levelrange[1], self.source
                 ],
-                function(err, row) {
+                function (err, row) {
 
                     if (row) {
 
@@ -558,11 +586,11 @@ TileDownloader.prototype.start = function() {
                             agent: self.proxy,
                             timeout: 10000,
                             retries: 5
-                        }).then(function(response) {
+                        }).then(function (response) {
                             self.layerjson = JSON.parse(response.body);
                             self.url = self.url.replace('layer.json', self.layerjson.tiles[0].replace('{version}', self.layerjson.version) + "&f=TerrainTile");
                             self._start();
-                        }).catch(function(error) {
+                        }).catch(function (error) {
                             console.log(error);
                         });
                     } else {
@@ -580,12 +608,12 @@ TileDownloader.prototype.start = function() {
 }
 
 //停止函数
-TileDownloader.prototype.stop = function(cb) {
+TileDownloader.prototype.stop = function (cb) {
 
     var self = this;
-    this._stop(function() {
+    this._stop(function () {
 
-      self.state = 'stoped';
+        self.state = 'stoped';
 
         self.emit('stoped');
 
@@ -593,7 +621,7 @@ TileDownloader.prototype.stop = function(cb) {
     });
 
 }
-TileDownloader.prototype.getFilePath = function(tile) {
+TileDownloader.prototype.getFilePath = function (tile) {
     this._getFilePath(tile);
 }
 //原型派生
