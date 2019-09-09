@@ -15,6 +15,8 @@ https://morvanzhou.github.io/tutorials/data-manipulation/plt/
 https://www.bilibili.com/video/av4294020/?p=7
 1. 李宏毅深度学习(2017) 学一遍
 https://www.bilibili.com/video/av9770302/
+1. 学习 翻译 
+Systems Performance Enterprise and the Cloud
 1. redis源码，学习c和c++
 
 ### 使用动画的形式呈现解 LeetCode 题目的思路

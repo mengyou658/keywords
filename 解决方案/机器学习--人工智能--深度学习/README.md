@@ -169,6 +169,8 @@ https://github.com/google/TensorNetwork
 https://github.com/taki0112/UGATIT
 1. 该仓库将包含TecoGAN项目的源代码和材料，即TEmporally COherent GAN的代码 模糊像素变高清
 https://github.com/thunil/TecoGAN
+1. High-performance TensorFlow library for quantitative finance TensorFlow 高性能工具库
+https://github.com/google/tf-quant-finance
 1.
 1.
 
