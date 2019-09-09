@@ -65,6 +65,8 @@ https://github.com/trekhleb/homemade-machine-learning
 http://fe4ml.apachecn.org/#/
 1. 台湾大学李宏毅老师机器学习
 https://github.com/dafish-ai/NTU-Machine-learning
+1. 一种实用的机器学习方法 A practical approach to machine learning
+https://github.com/GokuMohandas/practicalAI
 1. 
 1. 
 ### 实用 库/模块/框架
@@ -326,6 +328,8 @@ https://github.com/foolwood/SiamMask
 https://github.com/cleardusk/3DDFA
 1. 只需绘制一个边界框，您就可以删除视频中要删除的对象
 https://github.com/zllrunning/video-object-removal
+1. DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary
+https://github.com/iperov/DeepFaceLab
 
 # 为关系数据库开发自然语言接口 自动生成sql的训练和示例
 https://github.com/ZhuiyiTechnology/nl2sql_baseline
@@ -334,3 +338,9 @@ https://github.com/salesforce/WikiSQL
 
 # 机器学习中的公式
 https://github.com/datawhalechina/pumpkin-book
+
+
+# 微积分
+https://github.com/apachecn/calc4b-zh
+
+https://www.geogebra.org/m/x39ys4d7#material/phuyhqtw

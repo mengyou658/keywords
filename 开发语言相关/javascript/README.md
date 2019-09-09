@@ -193,6 +193,8 @@ https://www.typora.io
 https://github.com/TommyLemon/APIJSON
 1. A JavaScript library to progressively highlight any text on a page （动画的形式高亮页面字体）
 ![Demo gif](https://lumin.rocks/images/highlight.gif)
+1. Leon Sans是一种几何无衬线字体 它允许动态更改字体粗细，并在HTML5的Canvas元素中创建自定义动画，效果或形状 Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim. It allows to change font weight dynamically and to create custom animations, effects or shapes in the Canvas element of HTML5. He designed the font to celebrate his newborn baby Leon.
+https://github.com/cmiscm/leonsans
 https://github.com/pshihn/lumin
 1. 是一个基于Three.js的web 3D地球数据可视化的开源组件库
 https://github.com/syt123450/giojs

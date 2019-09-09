@@ -1,7 +1,21 @@
 # keywords
 搜索关键词,你可以把项目clone下来，然后搜索你能想到的关键词，指不定就找到了
 
-# 最近尝试
+# 最近尝试/学习
+
+1. 微积分中文版本
+https://github.com/apachecn/calc4b-zh
+1. 微积分英文版本翻译
+https://www.geogebra.org/m/x39ys4d7#material/phuyhqtw
+1. 动手学深度学习，反复读
+http://zh.d2l.ai/chapter_prerequisite/ndarray.html
+1. 学习Matplotlib 画图
+https://morvanzhou.github.io/tutorials/data-manipulation/plt/
+1, 机器学习基石，完整版 学一遍
+https://www.bilibili.com/video/av4294020/?p=7
+1. 李宏毅深度学习(2017) 学一遍
+https://www.bilibili.com/video/av9770302/
+1. redis源码，学习c和c++
 
 ### 使用动画的形式呈现解 LeetCode 题目的思路
 https://github.com/MisterBooo/LeetCodeAnimation
