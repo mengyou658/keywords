@@ -162,6 +162,8 @@ http://developers.google.cn/speed/pagespeed/insights/
 https://github.com/nokia/memory-profiler
 1. 应急响应实战笔记，一个安全工程师的自我修养
 https://github.com/Bypass007/Emergency-Response-Notes
+1. 个人域渗透学习笔记
+https://github.com/uknowsec/Active-Directory-Pentest-Notes
 1. 
 
 
@@ -880,3 +882,6 @@ https://serveo.net/
 
 # PC版微信机器人
 https://github.com/TonyChen56/WeChatRobot
+
+# 推荐系统
+https://github.com/microsoft/recommenders

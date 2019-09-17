@@ -67,6 +67,8 @@ http://fe4ml.apachecn.org/#/
 https://github.com/dafish-ai/NTU-Machine-learning
 1. 一种实用的机器学习方法 A practical approach to machine learning
 https://github.com/GokuMohandas/practicalAI
+1. 本社区是微软亚洲研究院（Microsoft Research Asia，简称MSRA）人工智能教育团队创立的人工智能教育与学习共建社区
+https://github.com/microsoft/ai-edu
 1. 
 1. 
 ### 实用 库/模块/框架
@@ -171,7 +173,8 @@ https://github.com/taki0112/UGATIT
 https://github.com/thunil/TecoGAN
 1. High-performance TensorFlow library for quantitative finance TensorFlow 高性能工具库
 https://github.com/google/tf-quant-finance
-1.
+1. 人脸替换 DeepPrivacy是一种全自动的图像匿名化技术 
+https://github.com/hukkelas/DeepPrivacy
 1.
 
 ### 完整项目/示例/demo/代码片段
@@ -202,7 +205,8 @@ https://havetheyfaked.me
 https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology
 1.  The all-language autocompleter 基于深度学习的代码补全工具，号称支持所有语言
 https://github.com/zxqfl/TabNine
-1. 
+1. 北航VisualPytorch工具(通过拖拽组件来生成Pytorch代码)
+https://github.com/16061027/VisualPytorch
 1. 
 1. 
 
