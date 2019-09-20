@@ -175,6 +175,8 @@ https://github.com/thunil/TecoGAN
 https://github.com/google/tf-quant-finance
 1. 人脸替换 DeepPrivacy是一种全自动的图像匿名化技术 
 https://github.com/hukkelas/DeepPrivacy
+1. A High-Quality Real Time Upscaler for Anime Video 实时提升卡通动画的分辨率，使其成为高清动画的工具
+https://github.com/bloc97/Anime4K
 1.
 
 ### 完整项目/示例/demo/代码片段

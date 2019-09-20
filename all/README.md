@@ -1,54 +1,55 @@
-
 # 综合
 
 # Awesomes
 1. 后端架构师技术图谱
 https://github.com/xingshaocheng/architect-awesome/
-* Build your own (insert technology here) 创造自己的系统（各种各样的）
+1. Build your own (insert technology here) 创造自己的系统（各种各样的）
 https://github.com/mengyou658/build-your-own-x
-* https://github.com/sorrycc/awesome-javascript
-* https://github.com/vuejs/awesome-vue
-* https://github.com/mengyou658/awesome-coins
-* https://github.com/mengyou658/awesome
-* https://github.com/Jokeren/Awesome-GPU
-* https://github.com/josephmisiti/awesome-machine-learning
-* https://github.com/Erkaman/Awesome-CUDA
+1. https://github.com/sorrycc/awesome-javascript
+1. https://github.com/vuejs/awesome-vue
+1. https://github.com/mengyou658/awesome-coins
+1. https://github.com/mengyou658/awesome
+1. https://github.com/Jokeren/Awesome-GPU
+1. https://github.com/josephmisiti/awesome-machine-learning
+1. https://github.com/Erkaman/Awesome-CUDA
 1. https://github.com/fffaraz/awesome-cpp 
-2. https://github.com/rust-unofficial/awesome-rust 
-3. https://github.com/avelino/awesome-racket
-4. https://github.com/aleksandar-todorovic/awesome-linux
-5. https://github.com/akullpp/awesome-java
-6. https://github.com/krispo/awesome-haskell
-7. https://github.com/uhub/awesome-coq
-8. https://github.com/enaqx/awesome-react
-9. https://github.com/prakhar1989/awesome-courses
-10. https://github.com/vuejs/awesome-vue
-11. https://github.com/alebcay/awesome-shell
-12. https://github.com/xgrommx/awesome-redux
-13. https://github.com/KotlinBy/awesome-kotlin
-14. https://github.com/jondot/awesome-react-native
-15. https://github.com/dhamaniasad/awesome-postgres
-16. https://github.com/m4ll0k/Awesome-Hacking-Tools
-17. https://github.com/jekil/awesome-hacking
-18. https://github.com/sdogruyol/awesome-ruby
-19. https://github.com/vinta/awesome-python
-20. https://github.com/quozd/awesome-dotnet
-21. https://github.com/sindresorhus/awesome-npm
-22. https://github.com/JStumpp/awesome-android
-23. https://github.com/humiaozuzu/awesome-flask
-24. https://github.com/rossant/awesome-math
-25. https://github.com/PatrickJS/awesome-angular
-26. https://github.com/vinjn/awesome-vulkan
-27. https://github.com/qinwf/awesome-R
-28. https://github.com/ramitsurana/awesome-kubernetes
-29. https://github.com/vsouza/awesome-ios
-30. https://github.com/ziadoz/awesome-php
-* https://github.com/deephacks/awesome-jvm
-* https://github.com/sorrycc/awesome-javascript
-* https://github.com/ChristosChristofidis/awesome-deep-learning
-* https://github.com/Solido/awesome-flutter
+1. https://github.com/rust-unofficial/awesome-rust 
+1. https://github.com/avelino/awesome-racket
+1. https://github.com/aleksandar-todorovic/awesome-linux
+1. https://github.com/akullpp/awesome-java
+1. https://github.com/krispo/awesome-haskell
+1. https://github.com/uhub/awesome-coq
+1. https://github.com/enaqx/awesome-react
+1. https://github.com/prakhar1989/awesome-courses
+1. https://github.com/vuejs/awesome-vue
+1. https://github.com/alebcay/awesome-shell
+1. https://github.com/xgrommx/awesome-redux
+1. https://github.com/KotlinBy/awesome-kotlin
+1. https://github.com/jondot/awesome-react-native
+1. https://github.com/dhamaniasad/awesome-postgres
+1. https://github.com/m4ll0k/Awesome-Hacking-Tools
+1. https://github.com/jekil/awesome-hacking
+1. https://github.com/sdogruyol/awesome-ruby
+1. https://github.com/vinta/awesome-python
+1. https://github.com/quozd/awesome-dotnet
+1. https://github.com/sindresorhus/awesome-npm
+1. https://github.com/JStumpp/awesome-android
+1. https://github.com/humiaozuzu/awesome-flask
+1. https://github.com/rossant/awesome-math
+1. https://github.com/PatrickJS/awesome-angular
+1. https://github.com/vinjn/awesome-vulkan
+1. https://github.com/qinwf/awesome-R
+1. https://github.com/ramitsurana/awesome-kubernetes
+1. https://github.com/vsouza/awesome-ios
+1. https://github.com/ziadoz/awesome-php
+1. https://github.com/deephacks/awesome-jvm
+1. https://github.com/sorrycc/awesome-javascript
+1. https://github.com/ChristosChristofidis/awesome-deep-learning
+1. https://github.com/Solido/awesome-flutter
 
 ### 面试
+1. 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点
+https://github.com/haizlin/fe-interview
 1. Java面试
 https://github.com/CyC2018/CS-Notes
 1. Android面试复习
@@ -88,7 +89,8 @@ https://github.com/mengyou658/android_interview
 https://github.com/mengyou658/coding-interview-university
 1. 面试问题集合
 https://github.com/fejes713/30-seconds-of-interviews
-
+1. 技术面试最后反问面试官的话
+https://github.com/yifeikong/reverse-interview-zh
 
 ### 深入研究
 1. 系统设计 学习如何设计大型系统 为系统设计的面试做准备
