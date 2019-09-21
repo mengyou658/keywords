@@ -9,50 +9,36 @@ https://github.com/apachecn/calc4b-zh
 https://www.geogebra.org/m/x39ys4d7#material/phuyhqtw
 1. 动手学深度学习，反复读
 http://zh.d2l.ai/chapter_prerequisite/ndarray.html
-1. 学习Matplotlib 画图
-https://morvanzhou.github.io/tutorials/data-manipulation/plt/
 1, 机器学习基石，完整版 学一遍
 https://www.bilibili.com/video/av4294020/?p=7
+1. 现代 Web 开发，现代 Web 开发导论 | 基础篇 | 进阶篇 | 架构优化篇 | React 篇 | Vue 篇
+https://github.com/wxyyxc1992/Web-Series
 1. 李宏毅深度学习(2017) 学一遍
 https://www.bilibili.com/video/av9770302/
 1. 学习 翻译 
 Systems Performance Enterprise and the Cloud
 1. redis源码，学习c和c++
 
-### 使用动画的形式呈现解 LeetCode 题目的思路
+# 已经完毕
+1. 学习Matplotlib 画图
+https://morvanzhou.github.io/tutorials/data-manipulation/plt/
+
+# 其他学习
 https://github.com/MisterBooo/LeetCodeAnimation
 1. Interactive Online Platform that Visualizes Algorithms from Code
 https://github.com/algorithm-visualizer/algorithm-visualizer
 1. 数据结构可视化 该网站收集各种数据结构，并将它们用可视化的形式表现出来
 https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
-### https://github.com/MachineLP/Tensorflow-
+1. https://github.com/mengyou658/build-your-own-x
+1. lodash 东西多，需要多学学
+1. https://github.com/MachineLP/Tensorflow-
+1. 如何用 Kotlin 重构 Java 应用程序
+1. https://github.com/mengyou658/every-programmer-should-know
 
-### kotlin
 
-### 如何用 Kotlin 重构 Java 应用程序
-
-### lodash 东西多，需要多学学
-
-### https://github.com/mengyou658/build-your-own-x
-
-### React Apollo
-
-### 机器学习入门示例 https://github.com/aymericdamien/TensorFlow-Examples
-
-### https://github.com/mengyou658/every-programmer-should-know
-
-### spring-framework 5.0 新功能
-
-### spring-security 5.0 新功能
-
-### spring- 新功能
-
+### 使用动画的形式呈现解 LeetCode 题目的思路
 ### 利用Android AccessibilityService 实现自动加好友，拉人进群聊
 https://github.com/coder-pig/WechatHelper
-
-### 现代 Web 开发，现代 Web 开发导论 | 基础篇 | 进阶篇 | 架构优化篇 | React 篇 | Vue 篇
-https://github.com/wxyyxc1992/Web-Series
-
 
 ### 计算机科学速成课 https://github.com/1c7/crash-course-computer-science-chinese
 

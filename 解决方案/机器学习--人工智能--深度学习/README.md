@@ -20,6 +20,8 @@ https://github.com/extreme-assistant/cvpr2019
 ### 教程/文章/小抄/规范/记事
 1. tensorflow2中文教程
 https://github.com/czy36mengfei/tensorflow2_tutorials_chinese
+1. Tensorflow实战学习笔记、代码、机器学习进阶系列
+https://github.com/MachineLP/Tensorflow-
 1. 机器学习入门路径
 https://github.com/clone95/Virgilio/tree/master/zh-CN/LearningPaths/Machine%20Learning%20Engineer%20Career%20Path
 1. A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译 https://zhuanlan.zhihu.com/python-kivy
@@ -69,6 +71,8 @@ https://github.com/dafish-ai/NTU-Machine-learning
 https://github.com/GokuMohandas/practicalAI
 1. 本社区是微软亚洲研究院（Microsoft Research Asia，简称MSRA）人工智能教育团队创立的人工智能教育与学习共建社区
 https://github.com/microsoft/ai-edu
+1. 机器学习入门示例 TensorFlow Tutorial and Examples for Beginners 
+https://github.com/aymericdamien/TensorFlow-Examples 
 1. 
 1. 
 ### 实用 库/模块/框架
