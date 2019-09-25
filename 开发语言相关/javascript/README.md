@@ -565,6 +565,10 @@ https://github.com/mengyou658/nerv
 https://github.com/mengyou658/jsnes
 
 
+#  任天堂 游戏 模拟器
+1. yuzu是Citra的创建者为Nintendo Switch开发的一种实验性开源模拟器 Nintendo Switch Emulator
+https://github.com/yuzu-emu/yuzu
+
 #  机器学习
 1. A face detection library in 200 lines of JavaScript （人脸检测 JavaScript ）
 https://github.com/mengyou658/picojs

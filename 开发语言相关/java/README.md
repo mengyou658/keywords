@@ -121,6 +121,9 @@ https://github.com/mengyou658/cloud
 https://github.com/wildfirechat/server
 1. 微同科技/微同商城 
 https://github.com/hufanglei/platform
+1.  微信商城SpringCloud版本 - 前端vue-shop
+https://github.com/chengzhx76/weixin-shop-spring-cloud
+https://github.com/chengzhx76/vue-shop
 
 ##### 快速开发框架
 1. 一款现代化的脚手架项目。企业开发？接外包？赚外快？还是学习？这都能满足你，居家必备，值得拥有🍻整合Springboot2，单点登陆+tk.mybatis+shiro+redis+thymeleaf+maven+swagger前后端分离接口管理+代码生成+定时任务+数据库版本管理flyway+hutool工具包，等实用技术
