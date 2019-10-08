@@ -179,8 +179,12 @@ https://github.com/thunil/TecoGAN
 https://github.com/google/tf-quant-finance
 1. 人脸替换 DeepPrivacy是一种全自动的图像匿名化技术 
 https://github.com/hukkelas/DeepPrivacy
-1. A High-Quality Real Time Upscaler for Anime Video 实时提升卡通动画的分辨率，使其成为高清动画的工具
+1. A High-Quality Real Time Upscaler for Anime Video 实时提升卡通动画的分辨率，使其成为高清动画的工具 动漫
 https://github.com/bloc97/Anime4K
+1. 图像查重 Finding duplicate images made easy!
+https://github.com/idealo/imagededup
+1.
+1.
 1.
 
 ### 完整项目/示例/demo/代码片段
@@ -213,6 +217,8 @@ https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology
 https://github.com/zxqfl/TabNine
 1. 北航VisualPytorch工具(通过拖拽组件来生成Pytorch代码)
 https://github.com/16061027/VisualPytorch
+1. Streamlit — The fastest way to build custom ML tools 交互互动的可视化工具，可以快速创建交互的界面，自行调节参数 https://streamlit.io/
+https://github.com/streamlit/streamlit
 1. 
 1. 
 

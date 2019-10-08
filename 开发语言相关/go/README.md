@@ -46,6 +46,8 @@ https://github.com/hybridgroup/gobot
 https://github.com/XiaoMi/Gaea
 1. Go runtime source code analysis(zh-cn)
 https://github.com/cch123/golang-notes
+1. An entity framework for Go 图形 图像 orm 查询存储工具库
+https://github.com/facebookincubator/ent
 1. 
 1. 
 1. 

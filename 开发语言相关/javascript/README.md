@@ -456,6 +456,8 @@ https://github.com/mengyou658/DOMPurify
 https://github.com/mengyou658/sanitize-html
 1. 一个开源的网页工具，可以离线使用，使用 AES-256-GCM 算法对文件进行本地的加密和解密 
 https://github.com/sh-dv/hat.sh
+1. 安装 各种侦察 检测工具的 sh 脚本
+https://github.com/vitalysim/totalrecon
 1. 
 
 
