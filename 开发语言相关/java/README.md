@@ -176,6 +176,10 @@ https://github.com/qbhy/poster-generater
 1. A lightweight jvm written by python 一款 python 实现的 "超轻量级" jvm 的实现 (其实就是只实现了主要功能)
 https://github.com/5A59/Zvm
 1. 
+quercus-php
+1. 
+1. 
+1. 
 
 ### mybatis 代码生成
 1. 代码生成器
@@ -198,3 +202,10 @@ https://gitee.com/zhanghw/MybatisGenCode
 1. idea 代码生成插件
 https://github.com/fartherp/generator-idea-plugins
 1. 
+
+
+# php 转 java 代码
+1. jphp
+1. quercus-php
+1. A PHP parser written in PHP
+https://github.com/nikic/PHP-Parser

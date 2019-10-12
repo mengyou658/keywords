@@ -183,7 +183,8 @@ https://github.com/hukkelas/DeepPrivacy
 https://github.com/bloc97/Anime4K
 1. 图像查重 Finding duplicate images made easy!
 https://github.com/idealo/imagededup
-1.
+1. 使用机器学习算法完成对12306验证码的自动识别
+https://github.com/zhaipro/easy123061.
 1.
 1.
 

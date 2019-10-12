@@ -29,6 +29,9 @@
 ### 实用 库/模块/框架
 1. Godot Engine –多平台2D和3D游戏引擎 
 https://github.com/godotengine/godot
+1. 解决游戏网络延迟问题 回滚网络使用输入预测和推测执行将玩家输入立即发送到游戏
+https://github.com/pond3r/ggpo
+1. 
 1. 
 
 ### 完整项目/示例/demo/代码片段
