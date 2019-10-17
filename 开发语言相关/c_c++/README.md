@@ -1,6 +1,15 @@
 
 # C语言
 
+##### IDE
+1. emacs + ctags / gtags / ggtags 
+https://www.emacswiki.org
+https://tuhdo.github.io/c-ide.html
+1. spacemacs
+spacemacs 强大 但吃资源，初始化比较慢，当然可以启用 emacs server 模式，使用 client 连接使用。
+1. emacs + helm + ctags / ggtags
+helm-intro http://tuhdo.github.io/helm-intro.html
+
 ### 现成列表
 1. 
 

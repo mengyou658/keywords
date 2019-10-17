@@ -265,3 +265,9 @@ https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland
 # git 
 1. git 问题集锦
 https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md
+
+# 收集免费的接口服务,做一个api的搬运工  
+https://github.com/fangzesheng/free-api
+
+# 函数式编程术语
+https://github.com/shfshanyue/fp-jargon-zh

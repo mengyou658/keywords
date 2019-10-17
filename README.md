@@ -8,7 +8,8 @@ https://github.com/apachecn/calc4b-zh
 1. 微积分英文版本翻译
 https://www.geogebra.org/m/x39ys4d7#material/phuyhqtw
 1. 动手学深度学习，反复读
-http://zh.d2l.ai/chapter_prerequisite/ndarray.html
+http://zh.d2l.ai/
+https://github.com/ShusenTang/Dive-into-DL-PyTorch
 1, 机器学习基石，完整版 学一遍
 https://www.bilibili.com/video/av4294020/?p=7
 1. 现代 Web 开发，现代 Web 开发导论 | 基础篇 | 进阶篇 | 架构优化篇 | React 篇 | Vue 篇
@@ -19,9 +20,25 @@ https://www.bilibili.com/video/av9770302/
 Systems Performance Enterprise and the Cloud
 1. redis源码，学习c和c++
 
+# 机器学习
+1.  💎 1MB轻量级通用人脸检测模型 Pytorch1.2
+https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB
+
+# 操作系统 linux 学习
+1. 一个用于实验和教学目的的操作系统，从零开始实现
+https://github.com/CasterWx/AntzOS
+1.  Linux 内核揭密
+https://github.com/MintCN/linux-insides-zh
+1. Container Runtime Sandbox go语言实现的沙箱,实现了linux大部分的功能
+https://github.com/google/gvisor
+1. 使用rust 从头开发一个操作系统
+https://github.com/phil-opp/blog_os
+
 # 已经完毕
 1. 学习Matplotlib 画图
 https://morvanzhou.github.io/tutorials/data-manipulation/plt/
+1. 动手学深度学习
+http://zh.d2l.ai/chapter_prerequisite/ndarray.html
 
 # 其他学习
 https://github.com/MisterBooo/LeetCodeAnimation
@@ -64,9 +81,6 @@ https://github.com/mengyou658/iview-admin
 # 计算机 论文 Papers We Love (PWL) is a community built around reading, discussing and learning more about academic computer science papers
 https://github.com/mengyou658/papers-we-love
 
-
-# 函数式编程术语
-https://github.com/shfshanyue/fp-jargon-zh
 
 
 # LeetCode

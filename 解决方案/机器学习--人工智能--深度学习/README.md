@@ -185,6 +185,8 @@ https://github.com/bloc97/Anime4K
 https://github.com/idealo/imagededup
 1. 使用机器学习算法完成对12306验证码的自动识别
 https://github.com/zhaipro/easy123061.
+1. test_cnn基于keras，可以用来破解宝塔面板的验证码。基于深度学习的技术，识别效果接近100%准确
+https://github.com/imfht/test_cnn/blob/master/README_CN.md
 1.
 1.
 
@@ -202,6 +204,8 @@ https://github.com/bbaibowen/computer-vision
 1. 
 
 ### 工具
+1.  💎 1MB轻量级通用人脸检测模型 Pytorch1.2
+https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB
 1. Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code.一个不用写代码就可以训练和测试模型的数据
 https://github.com/uber/ludwig
 1. 100+ Chinese Word Vectors 上百种预训练中文词向量
@@ -224,6 +228,10 @@ https://github.com/streamlit/streamlit
 1. 
 
 #自然语言处理 中文分词库
+1. 中文文本分类，TextCNN，TextRNN，FastText，TextRCNN，BiLSTM_Attention，DPCNN，Transformer，基于pytorch，开箱即用。
+https://github.com/649453932/Chinese-Text-Classification-Pytorch
+1. pkuseg多领域中文分词工具; The pkuseg toolkit for multi-domain Chinese word segmentation
+https://github.com/lancopku/pkuseg-python
 1. 自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 关键词提取 新词发现 短语提取 自动摘要 文本分类 拼音简繁 http://hanlp.hankcs.com/
 https://github.com/hankcs/HanLP
 1. 存储库，用于跟踪自然语言处理（NLP）中的进度，包括数据集和最常用的NLP任务的当前最新技术。
