@@ -222,9 +222,12 @@ https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology
 https://github.com/zxqfl/TabNine
 1. 北航VisualPytorch工具(通过拖拽组件来生成Pytorch代码)
 https://github.com/16061027/VisualPytorch
-1. Streamlit — The fastest way to build custom ML tools 交互互动的可视化工具，可以快速创建交互的界面，自行调节参数 https://streamlit.io/
+1. Streamlit — The fastest way to build custom ML tools 交互互动的可视化工具，可以快速创建交互的界面，自行调节参数 https://streamlit.io/  jasper-notebook 功能升级
 https://github.com/streamlit/streamlit
-1. 
+1. Python机器学习和数据科学的调试，监视和可视化 jasper-notebook 功能升级
+https://github.com/microsoft/tensorwatch
+1. MLflow 是一个机器学习平台，它为机器学习项目中的各个主要组成部分及阶段都准备了对应的工具
+https://github.com/mlflow/mlflow
 1. 
 
 #自然语言处理 中文分词库
@@ -253,6 +256,8 @@ https://www.oschina.net/p/word
 1. Recursive Radical Packing Language (RRPL) is a proposal for a method of describing arbitrary Chinese characters concisely while retaining their structural information. Potential fields for usage include font design and machine learning. In RRPL, each Chinese character is described as a short string of numbers, symbols, and references to other characters. Its syntax is inspired by markup languages such as LaTeX, as well as the traditional "米" grids used for calligraphy practice.
 用递归激进包装语言描述汉字（RRPL）递归激进打包语言（RRPL）是一种在保留结构信息的同时简明地描述任意汉字的方法的提议。可能的使用领域包括字体设计和机器学习。在RRPL中，每个中文字符被描述为一串数字，符号和对其他字符的引用。它的语法灵感来自于LaTeX等标记语言，以及用于书法练习的传统“米”网格。
 https://github.com/LingDong-/rrpl
+1. Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch. https://huggingface.co/transformers
+https://github.com/huggingface/transformers
 1. 
 
 #数据分析/数据可视化
