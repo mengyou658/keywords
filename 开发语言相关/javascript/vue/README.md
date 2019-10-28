@@ -51,4 +51,7 @@ https://github.com/Meituan-Dianping/mpvue
 https://github.com/TeamOverVue/OverVue
 1. 基于Vue的表单设计器，让表单开发简单而高效 包含设计器
 https://github.com/GavinZhuLei/vue-form-making
+1. 出色的信用卡形式，具有流畅而甜美的微交互作用。包括数字格式，验证和自动卡类型检测。使用vuejs构建，并且具有完全响应能力。
+信用卡表格具有流畅而甜美的微互动
+https://github.com/muhammederdem/credit-card-form
 1. 

@@ -5,6 +5,17 @@
 1. 
 1. 
 
+### 性能研究
+1. Zero是一款小型图形应用程序，它使用JavaScript复制GPU的功能，并使用终端通过nodejs的stdout显示其渲染的输出。零是为了娱乐而写的，也是为了看一个人能在多大程度上提高JavaScript性能
+* 可编程的顶点和片段着色器（在JavaScript中）
+*  透视图Z正确纹理映射
+*  每像素深度缓冲
+*  终端调整大小时的自适应分辨率（仅TTY）
+*  矩阵和向量数学库。
+*  场景图
+https://github.com/sinclairzx81/zero
+1. 
+
 ###  教程/文章/小抄/规范/记事
 1. CSS Inspiration，在这里找到写 CSS 的灵感！
 https://github.com/chokcoco/CSS-Inspiration
@@ -441,6 +452,8 @@ http://asciimath.org/
 https://tableconvert.com/
 1. Chrome 浏览器插件，能够将操作录制成脚本，用于浏览器自动化
 https://github.com/checkly/puppeteer-recorder
+1. 页面展示数学公式
+https://www.mathjax.org/
 
 ###  #   文件上传
 1.  新一代的文件上传组件 Uppy is a sleek, modular file uploader that integrates seemlessly with any application. It’s fast, easy to use and lets you worry about more important problems than building a file uploader.

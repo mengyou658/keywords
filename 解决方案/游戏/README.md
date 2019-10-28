@@ -47,7 +47,8 @@ https://github.com/chrismaltby/gb-studio
 http://home.flightgear.org/
 1. 开源游戏的列表
 https://osgameclones.com/
-
+1. 页面小游戏 
+https://github.com/brunosimon/folio-2019.git 
 ### 测试
 1. 
 1. 
