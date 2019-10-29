@@ -310,7 +310,10 @@ https://jackschaedler.github.io/handwriting-recognition/
 
 
 # Faceswap是一种利用深度学习识别和交换图片和视频中的面孔的工具
-https://github.com/deepfakes/faceswap
+1. https://github.com/deepfakes/faceswap
+1. Pytorch implementation for high-resolution (e.g., 2048x1024) photorealistic video-to-video translation.
+https://github.com/NVIDIA/vid2vid 
+
 
 # 视频
 1. 流媒体技术视频教程
