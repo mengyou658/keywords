@@ -230,7 +230,7 @@ https://github.com/microsoft/tensorwatch
 https://github.com/mlflow/mlflow
 1. 
 
-#自然语言处理 中文分词库
+# 自然语言处理 中文分词库
 1. 中文文本分类，TextCNN，TextRNN，FastText，TextRCNN，BiLSTM_Attention，DPCNN，Transformer，基于pytorch，开箱即用。
 https://github.com/649453932/Chinese-Text-Classification-Pytorch
 1. pkuseg多领域中文分词工具; The pkuseg toolkit for multi-domain Chinese word segmentation
@@ -258,9 +258,23 @@ https://www.oschina.net/p/word
 https://github.com/LingDong-/rrpl
 1. Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch. https://huggingface.co/transformers
 https://github.com/huggingface/transformers
-1. 
+1. CNN-RNN中文文本分类，基于TensorFlow
+https://github.com/gaussic/text-classification-cnn-rnn
+1. bert中文分类实践
+https://github.com/NLPScott/bert-Chinese-classification-task
+1. 中文ULMFiT 情感分析 文本分类
+https://github.com/bigboNed3/chinese_ulmfit
+1. 嵌入Word2vec词向量的CNN中文文本分类
+https://github.com/cjymz886/text-cnn
+1. CNN, LSTM, NBOW, fasttext 中文文本分类
+https://github.com/CementMaker/cnn_lstm_for_text_classify
+1. 使用Bert，ERNIE，进行中文文本分类
+https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch
+1. 中文文本分类，TextCNN，TextRNN，FastText，TextRCNN，BiLSTM_Attention，DPCNN，Transformer，基于pytorch，开箱即用。
+https://github.com/649453932/Chinese-Text-Classification-Pytorch
 
-#数据分析/数据可视化
+
+# 数据分析/数据可视化
 1. 
 1. 
 
@@ -297,6 +311,8 @@ https://github.com/modood/Administrative-divisions-of-China
 https://github.com/XuefengHuang/lianjia-scrawler
 1. CVPR2019的数据集和代码库“在密集场景中进行精确检测”
 https://github.com/eg4000/SKU110K_CVPR19
+1. Pre-trained and Reproduced Deep Learning Models （『飞桨』官方模型库，包含多种学术前沿和工业场景验证的深度学习模型）
+https://github.com/PaddlePaddle/models
 1. 
 1. 
 1. 
@@ -313,7 +329,8 @@ https://jackschaedler.github.io/handwriting-recognition/
 1. https://github.com/deepfakes/faceswap
 1. Pytorch implementation for high-resolution (e.g., 2048x1024) photorealistic video-to-video translation.
 https://github.com/NVIDIA/vid2vid 
-
+1. pytorch 视频转换
+https://github.com/NVlabs/few-shot-vid2vid
 
 # 视频
 1. 流媒体技术视频教程
@@ -379,3 +396,14 @@ https://github.com/datawhalechina/pumpkin-book
 https://github.com/apachecn/calc4b-zh
 
 https://www.geogebra.org/m/x39ys4d7#material/phuyhqtw
+
+
+# DeepCTR：易用可扩展的深度学习点击率预测算法包 tensorflow
+https://github.com/shenweichen/DeepCTR
+
+# 声音和背景分离
+1. 基于 Deezer源分离库包括预训练的模型
+https://github.com/deezer/spleeter
+
+# 自动生成文章 根据一段话
+https://github.com/openai/gpt-2

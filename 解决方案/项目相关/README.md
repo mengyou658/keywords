@@ -165,6 +165,8 @@ https://github.com/nokia/memory-profiler
 https://github.com/Bypass007/Emergency-Response-Notes
 1. 个人域渗透学习笔记
 https://github.com/uknowsec/Active-Directory-Pentest-Notes
+1. 鼓舞人心清单，手册，备忘，博客，黑客，单行，CLI /网络工具和更多的集合
+https://github.com/trimstray/the-book-of-secret-knowledge
 1. 
 
 
@@ -533,6 +535,8 @@ https://github.com/mengyou658/apollo
 https://github.com/mengyou658/eqxiu
 https://github.com/mengyou658/yiqixiu
 git@gitee.com:xiaokong658/yiqixiu.git
+1. 基于vue的高扩展在线网页制作平台，可自定义组件，可添加脚本，可数据统计。A mobile page builder/editor, similar with amolink. https://godspen.ymm56.com
+https://github.com/ymm-tech/gods-pen
 
 
 #  目标检测算法 
