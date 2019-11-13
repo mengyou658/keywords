@@ -407,3 +407,7 @@ https://github.com/deezer/spleeter
 
 # 自动生成文章 根据一段话
 https://github.com/openai/gpt-2
+
+# 统计分析学习
+1. 学习机器学习中的对应的算法
+https://github.com/fengdu78/lihang-code
