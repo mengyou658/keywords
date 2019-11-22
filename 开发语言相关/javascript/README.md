@@ -17,6 +17,8 @@ https://github.com/sinclairzx81/zero
 1. 
 
 ###  教程/文章/小抄/规范/记事
+1. 你不知道的JavaScript 中文部分 js深入解析
+https://github.com/yygmind/Reading-Notes/blob/master/%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84JavaScript%E4%B8%8A%E5%8D%B7.md
 1. 前端深入阅读源码 包括 vue vuex 等
 https://github.com/frontend9/fe9-library
 1. CSS Inspiration，在这里找到写 CSS 的灵感！
