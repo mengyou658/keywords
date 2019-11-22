@@ -20,6 +20,8 @@ https://github.com/extreme-assistant/cvpr2019
 ### 教程/文章/小抄/规范/记事
 1. tensorflow2中文教程
 https://github.com/czy36mengfei/tensorflow2_tutorials_chinese
+1. TensorFlow 2.0深度学习开源书
+https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book
 1. Tensorflow实战学习笔记、代码、机器学习进阶系列
 https://github.com/MachineLP/Tensorflow-
 1. 机器学习入门路径

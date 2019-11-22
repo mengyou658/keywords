@@ -14,6 +14,8 @@
 https://github.com/ustbhuangyi/vue-analysis
 1. master分支：《渲染器》 elegant分支：逐行级别的源码分析
 https://github.com/HcySunYang/vue-design
+1. 前端深入阅读源码 包括 vue vuex 等
+https://github.com/frontend9/fe9-library
 
 ### 实用 库/模块/框架
 1. vue 静态页面生成

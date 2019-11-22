@@ -17,6 +17,8 @@ https://github.com/sinclairzx81/zero
 1. 
 
 ###  教程/文章/小抄/规范/记事
+1. 前端深入阅读源码 包括 vue vuex 等
+https://github.com/frontend9/fe9-library
 1. CSS Inspiration，在这里找到写 CSS 的灵感！
 https://github.com/chokcoco/CSS-Inspiration
 1. 一些css常用样式
