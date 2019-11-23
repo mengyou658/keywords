@@ -275,3 +275,6 @@ https://github.com/shfshanyue/fp-jargon-zh
 
 # 解决电脑、手机看电视直播的苦恼，收集各种直播源，电视直播网站
 https://github.com/biancangming/wtv/
+
+# 该仓库专门收集泄漏保密信息的谷歌搜素命令，比如搜索泄漏的数据库导出文件，就在谷歌输入"#mysql dump" filetype:sql
+https://github.com/BullsEye0/google_dork_list

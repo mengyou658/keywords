@@ -189,6 +189,8 @@ https://github.com/idealo/imagededup
 https://github.com/zhaipro/easy123061.
 1. test_cnn基于keras，可以用来破解宝塔面板的验证码。基于深度学习的技术，识别效果接近100%准确
 https://github.com/imfht/test_cnn/blob/master/README_CN.md
+1. an implementation of 3D Ken Burns Effect from a Single Image using PyTorch 单个图像合成3D Ken Burns效果
+https://github.com/sniklaus/3d-ken-burns
 1.
 1.
 
