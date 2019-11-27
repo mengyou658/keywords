@@ -260,7 +260,7 @@ https://www.oschina.net/p/word
 1. Recursive Radical Packing Language (RRPL) is a proposal for a method of describing arbitrary Chinese characters concisely while retaining their structural information. Potential fields for usage include font design and machine learning. In RRPL, each Chinese character is described as a short string of numbers, symbols, and references to other characters. Its syntax is inspired by markup languages such as LaTeX, as well as the traditional "米" grids used for calligraphy practice.
 用递归激进包装语言描述汉字（RRPL）递归激进打包语言（RRPL）是一种在保留结构信息的同时简明地描述任意汉字的方法的提议。可能的使用领域包括字体设计和机器学习。在RRPL中，每个中文字符被描述为一串数字，符号和对其他字符的引用。它的语法灵感来自于LaTeX等标记语言，以及用于书法练习的传统“米”网格。
 https://github.com/LingDong-/rrpl
-1. Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch. https://huggingface.co/transformers
+1. Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch. https://huggingface.co/transformers TensorFlow 2.0和PyTorch的最新自然语言处理
 https://github.com/huggingface/transformers
 1. CNN-RNN中文文本分类，基于TensorFlow
 https://github.com/gaussic/text-classification-cnn-rnn

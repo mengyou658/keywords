@@ -262,6 +262,7 @@ https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland
 1. https://github.com/mengyou658/cron-expression-generator
 1. https://github.com/jingtingzhiwu/CronExpressGenetor
 1. http://cron.qqe2.com/ 在线工具
+1. https://github.com/arnapou/jqcron
 
 # git 
 1. git 问题集锦
@@ -278,3 +279,7 @@ https://github.com/biancangming/wtv/
 
 # 该仓库专门收集泄漏保密信息的谷歌搜素命令，比如搜索泄漏的数据库导出文件，就在谷歌输入"#mysql dump" filetype:sql
 https://github.com/BullsEye0/google_dork_list
+
+
+# 科学上网
+1. https://github.com/qingshuisiyuan/electron-ssr-backup

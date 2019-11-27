@@ -660,6 +660,8 @@ https://github.com/Leaflet/Leaflet
 1. openlayers
 1. 离线瓦片数据下载
 https://github.com/robertomlsoares/leaflet-offline
+1. Just a modern and slim library to store tiles offline
+https://github.com/allartk/leaflet.offline
 
 # 编译原理 学习 The Super Tiny Compiler
 1. 更简单的编译原理 超级简单的编译器
