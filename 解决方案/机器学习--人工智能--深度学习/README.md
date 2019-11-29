@@ -232,6 +232,8 @@ https://github.com/streamlit/streamlit
 https://github.com/microsoft/tensorwatch
 1. MLflow 是一个机器学习平台，它为机器学习项目中的各个主要组成部分及阶段都准备了对应的工具
 https://github.com/mlflow/mlflow
+1. PCA、LDA、MDS、LLE、TSNE等降维算法的python实现
+https://github.com/heucoder/dimensionality_reduction_alo_codes
 1. 
 
 # 自然语言处理 中文分词库

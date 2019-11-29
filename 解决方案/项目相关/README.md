@@ -561,6 +561,7 @@ https://github.com/mengyou658/english-level-up-tips-for-chinese-programmers-and-
 
 
 # OA
+https://github.com/mengyou658/yimioa 代码比较老，但是还是很全面的
 https://gitee.com/youqiongwang/yqoas.git
 https://gitee.com/rainrock/xinhu.git
 https://gitee.com/xiaokong658/xiaoweioa

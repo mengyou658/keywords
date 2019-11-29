@@ -48,6 +48,8 @@ https://github.com/XiaoMi/Gaea
 https://github.com/cch123/golang-notes
 1. An entity framework for Go 图形 图像 orm 查询存储工具库
 https://github.com/facebookincubator/ent
+1. The fantastic ORM library for Golang, aims to be developer friendly 
+https://github.com/jinzhu/gorm
 1. 
 1. 
 1. 
@@ -100,6 +102,8 @@ https://github.com/kubeless/kubeless
 https://github.com/wtfutil/wtf
 1. 一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。
 https://github.com/cnlh/nps
+1. auto generate sql from gorm model struct
+https://github.com/liudanking/gorm2sql
 1. 
 1. 
 
@@ -107,3 +111,36 @@ https://github.com/cnlh/nps
 1. https://github.com/gin-gonic/gin
 1. https://github.com/astaxie/beego
 1. 
+
+
+
+### php 转 go
+1. 简单的代码，可以把php转成go代码
+https://github.com/lSimul/php2go.git 
+
+
+1. 将php转成 ast php的解析器
+https://github.com/z7zmey/php-parser
+1. Use Golang to implement PHP's common built-in functions. go实现php内置函数
+https://github.com/syyongx/php2go
+https://github.com/peihuwang/php2go
+
+1. ast to go source file
+github.com/fatih/astrewrite
+
+1. go 自带的 把 go代码 转 ast
+https://golang.org/pkg/go/parser/
+1. go 自带的 把 ast 转成go代码
+https://golang.org/pkg/go/ast/
+
+##### 以下都很久未更新
+1. go 代码生成 注释显示位置不对的问题
+https://github.com/dave/dst
+1. php 解析器 
+https://github.com/stephens2424/php
+1. go 中执行php代码
+https://github.com/deuill/go-php
+1. 多语言相互转换 parser generator
+https://github.com/antlr/antlr4
+1. 多语言相互转换 parser generator
+https://github.com/github/semantic
