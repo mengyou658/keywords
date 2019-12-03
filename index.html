@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>随机密码</title>
+    <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+    <script src="https://cdn.jsdelivr.net/npm/clipboard@1/dist/clipboard.min.js"></script>
+    <script src="https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js"></script>
+    <style>
+
+    </style>
+</head>
+<body>
+<div class="container-fluid">
+    <div class="row">
+        <h3 class="col-xs-offset-2 col-xs-8">
+            <div class="form-inline">
+                <label class="checkbox-inline">
+                    <input name="patten" type="checkbox" value="0" checked="checked"> 小写字母
+                </label>
+                <label class="checkbox-inline">
+                    <input name="patten" type="checkbox" value="1" checked="checked"> 大写字母
+                </label>
+                <label class="checkbox-inline">
+                    <input name="patten" type="checkbox" value="2" checked="checked"> 数字
+                </label>
+                <label class="checkbox-inline">
+                    <input name="patten" type="checkbox" value="3"> 特殊字符
+                </label>
+            </div>
+        </h3>
+        <h3 class="col-xs-offset-2 col-xs-8">
+            <input type="number" value="12" id="totalCount"/>
+            <button id="gen" type="button" class="btn btn-success" data-clipboard-target="#res">
+                生成
+            </button>
+        </h3>
+        <div class="col-xs-offset-2 col-xs-8">
+            <h1><input  id="res" class="active bg-success text-center" value="" placeholder="点击此处复制密码" data-clipboard-text="">
+                </h1>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    var rand = function (min, max) {
+        return Math.floor(Math.max(min, Math.random() * (max + 1)));
+    }
+    /*
+     1. 只受用于一些含有value属性的HTML控件，例如单行文本框、多行文本域；
+     2. 后面两个参数表示起始字符位置与结束的字符位置，如果位置值为空，或是非数值，则会（从头或至尾或全部）选择字符；
+     3. 支持负值，负值表意与js中的slice属性一致，负值表示的含义就是负值与字符总长度的和，也可以理解为从末尾开始选择；
+     4. 如果数值范围超过字符总长，则无内容选择；
+     5. 支持单参数，省略第三个参数表示一致到字符结束都要选中。
+     */
+    var textSelect = function(o){
+        var l = o.value.length, a = 0, b = l;
+        if(l){
+            //如果非数值，则表示从起始位置选择到结束位置
+            if(!a){
+                a = 0;
+            }
+            if(!b){
+                b = l;
+            }
+            //如果值超过长度，则就是当前对象值的长度
+            if(a > l){
+                a = l;
+            }
+            if(b > l){
+                b = l;
+            }
+            //如果为负值，则与长度值相加
+            if(a < 0){
+                a = l + a;
+            }
+            if(b < 0){
+                b = l + b;
+            }
+            if(o.createTextRange){//IE浏览器
+                var range = o.createTextRange();
+                range.moveStart("character",-l);
+                range.moveEnd("character",-l);
+                range.moveStart("character", a);
+                range.moveEnd("character",b);
+                range.select();
+            }else{
+                o.setSelectionRange(a, b);
+                o.focus();
+            }
+        }
+    };
+
+    var text = ['abcdefghijklmnopqrstuvwxyz', 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', '1234567890',
+                ",./;\'[]\\-=`<>?:\"{}|~!@#$%^&*()_+"];
+
+    var randPassword = function () {
+
+        var len = $("#totalCount").val(),
+                len = $.isEmptyObject(len) ? 12 : Number(len);
+        $("#totalCount").val(len);
+
+        var data = $("input[name=patten]:checked");
+        var dataList = [];
+        $.each(data, function (i, d) {
+            dataList.push(Number(d.value));
+        });
+        dataList = dataList.length > 0 ? dataList : [0, 1, 2];
+        var pw = '', dataLen = dataList.length - 1;
+        for (var i = 0; i < len; ++i) {
+            var strpos = rand(0, dataLen), index = dataList[strpos], d = text[index];
+            pw += d.charAt(rand(0, d.length));
+        }
+        $("#res").val(pw);
+        $("#res").attr("data-clipboard-text", pw);
+        textSelect(document.getElementById("res"));
+        return pw;
+    }
+
+    $("input[name=patten], #totalCount").on("change", function () {
+        randPassword();
+    });
+    $("#gen").on("click", function () {
+        randPassword();
+    });
+
+</script>
+
+</body>
+</html>
