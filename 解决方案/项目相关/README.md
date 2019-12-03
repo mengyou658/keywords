@@ -496,6 +496,8 @@ https://github.com/Meituan-Dianping/mpvue
 1. 类似react的形式开发小程序, h5, app 多端统一开发框架 
 https://github.com/mengyou658/taro
 1. 腾讯出品得，多端统一开发框架 小程序，h5
+1. 使用 react来开发小程序 不是像taro一样模拟的
+https://github.com/remaxjs/remax
 https://github.com/Tencent/omi
 1. didi出品的类似taro的跨平台实现
 https://github.com/didi/chameleon

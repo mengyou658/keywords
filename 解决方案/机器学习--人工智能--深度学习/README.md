@@ -388,6 +388,8 @@ https://github.com/cleardusk/3DDFA
 https://github.com/zllrunning/video-object-removal
 1. DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary
 https://github.com/iperov/DeepFaceLab
+1. Awesome Object Detection based on handong1587 github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
+https://github.com/mengyou658/awesome-object-detection
 
 # 为关系数据库开发自然语言接口 自动生成sql的训练和示例
 https://github.com/ZhuiyiTechnology/nl2sql_baseline

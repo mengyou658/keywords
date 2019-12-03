@@ -283,3 +283,9 @@ https://github.com/BullsEye0/google_dork_list
 
 # 科学上网
 1. https://github.com/qingshuisiyuan/electron-ssr-backup
+
+# 耿爽模拟器，用于模仿中国外交部发言人耿爽的言论
+https://github.com/xwgmdjc/GengShuang 
+
+# Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
+https://github.com/ix64/unlock-music
