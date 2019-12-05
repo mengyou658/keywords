@@ -896,3 +896,7 @@ https://github.com/TonyChen56/WeChatRobot
 
 # 推荐系统
 https://github.com/microsoft/recommenders
+
+# 商城集合
+1. b2c spring-boot 小程序 vue-element 前后端分离
+https://github.com/wmz1930/Jeebase

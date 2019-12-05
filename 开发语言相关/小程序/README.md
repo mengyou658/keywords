@@ -25,7 +25,8 @@ https://github.com/mengyou658/shangcheng
 1. 
 
 ### 完整项目/示例/demo/代码片段
-1. 
+1. springboot和微信小程序实现点餐系统（全栈开发之微信小程序点餐）微信扫码点餐小程序,java点餐系统
+https://github.com/qiushi123/diancan
 1. 
 
 ### 测试
