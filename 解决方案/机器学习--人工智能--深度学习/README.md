@@ -390,6 +390,8 @@ https://github.com/zllrunning/video-object-removal
 https://github.com/iperov/DeepFaceLab
 1. Awesome Object Detection based on handong1587 github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
 https://github.com/mengyou658/awesome-object-detection
+1. AIDungeon2是此类AI生成的文本冒险的第一个。使用名为GPT-2的1.5B参数机器学习模型,AIDungeon2可以在您在虚拟世界中玩耍时产生您的故事和行动结果
+https://github.com/AIDungeon/AIDungeon
 
 # 为关系数据库开发自然语言接口 自动生成sql的训练和示例
 https://github.com/ZhuiyiTechnology/nl2sql_baseline
