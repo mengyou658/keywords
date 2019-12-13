@@ -321,12 +321,20 @@ https://github.com/trimstray/nginx-admins-handbook
 
 
 # IM 聊天 chat
-1.CIM(CROSS-IM) 一款面向开发者的 IM(即时通讯)系统；同时提供了一些组件帮助开发者构建一款属于自己可水平扩展的 IM 。
+1. CIM(CROSS-IM) 一款面向开发者的 IM(即时通讯)系统；同时提供了一些组件帮助开发者构建一款属于自己可水平扩展的 IM 。
   借助 CIM 你可以实现以下需求：
   IM 即时通讯系统。
   适用于 APP 的消息推送中间件。
   IOT 海量连接场景中的消息透传中间件。
 https://github.com/crossoverJie/cim
+1. KingIM是基于layim的websocket即时通讯系统
+https://github.com/jkxqj/KingIM
+1. 仿QQ即时通讯系统服务端
+https://github.com/kingston-csj/im
+1. 多端 im聊天
+https://gitee.com/starRTC/starrtc-android
+https://gitee.com/starRTC/starrtc-server
+https://gitee.com/starRTC/starrtc-windows
 1. The most complete chat UI for React Native (聊天UI chat)
 https://github.com/mengyou658/react-native-gifted-chat
 1. Golang和React中的开源Slack替代方案

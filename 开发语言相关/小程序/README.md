@@ -21,6 +21,9 @@
 https://github.com/mengyou658/takeaway-1
 1. 商城小程序，只有小程序界面，没有后台
 https://github.com/mengyou658/shangcheng
+1.  小程序组件库
+https://github.com/dingyong0214/ThorUI
+1. colorUi
 1. 
 1. 
 

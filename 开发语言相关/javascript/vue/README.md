@@ -18,6 +18,8 @@ https://github.com/HcySunYang/vue-design
 https://github.com/frontend9/fe9-library
 
 ### 实用 库/模块/框架
+1. avue
+1. evue
 1. vue 静态页面生成
 https://github.com/mengyou658/vuepress
 1. Vue Material框架 ssr pwa  vue-cli 模板 即时聊天 
