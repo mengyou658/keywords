@@ -10,6 +10,7 @@ https://www.geogebra.org/m/x39ys4d7#material/phuyhqtw
 1. 动手学深度学习，反复读
 http://zh.d2l.ai/
 https://github.com/ShusenTang/Dive-into-DL-PyTorch
+https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0
 1, 机器学习基石，完整版 学一遍
 https://www.bilibili.com/video/av4294020/?p=7
 1. 现代 Web 开发，现代 Web 开发导论 | 基础篇 | 进阶篇 | 架构优化篇 | React 篇 | Vue 篇
