@@ -152,3 +152,5 @@ https://github.com/YoongiKim/AutoCrawler
 https://github.com/home-assistant/home-assistant
 1. 一个很不错的调试工具类，能打印方法每一步执行的变量变化
 https://github.com/cool-RR/PySnooper
+1. 命令行下载视频或者，在线看视频的工具 包括腾讯，游湖等大型视频网站 没有广告哟
+https://github.com/soimort/you-get

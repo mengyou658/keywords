@@ -18,6 +18,8 @@ https://github.com/extreme-assistant/cvpr2019
 1. 
 
 ### 教程/文章/小抄/规范/记事
+1. Machine Learning 机器学习教程 Go教程  JavaScript教程 ios开发教程 Protocol协议教程 http https websocket tcp tls  
+https://github.com/halfrost/Halfrost-Field
 1. tensorflow2中文教程
 https://github.com/czy36mengfei/tensorflow2_tutorials_chinese
 1. TensorFlow 2.0深度学习开源书
@@ -191,6 +193,12 @@ https://github.com/zhaipro/easy123061.
 https://github.com/imfht/test_cnn/blob/master/README_CN.md
 1. an implementation of 3D Ken Burns Effect from a Single Image using PyTorch 单个图像合成3D Ken Burns效果
 https://github.com/sniklaus/3d-ken-burns
+1. 英伟达最强图像生成器StyleGAN2 StyleGAN2 - Official TensorFlow Implementation
+https://github.com/NVlabs/stylegan2
+1. 这是一个用StyleGAN训练出的网红脸生成器
+https://github.com/a312863063/seeprettyface-generator-wanghong
+1.
+1.
 1.
 1.
 
