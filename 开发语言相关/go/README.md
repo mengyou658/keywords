@@ -77,6 +77,14 @@ https://github.com/mengyou658/rabbit
 https://github.com/lock-upme/OPMS
 1. 基于go开发的一款新的开发语言，可以参考从头开始学习语言的设计
 https://github.com/vlang/v
+1. BookStack，基于MinDoc，使用Beego开发的在线文档管理系统，功能类似Gitbook和看云
+https://github.com/TruthHun/BookStack
+1. Golang实现的基于beego框架的接口在线文档管理系统 https://www.iminho.me
+https://github.com/lifei6671/mindoc
+1. 一个轻量级网络混淆代理，基于 SOCKS5 协议，可用来代替 Shadowsocks
+https://github.com/gwuhaolin/lightsocks
+
+
 ### 测试
 1. 
 1. 
@@ -144,3 +152,4 @@ https://github.com/deuill/go-php
 https://github.com/antlr/antlr4
 1. 多语言相互转换 parser generator
 https://github.com/github/semantic
+
