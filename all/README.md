@@ -289,3 +289,12 @@ https://github.com/xwgmdjc/GengShuang
 
 # Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
 https://github.com/ix64/unlock-music
+
+
+# 文言文 编程语言
+https://github.com/LingDong-/wenyan-lang
+
+# 磁力搜索
+https://github.com/xiandanin/magnetW
+Motrix 是一款全能的下载工具，支持下载 HTTP、FTP、BT、磁力链、百度网盘等资源
+https://github.com/agalwood/Motrix
