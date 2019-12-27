@@ -242,6 +242,11 @@ https://github.com/microsoft/tensorwatch
 https://github.com/mlflow/mlflow
 1. PCA、LDA、MDS、LLE、TSNE等降维算法的python实现
 https://github.com/heucoder/dimensionality_reduction_alo_codes
+1. 根据选择合适的机器学习算法
+https://mlroadmap.com/algosuggest/
+1. 
+1. 
+1. 
 1. 
 
 # 自然语言处理 中文分词库
