@@ -2,6 +2,8 @@
 # C语言
 
 ##### IDE
+1. 依赖工具 自动下载开源库源代码 依赖关系检查
+https://github.com/microsoft/vcpkg 
 1. emacs + ctags / gtags / ggtags 
 https://www.emacswiki.org
 https://tuhdo.github.io/c-ide.html
