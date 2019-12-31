@@ -298,6 +298,8 @@ https://github.com/xland/xiangxuema
 https://github.com/WarpPrism/AutoPiano
 1. ant-design-pro
 1. ice desigin
+1. 年会抽奖项目
+https://github.com/mengyou658/lucky-draw
 
 #####   game 游戏
 1. State management and more for turn based games. 游戏框架 回合制游戏

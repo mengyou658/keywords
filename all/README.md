@@ -300,3 +300,8 @@ https://github.com/LingDong-/wenyan-lang
 https://github.com/xiandanin/magnetW
 Motrix 是一款全能的下载工具，支持下载 HTTP、FTP、BT、磁力链、百度网盘等资源
 https://github.com/agalwood/Motrix
+
+# 免费图片 视频 免版权 资源
+https://github.com/neutraltone/awesome-stock-resources
+
+
