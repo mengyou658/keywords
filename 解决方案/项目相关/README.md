@@ -912,3 +912,13 @@ https://github.com/microsoft/recommenders
 # 商城集合
 1. b2c spring-boot 小程序 vue-element 前后端分离
 https://github.com/wmz1930/Jeebase
+
+
+# 一个开源的室内设计 3D 软件
+http://www.sweethome3d.com/
+
+# 一个匿名邮件的转发工具，特点是允许开设无限个邮件账户
+https://anonaddy.com/
+
+# 部署自己的saas相关系统
+https://github.com/Atarity/deploy-your-own-saas

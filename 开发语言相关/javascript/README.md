@@ -74,6 +74,8 @@ https://github.com/nextapps-de/flexsearch
 https://github.com/pyloque/fastscan
 1. 富文本编辑器 替代ueditor
 https://github.com/ianstormtaylor/slate
+1.  Markdown 编辑器，支持绘制流程图、甘特图、时序图、任务列表、echarts 图表、五线谱，以及 PPT 预览、视频音频解析、HTML 自动转换为 Markdown 等功能
+https://github.com/nicejade/markdown-online-editor
 1. 富文本编辑器
 https://github.com/codex-team/editor.js
 1. Ace is a standalone code editor written in JavaScript
@@ -249,6 +251,11 @@ https://github.com/wiredjs/wired-elements
 https://github.com/ant-move/antmove
 1. Licia 是一套在开发中实践积累起来的实用 JavaScript 工具库。该库目前拥有超过 300 个模块，包括 Dom 操作，cookie 设置，类创建，模板函数，日期格式化等实用模块，同时配套有打包工具 Eustia 进行定制化，使JS脚本加载量缩减在 10KB 以下，极大优化移动端页面的加载速度。
 https://github.com/liriliri/licia
+1. json 压缩
+https://github.com/KilledByAPixel/JSONCrush
+1.
+1.
+1.
 1.
 
 #####  worker webworker web worker child process child_process thread node electron
