@@ -114,7 +114,7 @@ https://github.com/mengyou658/KingTV
 https://github.com/mengyou658/QiukuiLive
 
 
-#安全相关、性能相关
+# 安全相关、性能相关
 1. 应急响应实战笔记，一个安全工程师的自我修养
 https://github.com/Bypass007/Emergency-Response-Notes
 1. 一个匿名作者写的渗透攻击教程，主要用于 Windows 主机。"适用于初中级安全从业人员，乙方安全测试，甲方安全自检，网络安全爱好者等，企业安全防护与提高"。
@@ -167,6 +167,9 @@ https://github.com/Bypass007/Emergency-Response-Notes
 https://github.com/uknowsec/Active-Directory-Pentest-Notes
 1. 鼓舞人心清单，手册，备忘，博客，黑客，单行，CLI /网络工具和更多的集合
 https://github.com/trimstray/the-book-of-secret-knowledge
+1. BurpSuite收集：包括不限于 Burp 文章、破解版、插件(非BApp Store)、汉化等相关教程 web攻击 安全防御
+https://github.com/Mr-xn/BurpSuite-collections
+1. 
 1. 
 
 
@@ -922,3 +925,6 @@ https://anonaddy.com/
 
 # 部署自己的saas相关系统
 https://github.com/Atarity/deploy-your-own-saas
+
+# 各种辅助 页面设计的资源 内容 材料 教程 简单的方法来为您的产品增加设计风格，用户满意度和异想天开 版式 选色 字体挑选 CSS CSS技巧 SVG 背景  动画与转场 
+https://github.com/sw-yx/spark-joy
