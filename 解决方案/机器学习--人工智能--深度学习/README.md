@@ -10,6 +10,9 @@ https://github.com/jbhuang0604/awesome-computer-vision
 https://github.com/d2l-ai/d2l-zh
 1. cvpr2019 papers，极市团队整理
 https://github.com/extreme-assistant/cvpr2019
+1. 深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）
+https://github.com/amusi/Deep-Learning-Interview-Book
+1. 
 1. 
 1. 
 

@@ -114,6 +114,11 @@ https://github.com/cnlh/nps
 https://github.com/liudanking/gorm2sql
 1. go 爬虫工具
 https://github.com/hakluke/hakrawler
+1. fate 命运 起名 算命 宝宝起名
+https://github.com/godcong/fate
+1. kubernetes高可用安装工具，一条命令，离线安装，包含所有依赖，内核负载不依赖haproxy keepalived,纯golang开发,99年证书,支持v1.16.4 v1.15.7 v1.14.10 v1.17.0! https://sealyun.com
+https://github.com/fanux/sealos
+1. 
 1. 
 1. 
 1. 
