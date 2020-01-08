@@ -197,6 +197,9 @@ https://github.com/sniklaus/3d-ken-burns
 https://github.com/NVlabs/stylegan2
 1. 这是一个用StyleGAN训练出的网红脸生成器
 https://github.com/a312863063/seeprettyface-generator-wanghong
+1. Implementation EfficientDet: Scalable and Efficient Object Detection in PyTorch 图像识别
+https://github.com/toandaominh1997/EfficientDet.Pytorch
+1.
 1.
 1.
 1.
