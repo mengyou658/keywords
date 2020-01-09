@@ -203,6 +203,8 @@ https://github.com/mengyou658/ssf
 https://github.com/Dreamacro/clash/tree/master
 1. 科学上网 相关文章
 https://github.com/haoel/haoel.github.io
+1. 访问google 谷歌 插件 
+https://github.com/haotian-wang/google-access-helper
 
 # 英文字体，适合排版，写作用的字体 IBM 出品
 https://github.com/mengyou658/iA-Fonts

@@ -616,6 +616,9 @@ https://github.com/jgraph/drawio-desktop
 1. 高可扩展性，高可用性，高稳定性，高性能和高智能后端设计
 1. 秒杀系统设计
 https://github.com/qiurunze123/miaosha
+1. 秒杀系统的实现与详解  秒杀系统的实现与详解，相关的详细文档请前往GitBook https://gitbook.cn/gitchat/activity/5bff4c9f442cad45a51fee92
+https://github.com/coderliguoqing/distributed-seckill
+
 
 # css-block 
 1. 高性能，可维护的样式表。 http://css-blocks.com/ 
@@ -928,3 +931,8 @@ https://github.com/Atarity/deploy-your-own-saas
 
 # 各种辅助 页面设计的资源 内容 材料 教程 简单的方法来为您的产品增加设计风格，用户满意度和异想天开 版式 选色 字体挑选 CSS CSS技巧 SVG 背景  动画与转场 
 https://github.com/sw-yx/spark-joy
+
+
+# Kubernetes 
+1. Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.17 安装手册，(k8s install) 在线答疑，持续更新。 https://kuboard.cn/#press
+https://github.com/eip-work/kuboard-press
