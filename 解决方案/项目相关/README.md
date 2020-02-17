@@ -936,3 +936,7 @@ https://github.com/sw-yx/spark-joy
 # Kubernetes 
 1. Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.17 安装手册，(k8s install) 在线答疑，持续更新。 https://kuboard.cn/#press
 https://github.com/eip-work/kuboard-press
+
+# 百度云
+1. 下载工具
+https://github.com/0-01/0

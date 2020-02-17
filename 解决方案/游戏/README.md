@@ -10,7 +10,7 @@
 ### 现成列表 awesome 系列
 1. 游戏蛮牛，这个公众号一定关注一下
 1. 这里的学习历程https://github.com/QianMo/Game-Programmer-Study-Notes
-1. 免费的视频教程 https://github.com/liangxiegame/awesome-unity-cn 
+1. 免费的视频教程 https://github.com/liangxiegame/awesome-unity-cn
     免费的视频教程 http://www.sikiedu.com/
 1. 这里可以对游戏开发整体的流程了解一下 https://blog.csdn.net/gitchat/article/details/78957555
 1. https://github.com/RyanNielson/awesome-unity#readme
@@ -19,20 +19,20 @@
 1. https://github.com/U3DC/AS4U
 
 ### cheatsheet 备忘录
-1. 
-1. 
+1.
+1.
 
 ### 教程/文章/小抄/规范/记事
-1. 
-1. 
+1.
+1.
 
 ### 实用 库/模块/框架
-1. Godot Engine –多平台2D和3D游戏引擎 
+1. Godot Engine –多平台2D和3D游戏引擎
 https://github.com/godotengine/godot
 1. 解决游戏网络延迟问题 回滚网络使用输入预测和推测执行将玩家输入立即发送到游戏
 https://github.com/pond3r/ggpo
-1. 
-1. 
+1.
+1.
 
 ### 完整项目/示例/demo/代码片段
 1. https://github.com/CatImmortal/Trinity
@@ -47,17 +47,21 @@ https://github.com/chrismaltby/gb-studio
 http://home.flightgear.org/
 1. 开源游戏的列表
 https://osgameclones.com/
-1. 页面小游戏 
-https://github.com/brunosimon/folio-2019.git 
+1. 页面小游戏
+https://github.com/brunosimon/folio-2019.git
+1. Unity的练习项目
+https://github.com/XINCGer/Unity3DTraining
+
+
 ### 测试
-1. 
-1. 
+1.
+1.
 
 ### UI
-1. 
-1. 
+1.
+1.
 
 ### 工具
-1. 
-1. 
+1.
+1.
 

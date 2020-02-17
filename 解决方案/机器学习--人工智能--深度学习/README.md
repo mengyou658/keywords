@@ -12,16 +12,16 @@ https://github.com/d2l-ai/d2l-zh
 https://github.com/extreme-assistant/cvpr2019
 1. 深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）
 https://github.com/amusi/Deep-Learning-Interview-Book
-1. 
-1. 
-1. 
+1.
+1.
+1.
 
 ### cheatsheet 备忘录
-1. 
-1. 
+1.
+1.
 
 ### 教程/文章/小抄/规范/记事
-1. Machine Learning 机器学习教程 Go教程  JavaScript教程 ios开发教程 Protocol协议教程 http https websocket tcp tls  
+1. Machine Learning 机器学习教程 Go教程  JavaScript教程 ios开发教程 Protocol协议教程 http https websocket tcp tls
 https://github.com/halfrost/Halfrost-Field
 1. tensorflow2中文教程
 https://github.com/czy36mengfei/tensorflow2_tutorials_chinese
@@ -35,19 +35,21 @@ https://github.com/clone95/Virgilio/tree/master/zh-CN/LearningPaths/Machine%20Le
 https://github.com/Kivy-CN/Stanford-CS-229-CN
 1. 基于视频的目标检测算法研究 对相应的视频目标检测论文整理实现综述文档。
 https://github.com/guanfuchen/video_obj
-1. 机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归 
+1. 机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归
 https://github.com/Jack-Cherish/Machine-Learning
 1. 计算机视觉相关论文整理、翻译、记录、分享; 包括图像分类、目标检测、视觉跟踪/目标跟踪、人脸识别/人脸验证、OCR/场景文本检测、识别等领域。
 https://github.com/yizt/cv-papers
-1.  深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 
-未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06 
+1.  深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。
+未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06
 https://github.com/scutan90/DeepLearning-500-questions
-1. 车牌识别训练代码 Training Tools Related to HyperLPR 
+1. 车牌识别训练代码 Training Tools Related to HyperLPR
 https://github.com/zeusees/HyperLPR-Training
 1. 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记
-https://github.com/imhuay/Algorithm_Interview_Notes-Chinese 
+https://github.com/imhuay/Algorithm_Interview_Notes-Chinese
 1. AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
 https://github.com/apachecn/AiLearning
+1. 自然语言转逻辑形式"研究资料收集
+https://github.com/BaeSeulki/NL2LF
 1. 机器学习视频教程
 https://morvanzhou.github.io/tutorials/machine-learning/ML-intro/1-1-machine-learning/
 1. Sklearn 与 TensorFlow 机器学习实用指南
@@ -78,23 +80,23 @@ https://github.com/dafish-ai/NTU-Machine-learning
 https://github.com/GokuMohandas/practicalAI
 1. 本社区是微软亚洲研究院（Microsoft Research Asia，简称MSRA）人工智能教育团队创立的人工智能教育与学习共建社区
 https://github.com/microsoft/ai-edu
-1. 机器学习入门示例 TensorFlow Tutorial and Examples for Beginners 
-https://github.com/aymericdamien/TensorFlow-Examples 
-1. 
-1. 
+1. 机器学习入门示例 TensorFlow Tutorial and Examples for Beginners
+https://github.com/aymericdamien/TensorFlow-Examples
+1.
+1.
 ### 实用 库/模块/框架
 1. A face detection library in 200 lines of JavaScript （人脸检测 JavaScript ）
 https://github.com/mengyou658/picojs
 1. tensorflow
 https://github.com/tensorflow/tensorflow
-1. TensorFlow.js 
+1. TensorFlow.js
 https://github.com/mengyou658/tfjs
 1. Automatically "block" people in images (like Black Mirror) using a pretrained neural network. 使用预训练的神经网络自动“阻挡”图像中的人（如黑镜）
 (自动识别图片中的人，车，长颈鹿，等80多种不同类型的对象，然后进行遮挡) (Python TensorFlow Keras Numpy，skimage，scipy，Pillow，cython，h5py)
 https://github.com/mengyou658/person-blocker
 1. Friendly machine learning for the web! 友好的 机器学习 web js
 https://github.com/ml5js/ml5-library
-1. JavaScript中的神经网络 
+1. JavaScript中的神经网络
 https://github.com/BrainJS/brain.js
 1. 用python3+opencv3做的中国车牌识别，包括算法和客户端界面，只有2个文件，surface.py是界面代码，predict.py是算法代码，界面不是重点所以用tkinter写得很简单
 https://github.com/wzh191920/License-Plate-Recognition
@@ -115,7 +117,7 @@ https://github.com/justadudewhohacks/face-api.js
 1. 互联网上的人物跟踪器：Jose Pino的OSINT分析和研究工具 互联网上的人物跟踪器：学习跟踪世界，避免被追踪。Trape是一种OSINT分析和研究工具，它允许人们实时跟踪和执行智能社交工程攻击。它的创建目的是向全世界教授大型互联网公司如何获取机密信息，例如其网站或服务的会话状态，并通过浏览器控制用户，而不是他们的知识，但它的发展是为了帮助政府组织，公司和研究人员跟踪网络犯罪分子。
 People tracker on the Internet: OSINT analysis and research tool by Jose Pino Trape is an OSINT analysis and research tool, which allows people to track and execute intelligent social engineering attacks in real time. It was created with the aim of teaching the world how large Internet companies could obtain confidential information such as the status of sessions of their websites or services and control their users through their browser, without their knowlege, but It evolves with the aim of helping government organizations, companies and researchers to track the cybercriminals.
 https://github.com/jofpin/trape
-1. 人脸识别 
+1. 人脸识别
 https://github.com/deepinsight/insightface/issues/256 包含训练数据下载
 https://github.com/deepinsight/insightface
 1. 基于深度学习高性能中文车牌识别 High Performance Chinese License Plate Recognition Framework.
@@ -157,7 +159,7 @@ https://github.com/keras-team/keras-tuner
 1. 在5秒内克隆语音，实时生成任意语音 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 https://github.com/CorentinJ/Real-Time-Voice-Cloning
 ![nlpDemo gif](resources/hybridbot.gif)
-1. NSFW detection on the client-side via Tensorflow JS 
+1. NSFW detection on the client-side via Tensorflow JS
 https://github.com/infinitered/nsfwjs
 1. 本项目face_recognition是一个强大、简单、易上手的人脸识别开源项目，并且配备了完整的开发文档和应用案例，特别是兼容树莓派系统。本项目的人脸识别是基于业内领先的C++开源库 dlib中的深度学习模型，用Labeled Faces in the Wild人脸数据集进行测试，有高达99.38%的准确率。但对小孩和亚洲人脸的识别准确率尚待提升。
 face_recognition is a powerful, simple and easy-to-use face recognition open source project with complete development documents and application cases, especially it is compatible with Raspberry Pi
@@ -165,7 +167,7 @@ https://github.com/ageitgey/face_recognition
 1. Keras是一个高级神经网络API，用Python编写，能够在TensorFlow，CNTK或Theano之上运行。它的开发重点是实现快速实验。能够以最小的延迟从理念到结果是进行良好研究的关键。
 Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It was developed with a focus on enabling fast experimentation. Being able to go from idea to result with the least possible delay is key to doing good research.
 https://github.com/keras-team/keras
-1. Keras model to generate HTML code from hand-drawn website mockups. Implements an image captioning architecture to drawn source images. 
+1. Keras model to generate HTML code from hand-drawn website mockups. Implements an image captioning architecture to drawn source images.
 人工智能生成前端网页的工具，已经可用了。自动将手绘图，变成 HTML 网页。作者还写了一篇文章介绍原理 手写 草稿 草图
 https://github.com/ashnkumar/sketch-code
 1. FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation
@@ -178,13 +180,13 @@ https://github.com/sql-machine-learning/sqlflow
 https://github.com/commaai/openpilot
 1. Google X Lab 与加拿大 Perimeter 理论物理研究所的研究人员合作开发了TensorNetwork，以 TensorFlow 作为后端，针对 GPU 处理进行了优化。相比于单纯基于 CPU 的计算工作，TensorNetwork 可以实现高达 100 倍的加速。A library for easy and efficient manipulation of tensor networks.
 https://github.com/google/TensorNetwork
-1. Official Tensorflow implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation 
+1. Official Tensorflow implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation
 https://github.com/taki0112/UGATIT
 1. 该仓库将包含TecoGAN项目的源代码和材料，即TEmporally COherent GAN的代码 模糊像素变高清
 https://github.com/thunil/TecoGAN
 1. High-performance TensorFlow library for quantitative finance TensorFlow 高性能工具库
 https://github.com/google/tf-quant-finance
-1. 人脸替换 DeepPrivacy是一种全自动的图像匿名化技术 
+1. 人脸替换 DeepPrivacy是一种全自动的图像匿名化技术
 https://github.com/hukkelas/DeepPrivacy
 1. A High-Quality Real Time Upscaler for Anime Video 实时提升卡通动画的分辨率，使其成为高清动画的工具 动漫
 https://github.com/bloc97/Anime4K
@@ -211,15 +213,15 @@ https://github.com/toandaominh1997/EfficientDet.Pytorch
 ### 完整项目/示例/demo/代码片段
 1. CV算法复现
 https://github.com/bbaibowen/computer-vision
-1. 
+1.
 
 ### 测试
-1. 
-1. 
+1.
+1.
 
 ### UI
-1. 
-1. 
+1.
+1.
 
 ### 工具
 1.  💎 1MB轻量级通用人脸检测模型 Pytorch1.2
@@ -250,10 +252,10 @@ https://github.com/mlflow/mlflow
 https://github.com/heucoder/dimensionality_reduction_alo_codes
 1. 根据选择合适的机器学习算法
 https://mlroadmap.com/algosuggest/
-1. 
-1. 
-1. 
-1. 
+1.
+1.
+1.
+1.
 
 # 自然语言处理 中文分词库
 1. 中文文本分类，TextCNN，TextRNN，FastText，TextRCNN，BiLSTM_Attention，DPCNN，Transformer，基于pytorch，开箱即用。
@@ -301,14 +303,14 @@ https://github.com/649453932/Chinese-Text-Classification-Pytorch
 https://github.com/CasterWx/python-girlfriend-mood
 
 # 数据分析/数据可视化
-1. 
-1. 
+1.
+1.
 
 #框架
 1.  Parallel Deep Reinforcement Learning Framework Huskarl is a framework for deep reinforcement learning focused on research and fast prototyping. It's built on TensorFlow 2.0 and uses the tf.keras API when possible for conciseness and readability.
 https://github.com/danaugrs/huskarl
-1. 
-1. 
+1.
+1.
 
 # models 模型
 1. 各种深度学习架构，模型和技巧的集合 A collection of various deep learning architectures, models, and tips
@@ -339,10 +341,10 @@ https://github.com/XuefengHuang/lianjia-scrawler
 https://github.com/eg4000/SKU110K_CVPR19
 1. Pre-trained and Reproduced Deep Learning Models （『飞桨』官方模型库，包含多种学术前沿和工业场景验证的深度学习模型）
 https://github.com/PaddlePaddle/models
-1. 
-1. 
-1. 
-1. 
+1.
+1.
+1.
+1.
 
 
 
@@ -354,7 +356,7 @@ https://jackschaedler.github.io/handwriting-recognition/
 # Faceswap是一种利用深度学习识别和交换图片和视频中的面孔的工具
 1. https://github.com/deepfakes/faceswap
 1. Pytorch implementation for high-resolution (e.g., 2048x1024) photorealistic video-to-video translation.
-https://github.com/NVIDIA/vid2vid 
+https://github.com/NVIDIA/vid2vid
 1. pytorch 视频转换
 https://github.com/NVlabs/few-shot-vid2vid
 
@@ -370,14 +372,14 @@ https://andreaswannerstedt.se/oddly-satisfying-vol5
 https://github.com/kongqw/OpenCVForAndroid
 
 # 视频检测相关
-1. 物体检测 PyTorch 
-https://github.com/STVIR/pysot 
+1. 物体检测 PyTorch
+https://github.com/STVIR/pysot
 ![CVPR2019Demo png](resources/pysot.png)
 1. 实时检测手画形状 谷歌 QuickDraw 功能的开源实现，可以识别随手画出的图形
 https://github.com/vietnguyen91/QuickDraw
 1. 基于视频的目标检测算法研究 对相应的视频目标检测论文整理实现综述文档。
 https://github.com/guanfuchen/video_obj
-1. 简明 SSD 目标检测模型 keras version（交通标志识别 训练部分见 dev 分支） 
+1. 简明 SSD 目标检测模型 keras version（交通标志识别 训练部分见 dev 分支）
 https://github.com/kuhung/SSD_keras
 1.  深度学习 + OpenCV，Python实现实时视频目标检测， 详细教程 https://www.voidking.com/dev-object-detection/
 https://github.com/voidking/object-detection

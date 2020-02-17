@@ -12,8 +12,8 @@ https://github.com/mengyou658/build-your-own-x
 1. https://github.com/Jokeren/Awesome-GPU
 1. https://github.com/josephmisiti/awesome-machine-learning
 1. https://github.com/Erkaman/Awesome-CUDA
-1. https://github.com/fffaraz/awesome-cpp 
-1. https://github.com/rust-unofficial/awesome-rust 
+1. https://github.com/fffaraz/awesome-cpp
+1. https://github.com/rust-unofficial/awesome-rust
 1. https://github.com/avelino/awesome-racket
 1. https://github.com/aleksandar-todorovic/awesome-linux
 1. https://github.com/akullpp/awesome-java
@@ -101,7 +101,7 @@ https://github.com/cstack/db_tutorial
 https://github.com/wearehive/project-guidelines/blob/master/README-zh.md
 1. Web Security Learning (web安全)
 https://github.com/mengyou658/Web-Security-Learning
-1. A collective list of public JSON APIs for use in web development. 
+1. A collective list of public JSON APIs for use in web development.
 https://github.com/mengyou658/public-apis-1
 1. API Gateway & Microservice Management（nginx插件，api防火墙和服务治理）
 https://github.com/Mashape/kong
@@ -203,14 +203,14 @@ https://github.com/mengyou658/ssf
 https://github.com/Dreamacro/clash/tree/master
 1. 科学上网 相关文章
 https://github.com/haoel/haoel.github.io
-1. 访问google 谷歌 插件 
+1. 访问google 谷歌 插件
 https://github.com/haotian-wang/google-access-helper
 
 # 英文字体，适合排版，写作用的字体 IBM 出品
 https://github.com/mengyou658/iA-Fonts
 
 
-# svg icon 
+# svg icon
 https://github.com/mengyou658/SuperTinyIcons
 
 
@@ -223,7 +223,7 @@ https://github.com/mengyou658/lemonade-stand
 https://github.com/mengyou658/nEXT
 1. A fully implemented kernel exploit for the PS4 on 4.05FW PS4系统内核漏洞
 https://github.com/mengyou658/PS4-4.05-Kernel-Exploit
-1. A fully interactive, realtime and modern text-based browser rendered to TTYs and browsers 
+1. A fully interactive, realtime and modern text-based browser rendered to TTYs and browsers
 https://github.com/browsh-org/browsh
 
 
@@ -266,11 +266,11 @@ https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland
 1. http://cron.qqe2.com/ 在线工具
 1. https://github.com/arnapou/jqcron
 
-# git 
+# git
 1. git 问题集锦
 https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md
 
-# 收集免费的接口服务,做一个api的搬运工  
+# 收集免费的接口服务,做一个api的搬运工
 https://github.com/fangzesheng/free-api
 
 # 函数式编程术语
@@ -287,9 +287,11 @@ https://github.com/BullsEye0/google_dork_list
 1. https://github.com/qingshuisiyuan/electron-ssr-backup
 1. https://github.com/geph-official/geph2
 1. https://github.com/googlehosts/hosts/wiki/%E5%AE%9E%E9%AA%8C%E5%AE%A4#shadowsocks
+1, https://github.com/the0demiurge/ShadowSocksShare
+1. https://github.com/Alvin9999/new-pac/wiki
 
 # 耿爽模拟器，用于模仿中国外交部发言人耿爽的言论
-https://github.com/xwgmdjc/GengShuang 
+https://github.com/xwgmdjc/GengShuang
 
 # Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
 https://github.com/ix64/unlock-music
