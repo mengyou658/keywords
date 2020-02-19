@@ -82,6 +82,12 @@ https://github.com/GokuMohandas/practicalAI
 https://github.com/microsoft/ai-edu
 1. 机器学习入门示例 TensorFlow Tutorial and Examples for Beginners
 https://github.com/aymericdamien/TensorFlow-Examples
+1. 人工智能学习路线图，整理近200个实战案例与项目，免费提供配套教材，零基础入门，就业实战！包括：Python，数学，机器学习，数据分析，深度学习，计算机视觉，自然语言处理等热门领域
+https://github.com/tangyudi/Ai-learn
+1. 机器学习模型推导教程
+https://github.com/shuhuai007/Machine-Learning-Session
+1.
+1.
 1.
 1.
 ### 实用 库/模块/框架
@@ -223,6 +229,13 @@ https://github.com/bbaibowen/computer-vision
 1.
 1.
 
+### 工具 增强
+1. Streamlit — The fastest way to build custom ML tools 交互互动的可视化工具，可以快速创建交互的界面，自行调节参数 https://streamlit.io/  jasper-notebook 功能升级
+https://github.com/streamlit/streamlit
+1. HiPlot使理解高维数据变得容易
+https://github.com/facebookresearch/hiplot
+![hiplot png](resources/hiplot.png)
+
 ### 工具
 1.  💎 1MB轻量级通用人脸检测模型 Pytorch1.2
 https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB
@@ -242,8 +255,6 @@ https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology
 https://github.com/zxqfl/TabNine
 1. 北航VisualPytorch工具(通过拖拽组件来生成Pytorch代码)
 https://github.com/16061027/VisualPytorch
-1. Streamlit — The fastest way to build custom ML tools 交互互动的可视化工具，可以快速创建交互的界面，自行调节参数 https://streamlit.io/  jasper-notebook 功能升级
-https://github.com/streamlit/streamlit
 1. Python机器学习和数据科学的调试，监视和可视化 jasper-notebook 功能升级
 https://github.com/microsoft/tensorwatch
 1. MLflow 是一个机器学习平台，它为机器学习项目中的各个主要组成部分及阶段都准备了对应的工具
@@ -440,6 +451,10 @@ https://github.com/deezer/spleeter
 # 自动生成文章 根据一段话
 https://github.com/openai/gpt-2
 
-# 统计分析学习
+# 统计分析学习 《统计学习方法》的代码实现
 1. 学习机器学习中的对应的算法
 https://github.com/fengdu78/lihang-code
+
+# 傅里叶变换交互式入门
+http://www.jezzamon.com/fourier/zh-cn.html
+傅里叶变换是一种在各个领域都经常使用的数学工具。这个网站将为你介绍傅里叶变换能干什么，为什么傅里叶变换非常有用，以及你如何利用傅里叶变换干漂亮的事。就像下面这样：

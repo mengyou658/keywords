@@ -118,8 +118,10 @@ https://github.com/mtdvio/every-programmer-should-know
 1. python3写的综合扫描工具，主要用来敏感文件探测(目录扫描与js泄露接口)，WAF/CDN识别，端口扫描，指纹/服务识别，操作系统识别，弱口令探测，POC扫描，SQL注入，绕过CDN，查询旁站等功能，主要用来甲方自测或乙方授权测试，请勿用来搞破坏
 https://github.com/al0ne/Vxscan
 
-# 私单教程
+# 私单教程 独立开发 独立开发/自由职业/远程工作资源列表
 1. https://github.com/easychen/howto-make-more-money
+1. https://github.com/apachecn/awesome-indie-zh
+1. https://github.com/greatghoul/remote-working
 
 # 课程教程视频文档下载
 1. 国内大学教学课程下载
@@ -308,4 +310,10 @@ https://github.com/agalwood/Motrix
 # 免费图片 视频 免版权 资源
 https://github.com/neutraltone/awesome-stock-resources
 
+# surge 脚本 
+https://github.com/mengyou658/surge
+删除微博广告  显示影视评分 显示京东价格历史 淘宝价格历史 
 
+
+# chromium源码阅读
+https://www.cnblogs.com/danxi/p/7020375.html

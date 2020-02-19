@@ -159,6 +159,7 @@ https://github.com/mengyou658/hacker101
 https://github.com/mengyou658/project-based-learning
 1. 页面性能分析和优化工具 Google 的网页性能优化工具
 http://developers.google.cn/speed/pagespeed/insights/
+https://developers.google.com/speed/pagespeed/insights/
 1. A memory profiler for Linux 内存分析
 https://github.com/nokia/memory-profiler
 1. 应急响应实战笔记，一个安全工程师的自我修养
@@ -169,6 +170,10 @@ https://github.com/uknowsec/Active-Directory-Pentest-Notes
 https://github.com/trimstray/the-book-of-secret-knowledge
 1. BurpSuite收集：包括不限于 Burp 文章、破解版、插件(非BApp Store)、汉化等相关教程 web攻击 安全防御
 https://github.com/Mr-xn/BurpSuite-collections
+1. ATTCK-PenTester-Book 由DeadEye安全团队根据ATT&CK知识体系编制出长达400页的渗透手册已经全部完成。现将该手册发放给大家，希望大家在即将到来的播种季节播种知识的种子，等待年底收获满满！！！
+https://github.com/Dm2333/ATTCK-PenTester-Book
+1. 
+1. 
 1. 
 1. 
 
@@ -730,6 +735,8 @@ https://github.com/algorithm-visualizer/algorithm-visualizer
 https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 1. 各种算法的动态演示网站
 https://visualgo.net/zh
+1. 算法竞赛课件分享
+https://github.com/hzwer/shareOI
 
 # 项目管理
 1. 采用了SpringBoot和Vue实现了对城市消防监控设备的在线统计管理，具备区域管理、设备分类管理、设备管理、预警管理和报表统计五大功能， 特点： 1.前后端分离，Vue实现前端模块化，后台通过SpringBoot+Mysql,保证数据的有效性和安全性。 2.动态路由菜单栏、Element-UI、高德地图Api选择地理位置、Shiro权限控制、mybatis plus。 3.Docker做容器，Redis实现数据缓存，Nginx+Dubbo实现负载均衡，满足消防设备异常及时同步处理、高并发，真正的满足城市甚至省级所用消防设备的在线管理

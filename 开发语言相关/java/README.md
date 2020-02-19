@@ -167,7 +167,7 @@ spring-boot-plus
 1. 
 1. 
 
-### 工具
+### 工具 性能监控
 1.  是Alibaba开源的Java诊断工具 java优化 java内存诊断 性能 监控
 https://github.com/alibaba/arthas
 1. 一个针对高并发、低延迟应用设计的高性能 Java 性能监控和统计工具。
@@ -184,6 +184,10 @@ https://github.com/5A59/Zvm
 quercus-php
 1. Open Source application platform for creating Spring Boot + Angular/React projects in seconds 生成spring-boot/react/angular脚手架工具
 https://github.com/jhipster/generator-jhipster
+1. Bistoury是去哪儿网的java应用生产问题诊断工具，提供了一站式的问题诊断方案 Bistoury 在公司内部原有agent的基础上集成Alibaba开源的arthas和唯品会开源的vjtools
+https://github.com/qunarcorp/bistoury
+1. tomcat8 性能优化 
+https://mp.weixin.qq.com/s?__biz=MjM5MjAwODM4MA==&mid=2650734702&idx=2&sn=b9996884d0290ac0cdef0772e917f48c&chksm=bea771bd89d0f8abd1f949ce2bccadeba98f059e91823e78340de44ef9e098c29dd242f947e5&mpshare=1&scene=1&srcid=1213T6zV0jm0ofeqjQtjjMg2&sharer_sharetime=1576248737285&sharer_shareid=dd03122894f4d7e0e4e632a60882c00e&key=832c66bc48e8d1eeae0beebc9efa8fd85abe803c2818ae471fd7dc8c76075663ccfd6fbd1e8411451635649a1040718f08f8878644d20ac49a19ef882ffbdb5c010f84549018110fdbda7e70dd183233&ascene=1&uin=MjI1Njk5NDEyMA%3D%3D&devicetype=Windows+10&version=62070158&lang=zh_CN&exportkey=ASZnPLN%2Fo%2FdpBKqIL5JAjvg%3D&pass_ticket=M3UwuZb8bkL96j4cC902SpbiQTnFhieOqXcecVfTgY8axVYvZ8ALgZ7nvJPWY14r
 1. 
 1. 
 1. 

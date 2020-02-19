@@ -27,6 +27,9 @@ https://github.com/aceld/zinx
 https://github.com/wangzheng0822/algo
 1. 从问题切入，串连 Go 语言相关的所有知识，融会贯通。
 https://github.com/qcrao/Go-Questions
+1. go 入门
+https://chai2010.cn/advanced-go-programming-book/ch2-cgo/ch2-01-hello-cgo.html
+1. 
 1. 
 
 ### cheatsheet 备忘录

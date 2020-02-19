@@ -21,6 +21,12 @@ https://github.com/MintCN/linux-insides-zh
 https://github.com/Micropoor/Micro8
 1. 了解某些网络sysctl变量适合Linux /内核网络流的位置 sysctl linux网络优化完整实例
 https://github.com/leandromoreira/linux-network-performance-parameters
+1. linux 资料
+https://macrozheng.github.io/mall-learning/#/reference/linux
+1. Linux防火墙Firewall和Iptables的使用
+https://macrozheng.github.io/mall-learning/#/reference/linux_firewall
+1. 
+1. 
 1. 
 
 ### 实用 库/模块/框架

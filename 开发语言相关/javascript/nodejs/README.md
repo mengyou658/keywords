@@ -18,6 +18,8 @@ https://github.com/mengyou658/node-interview
 https://github.com/chyingp/nodejs-learning-guide
 1. 写作不敏感，不注意写作 无论是你自己还是别人的写作，亚历克斯都会帮助你找到性别偏好，两极分化，种族相关，宗教不体谅，或其他 文字中不平等的措辞。 Whether your own or someone else’s writing, alex helps you find gender favouring, polarising, race related, religion inconsiderate, or other unequal phrasing in text.Catch insensitive, inconsiderate writing 
 https://github.com/get-alex/alex
+1. The largest Node.js CLI Apps best practices list  nodejs cli 最佳实践
+https://github.com/lirantal/nodejs-cli-apps-best-practices
 1. 
 1. 
 

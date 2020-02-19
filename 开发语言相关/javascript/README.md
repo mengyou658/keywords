@@ -498,6 +498,8 @@ https://github.com/Glench/fuzzyset.js
 https://github.com/youngdro/guitarChord
 1. 数据结构和算法在JavaScript中解释和实现
 https://github.com/amejiarosario/dsa.js
+1. 算法竞赛课件分享
+https://github.com/hzwer/shareOI
 
 # 代码生成脚手架cli工具
 1. The hottest CLI for React Native, boilerplates, plugins, generators, and more! 
