@@ -86,6 +86,8 @@ https://github.com/aymericdamien/TensorFlow-Examples
 https://github.com/tangyudi/Ai-learn
 1. 机器学习模型推导教程
 https://github.com/shuhuai007/Machine-Learning-Session
+1. TensorFlow 2.0 + Keras中的说明性ML笔记本
+https://github.com/practicalAI/practicalAI
 1.
 1.
 1.
@@ -244,7 +246,7 @@ https://github.com/uber/ludwig
 1. 100+ Chinese Word Vectors 上百种预训练中文词向量
 https://github.com/mengyou658/Chinese-Word-Vectors
 1. 采用python-flask框架开发，基于B/S方式交互，支持多人同时标注。
-https://github.com/hzylmf/od-annotation
+https://github.com/hzylmf/od-annotation 
 1. nvidia 官方的在线图像修复，自动生成图像缺失的部分。
 https://www.nvidia.com/research/inpainting/selection
 1. 生成假的照片的网站
@@ -261,9 +263,10 @@ https://github.com/microsoft/tensorwatch
 https://github.com/mlflow/mlflow
 1. PCA、LDA、MDS、LLE、TSNE等降维算法的python实现
 https://github.com/heucoder/dimensionality_reduction_alo_codes
-1. 根据选择合适的机器学习算法
+1. 根据选择合适的机器学习算法 
 https://mlroadmap.com/algosuggest/
-1.
+1. AutoGluon: AutoML Toolkit for Deep Learning 深度学习 工具包 
+https://github.com/awslabs/autogluon
 1.
 1.
 1.
@@ -312,6 +315,8 @@ https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch
 https://github.com/649453932/Chinese-Text-Classification-Pytorch
 1.  Analyze her mood through her girlfriend's words ·女朋友聊天时的情绪波动图谱，没女朋友的可自用(雾）
 https://github.com/CasterWx/python-girlfriend-mood
+1. 自然语言处理入门练习
+https://github.com/FudanNLP/nlp-beginner
 
 # 数据分析/数据可视化
 1.

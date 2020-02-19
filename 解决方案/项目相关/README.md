@@ -925,7 +925,15 @@ https://github.com/microsoft/recommenders
 # 商城集合
 1. b2c spring-boot 小程序 vue-element 前后端分离
 https://github.com/wmz1930/Jeebase
-
+1.  b2c spring-boot  前后端分离 不包括用户端，用户端收费
+https://github.com/guchengwuyue/yshopmall_qd
+1. b2c商城  SpringBoot uniapp 优惠券 vip会员等级  点餐
+https://github.com/iotechn/unimall
+1. b2c商城 这个比较完善。又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端
+https://github.com/linlinjava/litemall
+1. b2c商城 Dubbo/SSM/Elasticsearch/Redis/MySQL/ActiveMQ/Shiro/Zookeeper vue 小程序 基于SOA架构的分布式电商购物商城 前后端分离 前台商城:Vue全家桶 后台管理系统:Dubbo/SSM/Elasticsearch/Redis/MySQL/ActiveMQ/Shiro/Zookeeper等 http://xmall.exrick.cn
+https://github.com/Exrick/xmall
+https://github.com/Exrick/xmall-weapp
 
 # 一个开源的室内设计 3D 软件
 http://www.sweethome3d.com/
