@@ -60,6 +60,8 @@ https://github.com/Jack-Cherish/Machine-Learning
 https://github.com/apachecn/pyda-2e-zh
 1. YOLO v3 目标检测算法 源码
 https://github.com/SpikeKing/keras-yolo3-detection
+1. 利用YOLOv3结合行人重识别模型，实现行人的检测识别，查找特定行人
+https://github.com/songwsx/person_search_demo
 1. 机器人视觉 移动机器人 VS-SLAM ORB-SLAM2 深度学习目标检测 yolov3 行为检测 opencv PCL 机器学习 无人驾驶
 https://github.com/Ewenwan/MVision
 1. 为 TF 2017 打造的新版可视化教学代码 可视化的教程

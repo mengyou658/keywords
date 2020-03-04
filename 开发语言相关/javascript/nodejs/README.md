@@ -75,6 +75,9 @@ https://github.com/mengyou658/nideshop-mini-program
 https://github.com/mengyou658/nideshop
 1. 奇舞团抽奖 node 
 https://github.com/75team/raffle
+1. 一个可以自己架设的 Youtube 替代品，可以上传视频在网页观看，基于 Node.js
+https://github.com/mayeaux/nodetube
+1. 
 1. 
 
 ### 测试
@@ -100,6 +103,8 @@ https://github.com/neonious/lowjs
 https://github.com/apifytech/apify-js
 1. A little dashboard that tries to take care of you when you're using your terminal
 https://github.com/notwaldorf/tiny-care-terminal
+1. 一个命令行工具，使用公钥/私钥对文件进行解密和加密，用法很简单
+https://github.com/FiloSottile/age
 
 ### 进程管理 保证进程永远执行 类似 supervisor forever
 1. 进程管理 保证进程永远执行 类似 supervisor forever

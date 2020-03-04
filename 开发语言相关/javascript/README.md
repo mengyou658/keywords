@@ -467,6 +467,8 @@ https://tableconvert.com/
 https://github.com/checkly/puppeteer-recorder
 1. 页面展示数学公式
 https://www.mathjax.org/
+1. 将打印的数学公式转成 LaTex 代码的工具
+https://mathpix.com/
 
 ###  #   文件上传
 1.  新一代的文件上传组件 Uppy is a sleek, modular file uploader that integrates seemlessly with any application. It’s fast, easy to use and lets you worry about more important problems than building a file uploader.
