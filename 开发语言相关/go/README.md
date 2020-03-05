@@ -4,7 +4,8 @@ https://github.com/mengyou658/keywords/tree/master/%E5%BC%80%E5%8F%91%E8%AF%AD%E
 ### 环境
 windows对应的设置环境变量即可
 ```cmd
-export GOPROXY=https://goproxy.io
+# 推荐使用 goproxy.cn  由七牛云提供(只需设置一次)
+go env -w GOPROXY=https://goproxy.cn,direct
 # 可以不开启module，大部分go老模块不支持
 export GO111MODULE=on
 export all_proxy=https://goproxy.io
