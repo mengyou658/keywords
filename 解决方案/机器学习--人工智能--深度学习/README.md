@@ -319,7 +319,8 @@ https://github.com/649453932/Chinese-Text-Classification-Pytorch
 https://github.com/CasterWx/python-girlfriend-mood
 1. 自然语言处理入门练习
 https://github.com/FudanNLP/nlp-beginner
-
+1. 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M
+https://github.com/ouyanghuiyu/chineseocr_lite
 # 数据分析/数据可视化
 1.
 1.
