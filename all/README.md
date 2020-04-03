@@ -46,7 +46,8 @@ https://github.com/mengyou658/build-your-own-x
 1. https://github.com/sorrycc/awesome-javascript
 1. https://github.com/ChristosChristofidis/awesome-deep-learning
 1. https://github.com/Solido/awesome-flutter
-
+1. 🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！（武汉加油！中国加油！世界加油！）
+https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts
 ### 面试
 1. 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点
 https://github.com/haizlin/fe-interview

@@ -354,6 +354,8 @@ https://github.com/chinese-poetry/chinese-poetry
 https://github.com/pwxcoo/chinese-xinhua
 1. 中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据 Node.js 爬虫。
 https://github.com/modood/Administrative-divisions-of-China
+1. 省市区县乡镇三级或四级城市数据，带拼音标注、坐标、行政区域边界范围；2020年03月09日最新采集，综合了中华人民共和国民政部、国家统计局、高德地图、腾讯地图行政区划数据；提供csv格式文件，支持在线转成多级联动js代码、通用json格式；带浏览器里面运行的js采集源码 https://xiangyuecn.github.io/AreaCity…
+https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov
 1. 链家二手房爬取数据
 https://github.com/XuefengHuang/lianjia-scrawler
 1. CVPR2019的数据集和代码库“在密集场景中进行精确检测”
