@@ -1,8 +1,12 @@
 # keywords
 搜索关键词,你可以把项目clone下来，然后搜索你能想到的关键词，指不定就找到了
 
+# 主要关注
+1. Java 虽作为最流行的编程语言之一
+https://github.com/cxxr/better-java/blob/master/README.zh-cn.md
+1. GitHub中文排行榜
+https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts
 # 最近尝试/学习
-
 1. 微积分中文版本
 https://github.com/apachecn/calc4b-zh
 1. 微积分英文版本翻译
@@ -20,10 +24,6 @@ https://www.bilibili.com/video/av9770302/
 1. 学习 翻译 
 Systems Performance Enterprise and the Cloud
 1. redis源码，学习c和c++
-
-# 机器学习
-1.  💎 1MB轻量级通用人脸检测模型 Pytorch1.2
-https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB
 
 # 操作系统 linux 学习
 1. 一个用于实验和教学目的的操作系统，从零开始实现

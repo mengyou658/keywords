@@ -321,6 +321,8 @@ https://github.com/CasterWx/python-girlfriend-mood
 https://github.com/FudanNLP/nlp-beginner
 1. 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M
 https://github.com/ouyanghuiyu/chineseocr_lite
+1. ansj分词.ict的真正java实现.分词效果速度都超过开源版的ict. 中文分词,人名识别,词性标注,用户自定义词典
+https://github.com/NLPchina/ansj_seg
 # 数据分析/数据可视化
 1.
 1.
