@@ -12,7 +12,8 @@ https://github.com/d2l-ai/d2l-zh
 https://github.com/extreme-assistant/cvpr2019
 1. 深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）
 https://github.com/amusi/Deep-Learning-Interview-Book
-1.
+1. AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
+https://github.com/apachecn/AiLearning
 1.
 1.
 
