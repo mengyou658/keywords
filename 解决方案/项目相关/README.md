@@ -587,6 +587,8 @@ https://github.com/mengyou658/english-level-up-tips-for-chinese-programmers-and-
 
 
 # OA
+1. 智能办公OA系统[SpringBoot2-快速开发平台]，适用于医院，学校，中小型企业等机构的管理。Activiti5.22+动态表单实现零java代码即可做到复杂业务的流程实施，同时包含文件在线操作、日志、考勤、CRM、ERP进销存
+https://github.com/weizhiqiang1995/skyeye 非前后端分离，暂时没有尝试
 https://github.com/mengyou658/yimioa 代码比较老，但是还是很全面的
 https://gitee.com/youqiongwang/yqoas.git
 https://gitee.com/rainrock/xinhu.git
@@ -959,3 +961,7 @@ https://github.com/eip-work/kuboard-press
 # 百度云
 1. 下载工具
 https://github.com/0-01/0
+
+
+# java 动态表单 在线表单设计
+1. https://github.com/hs-web/hsweb-easy-orm
