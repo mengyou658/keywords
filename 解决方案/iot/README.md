@@ -32,5 +32,6 @@ https://github.com/jetlinks/jetlinks-community
 1. 
 
 ### 工具
-1. 
+1. 物联网安全资源的精选列表 https://iotsecurity101.org/
+https://github.com/V33RU/IoTSecurity101
 1. 

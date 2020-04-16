@@ -365,6 +365,8 @@ https://github.com/mengyou658/DeepPavlov
 https://github.com/zulip/zulip
 1. Pluggable WebRTC communication platform p2p 聊天
 https://github.com/vialer/vialer-js
+1. p2p 视频聊天
+https://github.com/ianramzy/decentralized-video-chat
 1. WebRTC API
 https://github.com/pion/webrtc
 1. tarRTC，即时通讯(IM)系统，免费IM系统（含单聊，群聊，聊天室，文件传输），免费一对一视频聊天，VOIP，语音对讲（回音消除），直播连麦，视频直播，RTSP拉流，RTMP推流，webRTC服务端，在线教育，白板，小班课，在线会议，视频会议，视频监控，局域网直连（无需服务器），兼容webRTC, 支持webRTC加速，P2P高清传输，安卓、iOS、web互通，支持门禁对讲，可视对讲，电视盒子，树莓派，海思，全志，任天堂switch，云游戏，OTT设备，物联网平台，C语言自研方案，支持二次开发成类微信，类映客等APP，✨万水千山总是情，来个star行不行✨，更多示例请访问： https://docs.starrtc.com/en/download/
@@ -965,3 +967,8 @@ https://github.com/0-01/0
 
 # java 动态表单 在线表单设计
 1. https://github.com/hs-web/hsweb-easy-orm
+
+
+# git 加密 解密 仓库
+1. http://www.manongjc.com/detail/12-xmaezltrwivxanm.html
+1. https://www.jianshu.com/p/a40fc90df943
