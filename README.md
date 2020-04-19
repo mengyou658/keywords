@@ -7,6 +7,8 @@ https://github.com/cxxr/better-java/blob/master/README.zh-cn.md
 1. GitHub中文排行榜
 https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts
 # 最近尝试/学习
+1. 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why. https://labuladong.gitbook.io/algo/
+https://github.com/labuladong/fucking-algorithm
 1. 微积分中文版本
 https://github.com/apachecn/calc4b-zh
 1. 微积分英文版本翻译
@@ -42,7 +44,9 @@ https://morvanzhou.github.io/tutorials/data-manipulation/plt/
 http://zh.d2l.ai/chapter_prerequisite/ndarray.html
 
 # 其他学习
-https://github.com/MisterBooo/LeetCodeAnimation
+1. 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why. https://labuladong.gitbook.io/algo/
+https://github.com/labuladong/fucking-algorithm
+1. https://github.com/MisterBooo/LeetCodeAnimation
 1. Interactive Online Platform that Visualizes Algorithms from Code
 https://github.com/algorithm-visualizer/algorithm-visualizer
 1. 数据结构可视化 该网站收集各种数据结构，并将它们用可视化的形式表现出来
