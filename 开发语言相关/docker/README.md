@@ -12,6 +12,9 @@
 ### 教程/文章/小抄/规范/记事
 1. 开发者必备Docker命令
 https://macrozheng.github.io/mall-learning/#/reference/docker
+1. Docker 镜像构建教程：减小镜像体积
+https://fuckcloudnative.io/posts/docker-images-part1-reducing-image-size/
+1. 
 1. 
 
 ### 实用 库/模块/框架

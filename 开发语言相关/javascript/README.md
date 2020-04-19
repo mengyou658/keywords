@@ -255,6 +255,8 @@ https://github.com/liriliri/licia
 https://github.com/KilledByAPixel/JSONCrush
 1. p2p 视频聊天
 https://github.com/ianramzy/decentralized-video-chat
+1. p2p 介绍
+https://luyuhuang.github.io/2020/03/06/dht-and-p2p.html
 1. 「能不能好好说话？」 拼音首字母缩写翻译工具
 https://github.com/itorr/nbnhhsh
 1. 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )

@@ -972,3 +972,14 @@ https://github.com/0-01/0
 # git 加密 解密 仓库
 1. http://www.manongjc.com/detail/12-xmaezltrwivxanm.html
 1. https://www.jianshu.com/p/a40fc90df943
+
+# mindmap 脑图
+1. https://github.com/drichard/mindmaps
+1. 一个将 Markdown 转为思维导图的开源工具 https://markmap.js.org/
+
+# 安全令牌的数据格式 jwt
+1. jwt
+1. https://branca.io/
+1. https://paseto.io/
+
+
