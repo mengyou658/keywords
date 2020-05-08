@@ -170,6 +170,8 @@ spring-boot-plus
 1. 
 
 ### 工具 性能监控
+1. javaagent是一个简单优雅的java agent,利用java自带的instrument特性+javassist字节码编辑技术，实现了无侵入的方法级性能监控。相比于NewRelic或者开源的pinpoint,以及阿里的arthas,本工具主打的是简单，我们只记录每个方法的执行次数和时间，并输出到json格式的日志文件中
+https://github.com/dingjs/javaagent
 1.  是Alibaba开源的Java诊断工具 java优化 java内存诊断 性能 监控
 https://github.com/alibaba/arthas
 1. 一个针对高并发、低延迟应用设计的高性能 Java 性能监控和统计工具。

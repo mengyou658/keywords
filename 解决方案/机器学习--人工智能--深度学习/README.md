@@ -215,6 +215,12 @@ https://github.com/NVlabs/stylegan2
 https://github.com/a312863063/seeprettyface-generator-wanghong
 1. Implementation EfficientDet: Scalable and Efficient Object Detection in PyTorch 图像识别
 https://github.com/toandaominh1997/EfficientDet.Pytorch
+1. 一个 Tensorflow 的算法实现，可以通过机器学习，将一片漆黑的照片（最左侧）还原成有光时的样子（最右侧）。
+https://github.com/cchen156
+1. 一个开源软件，只需要提供一张头像照片，就可以生成人物开口讲话的视频。
+https://github.com/alievk/avatarify
+1. 使用AR剪切并粘贴周围的环境
+https://github.com/cyrildiagne/ar-cutpaste
 1.
 1.
 1.
@@ -242,6 +248,9 @@ https://github.com/facebookresearch/hiplot
 ![hiplot png](resources/hiplot.png)
 
 ### 工具
+1. Learning Convolutional Neural Networks with Interactive Visualization. 以可视化的形式来训练和调参机器学习
+https://github.com/poloclub/cnn-explainer
+![convlayer_overview_demo.gif](resources/convlayer_overview_demo.gif)
 1.  💎 1MB轻量级通用人脸检测模型 Pytorch1.2
 https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB
 1. Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code.一个不用写代码就可以训练和测试模型的数据
@@ -270,6 +279,7 @@ https://github.com/heucoder/dimensionality_reduction_alo_codes
 https://mlroadmap.com/algosuggest/
 1. AutoGluon: AutoML Toolkit for Deep Learning 深度学习 工具包 
 https://github.com/awslabs/autogluon
+1.
 1.
 1.
 1.

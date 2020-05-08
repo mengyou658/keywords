@@ -66,6 +66,8 @@ https://github.com/mengyou658/json-server
 https://github.com/mengyou658/Docusaurus
 1. Sqorn is a Javascript library for building SQL queries.
 https://github.com/lusakasa/sqorn
+1. a lighter, faster browser kernel of blink to integrate HTML UI in your app. 一个小巧、轻量的浏览器内核，用来取代wke和libcef
+https://github.com/weolar/miniblink49
 1. 
 
 ### 完整项目/示例/demo/代码片段
