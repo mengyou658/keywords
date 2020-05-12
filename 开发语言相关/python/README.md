@@ -94,6 +94,7 @@ https://github.com/ucbrise/confluo
 1. 
 1. 
 1. 
+1. 
 
 ### 完整项目/示例/demo/代码片段
 1. machine learning algorithm with pure python which let pramgramer learn easily; 机器学习算法代码库
@@ -108,6 +109,8 @@ https://github.com/Jack-Cherish/python-spider
 https://github.com/youseries/ureport
 1. 邱威傑市民服務系統 https://service.froggychiu.com Project setup using cookiecutter-django-vue
 https://github.com/FroggyTaipei/froggy-service
+1. 验证码研究破解心得记录。包含网易易盾，阿里云验证码，极验验证码等主流验证码破解。包含点按验证码、点选验证、语序点选等等。已更新极验验证码、企业公示网采集心得。
+https://github.com/huaiyukeji/verification_code
 1. 
 1. 
 

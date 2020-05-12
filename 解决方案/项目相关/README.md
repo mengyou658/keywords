@@ -174,6 +174,8 @@ https://github.com/Mr-xn/BurpSuite-collections
 https://github.com/Dm2333/ATTCK-PenTester-Book
 1. OneForAll是一款功能强大的子域收集工具 https://hackfun.org/OneForAll/ 在渗透测试中信息收集的重要性不言而喻，子域收集是信息收集中必不可少且非常重要的一环，目前网上也开源了许多子域收集的工具
 https://github.com/shmilylty/OneForAll
+1. Mars(战神)——资产发现、子域名枚举、C段扫描、资产变更监测、端口变更监测、域名解析变更监测、Awvs扫描、POC检测、web指纹探测、端口指纹探测、CDN探测、操作系统指纹探测、泛解析探测、WAF探测、敏感信息检测等等
+https://github.com/TideSec/Mars
 1. 
 1. 
 1. 

@@ -14,6 +14,8 @@ https://github.com/extreme-assistant/cvpr2019
 https://github.com/amusi/Deep-Learning-Interview-Book
 1. AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
 https://github.com/apachecn/AiLearning
+1. 可解释的机器学习--黑盒模型可解释性理解指南
+https://github.com/MingchaoZhu/InterpretableMLBook
 1.
 1.
 
