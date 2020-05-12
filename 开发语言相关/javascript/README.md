@@ -368,6 +368,10 @@ https://github.com/SeleniumHQ/selenium
 1. 
 
 ###   UI
+1. ui设计列表 Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+https://github.com/bradtraversy/design-resources-for-developers
+1. 
+https://uidesigndaily.com/
 1. ui 列表
 https://github.com/JetBrains/ring-ui
 1. layer ui (经常使用的一个简单的前端UI框架)

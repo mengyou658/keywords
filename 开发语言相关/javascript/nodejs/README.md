@@ -79,6 +79,8 @@ https://github.com/mengyou658/nideshop
 https://github.com/75team/raffle
 1. 一个可以自己架设的 Youtube 替代品，可以上传视频在网页观看，基于 Node.js
 https://github.com/mayeaux/nodetube
+1. 免费桌面记账等功能软件
+https://github.com/frappe/books
 1. 
 1. 
 

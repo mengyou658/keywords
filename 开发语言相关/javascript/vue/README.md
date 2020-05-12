@@ -30,6 +30,8 @@ https://github.com/DivanteLtd/vue-storefront
 https://github.com/PeachScript/vue-infinite-loading
 1. vue 组件效果，包括按钮，输入框的动画效果，直接点击即可获取vue代码 Beautifully simple click-to-copy CSS effects
 https://github.com/jolaleye/cssfx
+1. vue-element-admin 是一个后台前端解决方案
+https://github.com/PanJiaChen/vue-element-admin
 1. 
 
 ### 完整项目/示例/demo/代码片段

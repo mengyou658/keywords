@@ -172,6 +172,8 @@ https://github.com/trimstray/the-book-of-secret-knowledge
 https://github.com/Mr-xn/BurpSuite-collections
 1. ATTCK-PenTester-Book 由DeadEye安全团队根据ATT&CK知识体系编制出长达400页的渗透手册已经全部完成。现将该手册发放给大家，希望大家在即将到来的播种季节播种知识的种子，等待年底收获满满！！！
 https://github.com/Dm2333/ATTCK-PenTester-Book
+1. OneForAll是一款功能强大的子域收集工具 https://hackfun.org/OneForAll/ 在渗透测试中信息收集的重要性不言而喻，子域收集是信息收集中必不可少且非常重要的一环，目前网上也开源了许多子域收集的工具
+https://github.com/shmilylty/OneForAll
 1. 
 1. 
 1. 
@@ -329,6 +331,8 @@ https://github.com/trimstray/nginx-admins-handbook
 
 
 # IM 聊天 chat
+1. 免费的
+keybase
 1. CIM(CROSS-IM) 一款面向开发者的 IM(即时通讯)系统；同时提供了一些组件帮助开发者构建一款属于自己可水平扩展的 IM 。
   借助 CIM 你可以实现以下需求：
   IM 即时通讯系统。

@@ -221,6 +221,9 @@ https://github.com/cchen156
 https://github.com/alievk/avatarify
 1. 使用AR剪切并粘贴周围的环境
 https://github.com/cyrildiagne/ar-cutpaste
+1. Pose Animator takes a 2D vector illustration and animates its containing curves in real-time based on the recognition result from PoseNet and FaceMesh. It borrows the idea of skeleton-based animation from computer graphics and applies it to vector characters.
+![poseanmi.jpg](resources/poseanmi.jpg) 人脸动作转换成动画
+https://github.com/yemount/pose-animator
 1.
 1.
 1.
@@ -334,6 +337,8 @@ https://github.com/FudanNLP/nlp-beginner
 https://github.com/ouyanghuiyu/chineseocr_lite
 1. ansj分词.ict的真正java实现.分词效果速度都超过开源版的ict. 中文分词,人名识别,词性标注,用户自定义词典
 https://github.com/NLPchina/ansj_seg
+
+
 # 数据分析/数据可视化
 1.
 1.
