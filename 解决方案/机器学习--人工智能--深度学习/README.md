@@ -63,6 +63,8 @@ https://github.com/Jack-Cherish/Machine-Learning
 https://github.com/apachecn/pyda-2e-zh
 1. YOLO v3 目标检测算法 源码
 https://github.com/SpikeKing/keras-yolo3-detection
+1. Detectron2 is FAIR's next-generation platform for object detection and segmentation. 目标检测算法
+https://github.com/facebookresearch/detectron2
 1. 利用YOLOv3结合行人重识别模型，实现行人的检测识别，查找特定行人
 https://github.com/songwsx/person_search_demo
 1. 机器人视觉 移动机器人 VS-SLAM ORB-SLAM2 深度学习目标检测 yolov3 行为检测 opencv PCL 机器学习 无人驾驶
@@ -232,9 +234,34 @@ https://github.com/yemount/pose-animator
 1.
 1.
 
-### 完整项目/示例/demo/代码片段
+### 现成解决方案/完整项目/示例/demo/代码片段
 1. CV算法复现
 https://github.com/bbaibowen/computer-vision
+1. MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web. 
+现成的解决方案：包括，人脸检测，
+* [Face Detection人脸识别](mediapipe/docs/face_detection_mobile_gpu.md) [(web demo)](https://viz.mediapipe.dev/runner/demos/face_detection/face_detection.html)
+* [Face Mesh人脸合成](mediapipe/docs/face_mesh_mobile_gpu.md)
+* [Hand Detection手识别](mediapipe/docs/hand_detection_mobile_gpu.md)
+* [Hand Tracking手追踪](mediapipe/docs/hand_tracking_mobile_gpu.md) [(web demo)](https://viz.mediapipe.dev/runner/demos/hand_tracking/hand_tracking.html)
+* [Multi-hand Tracking多手追踪](mediapipe/docs/multi_hand_tracking_mobile_gpu.md)
+* [Hair Segmentation头发分割](mediapipe/docs/hair_segmentation_mobile_gpu.md) [(web demo)](https://viz.mediapipe.dev/runner/demos/hair_segmentation/hair_segmentation.html)
+* [Object Detection物体识别](mediapipe/docs/object_detection_mobile_gpu.md)
+* [Object Detection and Tracking物体识别和追踪](mediapipe/docs/object_tracking_mobile_gpu.md)
+* [Objectron: 3D Object Detection and Tracking3D对象检测和跟踪](mediapipe/docs/objectron_mobile_gpu.md)
+* [AutoFlip: Intelligent Video Reframing智能视频重帧](mediapipe/docs/autoflip.md)
+* [KNIFT: Template Matching with Neural Image Features具有神经图像特征的模板匹配](mediapipe/docs/template_matching_mobile_cpu.md)
+
+![face_detection](resources/mediapipe/face_detection_android_gpu_small.gif)
+![face_mesh](resources/mediapipe/face_mesh_android_gpu_small.gif)
+![hand_tracking](resources/mediapipe/hand_tracking_android_gpu_small.gif)
+![multi-hand_tracking](resources/mediapipe/multi_hand_tracking_3d_android_gpu_small.gif)
+![hair_segmentation](resources/mediapipe/hair_segmentation_android_gpu_small.gif)
+![object_detection](resources/mediapipe/object_detection_android_gpu_small.gif)
+![object_tracking](resources/mediapipe/object_tracking_android_gpu_small.gif)
+![objectron_shoes](resources/mediapipe/objectron_shoe_android_gpu_small.gif)
+![objectron_chair](resources/mediapipe/objectron_chair_android_gpu_small.gif)
+![template_matching](resources/mediapipe/template_matching_android_cpu_small.gif)
+https://github.com/google/mediapipe
 1.
 
 ### 测试

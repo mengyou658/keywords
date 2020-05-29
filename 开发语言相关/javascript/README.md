@@ -382,6 +382,8 @@ https://github.com/mengyou658/layui
 https://github.com/mengyou658/cube-ui
 1. 基于jQuery，针对PC网站，兼容IE7+（modern主题）或IE8+（peak主题）的前端UI框架
 https://github.com/yued-fe/lulu
+1. 更细粒度的css 框架规则，每一个属性都是一个css类
+https://github.com/mertJF/tailblocks
 
 ###   可伸缩布局方案
 1. amfe-flexible 
@@ -475,6 +477,10 @@ https://github.com/pirate/ArchiveBox
 1. Generate basic CSS Grid code to make dynamic layouts css layout生成工具 直接复制代码 https://cssgrid-generator.netlify.com/
 https://github.com/sdras/cssgridgenerator
 1. 一个网页工具，可以将 ASCII 字符的公式转为数学字体显示
+1. Free Desktop book-keeping software for small-businesses and freelancers 桌面工具
+https://github.com/frappe/books
+
+
 ![](imgs/bg2019053002.jpg)
 http://asciimath.org/
 1. 一个网页工具，可以在线表格转成 Markdown、JSON、HTML、XML、YAML 等数据格式，并支持格式之间互相转化
