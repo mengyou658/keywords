@@ -16,8 +16,20 @@ https://github.com/amusi/Deep-Learning-Interview-Book
 https://github.com/apachecn/AiLearning
 1. 可解释的机器学习--黑盒模型可解释性理解指南
 https://github.com/MingchaoZhu/InterpretableMLBook
-1.
-1.
+
+
+### 新手入门项目
+1. 一款优秀入门级 AI 项目以及教程，内容涵盖：人脸、视频、文字的检测和识别。他不仅包含最基本的人脸检测、识别（图片、视频）、轮廓标识、头像合成（给人戴帽子），还有表情识别（生气、厌恶、恐惧等）、视频对象提取、图片修复（可用于水印去除）、图片自动上色等等。推荐这个开源项目不是因为它的内容强大，而是它的教程写的实在太好了，真 · 入门级。手把手教你如何使用这个项目，做出上述功能来。在每篇功能文章的教程里，不仅仅写了每个功能的技术实现方案，还有具体重点关键代码的注释和解释以及具体实现，让你非常轻松的能够看懂、学习和使用。对于想要入门或者了解机器学习的初学者不能再友好了。
+https://github.com/vipstone/faceai
+1. 完整的目标检测项目。结构简洁明了，中文注释。适宜新手入门、目标检测任务参考，甚至直接基于本项目实现目标检测任务。
+https://github.com/yatengLG/SSD-Pytorch
+1. 该项目使用 Python 实现了 11 种经典的数据抽取（数据降维）算法。同时附有相关资料、展示效果，适用于机器学习初学者和刚刚入坑数据挖掘的小伙伴
+https://github.com/heucoder/dimensionality_reduction_alo_codes
+1. 一个包含基础教程、提高参考资料、有趣实践项目的 PyTorch 教程。
+https://github.com/Eurus-Holmes/LIS-YNP
+1. 
+1. 
+1. 
 
 ### cheatsheet 备忘录
 1.
@@ -228,7 +240,13 @@ https://github.com/cyrildiagne/ar-cutpaste
 1. Pose Animator takes a 2D vector illustration and animates its containing curves in real-time based on the recognition result from PoseNet and FaceMesh. It borrows the idea of skeleton-based animation from computer graphics and applies it to vector characters.
 ![poseanmi.jpg](resources/poseanmi.jpg) 人脸动作转换成动画
 https://github.com/yemount/pose-animator
-1.
+1. 将图片转成卡通图像
+https://github.com/minivision-ai/photo2cartoon
+1. 中文文本纠错工具。音似、形似错字（或变体字）纠正，可用于中文拼音、笔画输入法的错误纠正。依据语言模型检测错别字位置，通过拼音音似特征、笔画五笔编辑距离特征及语言模型困惑度特征纠正错别字。解决了在文本识别模型处理后，对识别结果中个别词汇错误进行纠错
+https://github.com/shibing624/pycorrector
+1. comma.ai 开源的自动驾驶系统
+https://github.com/commaai/openpilot
+1. 
 1.
 1.
 1.
@@ -311,7 +329,15 @@ https://github.com/heucoder/dimensionality_reduction_alo_codes
 https://mlroadmap.com/algosuggest/
 1. AutoGluon: AutoML Toolkit for Deep Learning 深度学习 工具包 
 https://github.com/awslabs/autogluon
-1.
+1. 一个包含计算机视觉、自然语言处理领域的诸多经典模型的聚合中心。
+https://github.com/pytorch/hub
+1. Facebook 开源的 PyTorch 版本的 Mask-RCNN。研究人员可以按照教程、示例代码逐步进行实现
+![maskrcnn-benchmark.png](resources/maskrcnn-benchmark.png)
+https://github.com/facebookresearch/maskrcnn-benchmark
+1. 
+1. 
+1. 
+1. 
 1.
 1.
 1.
@@ -366,6 +392,12 @@ https://github.com/FudanNLP/nlp-beginner
 https://github.com/ouyanghuiyu/chineseocr_lite
 1. ansj分词.ict的真正java实现.分词效果速度都超过开源版的ict. 中文分词,人名识别,词性标注,用户自定义词典
 https://github.com/NLPchina/ansj_seg
+1. 简单易用的文本分类器。适用多种语言，自带两个预训练模型，使用预训练模型进行分类只需一行代码。使用自己的数据集进行定制训练也只需要十行代码。轻松达到高精确率，召回率。同时该库支持自定义分词算法、分类算法等。
+https://github.com/Windsooon/cherry
+1. 海量中文预训练 ALBERT 模型
+https://github.com/brightmart/albert_zh
+1. 中文自然语言处理数据集
+https://github.com/InsaneLife/ChineseNLPCorpus
 
 
 # 数据分析/数据可视化
