@@ -987,3 +987,14 @@ https://github.com/0-01/0
 1. jwt
 1. https://branca.io/
 1. https://paseto.io/
+
+
+# BI(Business Intelligence)商务智能 用来帮助企业更好地利用数据提高决策质量的技术集合，是从大量的数据中钻取信息与知识的过程
+1. superset
+https://github.com/apache/incubator-superset
+1. Actively curated list of awesome BI tools. PRs welcome! 
+https://github.com/thenaturalist/awesome-business-intelligence
+1. 数据可视化等等
+https://github.com/shzlw/poli
+1. 数据可视化，只能用数据库作为数据源
+https://www.metabase.com/start/other.html

@@ -21,6 +21,8 @@ https://github.com/jobbole/awesome-c-cn
 1. 
 
 ### 教程/文章/小抄/规范/记事
+1. C++那些事 https://light-city.club/sc/
+https://github.com/Light-City/CPlusPlusThings
 1. C 语言资源大全中文版
 https://github.com/jobbole/awesome-c-cn
 1. cpp c++C++ 资源大全中文版，标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等

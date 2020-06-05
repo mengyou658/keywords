@@ -16,6 +16,12 @@ https://github.com/dyc87112/SpringBoot-Learning
 https://github.com/forezp/SpringCloudLearning
 1. To Be Top Javaer - Java工程师成神之路
 https://github.com/hollischuang/toBeTopJavaer
+1. 从Java基础、JavaWeb基础到常用的框架再到面试题都有完整的教程，几乎涵盖了Java后端必备的知识点
+https://github.com/ZhongFuCheng3y/3y
+1. 【Java面试+Java后端技术学习指南】：一份通向理想互联网公司的面试指南，包括 Java，技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、分布式、数据库（MySQL、Redis）、Java 项目实战等
+https://github.com/OUYANGSIHAI/JavaInterview
+1. 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
+https://github.com/YunaiV/SpringBoot-Labs
 1. 
 1. 
 1. 

@@ -54,6 +54,8 @@ https://github.com/cch123/golang-notes
 https://github.com/facebookincubator/ent
 1. The fantastic ORM library for Golang, aims to be developer friendly 
 https://github.com/jinzhu/gorm
+1. Jupiter是douyu开源的面向服务治理的Golang微服务框架 
+https://github.com/douyu/jupiter
 1. 
 1. 
 1. 
