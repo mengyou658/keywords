@@ -324,3 +324,9 @@ https://github.com/mengyou658/surge
 
 # chromium源码阅读
 https://www.cnblogs.com/danxi/p/7020375.html
+
+
+
+# GG大玩家游戏
+
+https://github.com/lavendnigth/mod.git

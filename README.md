@@ -1,5 +1,8 @@
 # keywords
-搜索关键词,你可以把项目clone下来，然后搜索你能想到的关键词，指不定就找到了
+搜索关键词，你可以把项目clone下来，然后搜索你能想到的关键词，指不定就找到了，没有目录哟
+
+# idea 破解
+https://github.com/imgVOID/jetbrains-license-2020.git
 
 # 主要关注
 1. Java 虽作为最流行的编程语言之一
@@ -28,51 +31,48 @@ Systems Performance Enterprise and the Cloud
 1. redis源码，学习c和c++
 
 # 操作系统 linux 学习
-1. 一个用于实验和教学目的的操作系统，从零开始实现
-https://github.com/CasterWx/AntzOS
-1.  Linux 内核揭密
-https://github.com/MintCN/linux-insides-zh
-1. Container Runtime Sandbox go语言实现的沙箱,实现了linux大部分的功能
-https://github.com/google/gvisor
-1. 使用rust 从头开发一个操作系统
-https://github.com/phil-opp/blog_os
+1. [一个用于实验和教学目的的操作系统，从零开始实现https://github.com/CasterWx/AntzOS](https://github.com/CasterWx/AntzOS)
+1. [Linux 内核揭密https://github.com/MintCN/linux-insides-zh](https://github.com/MintCN/linux-insides-zh)
+1. [Container Runtime Sandbox go语言实现的沙箱,实现了linux大部分的功能
+https://github.com/google/gvisor](https://github.com/google/gvisor)
+1. [使用rust 从头开发一个操作系统
+https://github.com/phil-opp/blog_os](https://github.com/phil-opp/blog_os)
 
 # 已经完毕
-1. 学习Matplotlib 画图
-https://morvanzhou.github.io/tutorials/data-manipulation/plt/
-1. 动手学深度学习
-http://zh.d2l.ai/chapter_prerequisite/ndarray.html
+1. [学习Matplotlib 画图
+https://morvanzhou.github.io/tutorials/data-manipulation/plt/](https://morvanzhou.github.io/tutorials/data-manipulation/plt/)
+1. [动手学深度学习
+http://zh.d2l.ai/chapter_prerequisite/ndarray.html](http://zh.d2l.ai/chapter_prerequisite/ndarray.html)
 
 # 其他学习
-1. 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why. https://labuladong.gitbook.io/algo/
-https://github.com/labuladong/fucking-algorithm
-1. https://github.com/MisterBooo/LeetCodeAnimation
-1. Interactive Online Platform that Visualizes Algorithms from Code
-https://github.com/algorithm-visualizer/algorithm-visualizer
-1. 数据结构可视化 该网站收集各种数据结构，并将它们用可视化的形式表现出来
-https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
-1. https://github.com/mengyou658/build-your-own-x
-1. lodash 东西多，需要多学学
-1. https://github.com/MachineLP/Tensorflow-
-1. 如何用 Kotlin 重构 Java 应用程序
-1. https://github.com/mengyou658/every-programmer-should-know
+1. [手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why. https://labuladong.gitbook.io/algo/
+https://github.com/labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm)
+1. [LeetCode解题动画使用动画的形式呈现解 LeetCode 题目的思路https://github.com/MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
+1. [算法动画形式展现Interactive Online Platform that Visualizes Algorithms from Code
+https://github.com/algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
+1. [数据结构可视化 该网站收集各种数据结构，并将它们用可视化的形式表现出来
+https://www.cs.usfca.edu/~galles/visualization/Algorithms.html](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+1. [LeetCodehttps://github.com/mengyou658/awesome-java-leetcode](LeetCodehttps://github.com/mengyou658/awesome-java-leetcode)
+1. [创建自己的系统https://github.com/mengyou658/build-your-own-x](https://github.com/mengyou658/build-your-own-x)
+1. lodash
+1. [tensorflow学习教程https://github.com/MachineLP/Tensorflow-](https://github.com/MachineLP/Tensorflow-)
+1. [计算机行业须知https://github.com/mengyou658/every-programmer-should-know](https://github.com/mengyou658/every-programmer-should-know)
+1. [计算机科学速成课 https://github.com/1c7/crash-course-computer-science-chinese](https://github.com/1c7/crash-course-computer-science-chinese)
 
 
-### 使用动画的形式呈现解 LeetCode 题目的思路
+### 
 ### 利用Android AccessibilityService 实现自动加好友，拉人进群聊
 https://github.com/coder-pig/WechatHelper
 
-### 计算机科学速成课 https://github.com/1c7/crash-course-computer-science-chinese
 
-
-# 大公司团队开源项目
+### 大公司团队开源项目
 https://github.com/niezhiyang/open_source_team
 
 
-# api security (API设计列表)
+### api security (API设计列表)
 1. https://github.com/shieldfy/API-Security-Checklist
 
-# 现成的页面设计模块
+### 现成的页面设计模块
 1. A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites. 直接挑选看中的模板，下载代码即可使用
 https://github.com/mengyou658/design-blocks
 1. xadmin
@@ -83,16 +83,9 @@ https://github.com/mengyou658/iview-admin
 1. https://github.com/alibaba/ice
 
 
-# 计算机 论文 Papers We Love (PWL) is a community built around reading, discussing and learning more about academic computer science papers
+### 计算机 论文 Papers We Love (PWL) is a community built around reading, discussing and learning more about academic computer science papers
 https://github.com/mengyou658/papers-we-love
 
 
 
-# LeetCode
-https://github.com/mengyou658/awesome-java-leetcode
 
-# gitlab公司政策手册
-https://about.gitlab.com/handbook/ Gitlab 将公司的所有内部政策，做成一份2000页的手册，公开在网上，以做到"透明公司"的承诺。
-
-# GG大玩家游戏
-https://github.com/lavendnigth/mod.git
