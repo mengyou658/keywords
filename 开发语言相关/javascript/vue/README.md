@@ -34,6 +34,14 @@ https://github.com/jolaleye/cssfx
 https://github.com/PanJiaChen/vue-element-admin
 1. 
 
+##### 低代码 动态表单 form 前端开发框架
+1. avuejs
+1. evuejs
+1. 前端低代码框架，通过 JSON 配置就能生成各种后台页面。
+https://github.com/baidu/amis
+1. 易用的跨组件体系的表单渲染引擎 - 通过 JSON Schema 快速生成自定义表单配置界面
+https://github.com/alibaba/form-render
+
 ### 完整项目/示例/demo/代码片段
 1. 
 
@@ -48,6 +56,8 @@ https://github.com/PanJiaChen/vue-element-admin
 https://github.com/uileader/touchui
 1. vue 组件
 https://github.com/vuetifyjs/vuetify
+1. uView UI，是uni-app生态最优秀的UI框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水
+https://github.com/YanxinNet/uView
 1. 
 
 ### 工具

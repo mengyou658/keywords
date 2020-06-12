@@ -109,6 +109,8 @@ https://github.com/apifytech/apify-js
 https://github.com/notwaldorf/tiny-care-terminal
 1. 一个命令行工具，使用公钥/私钥对文件进行解密和加密，用法很简单
 https://github.com/FiloSottile/age
+1. Lightweight API driven Authoritative DNS server 简单的dns服务
+https://github.com/postalsys/pending-dns
 
 ### 进程管理 保证进程永远执行 类似 supervisor forever
 1. 进程管理 保证进程永远执行 类似 supervisor forever

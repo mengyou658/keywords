@@ -343,6 +343,8 @@ https://github.com/pytorch/hub
 1. Facebook 开源的 PyTorch 版本的 Mask-RCNN。研究人员可以按照教程、示例代码逐步进行实现
 ![maskrcnn-benchmark.png](resources/maskrcnn-benchmark.png)
 https://github.com/facebookresearch/maskrcnn-benchmark
+1. 生成中国山水画的库
+https://github.com/LingDong-/shan-shui-inf
 1. 
 1. 
 1. 

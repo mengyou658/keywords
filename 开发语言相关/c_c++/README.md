@@ -33,6 +33,8 @@ https://github.com/MKXJun/DirectX11-With-Windows-SDK
 https://github.com/bqlin/cpp_basic_tutorial
 1. c++教程代码
 https://github.com/AnkerLeng/Cpp-0-1-Resource
+1. c语言内部原理
+http://www.avabodh.com/cin/introduction.html
 1. 
 
 ### 实用 库/模块/框架
