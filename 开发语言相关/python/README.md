@@ -157,3 +157,5 @@ https://github.com/home-assistant/home-assistant
 https://github.com/cool-RR/PySnooper
 1. 命令行下载视频或者，在线看视频的工具 包括腾讯，游湖等大型视频网站 没有广告哟
 https://github.com/soimort/you-get
+1. 获取斗鱼&虎牙&哔哩哔哩&抖音&网易CC&火猫&企鹅电竞&YY直播&一直播&快手&花椒&映客 等直播平台的真实流媒体地址（直播源），可在PotPlayer、flv.js等播放器中播放。
+https://github.com/wbt5/real-url

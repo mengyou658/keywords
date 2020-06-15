@@ -85,8 +85,9 @@ https://github.com/frappe/books
 1. 
 
 ### 测试
-1. 
-1. 
+1. Node library to automate Chromium, Firefox and WebKit with a single API
+https://github.com/microsoft/playwright
+1. Puppeteer 
 
 ### UI
 1. 
@@ -111,7 +112,8 @@ https://github.com/notwaldorf/tiny-care-terminal
 https://github.com/FiloSottile/age
 1. Lightweight API driven Authoritative DNS server 简单的dns服务
 https://github.com/postalsys/pending-dns
-
+1. nodejsscan is a static security code scanner for Node.js applications 代码 安全 扫描
+https://github.com/ajinabraham/nodejsscan
 ### 进程管理 保证进程永远执行 类似 supervisor forever
 1. 进程管理 保证进程永远执行 类似 supervisor forever
 https://github.com/Unitech/pm2

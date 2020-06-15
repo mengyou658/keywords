@@ -29,7 +29,8 @@ https://github.com/mengyou658/retrofit2-kotlin-coroutines-adapter
 1. 
 
 ### 完整项目/示例/demo/代码片段
-1. 
+1. 全开源 高效率 QQ机器人/Android QQ协议支持库 for JVM / Android
+https://github.com/mamoe/mirai
 1. 
 
 ### 测试
@@ -41,5 +42,6 @@ https://github.com/mengyou658/retrofit2-kotlin-coroutines-adapter
 1. 
 
 ### 工具
+1. 
 1. 
 1. 

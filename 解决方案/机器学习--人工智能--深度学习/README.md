@@ -254,7 +254,8 @@ https://github.com/ajbrock/BigGAN-PyTorch
 https://github.com/openai/gpt-2
 1. 该项目是论文 S3FD:Single Shot Scale-invariant Face Detector 的 pytorch 复现版本。S3FD 目前在 FDDB 的评测中排在前几位，属于精度较高的人脸检测方法。论文主要解决人脸尺度问题，进一步提升对小脸的检测
 https://github.com/yxlijun/S3FD.pytorch
-1. 
+1. The fastai deep learning library, plus lessons and tutorials
+https://github.com/fastai/fastai
 1. 
 1.
 1.
@@ -305,7 +306,8 @@ https://github.com/streamlit/streamlit
 1. HiPlot使理解高维数据变得容易
 https://github.com/facebookresearch/hiplot
 ![hiplot png](resources/hiplot.png)
-
+1. 构建机器学习API，多重框架：部署TensorFlow，PyTorch，scikit-learn和其他模型
+https://github.com/cortexlabs/cortex
 ### 工具
 1. Learning Convolutional Neural Networks with Interactive Visualization. 以可视化的形式来训练和调参机器学习
 https://github.com/poloclub/cnn-explainer
@@ -502,6 +504,8 @@ https://github.com/lyp-deeplearning/deep_sort_yolov3
 https://github.com/liuguiyangnwpu/TinyObject
 1. 本工程主要目的是集成深度学习中常用的目标检测模型，并利用目标检测模型进行图像和视频中的检测！YOLOv1 航拍数据
 https://github.com/liuguiyangnwpu/DL.EyeSight
+1. 目标检测yolo算法 v5
+https://github.com/ultralytics/yolov5
 1. 基于SCNN的航拍数据库分类
 https://github.com/Kerrwy/SCNN_Aerial_classify
 1. 航拍视频文件

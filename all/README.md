@@ -298,6 +298,8 @@ https://github.com/BullsEye0/google_dork_list
 1. https://github.com/googlehosts/hosts/wiki/%E5%AE%9E%E9%AA%8C%E5%AE%A4#shadowsocks
 1, https://github.com/the0demiurge/ShadowSocksShare
 1. https://github.com/Alvin9999/new-pac/wiki
+1. https://github.com/Jrohy/trojan
+1. https://github.com/hq450/fancyss
 
 # 耿爽模拟器，用于模仿中国外交部发言人耿爽的言论
 https://github.com/xwgmdjc/GengShuang
