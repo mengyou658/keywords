@@ -252,6 +252,8 @@ https://github.com/CMU-Perceptual-Computing-Lab/openpose
 https://github.com/ajbrock/BigGAN-PyTorch
 1. OpenAI 发布的 15 亿参数量通用语言模型 GPT-2，迄今最大模型！展示了一种构建语言处理系统的潜在方式，即根据自然发生的演示学习执行任务。
 https://github.com/openai/gpt-2
+1. OpenAI 发布的 15 亿参数量通用语言模型 GPT-3，迄今最大模型！展示了一种构建语言处理系统的潜在方式，即根据自然发生的演示学习执行任务。
+https://github.com/openai/gpt-3
 1. 该项目是论文 S3FD:Single Shot Scale-invariant Face Detector 的 pytorch 复现版本。S3FD 目前在 FDDB 的评测中排在前几位，属于精度较高的人脸检测方法。论文主要解决人脸尺度问题，进一步提升对小脸的检测
 https://github.com/yxlijun/S3FD.pytorch
 1. The fastai deep learning library, plus lessons and tutorials
