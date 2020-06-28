@@ -5,23 +5,23 @@
 https://github.com/imgVOID/jetbrains-license-2020.git
 
 # 主要关注
-1. Java 虽作为最流行的编程语言之一
-https://github.com/cxxr/better-java/blob/master/README.zh-cn.md
-1. GitHub中文排行榜
-https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts
-# 最近尝试/学习
+动手学深度学习，反复读
+1. [http://zh.d2l.ai/](http://zh.d2l.ai/)
+1. [https://github.com/ShusenTang/Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
+1. [https://github.com/donnemartin/data-science-ipython-notebooks 这里有很多工具性的教程，比如怎么图形化，怎么一个一个查看图形](https://github.com/donnemartin/data-science-ipython-notebooks) ![实例](all/imgs/README_1200x800.gif)
+
+1. [https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0)
+1. [机器学习基石，完整版 学一遍](https://www.bilibili.com/video/av4294020/?p=7)
+1. [https://github.com/cxxr/better-java/blob/master/README.zh-cn.mdJava虽作为最流行的编程语言之一](https://github.com/cxxr/better-java/blob/master/README.zh-cn.md) 
+1. [https://github.com/kon9chunkit/GitHub-Chinese-Top-ChartsGitHub中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
+### 最近尝试/学习
 1. 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why. https://labuladong.gitbook.io/algo/
 https://github.com/labuladong/fucking-algorithm
 1. 微积分中文版本
 https://github.com/apachecn/calc4b-zh
 1. 微积分英文版本翻译
 https://www.geogebra.org/m/x39ys4d7#material/phuyhqtw
-1. 动手学深度学习，反复读
-http://zh.d2l.ai/
-https://github.com/ShusenTang/Dive-into-DL-PyTorch
-https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0
-1, 机器学习基石，完整版 学一遍
-https://www.bilibili.com/video/av4294020/?p=7
+
 1. 现代 Web 开发，现代 Web 开发导论 | 基础篇 | 进阶篇 | 架构优化篇 | React 篇 | Vue 篇
 https://github.com/wxyyxc1992/Web-Series
 1. 李宏毅深度学习(2017) 学一遍
@@ -33,6 +33,8 @@ Systems Performance Enterprise and the Cloud
 # 各个语言 环境配置 最好的教程 带详细说明（国内）
 1. [php composer](https://github.com/4x99/code6/blob/master/doc/deploy-source.md)
 1. [node 配置](https://taro-docs.jd.com/taro/docs/GETTING-STARTED)
+
+
 # 操作系统 linux 学习
 1. [一个用于实验和教学目的的操作系统，从零开始实现https://github.com/CasterWx/AntzOS](https://github.com/CasterWx/AntzOS)
 1. [Linux 内核揭密https://github.com/MintCN/linux-insides-zh](https://github.com/MintCN/linux-insides-zh)
@@ -41,13 +43,13 @@ https://github.com/google/gvisor](https://github.com/google/gvisor)
 1. [使用rust 从头开发一个操作系统
 https://github.com/phil-opp/blog_os](https://github.com/phil-opp/blog_os)
 
-# 已经完毕
+### 已经完毕
 1. [学习Matplotlib 画图
 https://morvanzhou.github.io/tutorials/data-manipulation/plt/](https://morvanzhou.github.io/tutorials/data-manipulation/plt/)
 1. [动手学深度学习
 http://zh.d2l.ai/chapter_prerequisite/ndarray.html](http://zh.d2l.ai/chapter_prerequisite/ndarray.html)
 
-# 其他学习
+### 其他学习
 1. [手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why. https://labuladong.gitbook.io/algo/
 https://github.com/labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm)
 1. [LeetCode解题动画使用动画的形式呈现解 LeetCode 题目的思路https://github.com/MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
@@ -92,3 +94,16 @@ https://github.com/mengyou658/papers-we-love
 
 
 
+
+
+[https://github.com/donnemartin/data-science-ipython-notebooks]: https://github.com/donnemartin/data-science-ipython-notebooks
+
+[http://zh.d2l.ai/]: http://zh.d2l.ai/
+
+[https://github.com/ShusenTang/Dive-into-DL-PyTorch]: https://github.com/ShusenTang/Dive-into-DL-PyTorch
+
+[https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0]: https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0
+
+[]: https://github.com/cxxr/better-java/blob/master/README.zh-cn.md
+
+[]: https://github.com/cxxr/better-java/blob/master/README.zh-cn.mdJava
