@@ -258,6 +258,10 @@ https://github.com/openai/gpt-3
 https://github.com/yxlijun/S3FD.pytorch
 1. The fastai deep learning library, plus lessons and tutorials
 https://github.com/fastai/fastai
+1. 图片转3d模型 PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization (CVPR 2020)
+https://github.com/facebookresearch/pifuhd
+1. 根据模糊图片，生成虚构面孔 我们已经注意到很多人担心PULSE将用于识别脸部模糊的个人。我们要强调的是，这是不可能的-PULSE制作不存在的人的虚构面孔，不应将其与真实的人混淆。它不会帮助识别或重建原始图像
+https://github.com/adamian98/pulse
 1. 
 1.
 1.
@@ -413,7 +417,7 @@ https://github.com/Windsooon/cherry
 https://github.com/brightmart/albert_zh
 1. 中文自然语言处理数据集
 https://github.com/InsaneLife/ChineseNLPCorpus
-
+1. [在自然语言处理领域中，预训练模型（Pre-trained Models）已成为非常重要的基础技术。 为了进一步促进中文信息处理的研究发展，我们发布了基于全词遮罩（Whole Word Masking）技术的中文预训练模型BERT-wwm，以及与此技术密切相关的模型：BERT-wwm-ext，RoBERTa-wwm-ext，RoBERTa-wwm-ext-large, RBT3, RBTL3。https://github.com/ymcui/Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm)
 
 # 数据分析/数据可视化
 1.
@@ -564,3 +568,6 @@ https://github.com/fengdu78/lihang-code
 # 傅里叶变换交互式入门
 http://www.jezzamon.com/fourier/zh-cn.html
 傅里叶变换是一种在各个领域都经常使用的数学工具。这个网站将为你介绍傅里叶变换能干什么，为什么傅里叶变换非常有用，以及你如何利用傅里叶变换干漂亮的事。就像下面这样：
+
+
+[]: https://github.com/ymcui/Chinese-BERT-wwm
