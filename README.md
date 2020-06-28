@@ -30,6 +30,9 @@ https://www.bilibili.com/video/av9770302/
 Systems Performance Enterprise and the Cloud
 1. redis源码，学习c和c++
 
+# 各个语言 环境配置 最好的教程 带详细说明（国内）
+1. [php composer](https://github.com/4x99/code6/blob/master/doc/deploy-source.md)
+1. [node 配置](https://taro-docs.jd.com/taro/docs/GETTING-STARTED)
 # 操作系统 linux 学习
 1. [一个用于实验和教学目的的操作系统，从零开始实现https://github.com/CasterWx/AntzOS](https://github.com/CasterWx/AntzOS)
 1. [Linux 内核揭密https://github.com/MintCN/linux-insides-zh](https://github.com/MintCN/linux-insides-zh)

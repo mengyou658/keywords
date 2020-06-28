@@ -89,7 +89,8 @@ https://github.com/TruthHun/BookStack
 https://github.com/lifei6671/mindoc
 1. 一个轻量级网络混淆代理，基于 SOCKS5 协议，可用来代替 Shadowsocks
 https://github.com/gwuhaolin/lightsocks
-
+1. 从Chrome中获取自动保存的用户名密码
+https://github.com/cckuailong/HackChrome
 
 ### 测试
 1. 

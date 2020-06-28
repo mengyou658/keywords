@@ -753,6 +753,8 @@ https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 https://visualgo.net/zh
 1. 算法竞赛课件分享
 https://github.com/hzwer/shareOI
+1. Raft一致性算法论文的中文翻译
+https://github.com/maemual/raft-zh_cn
 
 # 项目管理
 1. 采用了SpringBoot和Vue实现了对城市消防监控设备的在线统计管理，具备区域管理、设备分类管理、设备管理、预警管理和报表统计五大功能， 特点： 1.前后端分离，Vue实现前端模块化，后台通过SpringBoot+Mysql,保证数据的有效性和安全性。 2.动态路由菜单栏、Element-UI、高德地图Api选择地理位置、Shiro权限控制、mybatis plus。 3.Docker做容器，Redis实现数据缓存，Nginx+Dubbo实现负载均衡，满足消防设备异常及时同步处理、高并发，真正的满足城市甚至省级所用消防设备的在线管理

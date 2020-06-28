@@ -44,6 +44,9 @@ https://github.com/ricmoo/QRCode
 https://github.com/commaai/openpilot
 1. 基础通用GPU纹理编解码器 Basis Universal GPU Texture Codec  
 https://github.com/BinomialLLC/basis_universal
+1. 基于 Qt 的跨平台和网络对战平台游戏: 中国象棋
+https://github.com/xmuli/chinessChess
+1. 
 1. 
 1. 
 

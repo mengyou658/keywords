@@ -568,6 +568,7 @@ https://github.com/fengdu78/lihang-code
 # 傅里叶变换交互式入门
 http://www.jezzamon.com/fourier/zh-cn.html
 傅里叶变换是一种在各个领域都经常使用的数学工具。这个网站将为你介绍傅里叶变换能干什么，为什么傅里叶变换非常有用，以及你如何利用傅里叶变换干漂亮的事。就像下面这样：
-
-
 []: https://github.com/ymcui/Chinese-BERT-wwm
+
+# FastSurferCNN的PyTorch实现 FastSurferCNN-一种先进的深度学习架构，能够在不到1分钟的时间内将全脑分割为95个类别，模仿了FreeSurfer的解剖学分割和皮质碎裂（DKTatlas）
+https://github.com/Deep-MI/FastSurfer
