@@ -1002,3 +1002,6 @@ https://github.com/thenaturalist/awesome-business-intelligence
 https://github.com/shzlw/poli
 1. 数据可视化，只能用数据库作为数据源
 https://www.metabase.com/start/other.html
+
+### vn.py是一套基于Python的开源量化交易系统开发框架，于2015年1月正式发布，在开源社区6年持续不断的贡献下一步步成长为全功能量化交易平台，目前国内外金融机构用户已经超过500家，包括：私募基金、证券自营和资管、期货资管和子公司、高校研究机构、自营交易公司、交易所、Token Fund等。
+[https://github.com.cnpmjs.org/vnpy/vnpy](https://github.com.cnpmjs.org/vnpy/vnpy)

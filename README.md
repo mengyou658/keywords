@@ -8,12 +8,16 @@ https://github.com/imgVOID/jetbrains-license-2020.git
 动手学深度学习，反复读
 1. [http://zh.d2l.ai/](http://zh.d2l.ai/)
 1. [https://github.com/ShusenTang/Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
-1. [https://github.com/donnemartin/data-science-ipython-notebooks 这里有很多工具性的教程，比如怎么图形化，怎么一个一个查看图形](https://github.com/donnemartin/data-science-ipython-notebooks) ![实例](all/imgs/README_1200x800.gif)
-
+1. [https://github.com.cnpmjs.org/amusi/Deep-Learning-Interview-Book深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）](https://github.com.cnpmjs.org/amusi/Deep-Learning-Interview-Book)
 1. [https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0)
+1. [https://github.com.cnpmjs.org/fengdu78/Coursera-ML-AndrewNg-Notes斯坦福大学2014（吴恩达）机器学习教程中文笔记](https://github.com.cnpmjs.org/fengdu78/Coursera-ML-AndrewNg-Notes)
+1. [https://github.com.cnpmjs.org/datawhalechina/leeml-notes李宏毅《机器学习》笔记，在线阅读地址：https://datawhalechina.github.io/leeml-notes](https://github.com.cnpmjs.org/datawhalechina/leeml-notes)
 1. [机器学习基石，完整版 学一遍](https://www.bilibili.com/video/av4294020/?p=7)
 1. [https://github.com/cxxr/better-java/blob/master/README.zh-cn.mdJava虽作为最流行的编程语言之一](https://github.com/cxxr/better-java/blob/master/README.zh-cn.md) 
 1. [https://github.com/kon9chunkit/GitHub-Chinese-Top-ChartsGitHub中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
+
+* [https://github.com.cnpmjs.org/Light-City/CPlusPlusThings C++那些事](https://github.com.cnpmjs.org/Light-City/CPlusPlusThings)
+
 ### 最近尝试/学习
 1. 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why. https://labuladong.gitbook.io/algo/
 https://github.com/labuladong/fucking-algorithm
