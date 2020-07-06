@@ -24,6 +24,8 @@ https://github.com/mengyou658/shangcheng
 1.  小程序组件库
 https://github.com/dingyong0214/ThorUI
 1. colorUi
+1. 微信小程序自定义时间选择器，支持多种自定义功能 在开发工具中浏览: https://developers.weixin.qq.com/s/N9EdArmQ7a6j
+https://github.com/rover95/wxapp-timePicker
 1. 
 1. 
 
