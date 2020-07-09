@@ -418,6 +418,7 @@ https://github.com/brightmart/albert_zh
 1. 中文自然语言处理数据集
 https://github.com/InsaneLife/ChineseNLPCorpus
 1. [在自然语言处理领域中，预训练模型（Pre-trained Models）已成为非常重要的基础技术。 为了进一步促进中文信息处理的研究发展，我们发布了基于全词遮罩（Whole Word Masking）技术的中文预训练模型BERT-wwm，以及与此技术密切相关的模型：BERT-wwm-ext，RoBERTa-wwm-ext，RoBERTa-wwm-ext-large, RBT3, RBTL3。https://github.com/ymcui/Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm)
+1. [https://github.com/jbesomi/textheroTexthero是一个Python工具箱，可快速轻松地处理基于文本的数据集。Texthero非常简单易学，可以在熊猫上使用。Texthero具有与Pandas相同的表现力和力量，并有大量文献记载。Texthero是现代的，面向2020年代的程序员，几乎没有语言方面的知识。](https://github.com/jbesomi/texthero)
 
 # 数据分析/数据可视化
 1.
@@ -572,3 +573,6 @@ http://www.jezzamon.com/fourier/zh-cn.html
 
 # FastSurferCNN的PyTorch实现 FastSurferCNN-一种先进的深度学习架构，能够在不到1分钟的时间内将全脑分割为95个类别，模仿了FreeSurfer的解剖学分割和皮质碎裂（DKTatlas）
 https://github.com/Deep-MI/FastSurfer
+
+
+[]: https://github.com/jbesomi/texthero
