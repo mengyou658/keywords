@@ -1005,3 +1005,11 @@ https://www.metabase.com/start/other.html
 
 ### vn.py是一套基于Python的开源量化交易系统开发框架，于2015年1月正式发布，在开源社区6年持续不断的贡献下一步步成长为全功能量化交易平台，目前国内外金融机构用户已经超过500家，包括：私募基金、证券自营和资管、期货资管和子公司、高校研究机构、自营交易公司、交易所、Token Fund等。
 [https://github.com.cnpmjs.org/vnpy/vnpy](https://github.com.cnpmjs.org/vnpy/vnpy)
+
+
+# Raft 共识的动画讲解 
+通过一步步的动画，讲解 Raft 协议如何保证分布式集群的一致性，以及选举 leader 的过程
+http://thesecretlivesofdata.com/raft/
+
+# webRTC 执行流程演示
+[这个网页演示和讲解，如何在无后端的情况下，通过 webRTC 建立双方的实时视频通话https://nashaofu.github.io/webrtc-demo/](https://nashaofu.github.io/webrtc-demo/)

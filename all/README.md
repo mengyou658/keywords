@@ -287,6 +287,8 @@ https://github.com/shfshanyue/fp-jargon-zh
 
 # 解决电脑、手机看电视直播的苦恼，收集各种直播源，电视直播网站
 https://github.com/biancangming/wtv/
+https://github.com/billy21/Tvlist-awesome-m3u-m3u8
+https://github.com/EvilCult/iptv-m3u-maker
 
 # 该仓库专门收集泄漏保密信息的谷歌搜素命令，比如搜索泄漏的数据库导出文件，就在谷歌输入"#mysql dump" filetype:sql
 https://github.com/BullsEye0/google_dork_list
@@ -334,3 +336,12 @@ https://github.com/lavendnigth/mod.git
 
 #### ui 设计 资源 
 https://nodesign.dev/
+
+# 分页查询不要使用 OFFSET 和 LIMIT 语法
+```mysql
+-- 老方法
+select * from t_table limit 10 offset 200000;
+-- 新方法 记录上一次查询的id（主键）
+select * from t_table where id > 199999 limit 10 ;
+
+```

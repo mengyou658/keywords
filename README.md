@@ -37,6 +37,7 @@ Systems Performance Enterprise and the Cloud
 # 各个语言 环境配置 最好的教程 带详细说明（国内）
 1. [php composer](https://github.com/4x99/code6/blob/master/doc/deploy-source.md)
 1. [node 配置](https://taro-docs.jd.com/taro/docs/GETTING-STARTED)
+1. [go 配置](https://github.com/flipped-aurora/gin-vue-admin/blob/master/README-zh_CN.md)
 
 
 # 操作系统 linux 学习
