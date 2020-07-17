@@ -177,6 +177,8 @@ https://github.com/deepfakes/faceswap
 https://github.com/cleardusk/3DDFA
 1. 身份证识别 ocr
 https://github.com/isee15/Card-Ocr
+1. 一个开源的 OCR 软件，支持识别40种语言，包括中日韩文字
+https://github.com/JaidedAI/EasyOCR
 1. wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目。 https://wukong.hahack.com/
 https://github.com/wzpan/wukong-robot
 1. 用于构建机器人的NLP库，具有实体提取，情感分析，自动语言识别等功能 An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
