@@ -524,6 +524,8 @@ https://github.com/youngdro/guitarChord
 https://github.com/amejiarosario/dsa.js
 1. 算法竞赛课件分享
 https://github.com/hzwer/shareOI
+1. 1、我写的三十万字图解算法题典 2、100 张 IT 相关超清思维导图 3、100 篇大厂面经汇总 4、各语言编程电子书 100 本 5、English version supported !!! 🚀🚀 国人项目上榜首不易，右上角助力一波！干就对了，奥利给 ！
+https://github.com/geekxh/hello-algorithm
 
 # 代码生成脚手架cli工具
 1. The hottest CLI for React Native, boilerplates, plugins, generators, and more! 
