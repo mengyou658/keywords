@@ -107,8 +107,24 @@ https://github.com/tangyudi/Ai-learn
 https://github.com/shuhuai007/Machine-Learning-Session
 1. TensorFlow 2.0 + Keras中的说明性ML笔记本
 https://github.com/practicalAI/practicalAI
-1.
-1.
+1. [https://github.com/sun1638650145/A2PI2/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.md整理的机器学习中用到所有API，周更；从本次更新开始加入机器学习笔记，不定期更新](https://github.com/sun1638650145/A2PI2/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.md)
+1. [https://github.com/Niutranser-Li/Machine-Learning-Algorithm机器学习（统计方法+深度学习）理论方法+技术实战、数据集资源、学习方法和技术客栈](https://github.com/Niutranser-Li/Machine-Learning-Algorithm)
+1. [https://github.com/Giyn/MachineLearningAlgorithm机器学习算法教程和说明](https://github.com/Giyn/MachineLearningAlgorithm)
+1. [https://github.com/OneStepAndTwoSteps/Data_Analysis_notes学习机器学习时，最好使用真实数据，而不是人工数据集。幸运的是，有上千个开源数据集 可以进行选择，涵盖多个领域。以下是一些可以查找的数据的地方：](https://github.com/OneStepAndTwoSteps/Data_Analysis_notes)
+    *   __流行的开源数据仓库：__ 
+        *   [UC	Irvine	Machine	Learning Repository](https://link.jianshu.com/?t=http%3A%2F%2Farchive.ics.uci.edu%2Fml%2F)
+        *   [Kaggle	datasets](https://link.jianshu.com/?t=https%3A%2F%2Fwww.kaggle.com%2Fdatasets)   
+        *   [Amazon’s AWS datasets](https://link.jianshu.com/?t=http%3A%2F%2Faws.amazon.com%2Ffr%2Fdatasets%2F)
+    *   __准入口（提供开源数据列表）__
+        *   http://dataportals.org/ 
+        *   http://opendatamonitor.eu/ 
+        *   http://quandl.com/ 
+    *   __其它列出流行开源数据仓库的网页：__ 
+        *   [Wikipedia’s list of Machine Learning datasets](https://link.jianshu.com/?t=https%3A%2F%2Fgoo.gl%2FSJHN2k)
+        *   [Quora.com question](https://link.jianshu.com/?t=http%3A%2F%2Fgoo.gl%2FzDR78y)
+        *   [Datasets subreddit](https://link.jianshu.com/?t=https%3A%2F%2Fwww.reddit.com%2Fr%2Fdatasets)
+1. 
+1. 
 1.
 1.
 ### 实用 库/模块/框架
@@ -298,7 +314,13 @@ https://github.com/bbaibowen/computer-vision
 ![objectron_chair](resources/mediapipe/objectron_chair_android_gpu_small.gif)
 ![template_matching](resources/mediapipe/template_matching_android_cpu_small.gif)
 https://github.com/google/mediapipe
-1.
+1. [https://github.com/ghostwwl/machine_learning机器学习相关的呢! 里面所有自有代码BSD协议放出!](https://github.com/ghostwwl/machine_learning)
+1. [https://github.com/fuyanzhang/aicar 应该还没有完善 基于树莓派做的一些玩具，主要为了学习机器学习相关知识 这里是一些过程代码及测试代码。随手一写，并无特别的设计](https://github.com/fuyanzhang/aicar)
+1. [https://github.com/tower111/binary_volnerablity_mining基于机器学习的二进制文件漏洞挖掘项目的个人文档原项目地址https://github.com/lucamassarelli/Unsupervised-Features-Learning-For-Binary-Similarity这里对源代码以及论文进行了一些分析](https://github.com/tower111/binary_volnerablity_mining)
+1. 
+1. 
+1. 
+1. 
 
 ### 测试
 1.
@@ -421,6 +443,11 @@ https://github.com/brightmart/albert_zh
 https://github.com/InsaneLife/ChineseNLPCorpus
 1. [在自然语言处理领域中，预训练模型（Pre-trained Models）已成为非常重要的基础技术。 为了进一步促进中文信息处理的研究发展，我们发布了基于全词遮罩（Whole Word Masking）技术的中文预训练模型BERT-wwm，以及与此技术密切相关的模型：BERT-wwm-ext，RoBERTa-wwm-ext，RoBERTa-wwm-ext-large, RBT3, RBTL3。https://github.com/ymcui/Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm)
 1. [https://github.com/jbesomi/textheroTexthero是一个Python工具箱，可快速轻松地处理基于文本的数据集。Texthero非常简单易学，可以在熊猫上使用。Texthero具有与Pandas相同的表现力和力量，并有大量文献记载。Texthero是现代的，面向2020年代的程序员，几乎没有语言方面的知识。](https://github.com/jbesomi/texthero)
+1. [https://github.com/DA-southampton/NLP_ability总结梳理自然语言处理工程师(NLP)需要积累的各方面知识，包括各种面试题，基础知识，工程能力等等，提升核心竞争力](https://github.com/DA-southampton/NLP_ability)
+1. [https://github.com/InsaneLife/ChineseNLPCorpus中文自然语言处理数据集，平时做做实验的材料](https://github.com/InsaneLife/ChineseNLPCorpus)
+
+
+
 
 # 数据分析/数据可视化
 1.
@@ -487,7 +514,7 @@ https://github.com/NVlabs/few-shot-vid2vid
 https://github.com/EasyDarwin/Course
 1. 视频素材
 https://andreaswannerstedt.se/oddly-satisfying-vol5
-
+1. [https://github.com/jobsjiang/machine-learning/blob/master/cv/1.%E8%A7%86%E9%A2%91%E5%A4%84%E7%90%86%E5%85%A5%E9%97%A8.ipynb视频处理入门](https://github.com/jobsjiang/machine-learning/blob/master/cv/1.%E8%A7%86%E9%A2%91%E5%A4%84%E7%90%86%E5%85%A5%E9%97%A8.ipynb)
 
 # 基于opencv
 1. OpenCV 3.2.0 版本在Android平台实现目标检测和目标追踪

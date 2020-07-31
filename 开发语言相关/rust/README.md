@@ -10,7 +10,7 @@
 1. 
 
 ### 教程/文章/小抄/规范/记事
-1. 
+1. [https://tourofrust.com/00_zh-cn.html](https://tourofrust.com/00_zh-cn.html)
 1. 
 
 ### web 框架 

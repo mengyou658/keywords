@@ -19,9 +19,7 @@
 ### 完整项目/示例/demo/代码片段
 1. 一个小而简单的笔式绘图仪 A Small and Simple Pen Plotter
 https://github.com/bdring/midTbot_esp32![](img\midTbot_esp32.jpg)
-
-1. 
-
+1. [https://github.com/wangeasy6/RQ_HMS基于 Raspberry Pi 和 QT 的智能家居安防系统，能够实时监测家庭中的温度、湿度值，还有红外监测用于监控人的通过，USB摄像头采集图像信息形成监控视频。](https://github.com/wangeasy6/RQ_HMS)
 ### 测试
 1. 
 1. 
