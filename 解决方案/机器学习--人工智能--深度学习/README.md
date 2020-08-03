@@ -123,7 +123,7 @@ https://github.com/practicalAI/practicalAI
         *   [Wikipedia’s list of Machine Learning datasets](https://link.jianshu.com/?t=https%3A%2F%2Fgoo.gl%2FSJHN2k)
         *   [Quora.com question](https://link.jianshu.com/?t=http%3A%2F%2Fgoo.gl%2FzDR78y)
         *   [Datasets subreddit](https://link.jianshu.com/?t=https%3A%2F%2Fwww.reddit.com%2Fr%2Fdatasets)
-1. 
+1. [https://github.com/CodecWang/OpenCV-Python-Tutorial opencv 教程](https://github.com/CodecWang/OpenCV-Python-Tutorial)
 1. 
 1.
 1.

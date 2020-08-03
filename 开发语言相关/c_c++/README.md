@@ -51,7 +51,16 @@ https://github.com/xmuli/chinessChess
 1. 
 
 ### 完整项目/示例/demo/代码片段
-1. 
+1. [https://github.com/lesliefish/Qt Qt相关知识总结。包括Qss,数据库,Excel,Model/View等操作demo。](https://github.com/lesliefish/Qt)
+1. [https://github.com/XinLiGH/SerialPortYmodem 串口通过 YMODEM 协议进行文件传输](https://github.com/XinLiGH/SerialPortYmodem)
+1. [https://github.com/Ranpop/QT-Monitor QT嵌入式实现监控，曲线绘制，视频图像显示，tcp/udp通信，Share内存通信等](https://github.com/Ranpop/QT-Monitor)
+1. [https://github.com/FingerRec/SerialTcpUdpBasedOnQt A Serial,Tcp And Udp master Based On Qt For Embedded. Test on stm32 in keil.（QT实现的上位机软件，实现串口，PCP和UDP通信，在STM32板子上经过测试）](https://github.com/FingerRec/SerialTcpUdpBasedOnQt)
+1. [https://github.com/CquKeith/V2X DSRC与LTE对比的上位机软件。通过UDP和DSRC设备通信，TCP来模拟LTE的传输。使用Qt编写](https://github.com/CquKeith/V2X)
+1. [https://github.com/lmh135/qt-udp qt-udp](https://github.com/lmh135/qt-udp)
+1. [https://github.com/purple910/QT-UDP-Reversi 基于qt的网络协议的黑白棋](https://github.com/purple910/QT-UDP-Reversi)
+1. [https://github.com/WXMM/udpComm_Qt 这是一个udp通讯解析，写入日志等](https://github.com/WXMM/udpComm_Qt)
+1. [https://github.com/fangshirui/Serial-assitant 基于qt编写的串口助手](https://github.com/fangshirui/Serial-assitant)
+1. [https://github.com/Sanzona/SerialPort Qt实现的串口通信软件](https://github.com/Sanzona/SerialPort)
 1. 
 
 ### 测试
