@@ -26,7 +26,8 @@ https://github.com/zhzyker/exphub
 https://github.com/LandGrey/SpringBootVulExploit
 1. How I'm learning to build secure systems 系统安全
 https://github.com/veeral-patel/learn-security-engineering
-1. 
+1. 渗透测试有关的POC、EXP、脚本、提权、小工具等
+https://github.com/Mr-xn/Penetration_Testing_POC
 1. 
 
 ### 完整项目/示例/demo/代码片段

@@ -178,6 +178,8 @@ https://github.com/shmilylty/OneForAll
 https://github.com/TideSec/Mars
 1. 当企业被攻击者入侵，系统被挂暗链、内容遭到恶意篡改，服务器出现异常链接、卡顿等情况时，需要进行紧急处理，使系统在最短时间内恢复正常。由于应急处理往往时间紧，所以尝试将应急中常见处理方法整合到脚本中，可自动化实现部分应急工作。应急脚本采用python2.0完成，由于所有需要执行的命令都是依靠ssh进行远程链接，所以在运行脚本之前，需要输入正确的主机ip地址、ssh远程连接端口、ssh远程登录账户、ssh远程登录密码。
 https://github.com/tide-emergency/yingji
+1. 渗透测试有关的POC、EXP、脚本、提权、小工具等
+https://github.com/Mr-xn/Penetration_Testing_POC
 1. 
 1. 
 1. 
