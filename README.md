@@ -33,6 +33,8 @@ https://www.bilibili.com/video/av9770302/
 1. 学习 翻译 
 Systems Performance Enterprise and the Cloud
 1. redis源码，学习c和c++
+1. [编程竞赛 (competitive programming) https://oi-wiki.org/](https://oi-wiki.org/)
+
 
 # 各个语言 环境配置 最好的教程 带详细说明（国内）
 1. [php composer](https://github.com/4x99/code6/blob/master/doc/deploy-source.md)
@@ -94,21 +96,15 @@ https://github.com/mengyou658/iview-admin
 
 
 ### 计算机 论文 Papers We Love (PWL) is a community built around reading, discussing and learning more about academic computer science papers
-https://github.com/mengyou658/papers-we-love
 
+[https://github.com/mengyou658/papers-we-love](https://github.com/mengyou658/papers-we-love)
 
+[https://github.com/donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 
+[http://zh.d2l.ai/](http://zh.d2l.ai/)
 
+[https://github.com/ShusenTang/Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
 
+[https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0)
 
-[https://github.com/donnemartin/data-science-ipython-notebooks]: https://github.com/donnemartin/data-science-ipython-notebooks
-
-[http://zh.d2l.ai/]: http://zh.d2l.ai/
-
-[https://github.com/ShusenTang/Dive-into-DL-PyTorch]: https://github.com/ShusenTang/Dive-into-DL-PyTorch
-
-[https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0]: https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0
-
-[]: https://github.com/cxxr/better-java/blob/master/README.zh-cn.md
-
-[]: https://github.com/cxxr/better-java/blob/master/README.zh-cn.mdJava
+[https://github.com/cxxr/better-java/blob/master/README.zh-cn.md](https://github.com/cxxr/better-java/blob/master/README.zh-cn.md)

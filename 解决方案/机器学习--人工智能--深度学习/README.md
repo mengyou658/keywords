@@ -317,6 +317,7 @@ https://github.com/google/mediapipe
 1. [https://github.com/ghostwwl/machine_learning机器学习相关的呢! 里面所有自有代码BSD协议放出!](https://github.com/ghostwwl/machine_learning)
 1. [https://github.com/fuyanzhang/aicar 应该还没有完善 基于树莓派做的一些玩具，主要为了学习机器学习相关知识 这里是一些过程代码及测试代码。随手一写，并无特别的设计](https://github.com/fuyanzhang/aicar)
 1. [https://github.com/tower111/binary_volnerablity_mining基于机器学习的二进制文件漏洞挖掘项目的个人文档原项目地址https://github.com/lucamassarelli/Unsupervised-Features-Learning-For-Binary-Similarity这里对源代码以及论文进行了一些分析](https://github.com/tower111/binary_volnerablity_mining)
+1. [要快速地进行模型在移动设备上的效果验证https://github.com/peng-zhihui/DeepVision](https://github.com/peng-zhihui/DeepVision)
 1. 
 1. 
 1. 
