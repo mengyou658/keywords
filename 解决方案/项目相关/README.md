@@ -180,7 +180,8 @@ https://github.com/TideSec/Mars
 https://github.com/tide-emergency/yingji
 1. 渗透测试有关的POC、EXP、脚本、提权、小工具等
 https://github.com/Mr-xn/Penetration_Testing_POC
-1. 
+1. Web 端口敲门的奇思妙想 ，先敲门，然后再放行
+https://github.com/EtherDream/js-port-knocking
 1. 
 1. 
 1. 

@@ -263,6 +263,7 @@ https://github.com/DarkCoderSc/win-brute-logon
 1. 为 Wireshark 能使用纯真网络 IP 数据库(QQwry)而提供的格式转换工具
 https://github.com/leolovenet/qqwry2mmdb
 ![](imgs/wireshark-column-defined.png)
+1. [https://github.com/ventoy/Ventoy Ventoy是一个制作可启动U盘的开源工具。有了Ventoy你就无需反复地格式化U盘，你只需要把ISO/WIM/IMG/EFI文件拷贝到U盘里面就可以启动了，无需其他操作。 你可以一次性拷贝很多个不同类型的ISO文件，在启动时Ventoy会显示一个菜单来选择(截图)。 无差异支持Legacy BIOS和UEFI模式。目前已经测试了各类超过470+ 个ISO文件(列表). 同时提出了"Ventoy Compatible"的概念，若被支持则理论上可以启动任何ISO文件.](https://github.com/ventoy/Ventoy)
 
 # 1000多万中国大陆工商企业的注册信息库（下附链接）
 https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland
