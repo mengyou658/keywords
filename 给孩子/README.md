@@ -29,5 +29,5 @@ https://github.com/bdring/midTbot_esp32![](img\midTbot_esp32.jpg)
 1. 
 
 ### 工具
-1. 
+1. [一个演示汉字笔画顺序的 JS 库https://github.com/chanind/hanzi-writer](https://github.com/chanind/hanzi-writer)
 1. 

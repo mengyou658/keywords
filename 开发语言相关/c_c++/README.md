@@ -18,6 +18,7 @@ helm-intro http://tuhdo.github.io/helm-intro.html
 ### cheatsheet 备忘录
 1. awesome-c-cn
 https://github.com/jobbole/awesome-c-cn
+1. [通过写一个简单的 C 语言解释器，理解编译原理https://github.com/lotabout/write-a-C-interpreter](https://github.com/lotabout/write-a-C-interpreter)
 1. 
 
 ### 教程/文章/小抄/规范/记事

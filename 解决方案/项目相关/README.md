@@ -560,7 +560,7 @@ https://github.com/mengyou658/ccxt
 https://github.com/mengyou658/keyczar
 1. Platform-Agnostic Security Tokens，PAST (Platform-Agnostic Security Tokens) is a specification and reference implementation for secure stateless tokens. php 实现的一个加密token PAST（平台不可知的安全令牌）是安全无状态令牌的规范和参考实现。
 https://github.com/mengyou658/past
-
+1. scrypt 是内存依赖型的POW算法 这是目前为止最难破解的
 
 #rust 语言
 总体感觉是如果有一门语言能够取代C++，那么它只可能是Rust
@@ -1019,3 +1019,10 @@ http://thesecretlivesofdata.com/raft/
 
 # H5编辑器)H5-Dooring是一款功能强大，开源免费的H5可视化页面配置解决方案，致力于提供一套简单方便、专业可靠、无限可能的H5落地页最佳实践。技术栈以react为主， 后台采用nodejs开发.
 [H5编辑器)H5-Dooring是一款功能强大，开源免费的H5可视化页面配置解决方案，致力于提供一套简单方便、专业可靠、无限可能的H5落地页最佳实践。技术栈以react为主， 后台采用nodejs开发.https://github.com/MrXujiang/h5-Dooring](https://github.com/MrXujiang/h5-Dooring)
+
+
+# gis
+qgis
+mapx
+
+
