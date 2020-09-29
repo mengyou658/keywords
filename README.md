@@ -1,6 +1,8 @@
 # keywords
 搜索关键词，你可以把项目clone下来，然后搜索你能想到的关键词，指不定就找到了，没有目录哟
 
+**感觉不错，就给个star吧，送人玫瑰手有余香😘**
+
 # idea 破解
 https://github.com/imgVOID/jetbrains-license-2020.git
 
