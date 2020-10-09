@@ -31,6 +31,8 @@
 ### 完整项目/示例/demo/代码片段
 1. 全开源 高效率 QQ机器人/Android QQ协议支持库 for JVM / Android
 [https://github.com/mamoe/mirai](https://github.com/mamoe/mirai)
+1. 利用Android AccessibilityService 实现自动加好友，拉人进群聊
+[https://github.com/coder-pig/WechatHelper](https://github.com/coder-pig/WechatHelper)
 1. 
 
 ### 测试

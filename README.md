@@ -3,6 +3,24 @@
 
 **感觉不错，就给个star呗，送人玫瑰手有余香😘么么哒**
 
+# 私单教程 独立开发 独立开发/自由职业/远程工作资源列表
+1. [https://github.com/easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money)
+1. [https://github.com/apachecn/awesome-indie-zh](https://github.com/apachecn/awesome-indie-zh)
+1. [https://github.com/greatghoul/remote-working](https://github.com/greatghoul/remote-working)
+
+# [idea 破解, 如果失效了，可以联系我，仅仅互联网转载，点击访问](https://shimo.im/docs/WY3hd8Jt8KHgvVty)
+
+# 主要关注
+动手学深度学习，反复读
+1. [http://zh.d2l.ai/](http://zh.d2l.ai/)
+1. [https://github.com/ShusenTang/Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
+1. [https://github.com.cnpmjs.org/amusi/Deep-Learning-Interview-Book深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）](https://github.com.cnpmjs.org/amusi/Deep-Learning-Interview-Book)
+1. [https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0)
+1. [https://github.com/cxxr/better-java/blob/master/README.zh-cn.md 享受Java，新手友好](https://github.com/cxxr/better-java/blob/master/README.zh-cn.md) 
+1. [https://github.com/kon9chunkit/GitHub-Chinese-Top-ChartsGitHub 中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
+1. [https://github.com.cnpmjs.org/Light-City/CPlusPlusThings C++那些事](https://github.com.cnpmjs.org/Light-City/CPlusPlusThings)
+**c++还是要学一下的，学完，你会发现语言都是相互学习的**
+
 # 目录
 * all
   * imgs
@@ -91,45 +109,21 @@
       * [tencent_music](面试/前端面试/source/tencent_music.md)
 
 
-# idea 破解
-[https://github.com/imgVOID/jetbrains-license-2020.git](https://github.com/imgVOID/jetbrains-license-2020.git)
-
-# 主要关注
-动手学深度学习，反复读
-1. [http://zh.d2l.ai/](http://zh.d2l.ai/)
-1. [https://github.com/ShusenTang/Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
-1. [https://github.com.cnpmjs.org/amusi/Deep-Learning-Interview-Book深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）](https://github.com.cnpmjs.org/amusi/Deep-Learning-Interview-Book)
-1. [https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0)
-1. [https://github.com.cnpmjs.org/fengdu78/Coursera-ML-AndrewNg-Notes斯坦福大学2014（吴恩达）机器学习教程中文笔记](https://github.com.cnpmjs.org/fengdu78/Coursera-ML-AndrewNg-Notes)
-1. [https://github.com.cnpmjs.org/datawhalechina/leeml-notes李宏毅《机器学习》笔记，在线阅读地址：https://datawhalechina.github.io/leeml-notes](https://github.com.cnpmjs.org/datawhalechina/leeml-notes)
-1. [机器学习基石，完整版 学一遍](https://www.bilibili.com/video/av4294020/?p=7)
-1. [https://github.com/cxxr/better-java/blob/master/README.zh-cn.mdJava虽作为最流行的编程语言之一](https://github.com/cxxr/better-java/blob/master/README.zh-cn.md) 
-1. [https://github.com/kon9chunkit/GitHub-Chinese-Top-ChartsGitHub中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
-
-* [https://github.com.cnpmjs.org/Light-City/CPlusPlusThings C++那些事](https://github.com.cnpmjs.org/Light-City/CPlusPlusThings)
-
 ### 最近尝试/学习
 1. 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why. https://labuladong.gitbook.io/algo/
 [https://github.com/labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm)
-1. 微积分中文版本
-[https://github.com/apachecn/calc4b-zh](https://github.com/apachecn/calc4b-zh)
-1. 微积分英文版本翻译
-[https://www.geogebra.org/m/x39ys4d7#material/phuyhqtw](https://www.geogebra.org/m/x39ys4d7#material/phuyhqtw)
-
+**虽然我不是一个算法爱好者，但是这似乎是面试必备的内容，含着泪啃吧😭**
+1. [编程竞赛 (competitive programming) https://oi-wiki.org/](https://oi-wiki.org/)
 1. 现代 Web 开发，现代 Web 开发导论 | 基础篇 | 进阶篇 | 架构优化篇 | React 篇 | Vue 篇
-[https://github.com/wxyyxc1992/Web-Series](https://github.com/wxyyxc1992/Web-Series)
-1. 李宏毅深度学习(2017) 学一遍
-[https://www.bilibili.com/video/av9770302/](https://www.bilibili.com/video/av9770302/)
+[https://ng-tech.icu/books/](https://ng-tech.icu/books/)
+很全面的技术路线指南，老少皆宜
 1. 学习 翻译 
 Systems Performance Enterprise and the Cloud
 1. redis源码，学习c和c++
-1. [编程竞赛 (competitive programming) https://oi-wiki.org/](https://oi-wiki.org/)
-
 
 # 各个语言 环境配置 最好的教程 带详细说明（国内）
-1. [php composer](https://github.com/4x99/code6/blob/master/doc/deploy-source.md)
-1. [node 配置](https://taro-docs.jd.com/taro/docs/GETTING-STARTED)
-1. [go 配置](https://github.com/flipped-aurora/gin-vue-admin/blob/master/README-zh_CN.md)
+各种开发语言项目环境国内（中国国内加速镜像）配置教程和部分实践经验，包括github.com, nodejs，npm，nvm, yarn, java, maven, gradle, python, mysys2, elasticsearch, php等等，更多正在加入中
+[https://github.com/yunchaoq/awesome-env-config-cn](https://github.com/yunchaoq/awesome-env-config-cn)
 
 
 # 操作系统 linux 学习
@@ -156,23 +150,9 @@ http://zh.d2l.ai/chapter_prerequisite/ndarray.html](http://zh.d2l.ai/chapter_pre
 [https://www.cs.usfca.edu/~galles/visualization/Algorithms.html](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html))
 1. [LeetCodehttps://github.com/mengyou658/awesome-java-leetcode](LeetCodehttps://github.com/mengyou658/awesome-java-leetcode)
 1. [创建自己的系统https://github.com/mengyou658/build-your-own-x](https://github.com/mengyou658/build-your-own-x)
-1. lodash
 1. [tensorflow学习教程https://github.com/MachineLP/Tensorflow-](https://github.com/MachineLP/Tensorflow-)
 1. [计算机行业须知https://github.com/mengyou658/every-programmer-should-know](https://github.com/mengyou658/every-programmer-should-know)
 1. [计算机科学速成课 https://github.com/1c7/crash-course-computer-science-chinese](https://github.com/1c7/crash-course-computer-science-chinese)
-
-
-### 
-### 利用Android AccessibilityService 实现自动加好友，拉人进群聊
-[https://github.com/coder-pig/WechatHelper](https://github.com/coder-pig/WechatHelper)
-
-
-### 大公司团队开源项目
-[https://github.com/niezhiyang/open_source_team](https://github.com/niezhiyang/open_source_team)
-
-
-### api security (API设计列表)
-1. https://github.com/shieldfy/API-Security-Checklist
 
 ### 现成的页面设计模块
 1. A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites. 直接挑选看中的模板，下载代码即可使用
@@ -180,21 +160,13 @@ http://zh.d2l.ai/chapter_prerequisite/ndarray.html](http://zh.d2l.ai/chapter_pre
 1. xadmin
 1. react ant-design-pro 开箱即用的中台前端/设计解决方案
 [https://github.com/mengyou658/ant-design-pro](https://github.com/mengyou658/ant-design-pro)
-1. vue iview-admin
-[https://github.com/mengyou658/iview-admin](https://github.com/mengyou658/iview-admin)
 1. https://github.com/alibaba/ice
 
 
 ### 计算机 论文 Papers We Love (PWL) is a community built around reading, discussing and learning more about academic computer science papers
 
-[https://github.com/mengyou658/papers-we-love](https://github.com/mengyou658/papers-we-love)
+[https://github.com/papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love)
 
 [https://github.com/donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
-
-[http://zh.d2l.ai/](http://zh.d2l.ai/)
-
-[https://github.com/ShusenTang/Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
-
-[https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0)
 
 [https://github.com/cxxr/better-java/blob/master/README.zh-cn.md](https://github.com/cxxr/better-java/blob/master/README.zh-cn.md)

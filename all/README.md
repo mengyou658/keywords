@@ -121,11 +121,6 @@
 1. python3写的综合扫描工具，主要用来敏感文件探测(目录扫描与js泄露接口)，WAF/CDN识别，端口扫描，指纹/服务识别，操作系统识别，弱口令探测，POC扫描，SQL注入，绕过CDN，查询旁站等功能，主要用来甲方自测或乙方授权测试，请勿用来搞破坏
 [https://github.com/al0ne/Vxscan](https://github.com/al0ne/Vxscan)
 
-# 私单教程 独立开发 独立开发/自由职业/远程工作资源列表
-1. [https://github.com/easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money)
-1. [https://github.com/apachecn/awesome-indie-zh](https://github.com/apachecn/awesome-indie-zh)
-1. [https://github.com/greatghoul/remote-working](https://github.com/greatghoul/remote-working)
-
 # 课程教程视频文档下载
 1. 国内大学教学课程下载
 [https://github.com/lib-pku/libpku](https://github.com/lib-pku/libpku)
@@ -354,3 +349,15 @@ select * from t_table limit 10 offset 200000;
 select * from t_table where id > 199999 limit 10 ;
 
 ```
+# 微积分
+1. 微积分中文版本
+[https://github.com/apachecn/calc4b-zh](https://github.com/apachecn/calc4b-zh)
+1. 微积分英文版本翻译
+[https://www.geogebra.org/m/x39ys4d7#material/phuyhqtw](https://www.geogebra.org/m/x39ys4d7#material/phuyhqtw)
+
+
+# 大公司团队开源项目
+[https://github.com/niezhiyang/open_source_team](https://github.com/niezhiyang/open_source_team)
+
+# api security (API设计列表)
+1. https://github.com/shieldfy/API-Security-Checklist
