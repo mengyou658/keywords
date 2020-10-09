@@ -13,11 +13,11 @@
         迁移学习 多任务学习 强化学习 翻译模型 
         
 # 张量
-https://blog.csdn.net/qq_31821675/article/details/79188449
-https://blog.csdn.net/wtq1993/article/details/51714121
-https://blog.csdn.net/lx_xin/article/details/83821111
-https://hackernoon.com/learning-ai-if-you-suck-at-math-p4-tensors-illustrated-with-cats-27f0002c9b32
+[https://blog.csdn.net/qq_31821675/article/details/79188449](https://blog.csdn.net/qq_31821675/article/details/79188449)
+[https://blog.csdn.net/wtq1993/article/details/51714121](https://blog.csdn.net/wtq1993/article/details/51714121)
+[https://blog.csdn.net/lx_xin/article/details/83821111](https://blog.csdn.net/lx_xin/article/details/83821111)
+[https://hackernoon.com/learning-ai-if-you-suck-at-math-p4-tensors-illustrated-with-cats-27f0002c9b32](https://hackernoon.com/learning-ai-if-you-suck-at-math-p4-tensors-illustrated-with-cats-27f0002c9b32)
 
 # google 机器学习教程
-https://developers.google.cn/machine-learning/crash-course/
-https://www.tensorflow.org/get_started/get_started_for_beginners
+[https://developers.google.cn/machine-learning/crash-course/](https://developers.google.cn/machine-learning/crash-course/)
+[https://www.tensorflow.org/get_started/get_started_for_beginners](https://www.tensorflow.org/get_started/get_started_for_beginners)

@@ -1,10 +1,10 @@
 # 业余挣钱项目
 
 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
-https://github.com/easychen/howto-make-more-money
+[https://github.com/easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money)
 
 独立开发/自由职业/远程工作资源列表
-https://github.com/apachecn/awesome-indie-zh
+[https://github.com/apachecn/awesome-indie-zh](https://github.com/apachecn/awesome-indie-zh)
 
 # 业余挣钱项目
 在网络做副业赚钱，方法很多，平台也很多，尤其是兼职类，适合新手小白简单粗暴的赚钱方法，每天多赚一些零花钱轻轻松松。

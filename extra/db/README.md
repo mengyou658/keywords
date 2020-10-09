@@ -7,13 +7,13 @@
 
 ### 教程/文章/小抄/规范/记事
 1. mysql常用操作
-https://macrozheng.github.io/mall-learning/#/reference/mysql
+[https://macrozheng.github.io/mall-learning/#/reference/mysql](https://macrozheng.github.io/mall-learning/#/reference/mysql)
 1. 
 1. 
 
 ### 实用 库/模块/框架
 1. 输入SQL，输出索引优化建议
-https://github.com/mengyou658/SQLAdvisor
+[https://github.com/mengyou658/SQLAdvisor](https://github.com/mengyou658/SQLAdvisor)
 1. 
 1. 
 

@@ -65,8 +65,7 @@
                  img: 'test.jpg',
                  desc: '可能是超图下载的Agi官网地形',
                  type: 'terrain'
-             }*/
-     ]
+             }*/]
  }];
 
  var source = dataSources[0].sources[0];

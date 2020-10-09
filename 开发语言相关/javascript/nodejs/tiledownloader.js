@@ -527,8 +527,7 @@ function TileDownloader(options) {
         try {
             this.db.run("REPlACE INTO infos VALUES (?,?,?,?,?,?,?,?,?,?,?)", [self.bounds[0], self.bounds[1], self.bounds[2], self.bounds[3],
                 self.levelrange[0], self.levelrange[1], self.source, self.type,
-                self.current.level, self.current.x, self.current.y
-            ], function () {
+                self.current.level, self.current.x, self.current.y], function () {
 
                 self.db.exec('COMMIT TRANSACTION;', function () {
                     self.db.close();
@@ -573,8 +572,7 @@ TileDownloader.prototype.start = function () {
         this.db.exec(sql, function () {
 
             self.db.get("select cur_level, cur_x, cur_y  from infos where minx=? and miny = ? and  maxx = ? and maxy=? and minlevel = ? and maxlevel = ? and source = ? ", [self.bounds[0], self.bounds[1], self.bounds[2], self.bounds[3],
-                    self.levelrange[0], self.levelrange[1], self.source
-                ],
+                    self.levelrange[0], self.levelrange[1], self.source],
                 function (err, row) {
 
                     if (row) {
