@@ -8,7 +8,7 @@
 1. [https://github.com/apachecn/awesome-indie-zh](https://github.com/apachecn/awesome-indie-zh)
 1. [https://github.com/greatghoul/remote-working](https://github.com/greatghoul/remote-working)
 
-# [idea 破解, 如果失效了，可以联系我，仅仅互联网转载，点击访问](https://shimo.im/docs/WY3hd8Jt8KHgvVty)
+# [idea 破解, 仅仅互联网转载，点击访问](https://shimo.im/docs/WY3hd8Jt8KHgvVty)
 
 # 主要关注
 动手学深度学习，反复读
