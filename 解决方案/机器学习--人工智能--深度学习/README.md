@@ -280,6 +280,7 @@ Keras is a high-level neural networks API, written in Python and capable of runn
 [https://github.com/facebookresearch/pifuhd](https://github.com/facebookresearch/pifuhd)
 1. 根据模糊图片，生成虚构面孔 我们已经注意到很多人担心PULSE将用于识别脸部模糊的个人。我们要强调的是，这是不可能的-PULSE制作不存在的人的虚构面孔，不应将其与真实的人混淆。它不会帮助识别或重建原始图像
 [https://github.com/adamian98/pulse](https://github.com/adamian98/pulse)
+1. [https://github.com/NathanUA/U-2-Net](https://github.com/NathanUA/U-2-Net)
 1. 
 1.
 1.
@@ -446,8 +447,8 @@ Keras is a high-level neural networks API, written in Python and capable of runn
 1. [https://github.com/jbesomi/textheroTexthero是一个Python工具箱，可快速轻松地处理基于文本的数据集。Texthero非常简单易学，可以在熊猫上使用。Texthero具有与Pandas相同的表现力和力量，并有大量文献记载。Texthero是现代的，面向2020年代的程序员，几乎没有语言方面的知识。](https://github.com/jbesomi/texthero)
 1. [https://github.com/DA-southampton/NLP_ability总结梳理自然语言处理工程师(NLP)需要积累的各方面知识，包括各种面试题，基础知识，工程能力等等，提升核心竞争力](https://github.com/DA-southampton/NLP_ability)
 1. [https://github.com/InsaneLife/ChineseNLPCorpus中文自然语言处理数据集，平时做做实验的材料](https://github.com/InsaneLife/ChineseNLPCorpus)
-
-
+1. [小米自然语言处理平台（MiNLP）具备词法、句法、语义分析等数十个功能模块 https://github.com/XiaoMi/MiNLP](https://github.com/XiaoMi/MiNLP)
+1. [运用tf实现自然场景文字检测,keras/pytorch实现ctpn+crnn+ctc实现不定长场景文字OCR识别https://github.com/xiaofengShi/CHINESE-OCR](https://github.com/xiaofengShi/CHINESE-OCR)
 
 
 # 数据分析/数据可视化
@@ -609,3 +610,6 @@ http://www.jezzamon.com/fourier/zh-cn.html
 
 
 # [https://github.com/Chrispresso/SuperMarioBros-AI 机器学习自动完超级马里奥](https://github.com/Chrispresso/SuperMarioBros-AI)
+
+# 推荐系统
+1. [“推荐系统”方向的资料https://github.com/datawhalechina/team-learning-rs](https://github.com/datawhalechina/team-learning-rs)

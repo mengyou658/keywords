@@ -599,6 +599,7 @@ import "./app";
 [https://github.com/electron-userland/electron-builder](https://github.com/electron-userland/electron-builder)
 1. ui vue Framework 
 [https://github.com/quasarframework/quasar](https://github.com/quasarframework/quasar)
+1. [https://github.com/SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue)
 
 # pwa
 1.  Offload your store management to a worker easily (简单的使用 worker 来工作)

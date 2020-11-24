@@ -276,6 +276,8 @@ http://developers.google.cn/speed/pagespeed/insights/
 
 
 # admin / 快速开发 方案
+1. [前后台 https://github.com/elunez/eladmin](https://github.com/elunez/eladmin)
+1. [前台 https://github.com/PanJiaChen/vue-element-admin/blob/master/README.zh-CN.md](https://github.com/PanJiaChen/vue-element-admin/blob/master/README.zh-CN.md)
 1. ant-design-pro开箱即用的中台前端/设计解决方案
 [https://github.com/mengyou658/ant-design-pro](https://github.com/mengyou658/ant-design-pro)
 1. A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites. 直接挑选看中的模板，下载代码即可使用 bootstrap 代码片段
