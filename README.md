@@ -3,6 +3,16 @@
 
 **感觉不错，就给个star呗，送人玫瑰手有余香😘么么哒**
 
+
+```
+想到了一个问题：程序员属于"快能力"，还是"慢能力"？
+
+别的不敢说，前端开发大概是属于"快能力"。因为这个行业要求你快速形成生产力，根本没有时间积累，而且积累的效果不明显，因为开发工具变得太快。相比之下，C / C++ 语言应该属于"慢能力"，坚持写20年，会越写越好，但是前端不是这样，几年就换一套技术栈，代码的生命周期非常短。
+
+所以，想要进入前端的同学，要有清醒的认识。优秀的前端程序员，其实比的是"冲刺能力"，你想一直在这个行业，就要一直在冲刺。"快能力"的行业都是如此，一段时间出不了成绩，就会被淘汰。如果你不适应这种生活，可能就需要做一些准备，想想能不能换到"慢能力"的行业。
+```
+[引用自](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-132.html)
+
 # 私单教程 独立开发 独立开发/自由职业/远程工作资源列表
 1. [https://github.com/easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money)
 1. [https://github.com/apachecn/awesome-indie-zh](https://github.com/apachecn/awesome-indie-zh)
