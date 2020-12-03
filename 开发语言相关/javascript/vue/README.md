@@ -33,6 +33,7 @@
 1. vue-element-admin 是一个后台前端解决方案
 [https://github.com/PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
 1. [ant-design-vue,typescript,vue3.0,vite,tsx实现的 vue3 风格的后台管理系统 https://github.com/anncwb/vue-vben-admin](https://github.com/anncwb/vue-vben-admin)
+1. [一个基于 vue2 / vue3 的（大转盘抽奖 / 九宫格抽奖）插件https://github.com/LuckDraw/vue-luck-draw](https://github.com/LuckDraw/vue-luck-draw)
 1. 
 1. 
 1. 
