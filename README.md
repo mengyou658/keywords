@@ -1,5 +1,6 @@
 # keywords
-搜索关键词，你可以把项目clone下来，然后搜索你能想到的关键词，指不定就找到了，没有目录哟
+keywords,搜索关键词，包括各种教程、安全、awesome、c、Linux、运维、数据库、安卓android、ios、小程序、golang、Java、JavaScript、python、php、rust、机器学习machine learning、游戏game、各种开源项目、面试等等
+搜索关键词，你可以把项目clone下来，然后搜索你能想到的关键词，指不定就找到了，中间有目录
 
 **感觉不错，就给个star呗，送人玫瑰手有余香😘么么哒**
 
