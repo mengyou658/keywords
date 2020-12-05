@@ -2,6 +2,7 @@
 # C语言
 
 ##### IDE
+1. clion
 1. 依赖工具 自动下载开源库源代码 依赖关系检查
 [https://github.com/microsoft/vcpkg ](https://github.com/microsoft/vcpkg )
 1. emacs + ctags / gtags / ggtags 
@@ -19,9 +20,11 @@ helm-intro http://tuhdo.github.io/helm-intro.html
 1. awesome-c-cn
 [https://github.com/jobbole/awesome-c-cn](https://github.com/jobbole/awesome-c-cn)
 1. [通过写一个简单的 C 语言解释器，理解编译原理https://github.com/lotabout/write-a-C-interpreter](https://github.com/lotabout/write-a-C-interpreter)
+1. [一个面向有C ++编程基础，但缺乏刷题经验的读者的教科书和工具书 https://github.com/changgyhub/leetcode_101](https://github.com/changgyhub/leetcode_101)
 1. 
 
 ### 教程/文章/小抄/规范/记事
+1. [Modern C++ Tutorial: C++11/14/17/20 On the Fly https://github.com/changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
 1. C++那些事 https://light-city.club/sc/
 [https://github.com/Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)
 1. C 语言资源大全中文版
