@@ -170,6 +170,7 @@ keywords,搜索关键词，包括各种教程、安全、awesome、c、Linux、�
 1. 学习 翻译 
 Systems Performance Enterprise and the Cloud
 1. redis源码，学习c和c++
+1. [学习计算机 https://github.com/keithnull/TeachYourselfCS-CN](https://github.com/keithnull/TeachYourselfCS-CN)
 
 # 各个语言 环境配置 最好的教程 带详细说明（国内）
 各种开发语言项目环境国内（中国国内加速镜像）配置教程和部分实践经验，包括github.com, nodejs，npm，nvm, yarn, java, maven, gradle, python, mysys2, elasticsearch, php等等，更多正在加入中

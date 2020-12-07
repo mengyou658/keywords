@@ -28,6 +28,8 @@
 [https://github.com/veeral-patel/learn-security-engineering](https://github.com/veeral-patel/learn-security-engineering)
 1. 渗透测试有关的POC、EXP、脚本、提权、小工具等
 [https://github.com/Mr-xn/Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC)
+1. [Web Pentesting Fuzz 字典https://github.com/TheKingOfDuck/fuzzDicts](https://github.com/TheKingOfDuck/fuzzDicts)
+1. 
 1. 
 
 ### 完整项目/示例/demo/代码片段
