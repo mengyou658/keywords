@@ -153,10 +153,8 @@ keywords,搜索关键词，包括各种教程、安全、awesome、c、Linux、�
   * 项目相关
     * [项目相关](解决方案/项目相关/README.md)
 * 面试
-  * 前端面试
-    * [前端面试](面试/前端面试/readme.md)
-    * source
-      * [tencent_music](面试/前端面试/source/tencent_music.md)
+  * [前端面试](面试/前端面试/readme.md)
+  * [简历](面试/简历相关/readme.md)
 
 
 ### 最近尝试/学习
