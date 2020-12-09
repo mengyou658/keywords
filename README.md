@@ -219,3 +219,6 @@ http://zh.d2l.ai/chapter_prerequisite/ndarray.html](http://zh.d2l.ai/chapter_pre
 [https://github.com/donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 
 [https://github.com/cxxr/better-java/blob/master/README.zh-cn.md](https://github.com/cxxr/better-java/blob/master/README.zh-cn.md)
+
+### 论文查看工具
+稻壳阅读器，知网，万方，免费看

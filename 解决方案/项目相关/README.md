@@ -182,6 +182,9 @@ http://developers.google.cn/speed/pagespeed/insights/
 [https://github.com/Mr-xn/Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC)
 1. Web 端口敲门的奇思妙想 ，先敲门，然后再放行
 [https://github.com/EtherDream/js-port-knocking](https://github.com/EtherDream/js-port-knocking)
+1. [EHole是一款对资产中重点系统指纹识别的工具，在红队作战中，信息收集是必不可少的环节，如何才能从大量的资产中提取有用的系统(如OA、VPN、Weblogic...)。EHole旨在帮助红队人员在信息收集期间能够快速从C段、大量杂乱的资产中精准定位到易被攻击的系统，从而实施进一步攻击。https://github.com/ShiHuang-ESec/EHole](https://github.com/ShiHuang-ESec/EHole)
+1. [红队作战中比较常遇到的一些重点系统漏洞整理。https://github.com/r0eXpeR/redteam_vul](https://github.com/r0eXpeR/redteam_vul)
+1. 
 1. 
 1. 
 1. 
@@ -1028,3 +1031,5 @@ qgis
 mapx
 
 
+# 学习强国
+1. [https://github.com/lolisaikou/LazyStudy](https://github.com/lolisaikou/LazyStudy)
