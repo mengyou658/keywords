@@ -79,3 +79,12 @@ http://www.avabodh.com/cin/introduction.html
 1. high performance, high scalability and high reliability database for IoT & big data 针对物联网的数据库
 [https://github.com/griddb/griddb_nosql](https://github.com/griddb/griddb_nosql)
 1. 
+
+
+### QT
+1. [https://github.com/WeiMuYang/qtcreator-study](https://github.com/WeiMuYang/qtcreator-study)
+1. [https://github.com/CPU-Code/notes](https://github.com/CPU-Code/notes)
+1. [https://github.com/JoeNero/QT](https://github.com/JoeNero/QT)
+1. 
+1. 
+1. 
