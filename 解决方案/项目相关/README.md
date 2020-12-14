@@ -1033,3 +1033,7 @@ mapx
 
 # 学习强国
 1. [https://github.com/lolisaikou/LazyStudy](https://github.com/lolisaikou/LazyStudy)
+
+
+## 数据接口
+1. [数据接口：百度、谷歌、头条、微博指数,宏观数据，利率数据，货币汇率，千里马、独角兽公司，新闻联播文字稿，影视票房数据，高校名单，疫情数据 doc.gopup.cn https://github.com/justinzm/gopup](https://github.com/justinzm/gopup)

@@ -94,6 +94,8 @@
 [https://github.com/fejes713/30-seconds-of-interviews](https://github.com/fejes713/30-seconds-of-interviews)
 1. 技术面试最后反问面试官的话
 [https://github.com/yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)
+1. [在线教育https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-zh.md](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-zh.md)
+
 
 ### 深入研究
 1. 系统设计 学习如何设计大型系统 为系统设计的面试做准备
