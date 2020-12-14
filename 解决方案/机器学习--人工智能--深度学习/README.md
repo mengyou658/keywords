@@ -333,6 +333,7 @@ Keras is a high-level neural networks API, written in Python and capable of runn
 1.
 
 ### 工具 增强
+1. [在我很多项目中用到的CV算法推理框架应用https://github.com/peng-zhihui/DeepVision](https://github.com/peng-zhihui/DeepVision)
 1. Streamlit — The fastest way to build custom ML tools 交互互动的可视化工具，可以快速创建交互的界面，自行调节参数 https://streamlit.io/  jasper-notebook 功能升级
 [https://github.com/streamlit/streamlit](https://github.com/streamlit/streamlit)
 1. HiPlot使理解高维数据变得容易
