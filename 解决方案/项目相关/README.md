@@ -578,9 +578,10 @@ Flink使用了流处理的内核，同时提供了流处理和批处理的接口
 
 
 #企业秀 易企秀
-[https://github.com/mengyou658/eqxiu](https://github.com/mengyou658/eqxiu)
-[https://github.com/mengyou658/yiqixiu](https://github.com/mengyou658/yiqixiu)
-git@gitee.com:xiaokong658/yiqixiu.git
+1. [https://github.com/ly525/luban-h5](https://github.com/ly525/luban-h5)
+1. [https://github.com/mengyou658/eqxiu](https://github.com/mengyou658/eqxiu)
+1. [https://github.com/mengyou658/yiqixiu](https://github.com/mengyou658/yiqixiu)
+1. git@gitee.com:xiaokong658/yiqixiu.git
 1. 基于vue的高扩展在线网页制作平台，可自定义组件，可添加脚本，可数据统计。A mobile page builder/editor, similar with amolink. https://godspen.ymm56.com
 [https://github.com/ymm-tech/gods-pen](https://github.com/ymm-tech/gods-pen)
 
@@ -1041,3 +1042,7 @@ mapx
 
 ### 导师评价查询系统
 1. [https://github.com/kgco/RateMySupervisor](https://github.com/kgco/RateMySupervisor)
+
+
+### web 测试工具
+1. [破解BurpSuitePro-2020.11.3版本 https://github.com/TrojanAZhen/BurpSuitePro-2.1](https://github.com/TrojanAZhen/BurpSuitePro-2.1)

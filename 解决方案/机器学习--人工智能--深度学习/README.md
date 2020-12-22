@@ -450,7 +450,7 @@ Keras is a high-level neural networks API, written in Python and capable of runn
 1. [https://github.com/InsaneLife/ChineseNLPCorpus中文自然语言处理数据集，平时做做实验的材料](https://github.com/InsaneLife/ChineseNLPCorpus)
 1. [小米自然语言处理平台（MiNLP）具备词法、句法、语义分析等数十个功能模块 https://github.com/XiaoMi/MiNLP](https://github.com/XiaoMi/MiNLP)
 1. [运用tf实现自然场景文字检测,keras/pytorch实现ctpn+crnn+ctc实现不定长场景文字OCR识别https://github.com/xiaofengShi/CHINESE-OCR](https://github.com/xiaofengShi/CHINESE-OCR)
-
+1. [A Deep-Learning-Based Chinese Speech Recognition System 基于深度学习的中文语音识别系统https://github.com/nl8590687/ASRT_SpeechRecognition](https://github.com/nl8590687/ASRT_SpeechRecognition)
 
 # 数据分析/数据可视化
 1.
@@ -482,7 +482,7 @@ Keras is a high-level neural networks API, written in Python and capable of runn
 1. 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词
 [https://github.com/chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
 1. 中华新华字典数据库。包括歇后语，成语，词语，汉字。
-[https://github.com/pwxcoo/chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua)
+[https://github.com/pwxcoo/chinese-xinhua](https://gfithub.com/pwxcoo/chinese-xinhua)
 1. 中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据 Node.js 爬虫。
 [https://github.com/modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China)
 1. 省市区县乡镇三级或四级城市数据，带拼音标注、坐标、行政区域边界范围；2020年03月09日最新采集，综合了中华人民共和国民政部、国家统计局、高德地图、腾讯地图行政区划数据；提供csv格式文件，支持在线转成多级联动js代码、通用json格式；带浏览器里面运行的js采集源码 https://xiangyuecn.github.io/AreaCity…
