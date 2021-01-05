@@ -157,7 +157,20 @@ keywords,搜索关键词，包括各种教程、安全、awesome、c、Linux、�
   * [简历](面试/简历相关/readme.md)
 
 
-### 最近尝试/学习
+### 最近尝试/学习/待学习路径
+1. https://github.com/CPU-Code/notes
+1. F:/work_c++/PyQt5-pdf-tutorial/PyQt5快速开发与实战电子书（1117）.pdf
+1. https://github.com/ThanlonSmith/PyQt5-pdf-tutorial
+1. https://github.com/WeiMuYang/qtcreator-study
+1. D:/书籍/leetcode-cpp.pdf
+1. https://github.com/soulmachine/leetcode
+1. D:/书籍/My-Data-Competition-Experience-add-license-1/Part-1.pdf
+1. D:/书籍/LeetCode%20101%20-%20A%20LeetCode%20Grinding%20Guide%20(C++%20Version).pdf
+1. https://github.com/changgyhub/leetcode_101
+1. 设计数据密集型应用 https://vonng.gitbooks.io/ddia-cn/content/
+1. https://github.com/labuladong/fucking-algorithm
+1. https://github.com/datawhalechina/team-learning-program/
+1. https://github.com/apachecn/AiLearning
 1. 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why. https://labuladong.gitbook.io/algo/
 [https://github.com/labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm)
 **虽然我不是一个算法爱好者，但是这似乎是面试必备的内容，含着泪啃吧😭**
