@@ -122,5 +122,9 @@
 
 ### electron 
 1. [个快速尝试和学习electron的项目，对electron的api进行了归纳和总结，对常用的业务功能做了demo演示 https://github.com/tal-tech/electron-playground](https://github.com/tal-tech/electron-playground)
+1. [https://github.com/agracio/electron-edge-js-quick-start](https://github.com/agracio/electron-edge-js-quick-start)
 1. 
-1. 
+
+### nodejs c#
+1. https://github.com/agracio/edge-js
+1. https://github.com/agracio/electron-edge-js-quick-start
