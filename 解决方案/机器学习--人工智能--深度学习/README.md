@@ -16,7 +16,7 @@
 [https://github.com/apachecn/AiLearning](https://github.com/apachecn/AiLearning)
 1. 可解释的机器学习--黑盒模型可解释性理解指南
 [https://github.com/MingchaoZhu/InterpretableMLBook](https://github.com/MingchaoZhu/InterpretableMLBook)
-
+1. [一款入门级的人脸、视频、文字检测以及识别的项目 https://github.com/vipstone/faceai](https://github.com/vipstone/faceai)
 
 ### 新手入门项目
 1. 一款优秀入门级 AI 项目以及教程，内容涵盖：人脸、视频、文字的检测和识别。他不仅包含最基本的人脸检测、识别（图片、视频）、轮廓标识、头像合成（给人戴帽子），还有表情识别（生气、厌恶、恐惧等）、视频对象提取、图片修复（可用于水印去除）、图片自动上色等等。推荐这个开源项目不是因为它的内容强大，而是它的教程写的实在太好了，真 · 入门级。手把手教你如何使用这个项目，做出上述功能来。在每篇功能文章的教程里，不仅仅写了每个功能的技术实现方案，还有具体重点关键代码的注释和解释以及具体实现，让你非常轻松的能够看懂、学习和使用。对于想要入门或者了解机器学习的初学者不能再友好了。

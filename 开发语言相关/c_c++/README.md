@@ -78,6 +78,9 @@ http://www.avabodh.com/cin/introduction.html
 ### 工具
 1. high performance, high scalability and high reliability database for IoT & big data 针对物联网的数据库
 [https://github.com/griddb/griddb_nosql](https://github.com/griddb/griddb_nosql)
+1. [A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM. https://github.com/WerWolv/ImHex](https://github.com/WerWolv/ImHex)
+1. [Web Fuzzing Box - Web 模糊测试字典与一些Payloads，主要包含：弱口令暴力破解、目录以及文件枚举、Web漏洞...字典运用于实战案例：https://gh0st.cn/archives/2019-11-11/1 https://github.com/gh0stkey/Web-Fuzzing-Box](https://github.com/gh0stkey/Web-Fuzzing-Box)
+1. 
 1. 
 
 
