@@ -341,6 +341,8 @@ Keras is a high-level neural networks API, written in Python and capable of runn
 ![hiplot png](resources/hiplot.png)
 1. 构建机器学习API，多重框架：部署TensorFlow，PyTorch，scikit-learn和其他模型
 [https://github.com/cortexlabs/cortex](https://github.com/cortexlabs/cortex)
+1. [闪电通过将科学与工程脱钩来帮助提高生产力。从某种意义上说，它使您的代码更简洁，有点像TensorFlow的Keras。但是，这并不能控制您。它仍然是PyTorch，您可以访问所有常用的API https://github.com/PyTorchLightning/PyTorch-lightning](https://github.com/PyTorchLightning/PyTorch-lightning)   
+
 ### 工具
 1. Learning Convolutional Neural Networks with Interactive Visualization. 以可视化的形式来训练和调参机器学习
 [https://github.com/poloclub/cnn-explainer](https://github.com/poloclub/cnn-explainer)
@@ -380,11 +382,11 @@ Keras is a high-level neural networks API, written in Python and capable of runn
 [https://github.com/facebookresearch/maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark)
 1. 生成中国山水画的库
 [https://github.com/LingDong-/shan-shui-inf](https://github.com/LingDong-/shan-shui-inf)
-1. 
-1. 
-1. 
-1. 
-1.
+1. [Norfair是一个可定制的轻量级Python库，用于实时对象跟踪。换句话说，它为不同帧中的每个检测到的对象分配一个唯一的ID，以便您随着时间的推移识别它们 https://github.com/tryolabs/norfair](https://github.com/tryolabs/norfair)
+1. [灵活而强大的张量操作，可读取且可靠的代码。支持numpy，pytorch，tensorflow https://github.com/arogozhnikov/einops](https://github.com/arogozhnikov/einops)
+1. [—包装了几个常见的ML库，使您的工作效率大大提高，节省了数百行代码 https://github.com/pycaret/pycaret](https://github.com/pycaret/pycaret)
+1. [神经网络，深度学习和机器学习模型的可视化工具。支持的格式比我所知道的还要多 https://github.com/lutzroeder/netron](https://github.com/lutzroeder/netron)
+1. [通过改善错误消息并提供可视化效果，帮助您正确确定张量数学的尺寸 https://github.com/parrt/tensor-sensor](https://github.com/parrt/tensor-sensor)
 1.
 1.
 

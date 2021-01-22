@@ -92,7 +92,8 @@
 [https://github.com/mengyou658/requests-html](https://github.com/mengyou658/requests-html)
 1. 多数据流实时分布式分析系统 Confluo。它可以作为网络监控和诊断框架，也可以作为时序数据库和发布订阅消息系统。作为时序数据库，它的性能比其他时序数据库高出数倍，而作为发布消息订阅系统，它的吞吐量比 Kafka 高出 4 到 10 倍。
 [https://github.com/ucbrise/confluo](https://github.com/ucbrise/confluo)
-1. 
+1. [使用python来画流程图 visio或者powerdesigner  https://github.com/mingrammer/diagrams](https://github.com/mingrammer/diagrams)
+1. [https://github.com/facebookresearch/hiplot](https://github.com/facebookresearch/hiplot)
 1. 
 1. 
 1. 
