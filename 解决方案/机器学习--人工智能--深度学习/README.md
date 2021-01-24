@@ -570,7 +570,56 @@ Keras is a high-level neural networks API, written in Python and capable of runn
 [https://github.com/mengyou658/awesome-object-detection](https://github.com/mengyou658/awesome-object-detection)
 1. AIDungeon2是此类AI生成的文本冒险的第一个。使用名为GPT-2的1.5B参数机器学习模型,AIDungeon2可以在您在虚拟世界中玩耍时产生您的故事和行动结果
 [https://github.com/AIDungeon/AIDungeon](https://github.com/AIDungeon/AIDungeon)
-1. [An implementation of model parallel GPT2& GPT3-like models, with the ability to scale up to full GPT3 sizes (and possibly more!), using the mesh-tensorflow library. https://github.com/EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo)
+1. [An implementation of model parallel GPT2& GPT3-like models, with the ability to scale up to full GPT3 sizes (and possibly more!), using the mesh-tensorflow library. 
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://github.com/EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo)
 
 
 # 为关系数据库开发自然语言接口 自动生成sql的训练和示例

@@ -17,6 +17,7 @@
 [https://github.com/devicehive](https://github.com/devicehive)
 1. JetLinks Community 基于Java8,Spring Boot 2.x ,WebFlux,Netty,Vert.x,Reactor等开发, 是一个全响应式的物联网基础平台。
 [https://github.com/jetlinks/jetlinks-community](https://github.com/jetlinks/jetlinks-community)
+1. [Ultra-lightweight JavaScript engine for the Internet of Things. 轻量级JavaScript引擎 用于物联网设备 https://github.com/jerryscript-project/jerryscript](https://github.com/jerryscript-project/jerryscript)
 1. 
 
 ### 完整项目/示例/demo/代码片段
