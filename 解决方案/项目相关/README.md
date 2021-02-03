@@ -225,6 +225,7 @@ http://developers.google.cn/speed/pagespeed/insights/
 [https://github.com/mengyou658/RAP](https://github.com/mengyou658/RAP)
 
 #自动化测试
+1. [MeterSphere 一站式开源持续测试平台 https://github.com/metersphere/metersphere](https://github.com/metersphere/metersphere)
 1.RAP Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理
 [https://github.com/mengyou658/RAP](https://github.com/mengyou658/RAP)
 1. 一个可视化, 并且能快速生成模拟数据的持久化服务
@@ -1052,3 +1053,5 @@ mapx
 1. [学之思在线考试系统 - postgresql版，支持多种题型：选择题、多选题、判断题、填空题、解答题以及数学公式，包含PC端、小程序端，扩展性强，部署方便(集成部署、前后端分离部署、docker部署)、界面设计友好、代码结构清晰https://github.com/mindskip/xzs](https://github.com/mindskip/xzs)
 https://github.com/mindskip/xzs-mysql
    
+### 国内低代码平台
+https://github.com/taowen/awesome-lowcode

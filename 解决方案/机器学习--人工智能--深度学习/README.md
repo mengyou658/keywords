@@ -2,6 +2,7 @@
 # 机器学习人工智能 深度学习 神经网络
 
 ### 现成列表
+1. [最新学习路线图，https://github.com/therealsreehari/Learn-Datascience-For-Free](https://github.com/therealsreehari/Learn-Datascience-For-Free)
 1. 行动识别和相关区域资源的策划清单 A curated list of action recognition and related area resources
 [https://github.com/jinwchoi/awesome-action-recognition](https://github.com/jinwchoi/awesome-action-recognition)
 1. A curated list of awesome computer vision resources 精彩的计算机视觉资源列表
@@ -229,6 +230,7 @@ Keras is a high-level neural networks API, written in Python and capable of runn
 [https://github.com/taki0112/UGATIT](https://github.com/taki0112/UGATIT)
 1. 该仓库将包含TecoGAN项目的源代码和材料，即TEmporally COherent GAN的代码 模糊像素变高清
 [https://github.com/thunil/TecoGAN](https://github.com/thunil/TecoGAN)
+1. [StyleGAN2-ADA - Official PyTorch implementation https://github.com/NVlabs/stylegan2-ada-pytorch](https://github.com/NVlabs/stylegan2-ada-pytorch)
 1. High-performance TensorFlow library for quantitative finance TensorFlow 高性能工具库
 [https://github.com/google/tf-quant-finance](https://github.com/google/tf-quant-finance)
 1. 人脸替换 DeepPrivacy是一种全自动的图像匿名化技术
@@ -570,56 +572,7 @@ Keras is a high-level neural networks API, written in Python and capable of runn
 [https://github.com/mengyou658/awesome-object-detection](https://github.com/mengyou658/awesome-object-detection)
 1. AIDungeon2是此类AI生成的文本冒险的第一个。使用名为GPT-2的1.5B参数机器学习模型,AIDungeon2可以在您在虚拟世界中玩耍时产生您的故事和行动结果
 [https://github.com/AIDungeon/AIDungeon](https://github.com/AIDungeon/AIDungeon)
-1. [An implementation of model parallel GPT2& GPT3-like models, with the ability to scale up to full GPT3 sizes (and possibly more!), using the mesh-tensorflow library. 
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-https://github.com/EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo)
+1. [An implementation of model parallel GPT2& GPT3-like models, with the ability to scale up to full GPT3 sizes (and possibly more!), using the mesh-tensorflow library. https://github.com/EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo)
 
 
 # 为关系数据库开发自然语言接口 自动生成sql的训练和示例
