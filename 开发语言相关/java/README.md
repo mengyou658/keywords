@@ -171,7 +171,7 @@ spring-boot-plus
 1.
 
 ### 测试
-1. 
+1. [换种思路写Mock，让单元测试更简单https://github.com/alibaba/testable-mock](https://github.com/alibaba/testable-mock)
 1. 
 
 ### UI
