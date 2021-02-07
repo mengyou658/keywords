@@ -450,6 +450,7 @@ Keras is a high-level neural networks API, written in Python and capable of runn
 [https://github.com/InsaneLife/ChineseNLPCorpus](https://github.com/InsaneLife/ChineseNLPCorpus)
 1. [在自然语言处理领域中，预训练模型（Pre-trained Models）已成为非常重要的基础技术。 为了进一步促进中文信息处理的研究发展，我们发布了基于全词遮罩（Whole Word Masking）技术的中文预训练模型BERT-wwm，以及与此技术密切相关的模型：BERT-wwm-ext，RoBERTa-wwm-ext，RoBERTa-wwm-ext-large, RBT3, RBTL3。https://github.com/ymcui/Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm)
 1. [https://github.com/jbesomi/textheroTexthero是一个Python工具箱，可快速轻松地处理基于文本的数据集。Texthero非常简单易学，可以在熊猫上使用。Texthero具有与Pandas相同的表现力和力量，并有大量文献记载。Texthero是现代的，面向2020年代的程序员，几乎没有语言方面的知识。](https://github.com/jbesomi/texthero)
+1. [https://github.com/DA-southampton/NLP_ability建立这个仓库是为了梳理自然语言处理(NLP)各个方面的知识，提升自己的核心竞争力。我觉得NLP是一个值得深耕的领域，所以希望可以不停的提升自己的段位！微信公众号：NLP从入门到放弃](https://github.com/DA-southampton/NLP_ability)
 1. [https://github.com/DA-southampton/NLP_ability总结梳理自然语言处理工程师(NLP)需要积累的各方面知识，包括各种面试题，基础知识，工程能力等等，提升核心竞争力](https://github.com/DA-southampton/NLP_ability)
 1. [https://github.com/InsaneLife/ChineseNLPCorpus中文自然语言处理数据集，平时做做实验的材料](https://github.com/InsaneLife/ChineseNLPCorpus)
 1. [小米自然语言处理平台（MiNLP）具备词法、句法、语义分析等数十个功能模块 https://github.com/XiaoMi/MiNLP](https://github.com/XiaoMi/MiNLP)
@@ -469,6 +470,8 @@ Keras is a high-level neural networks API, written in Python and capable of runn
 # models 模型
 1. 各种深度学习架构，模型和技巧的集合 A collection of various deep learning architectures, models, and tips
 [https://github.com/rasbt/deeplearning-models](https://github.com/rasbt/deeplearning-models)
+
+
 # 公开数据集，大部分免费，涵盖机器学习、自然语言处理、图像识别等领域
 1. TensorFlow code and pre-trained models for BERT https://arxiv.org/abs/1810.04805
 [https://github.com/google-research/bert](https://github.com/google-research/bert)
@@ -497,6 +500,9 @@ Keras is a high-level neural networks API, written in Python and capable of runn
 [https://github.com/eg4000/SKU110K_CVPR19](https://github.com/eg4000/SKU110K_CVPR19)
 1. Pre-trained and Reproduced Deep Learning Models （『飞桨』官方模型库，包含多种学术前沿和工业场景验证的深度学习模型）
 [https://github.com/PaddlePaddle/models](https://github.com/PaddlePaddle/models)
+1.[https://github.com/CLUEbenchmark/CLUEDatasetSearch搜索所有中文NLP数据集，附常用英文NLP数据集](https://github.com/CLUEbenchmark/CLUEDatasetSearch)
+1.[https://github.com/Lam1360/YOLOv3-model-pruning用 YOLOv3 模型在一个开源的人手检测数据集 oxford hand 上做人手检测，并在此基础上做模型剪枝](https://github.com/Lam1360/YOLOv3-model-pruning)
+1.[https://github.com/skdjfla/toutiao-text-classfication-dataset中文文本分析数据集](https://github.com/skdjfla/toutiao-text-classfication-dataset)
 1.
 1.
 1.
@@ -613,7 +619,15 @@ http://www.jezzamon.com/fourier/zh-cn.html
 [https://github.com/Deep-MI/FastSurfer](https://github.com/Deep-MI/FastSurfer)
 
 
-[]: https://github.com/jbesomi/texthero
+[https://github.com/jbesomi/texthero](https://github.com/jbesomi/texthero):https://github.com/jbesomi/texthero
+
+# Realtime Face Movement Tracking 实时脸部动作抓取 
+[https://github.com/surya-veer/movement-tracking](https://github.com/surya-veer/movement-tracking)
+
+# YOLO 目标检测算法
+1. [说明理解](https://blog.csdn.net/litt1e/article/details/88907542)
+1. [https://github.com/SpikeKing/keras-yolo3-detection](https://github.com/SpikeKing/keras-yolo3-detection)
+1. [https://github.com/DataXujing/YOLO-v5YOLO v5在医疗领域中消化内镜目标检测的应用](https://github.com/DataXujing/YOLO-v5)
 
 
 # [https://github.com/Chrispresso/SuperMarioBros-AI 机器学习自动完超级马里奥](https://github.com/Chrispresso/SuperMarioBros-AI)
