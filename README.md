@@ -4,6 +4,11 @@ keywords,搜索关键词，包括各种教程、安全、awesome、c、Linux、�
 
 **感觉不错，就给个star呗，送人玫瑰手有余香😘么么哒**
 
+# 个人其他项目
+1. [https://github.com/yunchaoq/awesome-env-config-cn 各种开发语言项目环境国内（中国国内加速镜像）配置教程和部分实践经验，包括github.com, nodejs，npm，nvm, yarn, java, maven, gradle, python, mysys2, elasticsearch, php等等，更多正在加入中...](https://github.com/yunchaoq/awesome-env-config-cn)
+1. [https://github.com/mengyou658/react-native-tencent-im-ui 腾讯云即时通信 IM 服务的react-native，使用原生ui版本得sdk](https://github.com/mengyou658/react-native-tencent-im-ui)
+1. [https://github.com/mengyou658/github-repositories-manage github repositories manage delete github仓库管理删除](https://github.com/mengyou658/github-repositories-manage)
+
 # 进言
 * 2分钟规则
 ```
