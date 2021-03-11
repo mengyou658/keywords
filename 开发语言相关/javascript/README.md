@@ -59,6 +59,7 @@
 
 ###   实用 库/模块/框架
 1. [lodash包含比较全面的工具类](https://www.lodashjs.com/)
+1. [ramda一款实用的 JavaScript 函数式编程库](https://ramda.cn/)
 1. es6 proxy polyfill
 [https://github.com/GoogleChrome/proxy-polyfill](https://github.com/GoogleChrome/proxy-polyfill)
 1. Comlink 开发 WebWorkers 简单
