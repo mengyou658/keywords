@@ -228,6 +228,7 @@ https://github.com/tide-emergency/yingji
 [https://github.com/mengyou658/RAP](https://github.com/mengyou658/RAP)
 
 #自动化测试
+1. [Playwright可以在所有浏览器中实现快速、可靠和强大的自动化测试 https://github.com/microsoft/playwright](https://github.com/microsoft/playwright)
 1. [MeterSphere 一站式开源持续测试平台 https://github.com/metersphere/metersphere](https://github.com/metersphere/metersphere)
 1.RAP Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理
 [https://github.com/mengyou658/RAP](https://github.com/mengyou658/RAP)
