@@ -125,6 +125,9 @@
 1. [https://github.com/agracio/electron-edge-js-quick-start](https://github.com/agracio/electron-edge-js-quick-start)
 1. 
 
-### nodejs c#
+### nodejs 调用 c# .netcore 实现跨平台
 1. https://github.com/agracio/edge-js
 1. https://github.com/agracio/electron-edge-js-quick-start
+
+### 扫描 node.js 依赖漏洞
+1. [一个开源程序，可以在本地检查 node.js 项目外部依赖模块的安全漏洞 https://github.com/snyk/snyk](https://github.com/snyk/snyk)
