@@ -63,6 +63,9 @@ keywords,搜索关键词，包括各种教程、安全、awesome、c、Linux、�
 
 # [idea 破解, 仅仅互联网转载，点击访问](https://shimo.im/docs/WY3hd8Jt8KHgvVty)
 
+# github 加速
+1. [https://github.com/docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar)
+1. [https://github.com/RC1844/FastGithub](https://github.com/RC1844/FastGithub)
 # 主要关注
 动手学深度学习，反复读
 1. [http://zh.d2l.ai/](http://zh.d2l.ai/)
