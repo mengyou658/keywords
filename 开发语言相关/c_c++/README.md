@@ -88,7 +88,7 @@ http://www.avabodh.com/cin/introduction.html
 1. [https://github.com/WeiMuYang/qtcreator-study](https://github.com/WeiMuYang/qtcreator-study)
 1. [https://github.com/CPU-Code/notes](https://github.com/CPU-Code/notes)
 1. [https://github.com/JoeNero/QT](https://github.com/JoeNero/QT)
-1. 
+1. [收费 Qt编写的自定义控件插件的sdk集合，包括了各个操作系统的动态库文件以及控件的头文件和sdk使用demo https://github.com/feiyangqingyun/qucsdk](https://github.com/feiyangqingyun/qucsdk)
 1. 
 1. 
 
