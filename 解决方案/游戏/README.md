@@ -33,7 +33,7 @@
 [https://github.com/pond3r/ggpo](https://github.com/pond3r/ggpo)
 1.[LayaBox小游戏框架，简化开发流程 https://github.com/yayaluoya/LayaMiniGameFrame](https://github.com/yayaluoya/LayaMiniGameFrame)
 1.[c++游戏引擎，https://github.com/FlaxEngine/FlaxEngine](https://github.com/FlaxEngine/FlaxEngine)
-1.
+1.[rust游戏开发框架https://github.com/bevyengine/bevy](https://github.com/bevyengine/bevy)
 1.
 
 ### 完整项目/示例/demo/代码片段
