@@ -386,6 +386,7 @@ http://www.jsweet.org/
 [https://github.com/yued-fe/lulu](https://github.com/yued-fe/lulu)
 1. 更细粒度的css 框架规则，每一个属性都是一个css类
 [https://github.com/mertJF/tailblocks](https://github.com/mertJF/tailblocks)
+1. [一系列精致紧凑的网页酷效果https://github.com/lindelof/awesome-web-effect](https://github.com/lindelof/awesome-web-effect)
 
 ###   可伸缩布局方案
 1. amfe-flexible 
