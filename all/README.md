@@ -189,6 +189,7 @@
 ### 黑客相关
 1. wifi漏洞
 [https://github.com/kristate/krackinfo](https://github.com/kristate/krackinfo)
+1. [环境搭建，POC，漏洞原理全部集合在一个文库http://wiki.peiqi.tech/](http://wiki.peiqi.tech/)
 
 
 # cheatsheet 备忘录 速查表
