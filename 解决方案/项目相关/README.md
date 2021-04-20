@@ -246,6 +246,7 @@ https://github.com/tide-emergency/yingji
 [https://github.com/segmentio/nightmare](https://github.com/segmentio/nightmare)
 1. 可以参考 它会自动打开 APP 对视频截图 点赞并关注，接着翻到下一页，重复进行该过程
 [https://github.com/wangshub/Douyin-Bot](https://github.com/wangshub/Douyin-Bot)
+1. [跨平台的UI自动化框架，适用于游戏和Apphttps://github.com/AirtestProject/Airtest](https://github.com/AirtestProject/Airtest)
 
 ##### 用于自动化测试和不需要可视化用户界面的服务器
 1. Headless Chrome Node API （）
