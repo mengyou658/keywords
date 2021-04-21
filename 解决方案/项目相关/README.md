@@ -690,7 +690,7 @@ Flink使用了流处理的内核，同时提供了流处理和批处理的接口
 # 语音识别
 1. 基于kaldi 的语音识别
 [https://github.com/alibaba/Alibaba-MIT-Speech](https://github.com/alibaba/Alibaba-MIT-Speech)
-
+1. [https://github.com/Eleven2012/KASRSDK](https://github.com/Eleven2012/KASRSDK)
 
 # p2p 文件分发
 [https://github.com/alibaba/Dragonfly](https://github.com/alibaba/Dragonfly)
