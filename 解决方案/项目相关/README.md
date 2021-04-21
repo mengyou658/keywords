@@ -1061,7 +1061,9 @@ mapx
 https://github.com/mindskip/xzs-mysql
    
 ### 国内低代码平台
-https://github.com/taowen/awesome-lowcode
+1. [低代码https://github.com/taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode)
+3.
+
 
 ### macos 垃圾清理
 1. [MacOS 应用，通过火焰图，进行磁盘可视化分析和清理 https://engineerdraft.com/flamedisk/](https://engineerdraft.com/flamedisk/)
@@ -1071,3 +1073,8 @@ https://github.com/taowen/awesome-lowcode
 
 ### 停车场系统
 [停车场系统源码，停车场小程序【功能介绍】：①兼容市面上主流的多家相机，理论上兼容所有硬件，可灵活扩展，②相机识别后数据自动上传到云端并记录，校验相机唯一id和硬件序列号，防止非法数据录入，③用户手机查询停车记录详情可自主缴费(支持微信，支付宝，银行接口支付，支持每个停车场指定不同的商户进行收款)，支付后出场在免费时间内会自动抬杆。④支持app上查询附近停车场(导航，可用车位数，停车场费用，优惠券，评分，评论等)，可预约车位。⑤断电断网支持岗亭人员使用app可接管硬件进行停车记录的录入。 【技术架构】：后端开发语言java，框架oauth2+springboot2+dubble，数据库mysql/mongodb/redis，即时通讯底层框架netty4，安卓和ios均为原生开发，后台管理…https://github.com/981011512/--](https://github.com/981011512/--)
+
+
+### idea 插件
+1. [基于IntelliJ IDEA开发的代码生成插件，支持自定义任意模板 https://github.com.cnpmjs.org/makejavas/EasyCode.git](https://github.com.cnpmjs.org/makejavas/EasyCode.git)
+2. [idea 快速代码生成插件https://github.com/mengyou658/EasyCode](https://github.com/mengyou658/EasyCode)
