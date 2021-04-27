@@ -1019,6 +1019,7 @@ http://www.sweethome3d.com/
 [https://github.com/shzlw/poli](https://github.com/shzlw/poli)
 1. 数据可视化，只能用数据库作为数据源
 [https://www.metabase.com/start/other.html](https://www.metabase.com/start/other.html)
+1. [一款免费的数据可视化工具，报表与大屏设计！类似于excel操作风格，在线拖拽完成报表设计！功能涵盖: 报表设计、图形报表、打印设计、大屏设计等，永久免费！https://github.com/zhangdaiscott/JimuReport](https://github.com/zhangdaiscott/JimuReport)
 
 ### vn.py是一套基于Python的开源量化交易系统开发框架，于2015年1月正式发布，在开源社区6年持续不断的贡献下一步步成长为全功能量化交易平台，目前国内外金融机构用户已经超过500家，包括：私募基金、证券自营和资管、期货资管和子公司、高校研究机构、自营交易公司、交易所、Token Fund等。
 [https://github.com.cnpmjs.org/vnpy/vnpy](https://github.com.cnpmjs.org/vnpy/vnpy)
