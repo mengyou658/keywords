@@ -74,6 +74,7 @@
 [https://github.com/LMAX-Exchange/disruptor](https://github.com/LMAX-Exchange/disruptor)
 1. Easy Scheduler是一个分布式工作流任务调度系统
 [https://github.com/analysys/EasyScheduler](https://github.com/analysys/EasyScheduler)
+1. [这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...https://github.com/dromara/sa-token](https://github.com/dromara/sa-token)
 
 ###### 微服务 动态服务发现、配置管理和服务管理平台 微服务配置 分布式配置中心
 1. Spring Cloud Alibaba 致力于提供微服务开发的一站式解决方案。此项目包含开发分布式应用微服务的必需组件，方便开发者通过 Spring Cloud 编程模型轻松使用这些组件来开发分布式应用服务。
