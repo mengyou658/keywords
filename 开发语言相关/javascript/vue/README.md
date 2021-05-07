@@ -20,6 +20,7 @@
 ### 实用 库/模块/框架
 1. [飞猪中后台「表单/表格/图表」开箱即用解决方案 基于 ant-design https://github.com/alibaba/x-render](https://github.com/alibaba/x-render)
 1. [Avue 是一个采用Element框架低代码前端框架，它使用 JSON 配置来生成页面，可以减少页面开发工作量，极大提升效率https://github.com/nmxiaowei/avue](https://github.com/nmxiaowei/avue)
+1. [AMS是基于 Vue.js 和 Element组件库、通过JSON配置来快速搭建管理后台的一整套前端解决方案https://github.com/vipshop/ams](https://github.com/vipshop/ams)
 1. evue
 1. vue 静态页面生成
 [https://github.com/mengyou658/vuepress](https://github.com/mengyou658/vuepress)
