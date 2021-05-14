@@ -67,6 +67,7 @@
 1. 
 
 ### 工具
+1. [Starter template with Vite2 Vue3 and Electron 11.x /使用 Vite2 Vue3 以及 Electron 11.x 打造的快速启动模版https://github.com/MangoTsing/vite-electron-quick](https://github.com/MangoTsing/vite-electron-quick)
 1. mpvue 是一个使用 Vue.js 开发小程序的前端框架，目前支持 微信小程序、百度智能小程序，头条小程序 和 支付宝小程序
 [https://github.com/Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue)
 1. Prototyping Tool For Vue Devs 适用于Vue的原型工具 
