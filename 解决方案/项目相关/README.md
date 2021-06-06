@@ -642,6 +642,7 @@ Flink使用了流处理的内核，同时提供了流处理和批处理的接口
 1. echart 也有简单的
 1. draw.io
 [https://github.com/jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop)
+1. [X6 是 AntV 旗下的图编辑引擎 https://github.com/antvis/X6](https://github.com/antvis/X6)
 
 # css 框架
 1. https://bulma.io/

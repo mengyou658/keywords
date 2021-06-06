@@ -283,6 +283,7 @@ http://www.jsweet.org/
 [https://github.com/developit/workerize-loader](https://github.com/developit/workerize-loader)
 
 #####  admin
+1. [vue3,vue3.0,vue,vue3.x,vue.js,vue后台管理,admin,vue-admin,vue-element-admin,ant-design，vue-admin-beautiful-pro,vab admin pro,vab admin plus主线版本基于element-plus、element-ui、ant-design-vue三者并行开发维护，同时支持电脑，手机，平板，切换分支查看不同的vue版本，element-plus版本已发布(vue3,vue3.0,vue,vue3.x,vue.js)程序无国界，但程序员有国界，中国国家尊严不容挑衅，如果您在特殊时期继续购买HM、耐克、阿迪达斯等品牌那么您将无权继续使用Vab https://github.com/chuzhixin/vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful)
 1. 漂亮的后台界面
 [https://github.com/creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard)
 1. 漂亮干净的后台界面
