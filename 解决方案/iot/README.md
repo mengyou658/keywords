@@ -13,6 +13,7 @@
 1. 
 
 ### 实用 库/模块/框架
+1. [Magician | 异步非阻塞的网络协议解析包 http://magician-io.com/docs/index.html](http://magician-io.com/docs/index.html)
 1. 一整套的物联网微服务解决方案
 [https://github.com/devicehive](https://github.com/devicehive)
 1. JetLinks Community 基于Java8,Spring Boot 2.x ,WebFlux,Netty,Vert.x,Reactor等开发, 是一个全响应式的物联网基础平台。

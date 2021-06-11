@@ -216,7 +216,8 @@ keywords,搜索关键词，包括各种教程、安全、awesome、c、Linux、�
 
 
 ### 最近尝试/学习/待学习路径
-1. https://github.com/CPU-Code/notes
+1. [凤凰架构 构建可靠的大型分布式系统http://icyfenix.cn/summary/](http://icyfenix.cn/summary/)
+1. [https://github.com/CPU-Code/notes](https://github.com/CPU-Code/notes)
 1. F:/work_c++/PyQt5-pdf-tutorial/PyQt5快速开发与实战电子书（1117）.pdf
 1. https://github.com/ThanlonSmith/PyQt5-pdf-tutorial
 1. https://github.com/WeiMuYang/qtcreator-study
