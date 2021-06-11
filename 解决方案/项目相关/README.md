@@ -760,6 +760,7 @@ Flink使用了流处理的内核，同时提供了流处理和批处理的接口
 [https://github.com/GeXyu/quick-cli-java](https://github.com/GeXyu/quick-cli-java)
 
 # 算法
+1.[各种常用算法的可视化演示 https://visualgo.net/zh](https://visualgo.net/zh)
 1. 使用动画的形式呈现解 LeetCode 题目的思路
 [https://github.com/MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
 1. Interactive Online Platform that Visualizes Algorithms from Code
@@ -1086,3 +1087,4 @@ https://github.com/mindskip/xzs-mysql
 
 ### 数学 
 1. [一个专门用于数学的前端可视化库 https://github.com/thoughtspile/grafar/](https://github.com/thoughtspile/grafar/)
+1. [一个用来生成数学动画视频（比如绘制函数）的 Python 库 https://github.com/3b1b/manim](https://github.com/3b1b/manim)
