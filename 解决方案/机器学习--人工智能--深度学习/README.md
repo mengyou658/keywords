@@ -393,6 +393,13 @@ Keras is a high-level neural networks API, written in Python and capable of runn
 1.
 
 # 自然语言处理 中文分词库
+1. [基于开源GPT2.0的初代创作型人工智能 EAST文本检测 识别网络替换为传统的CTPN等模型 https://github.com/EssayKillerBrain/EssayKiller_V2](https://github.com/EssayKillerBrain/EssayKiller_V2)
+    1. OpenCV 的EAST文本检测器 更多细节可以参考：https://zhuanlan.zhihu.com/p/64737915
+    1. https://github.com/Walleclipse/ChineseAddress_OCR
+    1. CRNN文本识别
+       参考 https://github.com/ooooverflow/chinese-ocr
+    1. BERT文本摘要
+    1. GPT-2文本生成 https://github.com/imcaspar/gpt2-ml/
 1. 中文文本分类，TextCNN，TextRNN，FastText，TextRCNN，BiLSTM_Attention，DPCNN，Transformer，基于pytorch，开箱即用。
 [https://github.com/649453932/Chinese-Text-Classification-Pytorch](https://github.com/649453932/Chinese-Text-Classification-Pytorch)
 1. pkuseg多领域中文分词工具; The pkuseg toolkit for multi-domain Chinese word segmentation
