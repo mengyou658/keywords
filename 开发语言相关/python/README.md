@@ -161,3 +161,5 @@
 [https://github.com/soimort/you-get](https://github.com/soimort/you-get)
 1. 获取斗鱼&虎牙&哔哩哔哩&抖音&网易CC&火猫&企鹅电竞&YY直播&一直播&快手&花椒&映客 等直播平台的真实流媒体地址（直播源），可在PotPlayer、flv.js等播放器中播放。
 [https://github.com/wbt5/real-url](https://github.com/wbt5/real-url)
+1. [Matplotlib中文教程 https://github.com/datawhalechina/fantastic-matplotlib](https://github.com/datawhalechina/fantastic-matplotlib)
+1. [动手学数据分析 https://github.com/datawhalechina/hands-on-data-analysis](https://github.com/datawhalechina/hands-on-data-analysis)
