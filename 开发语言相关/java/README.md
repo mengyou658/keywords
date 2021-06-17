@@ -238,3 +238,4 @@ http://plugins.jetbrains.com/plugin/10196-idea-mybatis-generator
 
 # 漏洞
 1. [SpringBoot 相关漏洞学习资料，利用方法和技巧合集，黑盒安全评估 check list https://github.com/LandGrey/SpringBootVulExploit](https://github.com/LandGrey/SpringBootVulExploit)
+1. [shiro 漏洞扫描 渗透测试 https://github.com/j1anFen/shiro_attack](https://github.com/j1anFen/shiro_attack)
