@@ -286,10 +286,10 @@ https://github.com/tide-emergency/yingji
 
 
 # admin / 快速开发 方案
+1. [https://github.com/flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)
 1. [go vue-admin https://github.com/go-admin-team/go-admin](https://github.com/go-admin-team/go-admin)
 1. [RUST Vue-AntDesign-Pro https://github.com/rbatis/abs_admin](https://github.com/rbatis/abs_admin)
 1. [https://gitee.com/tiger1103/gfast](https://gitee.com/tiger1103/gfast)
-1. [https://github.com/flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)
 1. ruoyi
 1. [前后台 https://github.com/elunez/eladmin](https://github.com/elunez/eladmin)
 1. [前台 https://github.com/PanJiaChen/vue-element-admin/blob/master/README.zh-CN.md](https://github.com/PanJiaChen/vue-element-admin/blob/master/README.zh-CN.md)
