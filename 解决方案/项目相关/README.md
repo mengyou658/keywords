@@ -290,7 +290,7 @@ https://github.com/tide-emergency/yingji
 1. [推荐1 go ruoyi-vue 都包含工作流 goframe https://gitee.com/tiger1103/gfast](https://gitee.com/tiger1103/gfast)
 1. [推荐2 go 都包含工作流 goframe https://github.com/flipped-aurora/gf-vue-admin](https://github.com/flipped-aurora/gf-vue-admin)
 1. [推荐2 go 都包含工作流 gin https://github.com/flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)
-1. [推荐4 go https://github.com/GoAdminGroup/go-admin](https://github.com/GoAdminGroup/go-admin)
+1. [推荐3 go ruoyi-vue https://github.com/zeroing-zy1/yjgo](https://github.com/zeroing-zy1/yjgo)
 1. [推荐1 java https://gitee.com/y_project/RuoYi-Vue](https://gitee.com/y_project/RuoYi-Vue)
 1. [推荐1 java 前后台 https://github.com/elunez/eladmin](https://github.com/elunez/eladmin)
 1. [推荐3 RUST Vue-AntDesign-Pro https://github.com/rbatis/abs_admin](https://github.com/rbatis/abs_admin)
