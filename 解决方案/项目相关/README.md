@@ -286,12 +286,13 @@ https://github.com/tide-emergency/yingji
 
 
 # admin / 快速开发 方案
-1. [https://github.com/flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)
-1. [go vue-admin https://github.com/go-admin-team/go-admin](https://github.com/go-admin-team/go-admin)
-1. [RUST Vue-AntDesign-Pro https://github.com/rbatis/abs_admin](https://github.com/rbatis/abs_admin)
-1. [https://gitee.com/tiger1103/gfast](https://gitee.com/tiger1103/gfast)
-1. ruoyi
-1. [前后台 https://github.com/elunez/eladmin](https://github.com/elunez/eladmin)
+1. [推荐1 go 都包含工作流 https://github.com/flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)
+1. [推荐1 go 都包含工作流 https://gitee.com/tiger1103/gfast](https://gitee.com/tiger1103/gfast)
+1. [推荐2 go vue-admin https://github.com/go-admin-team/go-admin](https://github.com/go-admin-team/go-admin)
+1. [推荐3 go https://github.com/GoAdminGroup/go-admin](https://github.com/GoAdminGroup/go-admin)
+1. [推荐1 java https://gitee.com/y_project/RuoYi-Vue](https://gitee.com/y_project/RuoYi-Vue)
+1. [推荐1 java 前后台 https://github.com/elunez/eladmin](https://github.com/elunez/eladmin)
+1. [推荐3 RUST Vue-AntDesign-Pro https://github.com/rbatis/abs_admin](https://github.com/rbatis/abs_admin)
 1. [前台 https://github.com/PanJiaChen/vue-element-admin/blob/master/README.zh-CN.md](https://github.com/PanJiaChen/vue-element-admin/blob/master/README.zh-CN.md)
 1. ant-design-pro开箱即用的中台前端/设计解决方案
 [https://github.com/mengyou658/ant-design-pro](https://github.com/mengyou658/ant-design-pro)
@@ -317,7 +318,6 @@ https://github.com/tide-emergency/yingji
 [https://github.com/mengyou658/meteor](https://github.com/mengyou658/meteor)
 1. 权限管理
 [https://github.com/mengyou658/cl-privilege.git](https://github.com/mengyou658/cl-privilege.git)
-1. [https://github.com/GoAdminGroup/go-admin](https://github.com/GoAdminGroup/go-admin)
 
 
 # nginx
