@@ -641,3 +641,7 @@ http://www.jezzamon.com/fourier/zh-cn.html
 
 # 推荐系统
 1. [“推荐系统”方向的资料https://github.com/datawhalechina/team-learning-rs](https://github.com/datawhalechina/team-learning-rs)
+
+
+## 手势 和脸部表情检测
+1. [https://handsfree.js.org/](https://handsfree.js.org/)

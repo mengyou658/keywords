@@ -605,9 +605,12 @@ Flink使用了流处理的内核，同时提供了流处理和批处理的接口
 
 
 # VR 虚拟现实技术 AR 增强现实技术
+1. pano2vr 全景制作工具
 1. Build your own VR headset for $100 (自己制造虚拟现实头盔)
 [https://github.com/mengyou658/Relativ](https://github.com/mengyou658/Relativ)
-
+1. [three.js https://github.com/mrdoob/three.js/blob/master/examples/webgl_panorama_equirectangular.html](https://github.com/mrdoob/three.js/blob/master/examples/webgl_panorama_equirectangular.html)
+1. [https://github.com/shrekshrek/css3d-engine](https://github.com/shrekshrek/css3d-engine)
+1. [三种前端实现VR全景看房的方案！说不定哪天就用得上 https://juejin.cn/post/6973865268426571784](https://juejin.cn/post/6973865268426571784)
 
 # 高大上，假装你在干高大上的事
 1.  A nonsense activity generator
@@ -1094,3 +1097,6 @@ https://github.com/mindskip/xzs-mysql
 ### 数学 
 1. [一个专门用于数学的前端可视化库 https://github.com/thoughtspile/grafar/](https://github.com/thoughtspile/grafar/)
 1. [一个用来生成数学动画视频（比如绘制函数）的 Python 库 https://github.com/3b1b/manim](https://github.com/3b1b/manim)
+
+### 激光检测设备
+1. [https://github.com/dekuNukem/daytripper](https://github.com/dekuNukem/daytripper)
