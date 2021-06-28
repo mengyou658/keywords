@@ -751,6 +751,14 @@ Flink使用了流处理的内核，同时提供了流处理和批处理的接口
 # 物联网 IOT thing
 1. Johnny-Five是一个开源，基于Firmata协议的物联网和机器人编程框架
 [https://github.com/rwaldron/johnny-five](https://github.com/rwaldron/johnny-five)
+1. [java https://github.com/thingsboard/thingsboard](https://github.com/thingsboard/thingsboard)
+1. [java JetLinks 基于Java8,Spring Boot 2.x ,WebFlux,Netty,Vert.x,Reactor等开发, 是一个全响应式的企业级物联网平台。支持统一物模型管理,多种设备,多种厂家,统一管理。统一设备连接管理,多协议适配(TCP,MQTT,UDP,CoAP,HTTP等),屏蔽网络编程复杂性,灵活接入不同厂家不同协议等设备。实时数据处理,设备告警,消息通知,数据转发。地理位置,数据可视化等。能帮助你快速建立物联网相关业务系统。 git@github.com:jetlinks/jetlinks-community.git](git@github.com:jetlinks/jetlinks-community.git)
+1. [java syhthems platform 是一个开源的IoT(物联网)平台。可以实现物联网产品的创建和管理、数据流的管理、终端设备的管理以及设备数据的图表形态查看。](git@github.com:ehaut/syhthems-platform.git)
+1. [java 开源物联网平台 - 物联网解决方案的设备管理，数据收集，处理 https://github.com/IoT-Technology/Groza](https://github.com/IoT-Technology/Groza)
+1. [C#跨平台(Window、Linux、嵌入式设备)的物联网设备采集平台https://github.com/cdy816/Spider](https://github.com/cdy816/Spider)
+1. [OpenIoTHub Server[内网穿透和物联网设备管理服务器]](https://github.com/OpenIoTHub/server-go)
+1. [go 物联网开发平台](git@github.com:icerking/Mainflux.git)
+1. [Erlang跨平台数蛙工业物联网SaaS平台（Industry SaaS for IoT Platform）](https://github.com/dgiot/dgiot)
 
 # 项目管理
 1. vue 项目管理界面
