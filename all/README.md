@@ -1,6 +1,7 @@
 # 综合
 
 # Awesomes
+1. [https://github.com/jobbole/awesome-go-cn](https://github.com/jobbole/awesome-go-cn)
 1. 后端架构师技术图谱
 [https://github.com/xingshaocheng/architect-awesome/](https://github.com/xingshaocheng/architect-awesome/)
 1. Build your own (insert technology here) 创造自己的系统（各种各样的）
