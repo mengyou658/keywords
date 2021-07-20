@@ -31,4 +31,5 @@
 
 ### 工具
 1. [一个演示汉字笔画顺序的 JS 库https://github.com/chanind/hanzi-writer](https://github.com/chanind/hanzi-writer)
-1. 
+1. [汉字笔画练字离线版本，只支持楷体，使用svg绘图，数据来源http://www.an2.net/zi/ https://github.com/wont/StrokesOfChineseCharacter](https://github.com/wont/StrokesOfChineseCharacter)
+1. [一个演示汉字笔画顺序 https://github.com/parsimonhi/animCJK](https://github.com/parsimonhi/animCJK)
