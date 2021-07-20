@@ -641,7 +641,7 @@ http://www.jezzamon.com/fourier/zh-cn.html
 
 # 推荐系统
 1. [“推荐系统”方向的资料https://github.com/datawhalechina/team-learning-rs](https://github.com/datawhalechina/team-learning-rs)
-
+1. [Gorse is an open-source recommendation system written in Go. Gorse aims to be an universal open-source recommender system that can be quickly introduced into a wide variety of online services. By importing items, users and interaction data into Gorse, the system will automatically train models to generate recommendations for each user. Project features are as follows. https://github.com/zhenghaoz/gorse](https://github.com/zhenghaoz/gorse)
 
 ## 手势 和脸部表情检测
 1. [https://handsfree.js.org/](https://handsfree.js.org/)
