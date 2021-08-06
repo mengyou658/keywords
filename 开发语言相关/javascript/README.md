@@ -401,100 +401,99 @@ http://www.jsweet.org/
 1. rrweb 是 'record and replay the web' 的简写，旨在利用现代浏览器所提供的强大 API 录制并回放任意 web 界面中的用户操作。
 一个可以录制网页操作的 JS 库，不是录制成视频，而是将用户的每一个操作，录制成可复现的脚本。
 [https://github.com/rrweb-io/rrweb](https://github.com/rrweb-io/rrweb)
-1. a UI builder for React web apps 一个 UI 原型设计的桌面软件，可以输出 JSX 代码
+2. a UI builder for React web apps 一个 UI 原型设计的桌面软件，可以输出 JSX 代码
 [https://github.com/Pagedraw/pagedraw](https://github.com/Pagedraw/pagedraw)
-1. YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台 https://yapi.ymfe.org
+3. YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台 https://yapi.ymfe.org
 [https://github.com/YMFE/yapi](https://github.com/YMFE/yapi)
-1. Simple argument parsing another command line option parser.入参 命令行选项解析器 解析 https://npmjs.com/arg的简单参数
+4. Simple argument parsing another command line option parser.入参 命令行选项解析器 解析 https://npmjs.com/arg的简单参数
 [https://github.com/zeit/arg](https://github.com/zeit/arg)
-1. Random generator helper for JavaScript this single library can generate random numbers, characters, strings, names, addresses, dice, and pretty much anything else
+5. Random generator helper for JavaScript this single library can generate random numbers, characters, strings, names, addresses, dice, and pretty much anything else
 [https://github.com/chancejs/chancejs](https://github.com/chancejs/chancejs)
-1. 号称更更快的编译器 webpack, parcel 替代
+6. 号称更更快的编译器 webpack, parcel 替代
 http://fastpack.io/
-1. webpack 的替代解决方案， 最佳的使用方式 ，编译更快
+7. webpack 的替代解决方案， 最佳的使用方式 ，编译更快
 [https://github.com/mengyou658/parcel](https://github.com/mengyou658/parcel)
-1. 类似create-react-app的工具，对webpack的封装，无需多余的配置
+8. 类似create-react-app的工具，对webpack的封装，无需多余的配置
 [https://github.com/mengyou658/poi](https://github.com/mengyou658/poi)
-1. 类似create-react-app的工具，对webpack的封装，无需多余的配置 国产
+9. 类似create-react-app的工具，对webpack的封装，无需多余的配置 国产
 [https://github.com/mengyou658/roadhog](https://github.com/mengyou658/roadhog)
-1. Zero-configuration bundler for tiny modules. 小型打包工具
+10. Zero-configuration bundler for tiny modules. 小型打包工具
 [https://github.com/mengyou658/microbundle](https://github.com/mengyou658/microbundle)
-1. jwt解析工具
+11. jwt解析工具
 [https://github.com/mengyou658/jwt-decode](https://github.com/mengyou658/jwt-decode)
-1. 前端业务代码工具库
+12. 前端业务代码工具库
 [https://github.com/mengyou658/outils](https://github.com/mengyou658/outils)
-1. G2 是一套基于可视化编码的图形语法，以数据驱动，具有高度的易用性和扩展性，用户无需关注各种繁琐的实现细节，一条语句即可构建出各种各样的可交互的统计图表。足你无限的创意
+13. G2 是一套基于可视化编码的图形语法，以数据驱动，具有高度的易用性和扩展性，用户无需关注各种繁琐的实现细节，一条语句即可构建出各种各样的可交互的统计图表。足你无限的创意
 [https://github.com/mengyou658/g2](https://github.com/mengyou658/g2)
-1. 文档工具 linux中的man工具
+14. 文档工具 linux中的man工具
 [https://github.com/mengyou658/tldr](https://github.com/mengyou658/tldr)
-1. Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.  统一的消息收发软件集合
+15. Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.  统一的消息收发软件集合
 [https://github.com/mengyou658/franz](https://github.com/mengyou658/franz)
-1. Insomnia is a cross-platform REST client, built on top of Electron. 可以替代SoapUI和POSTman
+16. Insomnia is a cross-platform REST client, built on top of Electron. 可以替代SoapUI和POSTman
 [https://github.com/mengyou658/insomnia](https://github.com/mengyou658/insomnia)
-1. Analyze website stack from the terminal 从 CLI 分析网站使用技术小工具 技术栈
+17. Analyze website stack from the terminal 从 CLI 分析网站使用技术小工具 技术栈
 [https://github.com/mengyou658/stacks-cli](https://github.com/mengyou658/stacks-cli)
-1.  Cross-platform utility that uncovers the technologies used on websites 分析网站使用技术小工具 技术栈
+18. Cross-platform utility that uncovers the technologies used on websites 分析网站使用技术小工具 技术栈
 [https://github.com/mengyou658/Wappalyzer](https://github.com/mengyou658/Wappalyzer)
-1. Alva is a radically new design tool that enables cross-functional teams to design digital products.  (前端设计工具)
+19. Alva is a radically new design tool that enables cross-functional teams to design digital products.  (前端设计工具)
 [https://github.com/mengyou658/alva](https://github.com/mengyou658/alva)
-1. Toapi is a clever, simple and fast library letting any web site provide APIs.  把网站通过xpath的方式转换成api
+20. Toapi is a clever, simple and fast library letting any web site provide APIs.  把网站通过xpath的方式转换成api
 [https://github.com/mengyou658/toapi](https://github.com/mengyou658/toapi)
-1. A framework for easily creating beautiful presentations using HTML 创建 html ppt 使用HTML轻松创建精美的演示文稿的框架
+21. A framework for easily creating beautiful presentations using HTML 创建 html ppt 使用HTML轻松创建精美的演示文稿的框架
 [https://github.com/mengyou658/reveal.js](https://github.com/mengyou658/reveal.js)
-1. A presentation system that works great for creative, hurried people making focused presentations
+22. A presentation system that works great for creative, hurried people making focused presentations
 [https://github.com/mengyou658/big](https://github.com/mengyou658/big)
-1. Remove unused css 删除无用的css
+23. Remove unused css 删除无用的css
 [https://github.com/mengyou658/purgecss](https://github.com/mengyou658/purgecss)
-1. git client for node and WebWorkers and ServiceWorkers
+24. git client for node and WebWorkers and ServiceWorkers
 [https://github.com/isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git)
-1. A web component for drawing patterns with css.
+25. A web component for drawing patterns with css.
 [https://github.com/css-doodle/css-doodle](https://github.com/css-doodle/css-doodle)
-1. Record, Replay, and Stub HTTP Interactions
+26. Record, Replay, and Stub HTTP Interactions
 [https://github.com/mengyou658/pollyjs](https://github.com/mengyou658/pollyjs)
-1. 图片编辑器
+27. 图片编辑器
 [https://github.com/nhnent/tui.image-editor](https://github.com/nhnent/tui.image-editor)
-1. Fast, handcraft, pure JavaScript badge generator. Running in node & browser. 
+28. Fast, handcraft, pure JavaScript badge generator. Running in node & browser. 
 [https://github.com/amio/badgen](https://github.com/amio/badgen)
-1. node debug
+29. node debug
 [https://github.com/GoogleChromeLabs/ndb](https://github.com/GoogleChromeLabs/ndb)
-1. Stencila 是一套开源的办公套件，只包含文字处理器和电子表格
+30. Stencila 是一套开源的办公套件，只包含文字处理器和电子表格
 [https://github.com/stencila/stencila](https://github.com/stencila/stencila)
-1. Swiper 目前应用较广泛的移动端网页触摸内容滑动js插件
-1. Swiper 类似 
+31. Swiper 目前应用较广泛的移动端网页触摸内容滑动js插件
+32. Swiper 类似 
 [https://github.com/NickPiscitelli/Glider.js](https://github.com/NickPiscitelli/Glider.js)
-1. cli辅助工具，更加直观的cli辅助，让用户更容易选择和操作
+33. cli辅助工具，更加直观的cli辅助，让用户更容易选择和操作
 [https://github.com/enquirer/enquirer](https://github.com/enquirer/enquirer)
-1. Signale 的核心是可扩展和可配置的，可将其用于日志记录、状态报告以及处理其他 Node 模块和应用的输出渲染方式
+34. Signale 的核心是可扩展和可配置的，可将其用于日志记录、状态报告以及处理其他 Node 模块和应用的输出渲染方式
 [https://github.com/klaussinani/signale](https://github.com/klaussinani/signale)
-1. 显示google因为版权等隐藏的搜索结果，有助于搜索破解软件等
+35. 显示google因为版权等隐藏的搜索结果，有助于搜索破解软件等
 [https://github.com/Ibit-to/google-unlocked](https://github.com/Ibit-to/google-unlocked)
-1. 在页面上展示数学公式
+36. 在页面上展示数学公式
 [https://github.com/KaTeX/KaTeX](https://github.com/KaTeX/KaTeX)
-1. 在线文档协作
+37. 在线文档协作
 [https://github.com/nytimes/library](https://github.com/nytimes/library)
-1. 不需要配置直接对应生成对应文件的路径的工具 
+38. 不需要配置直接对应生成对应文件的路径的工具 
 [https://github.com/remoteinterview/zero](https://github.com/remoteinterview/zero)
-1. Run ES Module syntax (`import`, `import()`, and `export`) in any browser – even IE! 在浏览器上面使用import语法
+39. Run ES Module syntax (`import`, `import()`, and `export`) in any browser – even IE! 在浏览器上面使用import语法
 [https://github.com/lukeed/dimport](https://github.com/lukeed/dimport)
-1. 网页离线下载工具，类似webzip
+40. 网页离线下载工具，类似webzip
 [https://github.com/pirate/ArchiveBox](https://github.com/pirate/ArchiveBox)
-1. Generate basic CSS Grid code to make dynamic layouts css layout生成工具 直接复制代码 https://cssgrid-generator.netlify.com/
+41. Generate basic CSS Grid code to make dynamic layouts css layout生成工具 直接复制代码 https://cssgrid-generator.netlify.com/
 [https://github.com/sdras/cssgridgenerator](https://github.com/sdras/cssgridgenerator)
-1. 一个网页工具，可以将 ASCII 字符的公式转为数学字体显示
-1. Free Desktop book-keeping software for small-businesses and freelancers 桌面工具
+42. 一个网页工具，可以将 ASCII 字符的公式转为数学字体显示
+43. Free Desktop book-keeping software for small-businesses and freelancers 桌面工具
 [https://github.com/frappe/books](https://github.com/frappe/books)
-
-
 ![](imgs/bg2019053002.jpg)
 http://asciimath.org/
-1. 一个网页工具，可以在线表格转成 Markdown、JSON、HTML、XML、YAML 等数据格式，并支持格式之间互相转化
+44. 一个网页工具，可以在线表格转成 Markdown、JSON、HTML、XML、YAML 等数据格式，并支持格式之间互相转化
 [https://tableconvert.com/](https://tableconvert.com/)
-1. Chrome 浏览器插件，能够将操作录制成脚本，用于浏览器自动化
+45. Chrome 浏览器插件，能够将操作录制成脚本，用于浏览器自动化
 [https://github.com/checkly/puppeteer-recorder](https://github.com/checkly/puppeteer-recorder)
-1. 页面展示数学公式
+46. 页面展示数学公式
 [https://www.mathjax.org/](https://www.mathjax.org/)
-1. 将打印的数学公式转成 LaTex 代码的工具
+47. 将打印的数学公式转成 LaTex 代码的工具
 [https://mathpix.com/](https://mathpix.com/)
+48. [webfunny是一款轻量级的前端监控系统，webfunny也是一款前端性能监控系统，无埋点监控前端日志，实时分析前端健康状态 https://github.com/a597873885/webfunny_monitor](https://github.com/a597873885/webfunny_monitor)
 
 ###  #   文件上传
 1.  新一代的文件上传组件 Uppy is a sleek, modular file uploader that integrates seemlessly with any application. It’s fast, easy to use and lets you worry about more important problems than building a file uploader.

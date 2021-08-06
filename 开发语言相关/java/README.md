@@ -110,40 +110,41 @@
 ### 完整项目/示例/demo/代码片段
 1. b2c商城  SpringBoot uniapp 优惠券 vip会员等级  点餐
 [https://github.com/iotechn/unimall-App-H5](https://github.com/iotechn/unimall-App-H5)
-1. 项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
+2. 项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
 [https://github.com/elunez/eladmin](https://github.com/elunez/eladmin)
-1. 这个比较完善。又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端
+3. 这个比较完善。又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端
 [https://github.com/linlinjava/litemall](https://github.com/linlinjava/litemall)
-1. 暂时没有前台代码，目前最看好的，mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。 http://39.98.69.210/index.html
+4. 暂时没有前台代码，目前最看好的，mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。 http://39.98.69.210/index.html
 [https://github.com/macrozheng/mall](https://github.com/macrozheng/mall)
-1. 商城mall-admin-web是一个电商后台管理系统的前端项目，基于Vue+Element实现。 主要包括商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等功能
+5. 商城mall-admin-web是一个电商后台管理系统的前端项目，基于Vue+Element实现。 主要包括商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等功能
 [https://github.com/macrozheng/mall-admin-web](https://github.com/macrozheng/mall-admin-web)
-1. 完整开源！Java快速开发平台！基于Spring、SpringMVC、Mybatis架构，MStore提供更多好用的插件与模板（文章、商城、微信、论坛、会员、评论、支付、积分、工作流、任务调度等，同时提供上百套免费模板任意选择），价值源自分享！铭飞系统不仅一套简单好用的开源系统、更是一整套优质的开源生态内容体系。铭飞的使命就是降低开发成本提高开发效率，提供全方位的企业级开发解决方案，每月28定期更新版本 http://ms.mingsoft.net
+6. 完整开源！Java快速开发平台！基于Spring、SpringMVC、Mybatis架构，MStore提供更多好用的插件与模板（文章、商城、微信、论坛、会员、评论、支付、积分、工作流、任务调度等，同时提供上百套免费模板任意选择），价值源自分享！铭飞系统不仅一套简单好用的开源系统、更是一整套优质的开源生态内容体系。铭飞的使命就是降低开发成本提高开发效率，提供全方位的企业级开发解决方案，每月28定期更新版本 http://ms.mingsoft.net
 [https://github.com/ming-soft/MCMS](https://github.com/ming-soft/MCMS)
-1. 基于SOA架构的分布式电商购物商城 前后端分离 前台商城:Vue全家桶 后台管理系统:Dubbo/SSM/Elasticsearch/Redis/MySQL/ActiveMQ/Shiro/Zookeeper等 http://xmall.exrick.cn
+7. 基于SOA架构的分布式电商购物商城 前后端分离 前台商城:Vue全家桶 后台管理系统:Dubbo/SSM/Elasticsearch/Redis/MySQL/ActiveMQ/Shiro/Zookeeper等 http://xmall.exrick.cn
 [https://github.com/Exrick/xmall](https://github.com/Exrick/xmall)
-1. openzaly 是 Akaxin 的服务器源代码，用以搭建私有聊天服务器。 服务器安装教程：https://www.akaxin.com/docs/install/index.html QQ群: 655249600
+8. openzaly 是 Akaxin 的服务器源代码，用以搭建私有聊天服务器。 服务器安装教程：https://www.akaxin.com/docs/install/index.html QQ群: 655249600
 [https://github.com/akaxincom/openzaly](https://github.com/akaxincom/openzaly)
-1. NideShop：基于Node.js+MySQL开发的开源微信小程序商城（微信小程序）
+9. NideShop：基于Node.js+MySQL开发的开源微信小程序商城（微信小程序）
 [https://github.com/tumobi/nideshop-mini-program](https://github.com/tumobi/nideshop-mini-program)
-1. spring cloud + vue + oAuth2.0全家桶实战，前后端分离模拟商城，完整的购物流程、后端运营平台，可以实现快速搭建企业级微服务项目。支持微信登录等三方登录
+10. spring cloud + vue + oAuth2.0全家桶实战，前后端分离模拟商城，完整的购物流程、后端运营平台，可以实现快速搭建企业级微服务项目。支持微信登录等三方登录
 [https://github.com/paascloud/paascloud-master](https://github.com/paascloud/paascloud-master)
-1. 模仿国内知名B2C网站,实现的一个分布式B2C商城 使用Spring Boot 自动配置 Dubbox / MVC / MyBatis / Druid / Solr / Redis 等。使用Spring Cloud版本请查看 https://github.com/xubinux/xbin-store…
+11. 模仿国内知名B2C网站,实现的一个分布式B2C商城 使用Spring Boot 自动配置 Dubbox / MVC / MyBatis / Druid / Solr / Redis 等。使用Spring Cloud版本请查看 https://github.com/xubinux/xbin-store…
 [https://github.com/xubinux/xbin-store](https://github.com/xubinux/xbin-store)
-1. 基于spring boot脚手架项目，spring data jpa+Spring Boot2+bootstrap/vuejs完整的后台管理系统
+12. 基于spring boot脚手架项目，spring data jpa+Spring Boot2+bootstrap/vuejs完整的后台管理系统
 [https://github.com/enilu/guns-lite](https://github.com/enilu/guns-lite)
-1. 注册，绑定手机（短信验证码）、邮箱（邮箱验证码）成为会员 登陆，实名认证（人工审核／第三方接口），绑定银行卡（需check支持的银行卡类型） 借款申请，额度（下限1万，上限1000万）、还款方式、利率（日利率、月利率）、周期、还款账户、联系电话、抵押凭证（可选，例 房屋、豪车、个人公司、其他个人名下财产） 借款审核，系统初审（不良贷款记录、贷款上限、黑名单、贷款笔数最多同时贷5笔）、风控专员、电子合同专员、平台专员、银行系统。审核流程编辑与设定（可选，需要工作流比较熟悉）。 放款管理，开始放款，开始计息 还款管理，查询、详情（个人信息、贷款信息、还款记录、逾期记录、催收记录） 逾期管理，查询、详情（个人信息、贷款信息、还款记录、逾期记录、催收记录） 对账监控，每笔借款与还款总额（含利息、罚息）是否对应。若不对应，开启警告！ 系统设置，借款利率、逾期利率设定，逾期n天逾期，m天严重逾期，个人贷款上限、下限、最大笔数，催收短信模版，逾期短信通知模版，计息时间（T+0,T+1,T+n） 数据统计，放款总额，还款总额，申请总额，周期对比（周、月、年），折线、饼状图展现
+13. 注册，绑定手机（短信验证码）、邮箱（邮箱验证码）成为会员 登陆，实名认证（人工审核／第三方接口），绑定银行卡（需check支持的银行卡类型） 借款申请，额度（下限1万，上限1000万）、还款方式、利率（日利率、月利率）、周期、还款账户、联系电话、抵押凭证（可选，例 房屋、豪车、个人公司、其他个人名下财产） 借款审核，系统初审（不良贷款记录、贷款上限、黑名单、贷款笔数最多同时贷5笔）、风控专员、电子合同专员、平台专员、银行系统。审核流程编辑与设定（可选，需要工作流比较熟悉）。 放款管理，开始放款，开始计息 还款管理，查询、详情（个人信息、贷款信息、还款记录、逾期记录、催收记录） 逾期管理，查询、详情（个人信息、贷款信息、还款记录、逾期记录、催收记录） 对账监控，每笔借款与还款总额（含利息、罚息）是否对应。若不对应，开启警告！ 系统设置，借款利率、逾期利率设定，逾期n天逾期，m天严重逾期，个人贷款上限、下限、最大笔数，催收短信模版，逾期短信通知模版，计息时间（T+0,T+1,T+n） 数据统计，放款总额，还款总额，申请总额，周期对比（周、月、年），折线、饼状图展现
 [https://github.com/mengyou658/cloud](https://github.com/mengyou658/cloud)
-1. 全开源即时通讯(IM)系统 http://docs.wildfirechat.cn 包括 android ios pc 协议 server 机器人 推送 文档，全面
+14. 全开源即时通讯(IM)系统 http://docs.wildfirechat.cn 包括 android ios pc 协议 server 机器人 推送 文档，全面
 [https://github.com/wildfirechat/server](https://github.com/wildfirechat/server)
-1. 微同科技/微同商城 
+15. 微同科技/微同商城 
 [https://github.com/hufanglei/platform](https://github.com/hufanglei/platform)
-1.  微信商城SpringCloud版本 - 前端vue-shop
+16. 微信商城SpringCloud版本 - 前端vue-shop
 [https://github.com/chengzhx76/weixin-shop-spring-cloud](https://github.com/chengzhx76/weixin-shop-spring-cloud)
 [https://github.com/chengzhx76/vue-shop](https://github.com/chengzhx76/vue-shop)
-1. 只有前端的vue商城 o2o商城界面 可以借鉴
+17. 只有前端的vue商城 o2o商城界面 可以借鉴
 [https://github.com/mengyou658/ddBuy](https://github.com/mengyou658/ddBuy)
-
+18. [微言聊天室是基于前后端分离，采用SpringBoot+Vue开发的网页版聊天室 https://github.com/JustCoding-Hai/subtlechat](https://github.com/JustCoding-Hai/subtlechat)
+19. [「可视化报表工具」类似excel操作风格，在线拖拽完成设计！功能涵盖: 报表设计、图形报表、打印设计、大屏设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。 https://github.com/jeecgboot/JimuReport](https://github.com/jeecgboot/JimuReport)
 ##### 快速开发框架
 1. 一款现代化的脚手架项目。企业开发？接外包？赚外快？还是学习？这都能满足你，居家必备，值得拥有🍻整合Springboot2，单点登陆+tk.mybatis+shiro+redis+thymeleaf+maven+swagger前后端分离接口管理+代码生成+定时任务+数据库版本管理flyway+hutool工具包，等实用技术
 [https://github.com/hope-for/hope-boot](https://github.com/hope-for/hope-boot)
