@@ -583,25 +583,26 @@ import "./app";
 # electron
 1. Electron application boilerplate based on React, Redux, React Router, Webpack, React Transform HMR for rapid application development.
 [https://github.com/chentsulin/electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate)
-1. 直接把网页转变成桌面app Make any web page a desktop application
+2. 直接把网页转变成桌面app Make any web page a desktop application
 [https://github.com/jiahaog/nativefier](https://github.com/jiahaog/nativefier)
-1. 基础模板， 样板项目
+3. 基础模板， 样板项目
 [https://github.com/chentsulin/electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate)
-1. ui
+4. ui
 [https://github.com/connors/photon](https://github.com/connors/photon)
 1, db
 [https://github.com/louischatriot/nedb](https://github.com/louischatriot/nedb)
-1. json db
+5. json db
 [https://github.com/typicode/lowdb](https://github.com/typicode/lowdb)
-1. db on all platform JavaScript 下的响应式、无服务器、客户端、离线优先的数据库
+6. db on all platform JavaScript 下的响应式、无服务器、客户端、离线优先的数据库
 [https://github.com/pubkey/rxdb](https://github.com/pubkey/rxdb)
-1. 打包工具
+7. 打包工具
 [https://github.com/electron-userland/electron-packager](https://github.com/electron-userland/electron-packager)
-1. 打包分发工具
+8. 打包分发工具
 [https://github.com/electron-userland/electron-builder](https://github.com/electron-userland/electron-builder)
-1. ui vue Framework 
+9. ui vue Framework 
 [https://github.com/quasarframework/quasar](https://github.com/quasarframework/quasar)
-1. [https://github.com/SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue)
+10. [https://github.com/SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue)
+11. [基于 electron 的开源工具箱，自由集成丰富插件。 https://github.com/clouDr-f2e/rubick](https://github.com/clouDr-f2e/rubick)
 
 # pwa
 1.  Offload your store management to a worker easily (简单的使用 worker 来工作)
