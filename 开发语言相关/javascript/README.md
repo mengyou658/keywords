@@ -34,7 +34,7 @@
 1. A list of funny and tricky JavaScript examples (js有意思的代码片段)
 [https://github.com/denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs)
 1. JavaScript Style Guide
-[https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
+   [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
     ```js
     // .eslintrc file
     // Use this file as a starting point for your project's .eslintrc.
@@ -61,216 +61,213 @@
 1. [lodash包含比较全面的工具类](https://www.lodashjs.com/)
 1. [ramda一款实用的 JavaScript 函数式编程库](https://ramda.cn/)
 1. es6 proxy polyfill
-[https://github.com/GoogleChrome/proxy-polyfill](https://github.com/GoogleChrome/proxy-polyfill)
+  [https://github.com/GoogleChrome/proxy-polyfill](https://github.com/GoogleChrome/proxy-polyfill)
 1. Comlink 开发 WebWorkers 简单
-[https://github.com/GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink)
+  [https://github.com/GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink)
 1. JavaScript math library 
-[https://github.com/josdejong/mathjs](https://github.com/josdejong/mathjs)
+  [https://github.com/josdejong/mathjs](https://github.com/josdejong/mathjs)
 1. search JavaScript （js中搜索）
-[https://github.com/KingPixil/wade](https://github.com/KingPixil/wade)
+  [https://github.com/KingPixil/wade](https://github.com/KingPixil/wade)
 1. js 模糊搜索
-[https://github.com/mengyou658/Fuse](https://github.com/mengyou658/Fuse)
+  [https://github.com/mengyou658/Fuse](https://github.com/mengyou658/Fuse)
 1. 全文检索  Next-Generation full text search library for Browser and Node.js
-[https://github.com/nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch)
+  [https://github.com/nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch)
 1. 苦于没有找到一个比较合适的敏感词过滤库，所以我自己花了点时间撸了一个。 它基于广为人知的 ahocorasick 字符串匹配算法，使用原生的 js 实现，浏览器和服务端都可以使用
-[https://github.com/pyloque/fastscan](https://github.com/pyloque/fastscan)
+  [https://github.com/pyloque/fastscan](https://github.com/pyloque/fastscan)
 1. 富文本编辑器 替代ueditor
-[https://github.com/ianstormtaylor/slate](https://github.com/ianstormtaylor/slate)
-1.  Markdown 编辑器，支持绘制流程图、甘特图、时序图、任务列表、echarts 图表、五线谱，以及 PPT 预览、视频音频解析、HTML 自动转换为 Markdown 等功能
-[https://github.com/nicejade/markdown-online-editor](https://github.com/nicejade/markdown-online-editor)
+  [https://github.com/ianstormtaylor/slate](https://github.com/ianstormtaylor/slate)
+1. Markdown 编辑器，支持绘制流程图、甘特图、时序图、任务列表、echarts 图表、五线谱，以及 PPT 预览、视频音频解析、HTML 自动转换为 Markdown 等功能
+   [https://github.com/nicejade/markdown-online-editor](https://github.com/nicejade/markdown-online-editor)
 1. 富文本编辑器
-[https://github.com/codex-team/editor.js](https://github.com/codex-team/editor.js)
+   [https://github.com/codex-team/editor.js](https://github.com/codex-team/editor.js)
 1. Ace is a standalone code editor written in JavaScript
-[https://github.com/ajaxorg/ace/](https://github.com/ajaxorg/ace/)
+   [https://github.com/ajaxorg/ace/](https://github.com/ajaxorg/ace/)
 1. 富文本编辑器
-[https://github.com/adobe/brackets](https://github.com/adobe/brackets)
+   [https://github.com/adobe/brackets](https://github.com/adobe/brackets)
 1. 富文本编辑器
-[https://github.com/quilljs/quill](https://github.com/quilljs/quill)
+   [https://github.com/quilljs/quill](https://github.com/quilljs/quill)
 1. web test editor （web编辑器）
-[https://github.com/jaredreich/pell](https://github.com/jaredreich/pell)
+   [https://github.com/jaredreich/pell](https://github.com/jaredreich/pell)
 1. mailit A tiny drop-in REST API to send emails
-[https://github.com/mengyou658/mailit](https://github.com/mengyou658/mailit)
+   [https://github.com/mengyou658/mailit](https://github.com/mengyou658/mailit)
 1. Makes text fit perfectly 调整字体大小来适应框架
-[https://github.com/rikschennink/fitty](https://github.com/rikschennink/fitty)
+   [https://github.com/rikschennink/fitty](https://github.com/rikschennink/fitty)
 1. 移动裁剪组件
-[https://github.com/AlloyTeam/AlloyCrop](https://github.com/AlloyTeam/AlloyCrop)
+   [https://github.com/AlloyTeam/AlloyCrop](https://github.com/AlloyTeam/AlloyCrop)
 1. backpack minimalistic build system for Node.js projects （零配置nodejs 类似create-react-app）
-[https://github.com/palmerhq/backpack](https://github.com/palmerhq/backpack)
+   [https://github.com/palmerhq/backpack](https://github.com/palmerhq/backpack)
 1. Colorful animations in terminal stdout （控制台输出颜色库）
-[https://github.com/bokub/chalk-animation](https://github.com/bokub/chalk-animation)
+   [https://github.com/bokub/chalk-animation](https://github.com/bokub/chalk-animation)
 1. Beautiful static documentation for your API 美化API文档
-[https://github.com/lord/slate](https://github.com/lord/slate)
+   [https://github.com/lord/slate](https://github.com/lord/slate)
 1. react 后台管理系统解决方案
-[https://github.com/yezihaohao/react-admin](https://github.com/yezihaohao/react-admin)
+   [https://github.com/yezihaohao/react-admin](https://github.com/yezihaohao/react-admin)
 1. A tiny, secure URL-friendly unique string ID generator for JavaScript (js唯一ID生成器)
-[https://github.com/mengyou658/nanoid](https://github.com/mengyou658/nanoid)
+   [https://github.com/mengyou658/nanoid](https://github.com/mengyou658/nanoid)
 1. HTTP client. Spiritual successor to request (fetch 封装 httpclient)
-[https://github.com/mengyou658/r2](https://github.com/mengyou658/r2)
+   [https://github.com/mengyou658/r2](https://github.com/mengyou658/r2)
 1. Promise based HTTP client for the browser and node.js (httpclient)
-[https://github.com/mzabriskie/axios](https://github.com/mzabriskie/axios)
+   [https://github.com/mzabriskie/axios](https://github.com/mzabriskie/axios)
 1. 优雅的页面下拉刷新组件
-[https://github.com/minirefresh/minirefresh](https://github.com/minirefresh/minirefresh)
+   [https://github.com/minirefresh/minirefresh](https://github.com/minirefresh/minirefresh)
 1. A javascript library that makes your page dance （页面动画先关）
-[https://github.com/mengyou658/Rythm.js](https://github.com/mengyou658/Rythm.js)
+   [https://github.com/mengyou658/Rythm.js](https://github.com/mengyou658/Rythm.js)
 1. a [μ] microInteraction library built with CSS Animations and controlled by JavaScript Power （css 动画库）
-[https://github.com/mengyou658/micron](https://github.com/mengyou658/micron)
-1.  A cross-browser library of CSS animations. As easy to use as an easy thing.  （css 动画库）
-[https://github.com/daneden/animate.css](https://github.com/daneden/animate.css)
-1.  It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.  （css 动画库）
-[https://github.com/impress/impress.js](https://github.com/impress/impress.js)
+   [https://github.com/mengyou658/micron](https://github.com/mengyou658/micron)
+1. A cross-browser library of CSS animations. As easy to use as an easy thing.  （css 动画库）
+   [https://github.com/daneden/animate.css](https://github.com/daneden/animate.css)
+1. It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.  （css 动画库）
+   [https://github.com/impress/impress.js](https://github.com/impress/impress.js)
 1. Beautiful bubbly backgrounds 气泡背景
-[https://github.com/mengyou658/bubbly-bg](https://github.com/mengyou658/bubbly-bg)
+   [https://github.com/mengyou658/bubbly-bg](https://github.com/mengyou658/bubbly-bg)
 1. JSON template over JSON
-[https://github.com/mengyou658/st.js](https://github.com/mengyou658/st.js)
-1.HTML5 FLV Player html5播放js库
-[https://github.com/mengyou658/flv.js](https://github.com/mengyou658/flv.js)
+   [https://github.com/mengyou658/st.js](https://github.com/mengyou658/st.js)
+   1.HTML5 FLV Player html5播放js库
+   [https://github.com/mengyou658/flv.js](https://github.com/mengyou658/flv.js)
 1. 流式播放  mp4 还是 hls react或者standalone 
-[https://github.com/zhihu/griffith](https://github.com/zhihu/griffith)
-1.html5 h5 播放器，它支持 mp4、m3u8、flv 等多种格式
-[https://github.com/mengyou658/chimee](https://github.com/mengyou658/chimee)
+   [https://github.com/zhihu/griffith](https://github.com/zhihu/griffith)
+   1.html5 h5 播放器，它支持 mp4、m3u8、flv 等多种格式
+   [https://github.com/mengyou658/chimee](https://github.com/mengyou658/chimee)
 1. amfe-flexible  可伸缩布局方案
-[https://github.com/mengyou658/lib-flexible](https://github.com/mengyou658/lib-flexible)
+   [https://github.com/mengyou658/lib-flexible](https://github.com/mengyou658/lib-flexible)
 1. Tree editor for writers (页面树状编辑器，为写文章的人准备的)
-[https://github.com/mengyou658/nulis](https://github.com/mengyou658/nulis)
+   [https://github.com/mengyou658/nulis](https://github.com/mengyou658/nulis)
 1. 支持请求重定向的轻量级、跨平台Javascript http网络库
-[https://github.com/wendux/fly](https://github.com/wendux/fly)
-1.  socket io client (web socket client)
-[https://github.com/socketio/socket.io-client](https://github.com/socketio/socket.io-client)
+   [https://github.com/wendux/fly](https://github.com/wendux/fly)
+1. socket io client (web socket client)
+   [https://github.com/socketio/socket.io-client](https://github.com/socketio/socket.io-client)
 1. The cutest little WebSocket wrapper!  轻量级的webscoket 封装（包括自动重连，优雅的关闭等）
-[https://github.com/mengyou658/sockette](https://github.com/mengyou658/sockette)
+   [https://github.com/mengyou658/sockette](https://github.com/mengyou658/sockette)
 1. RSA/RSAPSS/ECDSA/DSA signing/validation, ASN.1, PKCS# 1/5/8 private/public key, X.509 certificate, CRL, OCSP, CMS SignedData, TimeStamp, CAdES JSON Web Signature/Token in pure JavaScript Encryption, Decryption,
-[https://github.com/mengyou658/jsrsasign](https://github.com/mengyou658/jsrsasign)
+   [https://github.com/mengyou658/jsrsasign](https://github.com/mengyou658/jsrsasign)
 1. Detect element visibility in the browser , 滑动展示， 页面元素是否在屏幕中可见，用来做懒加载
-[https://github.com/mengyou658/emergence.js](https://github.com/mengyou658/emergence.js)
+   [https://github.com/mengyou658/emergence.js](https://github.com/mengyou658/emergence.js)
 1. scrollama: 为 Scrollytelling 开发的现代、轻量级的 JavaScript 库  Scrollama is a modern & lightweight JavaScript library for scrollytelling using IntersectionObserver in favor of scroll events.
-[https://github.com/mengyou658/scrollama](https://github.com/mengyou658/scrollama)
+   [https://github.com/mengyou658/scrollama](https://github.com/mengyou658/scrollama)
 1. Modern JavaScript date utility library , 含有与 moment.js 的对比, 可以考虑替换moment
-[https://github.com/mengyou658/date-fns](https://github.com/mengyou658/date-fns)
+   [https://github.com/mengyou658/date-fns](https://github.com/mengyou658/date-fns)
 1. Fast 2KB date library alternative to Moment.js with the same modern API  Day.js 是一个轻量的 JavaScript 时间日期处理库，和 Moment.js 的 API 设计保持完全一样. 如果你曾经用过 Moment.js, 那么你已经知道如何使用 Day.js
-[https://github.com/mengyou658/dayjs](https://github.com/mengyou658/dayjs)
+   [https://github.com/mengyou658/dayjs](https://github.com/mengyou658/dayjs)
 1. native pattern matching for javascript (模式匹配,match，解放if else)
-[https://github.com/mengyou658/z](https://github.com/mengyou658/z)
+   [https://github.com/mengyou658/z](https://github.com/mengyou658/z)
 1. emoji （表情符号）
-[https://github.com/mengyou658/emoji-cheat-sheet.com](https://github.com/mengyou658/emoji-cheat-sheet.com)
+   [https://github.com/mengyou658/emoji-cheat-sheet.com](https://github.com/mengyou658/emoji-cheat-sheet.com)
 1. 中国表情列表
-[https://github.com/zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB)
+   [https://github.com/zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB)
 1. lowdb is a small local JSON database powered by Lodash (supports Node, Electron and the browser) 小型的json数据库
-[https://github.com/mengyou658/lowdb](https://github.com/mengyou658/lowdb)
-1.  Fast math typesetting for the web 数学公式排版库，用于生成数学公式
-[https://github.com/mengyou658/KaTeX](https://github.com/mengyou658/KaTeX)
-1.  Classic MS Paint,  A nice web-based MS Paint remake  js 画画 画板
-[https://github.com/mengyou658/jspaint](https://github.com/mengyou658/jspaint)
-1.Skema provides a handy & composable way to validate / transform / purify the input data （JavaScript类型检查，校验工具）
-[https://github.com/mengyou658/skema](https://github.com/mengyou658/skema)
+   [https://github.com/mengyou658/lowdb](https://github.com/mengyou658/lowdb)
+1. Fast math typesetting for the web 数学公式排版库，用于生成数学公式
+   [https://github.com/mengyou658/KaTeX](https://github.com/mengyou658/KaTeX)
+1. Classic MS Paint,  A nice web-based MS Paint remake  js 画画 画板
+   [https://github.com/mengyou658/jspaint](https://github.com/mengyou658/jspaint)
+   1.Skema provides a handy & composable way to validate / transform / purify the input data （JavaScript类型检查，校验工具）
+   [https://github.com/mengyou658/skema](https://github.com/mengyou658/skema)
 1. ForgJs is a javascript lightweight object validator. Go check the Quick start section and start coding with love
-[https://github.com/oussamahamdaoui/forgJs](https://github.com/oussamahamdaoui/forgJs)
+   [https://github.com/oussamahamdaoui/forgJs](https://github.com/oussamahamdaoui/forgJs)
 1. JavaScript library for handling Force Touch, 3D Touch, and Pointer Pressure
-[https://github.com/mengyou658/pressure](https://github.com/mengyou658/pressure)
+   [https://github.com/mengyou658/pressure](https://github.com/mengyou658/pressure)
 1. A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page (制作用户引导提示操作，制作用户引导界面)
-[https://github.com/mengyou658/driver.js](https://github.com/mengyou658/driver.js)
+   [https://github.com/mengyou658/driver.js](https://github.com/mengyou658/driver.js)
 1. Rough.js is a light weight (~8k), Canvas based library that lets you draw in a sketchy, hand-drawn-like, style Rough.js是一种重量轻（〜8K），帆布基于库，可以让你在画粗略，手绘般的，风格
-[https://github.com/mengyou658/rough](https://github.com/mengyou658/rough)
+   [https://github.com/mengyou658/rough](https://github.com/mengyou658/rough)
 1. A functional, reactive animation library. 动画库
-[https://github.com/Popmotion/popmotion](https://github.com/Popmotion/popmotion)
+   [https://github.com/Popmotion/popmotion](https://github.com/Popmotion/popmotion)
 1. 类似echart 简单api 图表
-[https://github.com/apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js)
+   [https://github.com/apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js)
 1. 简单的图表库 支持ie8+ (类似echart)
-[https://github.com/mengyou658/tui.chart](https://github.com/mengyou658/tui.chart)
+   [https://github.com/mengyou658/tui.chart](https://github.com/mengyou658/tui.chart)
 1. Useful for URLs, filenames, and IDs. Convert a string to a valid safe filename (去除字符中的特殊符号（不适合文件名，urls，ids的字符）)
-[https://github.com/sindresorhus/slugify](https://github.com/sindresorhus/slugify)
+   [https://github.com/sindresorhus/slugify](https://github.com/sindresorhus/slugify)
 1. dom-to-image is a library which can turn arbitrary DOM node into a vector (SVG) or raster (PNG or JPEG) image (dom to image 页面截屏)
-[https://github.com/tsayen/dom-to-image](https://github.com/tsayen/dom-to-image)
+   [https://github.com/tsayen/dom-to-image](https://github.com/tsayen/dom-to-image)
 1. A Flexible and Fun JavaScript File Upload Library (file upload library)
-[https://github.com/mengyou658/filepond](https://github.com/mengyou658/filepond)
-1.  Create PDF documents (PDF 生成)
-[https://github.com/mengyou658/ReLaXed](https://github.com/mengyou658/ReLaXed)
-1.  Client-side JavaScript PDF generation for everyone. https://parall.ax/products/jspdf
-[https://github.com/MrRio/jsPDF](https://github.com/MrRio/jsPDF)
+   [https://github.com/mengyou658/filepond](https://github.com/mengyou658/filepond)
+1. Create PDF documents (PDF 生成)
+   [https://github.com/mengyou658/ReLaXed](https://github.com/mengyou658/ReLaXed)
+1. Client-side JavaScript PDF generation for everyone. https://parall.ax/products/jspdf
+   [https://github.com/MrRio/jsPDF](https://github.com/MrRio/jsPDF)
 1. 只用CSS和HTML创作艺术品
-[https://github.com/cyanharlow/purecss-francine](https://github.com/cyanharlow/purecss-francine)
+   [https://github.com/cyanharlow/purecss-francine](https://github.com/cyanharlow/purecss-francine)
 1. JavaScript fluent validation library 
-[https://github.com/imbrn/v8n](https://github.com/imbrn/v8n)
+   [https://github.com/imbrn/v8n](https://github.com/imbrn/v8n)
 1. ForgJs is a javascript lightweight object validator. Go check the Quick start section and start coding with love
-[https://github.com/oussamahamdaoui/forgJs](https://github.com/oussamahamdaoui/forgJs)
+   [https://github.com/oussamahamdaoui/forgJs](https://github.com/oussamahamdaoui/forgJs)
 1. 执行shell 常用的操作
-[https://github.com/shelljs/shelljs](https://github.com/shelljs/shelljs)
+   [https://github.com/shelljs/shelljs](https://github.com/shelljs/shelljs)
 1. SSH2 with Promises
-[https://github.com/steelbrain/node-ssh](https://github.com/steelbrain/node-ssh)
+   [https://github.com/steelbrain/node-ssh](https://github.com/steelbrain/node-ssh)
 1. node.js command-line interfaces made easy
-[https://github.com/tj/commander.js](https://github.com/tj/commander.js)
+   [https://github.com/tj/commander.js](https://github.com/tj/commander.js)
 1. Open-source WebRTC communication platform. https://vialer-js.io
-[https://github.com/vialer/vialer-js](https://github.com/vialer/vialer-js)
+   [https://github.com/vialer/vialer-js](https://github.com/vialer/vialer-js)
 1. blog A fast, simple & powerful blog framework, powered by Node.js
-[https://github.com/hexojs/hexo](https://github.com/hexojs/hexo)
+   [https://github.com/hexojs/hexo](https://github.com/hexojs/hexo)
 1. an elaborate tool to create 3d model with svg
-[https://github.com/captainwz/svg-3d-builder](https://github.com/captainwz/svg-3d-builder)
+   [https://github.com/captainwz/svg-3d-builder](https://github.com/captainwz/svg-3d-builder)
 1. Next generation markdown editor, running on platforms of MacOS Windows and Linux
-[https://github.com/marktext/marktext](https://github.com/marktext/marktext)
+   [https://github.com/marktext/marktext](https://github.com/marktext/marktext)
 1. markdown 编辑工具 桌面工具
-[https://www.typora.io](https://www.typora.io)
+   [https://www.typora.io](https://www.typora.io)
 1. APIJSON是一种为API而生的JSON网络传输协议
-[https://github.com/TommyLemon/APIJSON](https://github.com/TommyLemon/APIJSON)
+   [https://github.com/TommyLemon/APIJSON](https://github.com/TommyLemon/APIJSON)
 1. A JavaScript library to progressively highlight any text on a page （动画的形式高亮页面字体）
-![Demo gif](https://lumin.rocks/images/highlight.gif)
+   ![Demo gif](https://lumin.rocks/images/highlight.gif)
 1. Leon Sans是一种几何无衬线字体 它允许动态更改字体粗细，并在HTML5的Canvas元素中创建自定义动画，效果或形状 Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim. It allows to change font weight dynamically and to create custom animations, effects or shapes in the Canvas element of HTML5. He designed the font to celebrate his newborn baby Leon.
-[https://github.com/cmiscm/leonsans](https://github.com/cmiscm/leonsans)
-[https://github.com/pshihn/lumin](https://github.com/pshihn/lumin)
+   [https://github.com/cmiscm/leonsans](https://github.com/cmiscm/leonsans)
+   [https://github.com/pshihn/lumin](https://github.com/pshihn/lumin)
 1. 是一个基于Three.js的web 3D地球数据可视化的开源组件库
-[https://github.com/syt123450/giojs](https://github.com/syt123450/giojs)
+   [https://github.com/syt123450/giojs](https://github.com/syt123450/giojs)
 1. 交互式可编辑的表格 比bootstrap-table的交互性更强 同时也包含了bootstrap的样式 Tabulator allows you to create interactive tables in seconds from any HTML Table, Javascript Array or JSON formatted data.
-[https://github.com/olifolkerd/tabulator](https://github.com/olifolkerd/tabulator)
+   [https://github.com/olifolkerd/tabulator](https://github.com/olifolkerd/tabulator)
 1. A React component for building Web forms from JSON Schema 从json定义中自动生成form表单
-[https://github.com/mozilla-services/react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form)
+   [https://github.com/mozilla-services/react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form)
 1. js 实现的文本差异比较库
-[https://github.com/kpdecker/jsdiff](https://github.com/kpdecker/jsdiff)
+   [https://github.com/kpdecker/jsdiff](https://github.com/kpdecker/jsdiff)
 1. Browse the history of any file from GitHub with style
-[https://github.com/pomber/github-history](https://github.com/pomber/github-history)
+   [https://github.com/pomber/github-history](https://github.com/pomber/github-history)
 1. Add opacity to the body tag and increase it every day until their site completely fades away 对付不付钱的客户使用，让body每天变的透明
-[https://github.com/kleampa/not-paid](https://github.com/kleampa/not-paid)
+   [https://github.com/kleampa/not-paid](https://github.com/kleampa/not-paid)
 1. color颜色操作工具
-[https://github.com/gka/chroma.js](https://github.com/gka/chroma.js)
+   [https://github.com/gka/chroma.js](https://github.com/gka/chroma.js)
 1. js 使用gpu工具
-[https://github.com/gpujs/gpu.js](https://github.com/gpujs/gpu.js)
+   [https://github.com/gpujs/gpu.js](https://github.com/gpujs/gpu.js)
 1. git history Quickly browse the history of a file from any git repository
-[https://github.com/pomber/git-history](https://github.com/pomber/git-history)
+   [https://github.com/pomber/git-history](https://github.com/pomber/git-history)
 1. A tiny (247B) utility for check for deep equality 深度相等工具方法
-[https://github.com/lukeed/dequal](https://github.com/lukeed/dequal)
+   [https://github.com/lukeed/dequal](https://github.com/lukeed/dequal)
 1. A web-based JavaScript（canvas） spreadsheet  一个基于 Canvas 的 JS 电子表格库
-[https://github.com/myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet)
+   [https://github.com/myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet)
 1. 数据(data)的管理和视图(view)分离
-[https://github.com/alibaba/nopage](https://github.com/alibaba/nopage)
+   [https://github.com/alibaba/nopage](https://github.com/alibaba/nopage)
 1. 小程序二维码生成
-[https://github.com/yingye/weapp-qrcode](https://github.com/yingye/weapp-qrcode)
+   [https://github.com/yingye/weapp-qrcode](https://github.com/yingye/weapp-qrcode)
 1. 将Java转换成js代码
-http://www.jsweet.org/
+   http://www.jsweet.org/
 1. 该项目的目的是提供一个适用于所有设备的快速轻量级2D库  HTML5创建引擎：使用最快，最灵活的2D WebGL渲染器创建精美的数字内容
-[https://github.com/pixijs/pixi.js](https://github.com/pixijs/pixi.js)
+   [https://github.com/pixijs/pixi.js](https://github.com/pixijs/pixi.js)
 1. 扁平，圆形，设计师友好的伪3D引擎  Round, flat, designer-friendly pseudo-3D engine
-[https://github.com/metafizzy/zdog](https://github.com/metafizzy/zdog)
+   [https://github.com/metafizzy/zdog](https://github.com/metafizzy/zdog)
 1. Collection of custom elements that appear hand drawn. Great for wireframes or a fun look 手绘风格UI集合
-[https://github.com/wiredjs/wired-elements](https://github.com/wiredjs/wired-elements)
+   [https://github.com/wiredjs/wired-elements](https://github.com/wiredjs/wired-elements)
 1. 微信小程序 转 支付宝小程序
-[https://github.com/ant-move/antmove](https://github.com/ant-move/antmove)
+   [https://github.com/ant-move/antmove](https://github.com/ant-move/antmove)
 1. Licia 是一套在开发中实践积累起来的实用 JavaScript 工具库。该库目前拥有超过 300 个模块，包括 Dom 操作，cookie 设置，类创建，模板函数，日期格式化等实用模块，同时配套有打包工具 Eustia 进行定制化，使JS脚本加载量缩减在 10KB 以下，极大优化移动端页面的加载速度。
-[https://github.com/liriliri/licia](https://github.com/liriliri/licia)
+   [https://github.com/liriliri/licia](https://github.com/liriliri/licia)
 1. json 压缩
-[https://github.com/KilledByAPixel/JSONCrush](https://github.com/KilledByAPixel/JSONCrush)
+   [https://github.com/KilledByAPixel/JSONCrush](https://github.com/KilledByAPixel/JSONCrush)
 1. p2p 视频聊天
-[https://github.com/ianramzy/decentralized-video-chat](https://github.com/ianramzy/decentralized-video-chat)
+   [https://github.com/ianramzy/decentralized-video-chat](https://github.com/ianramzy/decentralized-video-chat)
 1. p2p 介绍
-[https://luyuhuang.github.io/2020/03/06/dht-and-p2p.html](https://luyuhuang.github.io/2020/03/06/dht-and-p2p.html)
+   [https://luyuhuang.github.io/2020/03/06/dht-and-p2p.html](https://luyuhuang.github.io/2020/03/06/dht-and-p2p.html)
 1. 「能不能好好说话？」 拼音首字母缩写翻译工具
-[https://github.com/itorr/nbnhhsh](https://github.com/itorr/nbnhhsh)
+   [https://github.com/itorr/nbnhhsh](https://github.com/itorr/nbnhhsh)
 1. 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
-[https://github.com/shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers)
+   [https://github.com/shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers)
 1. p2p 视频聊天
-[https://github.com/ianramzy/decentralized-video-chat](https://github.com/ianramzy/decentralized-video-chat)
-1. 「能不能好好说话？」 拼音首字母缩写翻译工具
-[https://github.com/itorr/nbnhhsh](https://github.com/itorr/nbnhhsh)
-1. 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
-[https://github.com/shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers)
-1.
-1.
+    [https://github.com/ianramzy/decentralized-video-chat](https://github.com/ianramzy/decentralized-video-chat)
+1. 「能不能好好说话？」 拼音首字母缩写翻译工具[https://github.com/itorr/nbnhhsh](https://github.com/itorr/nbnhhsh)
+1. [一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。Some interesting examples of python crawlers that are friendly to beginners. https://github.com/shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers)
+1. [一个 JS 库，在网页上展示一个可以书写数学公式的黑板。 https://github.com/susam/muboard](https://github.com/susam/muboard)
 
 #####  worker webworker web worker child process child_process thread node electron
 1.Move an async function into its own thread 依赖webworker，将异步转移到单独的线程中运行,紧紧支持浏览器环境
@@ -651,7 +648,7 @@ import "./app";
 1. pico.js：微型 JavaScript 人脸检测库
    
    pico.js 是一个只有 200 行纯 JavaScript 代码的人脸检测库，具备实时检测功能（在实际环境中可达到 200+ FPS），压缩后仅 2KB 。
-[https://github.com/tehnokv/picojs](https://github.com/tehnokv/picojs)
+   [https://github.com/tehnokv/picojs](https://github.com/tehnokv/picojs)
 
 #  webassembly 浏览器执行c代码
 1. webassembly 用于可见下推式语言的解析器生成器 A parser generator for visibly pushdown languages.
@@ -733,5 +730,4 @@ Resizing an image is typically 4x-5x faster than using the quickest ImageMagick 
 1. [DC-SDK 是基于 Cesium 进行二次开发的2、3D一体 WebGis 应用框架,该框架优化了 Cesium 的使用方式和增添了一些额外功能，旨在为开发者快速构建 WebGis 应用 https://github.com/dvgis/dc-sdk](https://github.com/dvgis/dc-sdk)
 1. [glTF展示 https://github.com/KhronosGroup/glTF-Project-Explorer](https://github.com/KhronosGroup/glTF-Project-Explorer)
 1. [3dtiles 转换 https://github.com/fanvanzh/3dtiles](https://github.com/fanvanzh/3dtiles)
-
 
