@@ -116,15 +116,16 @@ keywords,搜索关键词，包括各种教程、安全、awesome、c、Linux、�
 1. [https://github.com/docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar)
 1. [https://github.com/RC1844/FastGithub](https://github.com/RC1844/FastGithub)
 # 主要关注
-动手学深度学习，反复读
-1. [http://zh.d2l.ai/](http://zh.d2l.ai/)
-1. [https://github.com/ShusenTang/Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
-1. [https://github.com/Mr-strlen/Cat_vs_Dog-CNN-Comparison16年Kaggle的猫狗大战数据集不同网络之间做个比较](https://github.com/Mr-strlen/Cat_vs_Dog-CNN-Comparison)
-1. [https://github.com.cnpmjs.org/amusi/Deep-Learning-Interview-Book深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）](https://github.com.cnpmjs.org/amusi/Deep-Learning-Interview-Book)
-1. [https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0)
-1. [https://github.com/cxxr/better-java/blob/master/README.zh-cn.md 享受Java，新手友好](https://github.com/cxxr/better-java/blob/master/README.zh-cn.md) 
-1. [https://github.com/kon9chunkit/GitHub-Chinese-Top-ChartsGitHub 中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
-1. [https://github.com.cnpmjs.org/Light-City/CPlusPlusThings C++那些事](https://github.com.cnpmjs.org/Light-City/CPlusPlusThings)
+1. [高质量、最全面、完全免费的系统架构设计师（软考高级）备考资源库 https://github.com/xxlllq/system_architect](https://github.com/xxlllq/system_architect)
+2. [http://zh.d2l.ai/](http://zh.d2l.ai/)
+3. [https://github.com/ShusenTang/Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
+4. [https://github.com/Mr-strlen/Cat_vs_Dog-CNN-Comparison16年Kaggle的猫狗大战数据集不同网络之间做个比较](https://github.com/Mr-strlen/Cat_vs_Dog-CNN-Comparison)
+5. [https://github.com.cnpmjs.org/amusi/Deep-Learning-Interview-Book深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）](https://github.com.cnpmjs.org/amusi/Deep-Learning-Interview-Book)
+6. [https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0)
+7. [https://github.com/cxxr/better-java/blob/master/README.zh-cn.md 享受Java，新手友好](https://github.com/cxxr/better-java/blob/master/README.zh-cn.md) 
+8. [https://github.com/kon9chunkit/GitHub-Chinese-Top-ChartsGitHub 中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
+9. [https://github.com.cnpmjs.org/Light-City/CPlusPlusThings C++那些事](https://github.com.cnpmjs.org/Light-City/CPlusPlusThings)
+10. 
 **c++还是要学一下的，学完，你会发现语言都是相互学习的**
 
 # 目录

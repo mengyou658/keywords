@@ -189,7 +189,7 @@ https://github.com/tide-emergency/yingji
 35. [红队作战中比较常遇到的一些重点系统漏洞整理。https://github.com/r0eXpeR/redteam_vul](https://github.com/r0eXpeR/redteam_vul)
 36. [信息收集自动化工具 只需要输入根域名即可全方位收集相关资产，并检测漏洞 https://github.com/0x727/ShuiZe_0x727](https://github.com/0x727/ShuiZe_0x727)
 37. [个人维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup https://github.com/No-Github/1earn](https://github.com/No-Github/1earn)
-38. 
+38. [开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) https://github.com/veo/vscan](https://github.com/veo/vscan)
 
 
 # 微服务
