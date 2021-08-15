@@ -56,7 +56,7 @@ export all_proxy=https://goproxy.io
 [https://github.com/jinzhu/gorm](https://github.com/jinzhu/gorm)
 1. Jupiter是douyu开源的面向服务治理的Golang微服务框架 
 [https://github.com/douyu/jupiter](https://github.com/douyu/jupiter)
-1. 
+1. [safe and easy casting from one type to another in Go https://github.com/spf13/cast](https://github.com/spf13/cast)
 1. 
 1. 
 

@@ -323,25 +323,26 @@
 #####   game 游戏
 1. State management and more for turn based games. 游戏框架 回合制游戏
 [https://github.com/mengyou658/boardgame.io](https://github.com/mengyou658/boardgame.io)
-1. trust An interactive guide to the game theory of cooperation 游戏完整示例
+2. trust An interactive guide to the game theory of cooperation 游戏完整示例
 [https://github.com/ncase/trust](https://github.com/ncase/trust)
-1. Tetris in 512b 俄罗斯方块
+3. Tetris in 512b 俄罗斯方块
 [https://github.com/mengyou658/mini-tetris](https://github.com/mengyou658/mini-tetris)
-1. Hilo，一套HTML5跨终端的互动游戏解决方案。Hilo支持了多届淘宝&天猫狂欢城等双十一大型和日常营销活动。内核极简，提供包括DOM，Canvas，Flash，WebGL等多种渲染方案，满足全终端和性能要求。支持多种模块范式的包装版本以及开放的扩展方式，方便接入和扩展。提供对2D物理，骨骼动画的内建和扩展支持。另外，Hilo提供丰富的周边工具及开发案例。
+4. Hilo，一套HTML5跨终端的互动游戏解决方案。Hilo支持了多届淘宝&天猫狂欢城等双十一大型和日常营销活动。内核极简，提供包括DOM，Canvas，Flash，WebGL等多种渲染方案，满足全终端和性能要求。支持多种模块范式的包装版本以及开放的扩展方式，方便接入和扩展。提供对2D物理，骨骼动画的内建和扩展支持。另外，Hilo提供丰富的周边工具及开发案例。
 [https://github.com/mengyou658/Hilo](https://github.com/mengyou658/Hilo)
-1.  小于20行代码的地形渲染 Terrain rendering in less than 20 lines of code
+5. 小于20行代码的地形渲染 Terrain rendering in less than 20 lines of code
 [https://github.com/mengyou658/VoxelSpace](https://github.com/mengyou658/VoxelSpace)
-1. A+ animation module for the modern web Animate Plus is a JavaScript animation library focusing on performance and authoring flexibility. It aims to deliver a steady 60 FPS and weighs less than 2 KB (minified and gzipped), making it particularly well-suited for mobile. （小体积，专注于游戏的动画）
+6. A+ animation module for the modern web Animate Plus is a JavaScript animation library focusing on performance and authoring flexibility. It aims to deliver a steady 60 FPS and weighs less than 2 KB (minified and gzipped), making it particularly well-suited for mobile. （小体积，专注于游戏的动画）
 [https://github.com/mengyou658/animateplus](https://github.com/mengyou658/animateplus)
-1. The JavaScript motion engine. Create unique animations and interactions with tweens, physics and input tracking. jsA tiny (~1.7 KB gzipped) spring physics micro-library that models a damped harmonic oscillator. 动画引擎
+7. The JavaScript motion engine. Create unique animations and interactions with tweens, physics and input tracking. jsA tiny (~1.7 KB gzipped) spring physics micro-library that models a damped harmonic oscillator. 动画引擎
 [https://github.com/mengyou658/popmotion](https://github.com/mengyou658/popmotion)
-1. A tiny (~1.7 KB gzipped) spring physics micro-library that models a damped harmonic oscillator. 
+8. A tiny (~1.7 KB gzipped) spring physics micro-library that models a damped harmonic oscillator. 
 [https://github.com/mengyou658/wobble （一个微型（约1.7KB）的弹簧物理微库，用于模拟阻尼谐振子）](https://github.com/mengyou658/wobble （一个微型（约1.7KB）的弹簧物理微库，用于模拟阻尼谐振子）)
-1. HTML5创建引擎：使用最快，最灵活的2D WebGL渲染器创建精美的数字内容。
+9. HTML5创建引擎：使用最快，最灵活的2D WebGL渲染器创建精美的数字内容。
 [https://github.com/pixijs/pixi.js](https://github.com/pixijs/pixi.js)
-1. 使用ThreeJS，ReactJS，GraphQL和NodeJS构建的开源Minecraft克隆 我的世界
+10. 使用ThreeJS，ReactJS，GraphQL和NodeJS构建的开源Minecraft克隆 我的世界
 [https://github.com/ian13456/mc.js](https://github.com/ian13456/mc.js)
-1. 
+11. [A lightweight 3D game engine for the web. three.js https://github.com/Cloud9c/taro](https://github.com/Cloud9c/taro)
+12. 
 
 ###   测试
 1. 一个可视化, 并且能快速生成模拟数据的持久化服务
@@ -600,7 +601,7 @@ import "./app";
 [https://github.com/quasarframework/quasar](https://github.com/quasarframework/quasar)
 10. [https://github.com/SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue)
 11. [基于 electron 的开源工具箱，自由集成丰富插件。 https://github.com/clouDr-f2e/rubick](https://github.com/clouDr-f2e/rubick)
-
+12. [一个基于Electron的画图板 https://github.com/jindada1/photoshit](https://github.com/jindada1/photoshit)
 # pwa
 1.  Offload your store management to a worker easily (简单的使用 worker 来工作)
 [https://github.com/mengyou658/stockroom](https://github.com/mengyou658/stockroom)

@@ -544,49 +544,49 @@ Keras is a high-level neural networks API, written in Python and capable of runn
 1. 物体检测 PyTorch
 [https://github.com/STVIR/pysot](https://github.com/STVIR/pysot)
 ![CVPR2019Demo png](resources/pysot.png)
-1. 实时检测手画形状 谷歌 QuickDraw 功能的开源实现，可以识别随手画出的图形
+2. 实时检测手画形状 谷歌 QuickDraw 功能的开源实现，可以识别随手画出的图形
 [https://github.com/vietnguyen91/QuickDraw](https://github.com/vietnguyen91/QuickDraw)
-1. 基于视频的目标检测算法研究 对相应的视频目标检测论文整理实现综述文档。
+3. 基于视频的目标检测算法研究 对相应的视频目标检测论文整理实现综述文档。
 [https://github.com/guanfuchen/video_obj](https://github.com/guanfuchen/video_obj)
-1. 简明 SSD 目标检测模型 keras version（交通标志识别 训练部分见 dev 分支）
+4. 简明 SSD 目标检测模型 keras version（交通标志识别 训练部分见 dev 分支）
 [https://github.com/kuhung/SSD_keras](https://github.com/kuhung/SSD_keras)
-1.  深度学习 + OpenCV，Python实现实时视频目标检测， 详细教程 https://www.voidking.com/dev-object-detection/
+5. 深度学习 + OpenCV，Python实现实时视频目标检测， 详细教程 https://www.voidking.com/dev-object-detection/
 [https://github.com/voidking/object-detection](https://github.com/voidking/object-detection)
-1. 目标检测yolo算法，采用tensorflow框架编写，中文注释完全，含测试和训练，支持摄像头
+6. 目标检测yolo算法，采用tensorflow框架编写，中文注释完全，含测试和训练，支持摄像头
 [https://github.com/LeslieZhoa/tensorflow-YOLO1](https://github.com/LeslieZhoa/tensorflow-YOLO1)
-1. yolo做行人检测+deep-sort做匹配，端对端做多目标跟踪
+7. yolo做行人检测+deep-sort做匹配，端对端做多目标跟踪
 [https://github.com/lyp-deeplearning/deep_sort_yolov3](https://github.com/lyp-deeplearning/deep_sort_yolov3)
-1. 对于小目标的检测和识别 主要是用来解决小目标的检测和跟踪问题 斯坦福无人机航拍数据 吉林一号视频数据 航拍数据检测
+8. 对于小目标的检测和识别 主要是用来解决小目标的检测和跟踪问题 斯坦福无人机航拍数据 吉林一号视频数据 航拍数据检测
 [https://github.com/liuguiyangnwpu/TinyObject](https://github.com/liuguiyangnwpu/TinyObject)
-1. 本工程主要目的是集成深度学习中常用的目标检测模型，并利用目标检测模型进行图像和视频中的检测！YOLOv1 航拍数据
+9. 本工程主要目的是集成深度学习中常用的目标检测模型，并利用目标检测模型进行图像和视频中的检测！YOLOv1 航拍数据
 [https://github.com/liuguiyangnwpu/DL.EyeSight](https://github.com/liuguiyangnwpu/DL.EyeSight)
-1. 目标检测yolo算法 v5
+10. 目标检测yolo算法 v5
 [https://github.com/ultralytics/yolov5](https://github.com/ultralytics/yolov5)
-1. 基于SCNN的航拍数据库分类
+11. 基于SCNN的航拍数据库分类
 [https://github.com/Kerrwy/SCNN_Aerial_classify](https://github.com/Kerrwy/SCNN_Aerial_classify)
-1. 航拍视频文件
+12. 航拍视频文件
 [https://github.com/loxilo/yt_server/blob/master/server/public/statics/video/SM-G9550_20180709062058.mp4](https://github.com/loxilo/yt_server/blob/master/server/public/statics/video/SM-G9550_20180709062058.mp4)
 [https://github.com/loxilo/yt_server/blob/master/server/public/statics/video/SM-G9550_20180709062253.mp4](https://github.com/loxilo/yt_server/blob/master/server/public/statics/video/SM-G9550_20180709062253.mp4)
 [https://github.com/loxilo/yt_server/blob/master/server/public/statics/video/SM-G9550_20180709062432.mp4](https://github.com/loxilo/yt_server/blob/master/server/public/statics/video/SM-G9550_20180709062432.mp4)
 [https://github.com/hust512/Transform_based_Tensor_Decomposition_FHE/blob/master/Aerial_data.mp4](https://github.com/hust512/Transform_based_Tensor_Decomposition_FHE/blob/master/Aerial_data.mp4)
-1. A library for prototyping realtime hand detection (bounding box), directly in the browser 实时手部检测 卷积神经网络
+13. A library for prototyping realtime hand detection (bounding box), directly in the browser 实时手部检测 卷积神经网络
 [https://github.com/victordibia/handtrack.js](https://github.com/victordibia/handtrack.js)
 ![bossflip gif](resources/bossflip.gif)
-1. CVPR2019快速在线对象跟踪和分割：统一方法  Fast Online Object Tracking and Segmentation: A Unifying Approach
+14. CVPR2019快速在线对象跟踪和分割：统一方法  Fast Online Object Tracking and Segmentation: A Unifying Approach
 [https://github.com/foolwood/SiamMask](https://github.com/foolwood/SiamMask)
 ![CVPR2019Demo gif](resources/cvr2019.gif)
-1.  端到端的三维人脸重建，基于 MobileNet 网络框架，在 CPU 上能达到实时。  The pytorch improved re-implementation of TPAMI 2017 paper: Face Alignment in Full Pose Range: A 3D Total Solution.
+15. 端到端的三维人脸重建，基于 MobileNet 网络框架，在 CPU 上能达到实时。  The pytorch improved re-implementation of TPAMI 2017 paper: Face Alignment in Full Pose Range: A 3D Total Solution.
 [https://github.com/cleardusk/3DDFA](https://github.com/cleardusk/3DDFA)
-1. 只需绘制一个边界框，您就可以删除视频中要删除的对象
+16. 只需绘制一个边界框，您就可以删除视频中要删除的对象
 [https://github.com/zllrunning/video-object-removal](https://github.com/zllrunning/video-object-removal)
-1. DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary
+17. DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary
 [https://github.com/iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab)
-1. Awesome Object Detection based on handong1587 github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
+18. Awesome Object Detection based on handong1587 github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
 [https://github.com/mengyou658/awesome-object-detection](https://github.com/mengyou658/awesome-object-detection)
-1. AIDungeon2是此类AI生成的文本冒险的第一个。使用名为GPT-2的1.5B参数机器学习模型,AIDungeon2可以在您在虚拟世界中玩耍时产生您的故事和行动结果
+19. AIDungeon2是此类AI生成的文本冒险的第一个。使用名为GPT-2的1.5B参数机器学习模型,AIDungeon2可以在您在虚拟世界中玩耍时产生您的故事和行动结果
 [https://github.com/AIDungeon/AIDungeon](https://github.com/AIDungeon/AIDungeon)
-1. [An implementation of model parallel GPT2& GPT3-like models, with the ability to scale up to full GPT3 sizes (and possibly more!), using the mesh-tensorflow library. https://github.com/EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo)
-
+20. [An implementation of model parallel GPT2& GPT3-like models, with the ability to scale up to full GPT3 sizes (and possibly more!), using the mesh-tensorflow library. https://github.com/EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo)
+21. [Removing people from complex backgrounds in real time using TensorFlow.js in the web browser https://github.com/jasonmayes/Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal)
 
 # 为关系数据库开发自然语言接口 自动生成sql的训练和示例
 [https://github.com/ZhuiyiTechnology/nl2sql_baseline](https://github.com/ZhuiyiTechnology/nl2sql_baseline)
@@ -642,6 +642,6 @@ http://www.jezzamon.com/fourier/zh-cn.html
 # 推荐系统
 1. [“推荐系统”方向的资料https://github.com/datawhalechina/team-learning-rs](https://github.com/datawhalechina/team-learning-rs)
 1. [Gorse is an open-source recommendation system written in Go. Gorse aims to be an universal open-source recommender system that can be quickly introduced into a wide variety of online services. By importing items, users and interaction data into Gorse, the system will automatically train models to generate recommendations for each user. Project features are as follows. https://github.com/zhenghaoz/gorse](https://github.com/zhenghaoz/gorse)
-
+1. [Best Practices on Recommendation Systems https://github.com/microsoft/recommenders](https://github.com/microsoft/recommenders)
 ## 手势 和脸部表情检测
 1. [https://handsfree.js.org/](https://handsfree.js.org/)
