@@ -78,3 +78,7 @@
 信用卡表格具有流畅而甜美的微互动
 [https://github.com/muhammederdem/credit-card-form](https://github.com/muhammederdem/credit-card-form)
 1. 
+
+
+### uniapp 
+1. [利用uniapp+tailwindcss+uview+vue-cli搭建的一套基础模板，可以使用Webstorm或者vscode开发。集成miniprogram-ci自动部署 https://github.com/xlzy520/uniapp-tailwind-uview-starter](https://github.com/xlzy520/uniapp-tailwind-uview-starter)
