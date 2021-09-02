@@ -106,32 +106,31 @@ export all_proxy=https://goproxy.io
 ### 工具
 1. 静态网站生成
 [https://github.com/gohugoio/hugo](https://github.com/gohugoio/hugo)
-1. gitlab 精简版本
+2. gitlab 精简版本
 [https://github.com/go-gitea/gitea](https://github.com/go-gitea/gitea)
-1. Vegeta是一个多功能的HTTP负载测试工具，需要以恒定的请求率来钻取HTTP服务。它既可以用作命令行实用程序，也可以用作库
+3. Vegeta是一个多功能的HTTP负载测试工具，需要以恒定的请求率来钻取HTTP服务。它既可以用作命令行实用程序，也可以用作库
 [https://github.com/tsenart/vegeta](https://github.com/tsenart/vegeta)
-1. GoReplay是一个开源工具，用于捕获实时HTTP流量并将其重放到测试环境中，以便使用真实数据持续测试您的系统。它可用于增加对代码部署，配置更改和基础结构更改的信心GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
+4. GoReplay是一个开源工具，用于捕获实时HTTP流量并将其重放到测试环境中，以便使用真实数据持续测试您的系统。它可用于增加对代码部署，配置更改和基础结构更改的信心GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 [https://github.com/buger/goreplay](https://github.com/buger/goreplay)
-1. https://staticcheck.io的静态分析工具的集合
+5. https://staticcheck.io的静态分析工具的集合
 [https://github.com/dominikh/go-tools](https://github.com/dominikh/go-tools)
-1. Kubernetes Native Serverless Framework https://kubeless.io 
+6. Kubernetes Native Serverless Framework https://kubeless.io 
 [https://github.com/kubeless/kubeless](https://github.com/kubeless/kubeless)
-1. go 命令行dashboard工具 The personal information dashboard for your terminal
+7. go 命令行dashboard工具 The personal information dashboard for your terminal
 [https://github.com/wtfutil/wtf](https://github.com/wtfutil/wtf)
-1. 一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。
+8. 一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。
 [https://github.com/cnlh/nps](https://github.com/cnlh/nps)
-1. auto generate sql from gorm model struct
+9. auto generate sql from gorm model struct
 [https://github.com/liudanking/gorm2sql](https://github.com/liudanking/gorm2sql)
-1. go 爬虫工具
+10. go 爬虫工具
 [https://github.com/hakluke/hakrawler](https://github.com/hakluke/hakrawler)
-1. fate 命运 起名 算命 宝宝起名
+11. fate 命运 起名 算命 宝宝起名
 [https://github.com/godcong/fate](https://github.com/godcong/fate)
-1. kubernetes高可用安装工具，一条命令，离线安装，包含所有依赖，内核负载不依赖haproxy keepalived,纯golang开发,99年证书,支持v1.16.4 v1.15.7 v1.14.10 v1.17.0! https://sealyun.com
+12. kubernetes高可用安装工具，一条命令，离线安装，包含所有依赖，内核负载不依赖haproxy keepalived,纯golang开发,99年证书,支持v1.16.4 v1.15.7 v1.14.10 v1.17.0! https://sealyun.com
 [https://github.com/fanux/sealos](https://github.com/fanux/sealos)
-1. 
-1. 
-1. 
-1. 
+13. [Sharingan（写轮眼）是一个基于golang的流量录制回放工具，适合项目重构、回归测试等。 https://github.com/didi/sharingan](https://github.com/didi/sharingan)
+14. 
+15. 
 
 ### web 框架
 1. [基于GF(Go Frame)的后台管理系统 https://github.com/tiger1103/gfast](https://github.com/tiger1103/gfast)

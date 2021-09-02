@@ -114,7 +114,8 @@ keywords,搜索关键词，包括各种教程、安全、awesome、c、Linux、�
 
 # github 加速
 1. [https://github.com/docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar)
-1. [https://github.com/RC1844/FastGithub](https://github.com/RC1844/FastGithub)
+2. [https://github.com/RC1844/FastGithub](https://github.com/RC1844/FastGithub)
+3. 
 # 主要关注
 1. [高质量、最全面、完全免费的系统架构设计师（软考高级）备考资源库 https://github.com/xxlllq/system_architect](https://github.com/xxlllq/system_architect)
 2. [http://zh.d2l.ai/](http://zh.d2l.ai/)

@@ -45,7 +45,7 @@
 1. orm
 [https://github.com/diesel-rs/diesel](https://github.com/diesel-rs/diesel)
 1. [https://github.com/microsoft/windows-rs](https://github.com/microsoft/windows-rs)
-1. 
+1. [A full featured, fast Command Line Argument Parser for Rust 参数解析 https://github.com/clap-rs/clap](https://github.com/clap-rs/clap)
 1. 
 
 ### 完整项目/示例/demo/代码片段
