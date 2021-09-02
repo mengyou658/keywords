@@ -298,6 +298,7 @@ https://github.com/tide-emergency/yingji
 1. [推荐1 java https://gitee.com/y_project/RuoYi-Vue](https://gitee.com/y_project/RuoYi-Vue)
 1. [推荐1 java 前后台 https://github.com/elunez/eladmin](https://github.com/elunez/eladmin)
 1. [推荐3 RUST Vue-AntDesign-Pro https://github.com/rbatis/abs_admin](https://github.com/rbatis/abs_admin)
+1. [推荐3 RUST https://github.com/tokio-rs/axum](https://github.com/tokio-rs/axum)
 1. [前台 https://github.com/PanJiaChen/vue-element-admin/blob/master/README.zh-CN.md](https://github.com/PanJiaChen/vue-element-admin/blob/master/README.zh-CN.md)
 1. ant-design-pro开箱即用的中台前端/设计解决方案
 [https://github.com/mengyou658/ant-design-pro](https://github.com/mengyou658/ant-design-pro)

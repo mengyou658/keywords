@@ -2,7 +2,7 @@
 # javascript
 
 ###  现成列表
-1. 
+1. [https://github.com/sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron)
 1. 
 
 ### 性能研究
