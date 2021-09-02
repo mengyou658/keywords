@@ -47,7 +47,9 @@
 10. [https://github.com/microsoft/windows-rs](https://github.com/microsoft/windows-rs)
 11. [A full featured, fast Command Line Argument Parser for Rust 参数解析 https://github.com/clap-rs/clap](https://github.com/clap-rs/clap)
 12. [https://github.com/launchbadge/sqlx](https://github.com/launchbadge/sqlx)
-13. 
+13. [类似electron https://github.com/tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+14. [nodejs 调用 rust A minimal library for building compiled Node.js add-ons in Rust via Node-API https://github.com/napi-rs/napi-rs](https://github.com/napi-rs/napi-rs)
+15. 
 
 ### 完整项目/示例/demo/代码片段
 1. [web 浏览器 https://github.com/servo/servo](https://github.com/servo/servo)
