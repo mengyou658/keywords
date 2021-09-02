@@ -612,6 +612,7 @@ Flink使用了流处理的内核，同时提供了流处理和批处理的接口
 
 # VR 虚拟现实技术 AR 增强现实技术
 1. pano2vr 全景制作工具
+1. krpano 全景制作工具
 1. Build your own VR headset for $100 (自己制造虚拟现实头盔)
 [https://github.com/mengyou658/Relativ](https://github.com/mengyou658/Relativ)
 1. [three.js https://github.com/mrdoob/three.js/blob/master/examples/webgl_panorama_equirectangular.html](https://github.com/mrdoob/three.js/blob/master/examples/webgl_panorama_equirectangular.html)
