@@ -11,7 +11,8 @@
 
 ### 教程/文章/小抄/规范/记事
 1. [https://tourofrust.com/00_zh-cn.html](https://tourofrust.com/00_zh-cn.html)
-1. 
+2. [https://github.com/rust-lang/rustlings](https://github.com/rust-lang/rustlings)
+3. 
 
 ### web 框架 
 1. A web framework for Rust
@@ -49,7 +50,12 @@
 12. [https://github.com/launchbadge/sqlx](https://github.com/launchbadge/sqlx)
 13. [类似electron https://github.com/tauri-apps/tauri](https://github.com/tauri-apps/tauri)
 14. [nodejs 调用 rust A minimal library for building compiled Node.js add-ons in Rust via Node-API https://github.com/napi-rs/napi-rs](https://github.com/napi-rs/napi-rs)
-15. 
+15. [Safe and portable GPU abstraction in Rust, implementing WebGPU API. https://github.com/gfx-rs/wgpu](https://github.com/gfx-rs/wgpu)
+16. [An HTTP library for Rust https://github.com/hyperium/hyper](https://github.com/hyperium/hyper)
+17. [Safe interop between Rust and C++ c++和rust互相调用 https://github.com/dtolnay/cxx](https://github.com/dtolnay/cxx)
+18. [高fps SixtyFPS is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript. https://github.com/sixtyfpsui/sixtyfps](https://github.com/sixtyfpsui/sixtyfps)
+19. [多线程数据处理 Fast multi-threaded DataFrame library in Rust and Python https://github.com/pola-rs/polars](https://github.com/pola-rs/polars)
+20. 
 
 ### 完整项目/示例/demo/代码片段
 1. [web 浏览器 https://github.com/servo/servo](https://github.com/servo/servo)
@@ -63,7 +69,7 @@
 ### UI
 1. [egui 是一个易于使用的纯 Rust 图形用户界面。egui 可以在 Web 上、本机上以及您最喜欢的游戏引擎中运行。egui 旨在成为最容易使用的 Rust GUI 库，以及在 Rust 中制作 Web 应用程序的最简单方法，它可以在任何可以绘制纹理三角形的地方使用，这意味着您可以轻松地将其集成到您选择的游戏引擎中 https://github.com/emilk/egui](https://github.com/emilk/egui)
 2. [A data-first Rust-native UI design toolkit. https://github.com/linebender/druid](https://github.com/linebender/druid)
-3. 
+3. [Blazing 💥 fast terminal-ui for git written in rust 🦀 https://github.com/extrawurst/gitui](https://github.com/extrawurst/gitui)
 4. 
 5. 
 

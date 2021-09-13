@@ -66,6 +66,8 @@ http://www.avabodh.com/cin/introduction.html
 9. [https://github.com/fangshirui/Serial-assitant 基于qt编写的串口助手](https://github.com/fangshirui/Serial-assitant)
 10. [https://github.com/Sanzona/SerialPort Qt实现的串口通信软件](https://github.com/Sanzona/SerialPort)
 11. [一个基于C++11的高性能运营级流媒体服务框架 WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181 server and client framework based on C++11 https://github.com/ZLMediaKit/ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit)
+12. [申论文章生成器，输入主题字数，输出随机拼凑的文章。https://github.com/Uahh/slscq](https://github.com/Uahh/slscq)
+13. [iTX Technologies Mirai Console Loader Installer ，高效率 QQ 机器人支持库 支持自动下载Java 运行时和 iTXTech Mirai Console Loader  https://github.com/iTXTech/mcl-installer](https://github.com/iTXTech/mcl-installer)
 
 ### 测试
 1. 
