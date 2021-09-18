@@ -83,3 +83,8 @@
 ### 游戏
 1. [3D and 2D game engine written in Rust https://github.com/rg3dengine/rg3d](https://github.com/rg3dengine/rg3d)
 1. 
+
+### WebAssembly wasm
+1. [A renderer written in Rust which compiles to both desktop (OpenGL) and web (WebAssembly + WebGL).asny.github.io/three-d/ https://github.com/asny/three-d](https://github.com/asny/three-d)
+2. [Safe and portable GPU abstraction in Rust, implementing WebGPU API. https://github.com/gfx-rs/wgpu](https://github.com/gfx-rs/wgpu)
+3. [RTS game/engine in Rust and WebGPU https://github.com/Ruddle/oxidator](https://github.com/Ruddle/oxidator)
