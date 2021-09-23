@@ -59,7 +59,8 @@
 21. [Go specs implemented as a scripting language in Rust. https://github.com/oxfeeefeee/goscript](https://github.com/oxfeeefeee/goscript)
 22. [A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ... https://github.com/tokio-rs/tokio](https://github.com/tokio-rs/tokio)
 23. [Standalone JIT-style runtime for WebAssembly, using Cranelift https://github.com/bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime)
-24. 
+24. [An easy and powerful Rust HTTP Client https://github.com/seanmonstar/reqwest](https://github.com/seanmonstar/reqwest)
+25. 
 
 ### 完整项目/示例/demo/代码片段
 1. [web 浏览器 https://github.com/servo/servo](https://github.com/servo/servo)
