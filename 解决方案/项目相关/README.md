@@ -1115,3 +1115,9 @@ https://github.com/mindskip/xzs-mysql
 
 ### 激光检测设备
 1. [https://github.com/dekuNukem/daytripper](https://github.com/dekuNukem/daytripper)
+
+
+### 浏览器与本地程序之间双向调用 web 插件 ActiveX NPAPI
+1. [商业收费 AppEmit是应用程序（尤其是浏览器）与本地程序间互相通信的易扩展的轻量级中间件。主要采用了HTML5标准的Web Socket进行通话，默认为异步， JSON格式传递参数 https://github.com/appemit/appemit](https://github.com/appemit/appemit)
+2. [商业收费 https://github.com/wangzuohuai/WebRunLocal](https://github.com/wangzuohuai/WebRunLocal)
+3. 浏览器外部协议(URL Procotol)方式来启动独立的Exe外接程序，而这个独立程序会内嵌一个IE内核用来支持ActiveX控件的加载运行，也号称兼容Chrome和Firefox等高版本浏览器运行了。这种技术实现导致在网页中每次启动Office控件时，都会弹出一个不胜其烦的确认对话框让最终用户选择
