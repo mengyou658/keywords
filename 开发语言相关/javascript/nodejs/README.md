@@ -130,5 +130,9 @@
 1. https://github.com/agracio/edge-js
 1. https://github.com/agracio/electron-edge-js-quick-start
 
+### nodejs rust binding Node-API
+1. [https://github.com/napi-rs/napi-rs](https://github.com/napi-rs/napi-rs)
+1. [https://github.com/neon-bindings/neon](https://github.com/neon-bindings/neon)
+
 ### 扫描 node.js 依赖漏洞
 1. [一个开源程序，可以在本地检查 node.js 项目外部依赖模块的安全漏洞 https://github.com/snyk/snyk](https://github.com/snyk/snyk)
