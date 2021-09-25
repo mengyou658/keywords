@@ -739,3 +739,11 @@ Resizing an image is typically 4x-5x faster than using the quickest ImageMagick 
 1. [glTF展示 https://github.com/KhronosGroup/glTF-Project-Explorer](https://github.com/KhronosGroup/glTF-Project-Explorer)
 1. [3dtiles 转换 https://github.com/fanvanzh/3dtiles](https://github.com/fanvanzh/3dtiles)
 
+
+### nodejs 调用 c# .netcore 实现跨平台
+1. https://github.com/agracio/edge-js
+1. https://github.com/agracio/electron-edge-js-quick-start
+
+### nodejs rust binding Node-API
+1. [https://github.com/neon-bindings/neon](https://github.com/neon-bindings/neon)
+1. [https://github.com/napi-rs/napi-rs](https://github.com/napi-rs/napi-rs)
