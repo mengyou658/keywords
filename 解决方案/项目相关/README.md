@@ -412,6 +412,8 @@ http://baichuan.taobao.com/
 # 唯一ID生成 方案
 1. A tiny, secure URL-friendly unique string ID generator for JavaScript (js唯一ID生成器)
 [https://github.com/mengyou658/nanoid](https://github.com/mengyou658/nanoid)
+2. [💎迄今为止最全面的分布式主键ID生成器。 💎优化的雪花算法（SnowFlake）——雪花漂移算法，在缩短ID长度的同时，具备极高瞬时并发处理能力（50W/0.1s）。 💎原生支持 C#/Java/Go/Rust/C/SQL 等多语言，且提供 PHP 扩展及 Python、Node.js、Ruby 多线程安全调用动态库（FFI）。💎支持容器环境自动扩容（自动注册 WorkerId ），单机或分布式唯一IdGenerator。💎顶尖优化，超强效能。 https://github.com/yitter/IdGenerator](https://github.com/yitter/IdGenerator)
+3. 
 
 
 

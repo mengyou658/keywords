@@ -44,15 +44,16 @@ http://www.avabodh.com/cin/introduction.html
 ### 实用 库/模块/框架
 1. c实现的二维码生成工具
 [https://github.com/ricmoo/QRCode](https://github.com/ricmoo/QRCode)
-1. 车辆自动驾驶客户端 本田，丰田，讴歌，雷克萨斯，雪佛兰，现代，起亚执行自适应巡航控制（ACC）和车道保持辅助系统（LKAS）的功能
+2. 车辆自动驾驶客户端 本田，丰田，讴歌，雷克萨斯，雪佛兰，现代，起亚执行自适应巡航控制（ACC）和车道保持辅助系统（LKAS）的功能
 [https://github.com/commaai/openpilot](https://github.com/commaai/openpilot)
-1. 基础通用GPU纹理编解码器 Basis Universal GPU Texture Codec  
+3. 基础通用GPU纹理编解码器 Basis Universal GPU Texture Codec  
 [https://github.com/BinomialLLC/basis_universal](https://github.com/BinomialLLC/basis_universal)
-1. 基于 Qt 的跨平台和网络对战平台游戏: 中国象棋
+4. 基于 Qt 的跨平台和网络对战平台游戏: 中国象棋
 [https://github.com/xmuli/chinessChess](https://github.com/xmuli/chinessChess)
-1. 
-1. 
-1. 
+5. [💎迄今为止最全面的分布式主键ID生成器。 💎优化的雪花算法（SnowFlake）——雪花漂移算法，在缩短ID长度的同时，具备极高瞬时并发处理能力（50W/0.1s）。 💎原生支持 C#/Java/Go/Rust/C/SQL 等多语言，且提供 PHP 扩展及 Python、Node.js、Ruby 多线程安全调用动态库（FFI）。💎支持容器环境自动扩容（自动注册 WorkerId ），单机或分布式唯一IdGenerator。💎顶尖优化，超强效能。 https://github.com/yitter/IdGenerator](https://github.com/yitter/IdGenerator)
+6. 
+7. 
+8. 
 
 ### 完整项目/示例/demo/代码片段
 1. [https://github.com/lesliefish/Qt Qt相关知识总结。包括Qss,数据库,Excel,Model/View等操作demo。](https://github.com/lesliefish/Qt)
