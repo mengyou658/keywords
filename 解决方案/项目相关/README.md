@@ -7,10 +7,8 @@
 
 
 # Open Data of China （CN 开放数据计划）https://github.com/cn
-1.中华人名共和国宪法
-[https://github.com/cn/constitution](https://github.com/cn/constitution)
-1. 银行卡号规则，通过卡号判断银行
-[https://github.com/cn/bank-card](https://github.com/cn/bank-card)
+1. 中华人名共和国宪法[https://github.com/cn/constitution](https://github.com/cn/constitution)
+2. 银行卡号规则，通过卡号判断银行[https://github.com/cn/bank-card](https://github.com/cn/bank-card)
 
 # 区块链(BlockChain)
 1. A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
