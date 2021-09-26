@@ -1,38 +1,47 @@
 # 简历相关
 
 ### 现成列表
+
 1. [markdown 简历 https://github.com/mengyou658/markdown-resume](https://github.com/mengyou658/markdown-resume)
 1. [markdown 简历 https://github.com/bear01/Resume](https://github.com/bear01/Resume)
-1. 
+1.
 
 ### 性能研究
-1. 
-1. 
+
+1.
+1.
 
 ### cheatsheet 备忘录
-1. 
-1. 
+
+1.
+1.
 
 ### 教程/文章/小抄/规范/记事
-1. 
-1. 
+
+1.
+1.
 
 ### 实用 库/模块/框架
-1. 
-1. 
+
+1.
+1.
 
 ### 完整项目/示例/demo/代码片段
-1. 
-1. 
+
+1.
+1.
 
 ### 测试
-1. 
-1. 
+
+1.
+1.
 
 ### UI
-1. 
-1. 
+
+1.
+1.
 
 ### 工具
-1. 
+
+1.
 1. 

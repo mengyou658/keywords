@@ -553,10 +553,10 @@ TileDownloader.prototype.start = function () {
 
     var self = this;
     if (!fs.existsSync(this.output)) {
-        fs.mkdirSync(this.output, {recursive : true});
+        fs.mkdirSync(this.output, {recursive: true});
     }
     if (!fs.existsSync(this.basePath)) {
-        fs.mkdirSync(this.basePath, {recursive : true});
+        fs.mkdirSync(this.basePath, {recursive: true});
     }
     this.db = new sqlite.Database(path.join(this.basePath, "main.db"), sqlite.OPEN_READWRITE | sqlite.OPEN_CREATE);
 
