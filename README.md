@@ -130,16 +130,17 @@ learning、游戏game、各种开源项目、面试等等 搜索关键词，你�
 
 # 主要关注
 
-1. [高质量、最全面、完全免费的系统架构设计师（软考高级）备考资源库 https://github.com/xxlllq/system_architect](https://github.com/xxlllq/system_architect)
-2. [http://zh.d2l.ai/](http://zh.d2l.ai/)
-3. [https://github.com/ShusenTang/Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
-4. [https://github.com/Mr-strlen/Cat_vs_Dog-CNN-Comparison16年Kaggle的猫狗大战数据集不同网络之间做个比较](https://github.com/Mr-strlen/Cat_vs_Dog-CNN-Comparison)
-5. [https://github.com.cnpmjs.org/amusi/Deep-Learning-Interview-Book深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）](https://github.com.cnpmjs.org/amusi/Deep-Learning-Interview-Book)
-6. [https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0)
-7. [https://github.com/cxxr/better-java/blob/master/README.zh-cn.md 享受Java，新手友好](https://github.com/cxxr/better-java/blob/master/README.zh-cn.md)
-8. [https://github.com/kon9chunkit/GitHub-Chinese-Top-ChartsGitHub 中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
-9. [https://github.com.cnpmjs.org/Light-City/CPlusPlusThings C++那些事](https://github.com.cnpmjs.org/Light-City/CPlusPlusThings)
-10.
+1. [Learn to write an embedded OS in Rust  https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+2. [高质量、最全面、完全免费的系统架构设计师（软考高级）备考资源库 https://github.com/xxlllq/system_architect](https://github.com/xxlllq/system_architect)
+3. [http://zh.d2l.ai/](http://zh.d2l.ai/)
+4. [https://github.com/ShusenTang/Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
+5. [https://github.com/Mr-strlen/Cat_vs_Dog-CNN-Comparison16年Kaggle的猫狗大战数据集不同网络之间做个比较](https://github.com/Mr-strlen/Cat_vs_Dog-CNN-Comparison)
+6. [https://github.com.cnpmjs.org/amusi/Deep-Learning-Interview-Book深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）](https://github.com.cnpmjs.org/amusi/Deep-Learning-Interview-Book)
+7. [https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0)
+8. [https://github.com/cxxr/better-java/blob/master/README.zh-cn.md 享受Java，新手友好](https://github.com/cxxr/better-java/blob/master/README.zh-cn.md)
+9. [https://github.com/kon9chunkit/GitHub-Chinese-Top-ChartsGitHub 中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
+10. [https://github.com.cnpmjs.org/Light-City/CPlusPlusThings C++那些事](https://github.com.cnpmjs.org/Light-City/CPlusPlusThings)
+11. 
 
 **c++还是要学一下的，学完，你会发现语言都是相互学习的**
 
@@ -233,31 +234,32 @@ learning、游戏game、各种开源项目、面试等等 搜索关键词，你�
 
 ### 最近尝试/学习/待学习路径
 
-1. [凤凰架构 构建可靠的大型分布式系统http://icyfenix.cn/summary/](http://icyfenix.cn/summary/)
-1. [https://github.com/CPU-Code/notes](https://github.com/CPU-Code/notes)
-1. F:/work_c++/PyQt5-pdf-tutorial/PyQt5快速开发与实战电子书（1117）.pdf
-1. https://github.com/ThanlonSmith/PyQt5-pdf-tutorial
-1. https://github.com/WeiMuYang/qtcreator-study
-1. D:/书籍/leetcode-cpp.pdf
-1. https://github.com/soulmachine/leetcode
-1. D:/书籍/My-Data-Competition-Experience-add-license-1/Part-1.pdf
-1. D:/书籍/LeetCode%20101%20-%20A%20LeetCode%20Grinding%20Guide%20(C++%20Version).pdf
-1. https://github.com/changgyhub/leetcode_101
-1. 设计数据密集型应用 https://vonng.gitbooks.io/ddia-cn/content/
-1. https://github.com/labuladong/fucking-algorithm
-1. https://github.com/datawhalechina/team-learning-program/
-1. https://github.com/apachecn/AiLearning
-1. 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also
-   why. https://labuladong.gitbook.io/algo/
-   [https://github.com/labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm)
-   **虽然我不是一个算法爱好者，但是这似乎是面试必备的内容，含着泪啃吧😭**
-1. [编程竞赛 (competitive programming) https://oi-wiki.org/](https://oi-wiki.org/)
-1. 现代 Web 开发，现代 Web 开发导论 | 基础篇 | 进阶篇 | 架构优化篇 | React 篇 | Vue 篇
-   [https://ng-tech.icu/books/](https://ng-tech.icu/books/)
-   很全面的技术路线指南，老少皆宜
-1. 学习 翻译 Systems Performance Enterprise and the Cloud
-1. redis源码，学习c和c++
-1. [学习计算机 https://github.com/keithnull/TeachYourselfCS-CN](https://github.com/keithnull/TeachYourselfCS-CN)
+1. [Learn to write an embedded OS in Rust  https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+2. [凤凰架构 构建可靠的大型分布式系统http://icyfenix.cn/summary/](http://icyfenix.cn/summary/)
+3. [https://github.com/CPU-Code/notes](https://github.com/CPU-Code/notes)
+4. F:/work_c++/PyQt5-pdf-tutorial/PyQt5快速开发与实战电子书（1117）.pdf
+5. https://github.com/ThanlonSmith/PyQt5-pdf-tutorial
+6. https://github.com/WeiMuYang/qtcreator-study
+7. D:/书籍/leetcode-cpp.pdf
+8. https://github.com/soulmachine/leetcode
+9. D:/书籍/My-Data-Competition-Experience-add-license-1/Part-1.pdf
+10. D:/书籍/LeetCode%20101%20-%20A%20LeetCode%20Grinding%20Guide%20(C++%20Version).pdf
+11. https://github.com/changgyhub/leetcode_101
+12. 设计数据密集型应用 https://vonng.gitbooks.io/ddia-cn/content/
+13. https://github.com/labuladong/fucking-algorithm
+14. https://github.com/datawhalechina/team-learning-program/
+15. https://github.com/apachecn/AiLearning
+16. 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also
+    why. https://labuladong.gitbook.io/algo/
+    [https://github.com/labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm)
+    **虽然我不是一个算法爱好者，但是这似乎是面试必备的内容，含着泪啃吧😭**
+17. [编程竞赛 (competitive programming) https://oi-wiki.org/](https://oi-wiki.org/)
+18. 现代 Web 开发，现代 Web 开发导论 | 基础篇 | 进阶篇 | 架构优化篇 | React 篇 | Vue 篇
+    [https://ng-tech.icu/books/](https://ng-tech.icu/books/)
+    很全面的技术路线指南，老少皆宜
+19. 学习 翻译 Systems Performance Enterprise and the Cloud
+20. redis源码，学习c和c++
+21. [学习计算机 https://github.com/keithnull/TeachYourselfCS-CN](https://github.com/keithnull/TeachYourselfCS-CN)
 
 # 各个语言 环境配置 最好的教程 带详细说明（国内）
 

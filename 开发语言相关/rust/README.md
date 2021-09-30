@@ -71,7 +71,8 @@
 
 1. [web 浏览器 https://github.com/servo/servo](https://github.com/servo/servo)
 2. [electron rust https://github.com/AmyrAhmady/electrust](https://github.com/AmyrAhmady/electrust)
-3.
+3. [Learn to write an embedded OS in Rust  https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+4. 
 
 ### 测试
 
