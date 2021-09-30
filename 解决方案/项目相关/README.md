@@ -191,28 +191,26 @@ Hilo，一套HTML5跨终端的互动游戏解决方案。Hilo支持了多届淘�
     [https://github.com/shmilylty/OneForAll](https://github.com/shmilylty/OneForAll)
 29. Mars(战神)——资产发现、子域名枚举、C段扫描、资产变更监测、端口变更监测、域名解析变更监测、Awvs扫描、POC检测、web指纹探测、端口指纹探测、CDN探测、操作系统指纹探测、泛解析探测、WAF探测、敏感信息检测等等
     [https://github.com/TideSec/Mars](https://github.com/TideSec/Mars)
-30.
-当企业被攻击者入侵，系统被挂暗链、内容遭到恶意篡改，服务器出现异常链接、卡顿等情况时，需要进行紧急处理，使系统在最短时间内恢复正常。由于应急处理往往时间紧，所以尝试将应急中常见处理方法整合到脚本中，可自动化实现部分应急工作。应急脚本采用python2.0完成，由于所有需要执行的命令都是依靠ssh进行远程链接，所以在运行脚本之前，需要输入正确的主机ip地址、ssh远程连接端口、ssh远程登录账户、ssh远程登录密码。
-https://github.com/tide-emergency/yingji
-31. Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files
+30.当企业被攻击者入侵，系统被挂暗链、内容遭到恶意篡改，服务器出现异常链接、卡顿等情况时，需要进行紧急处理，使系统在最短时间内恢复正常。由于应急处理往往时间紧，所以尝试将应急中常见处理方法整合到脚本中，可自动化实现部分应急工作。应急脚本采用python2.0完成，由于所有需要执行的命令都是依靠ssh进行远程链接，所以在运行脚本之前，需要输入正确的主机ip地址、ssh远程连接端口、ssh远程登录账户、ssh远程登录密码。https://github.com/tide-emergency/yingji
+30. Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files
     .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber
     security & computer science resources. 安全 骇客
     [https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)
     [https://github.com/tide-emergency/yingji](https://github.com/tide-emergency/yingji)
-32. 渗透测试有关的POC、EXP、脚本、提权、小工具等
+31. 渗透测试有关的POC、EXP、脚本、提权、小工具等
     [https://github.com/Mr-xn/Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC)
-33. Web 端口敲门的奇思妙想 ，先敲门，然后再放行
+32. Web 端口敲门的奇思妙想 ，先敲门，然后再放行
     [https://github.com/EtherDream/js-port-knocking](https://github.com/EtherDream/js-port-knocking)
-34. [EHole是一款对资产中重点系统指纹识别的工具，在红队作战中，信息收集是必不可少的环节，如何才能从大量的资产中提取有用的系统(如OA、VPN、Weblogic...)。EHole旨在帮助红队人员在信息收集期间能够快速从C段、大量杂乱的资产中精准定位到易被攻击的系统，从而实施进一步攻击。https://github.com/ShiHuang-ESec/EHole](https://github.com/ShiHuang-ESec/EHole)
-35. [红队作战中比较常遇到的一些重点系统漏洞整理。https://github.com/r0eXpeR/redteam_vul](https://github.com/r0eXpeR/redteam_vul)
-36. [信息收集自动化工具 只需要输入根域名即可全方位收集相关资产，并检测漏洞 https://github.com/0x727/ShuiZe_0x727](https://github.com/0x727/ShuiZe_0x727)
-37. [个人维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup https://github.com/No-Github/1earn](https://github.com/No-Github/1earn)
-38. [开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) https://github.com/veo/vscan](https://github.com/veo/vscan)
-39. [ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。 https://github.com/TophantTechnology/ARL](https://github.com/TophantTechnology/ARL)
-40. [SpringBoot 相关漏洞学习资料，利用方法和技巧合集，黑盒安全评估 check list https://github.com/EdgeSecurityTeam/Vulnerability](https://github.com/EdgeSecurityTeam/Vulnerability)
-41.
-42.
-43.
+33. [EHole是一款对资产中重点系统指纹识别的工具，在红队作战中，信息收集是必不可少的环节，如何才能从大量的资产中提取有用的系统(如OA、VPN、Weblogic...)。EHole旨在帮助红队人员在信息收集期间能够快速从C段、大量杂乱的资产中精准定位到易被攻击的系统，从而实施进一步攻击。https://github.com/ShiHuang-ESec/EHole](https://github.com/ShiHuang-ESec/EHole)
+34. [红队作战中比较常遇到的一些重点系统漏洞整理。https://github.com/r0eXpeR/redteam_vul](https://github.com/r0eXpeR/redteam_vul)
+35. [信息收集自动化工具 只需要输入根域名即可全方位收集相关资产，并检测漏洞 https://github.com/0x727/ShuiZe_0x727](https://github.com/0x727/ShuiZe_0x727)
+36. [个人维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup https://github.com/No-Github/1earn](https://github.com/No-Github/1earn)
+37. [开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) https://github.com/veo/vscan](https://github.com/veo/vscan)
+38. [ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。 https://github.com/TophantTechnology/ARL](https://github.com/TophantTechnology/ARL)
+39. [SpringBoot 相关漏洞学习资料，利用方法和技巧合集，黑盒安全评估 check list https://github.com/EdgeSecurityTeam/Vulnerability](https://github.com/EdgeSecurityTeam/Vulnerability)
+40. [面向开发人员梳理的代码安全指南，旨在梳理API层面的风险点并提供详实可行的安全编码方案 基于DevSecOps理念，我们希望用开发者更易懂的方式阐述安全编码方案，引导从源头规避漏洞 https://github.com/Tencent/secguide](https://github.com/Tencent/secguide)
+41. 
+42. 
 
 # 微服务
 
