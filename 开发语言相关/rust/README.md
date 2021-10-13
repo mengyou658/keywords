@@ -91,7 +91,8 @@
 ### 工具
 
 1. [Rust 的内存安全和未定义行为检测工具 Rudra 是一个静态分析器，用于检测 Rust 程序中常见的未定义行为。它能够分析单个 Rust 包以及 crates.io 上的所有包 https://github.com/sslab-gatech/Rudra](https://github.com/sslab-gatech/Rudra)
-1. [A Python Interpreter written in Rust python 解释器 https://github.com/RustPython/RustPython](https://github.com/RustPython/RustPython)
+2. [A Python Interpreter written in Rust python 解释器 https://github.com/RustPython/RustPython](https://github.com/RustPython/RustPython)
+3. [远程桌面软件，开箱即用，无需任何配置https://github.com/rustdesk/rustdesk/blob/master/README-ZH.md](https://github.com/rustdesk/rustdesk/blob/master/README-ZH.md)
 
 ### 游戏
 

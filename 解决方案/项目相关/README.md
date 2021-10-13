@@ -1254,3 +1254,16 @@ qgis mapx
 2. [商业收费 https://github.com/wangzuohuai/WebRunLocal](https://github.com/wangzuohuai/WebRunLocal)
 3. 浏览器外部协议(URL Procotol)
    方式来启动独立的Exe外接程序，而这个独立程序会内嵌一个IE内核用来支持ActiveX控件的加载运行，也号称兼容Chrome和Firefox等高版本浏览器运行了。这种技术实现导致在网页中每次启动Office控件时，都会弹出一个不胜其烦的确认对话框让最终用户选择
+
+### 硬件
+
+1. [本项目是一个超迷你的智能小终端，集成LVGL图像框架、MVC框架、消息框架、WiFi蓝牙能力，未来会加入触摸屏支持。可以作为智能控制器用于实现很多应用。另外我正在上面实现一个非常小型的3D引擎，可以用于动态显示一些3D模型（就像Dummy示教器中展示的那样）https://github.com/peng-zhihui/Peak](https://github.com/peng-zhihui/Peak)
+2. [我的超迷你机械臂机器人项目。https://github.com/peng-zhihui/Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot)
+3. 
+
+### 医学
+
+1. [莱尼亚是一个连续细胞自动机系统，一种人工生命形式。 它源于康威的生活游戏，使一切顺利，连续和泛泛。该项目开始于2015年，通过试验生命游戏的变化，导致发现连续滑翔机球体，和400多个物种这些数字生物表现出逼真的特征，如自组织、自我修复、双边和径向对称、机车动力学，有时还有混乱的性质https://github.com/Chakazul/Lenia](https://github.com/Chakazul/Lenia)
+2. 
+
+
