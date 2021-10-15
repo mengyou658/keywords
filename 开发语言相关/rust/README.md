@@ -14,7 +14,10 @@
 
 1. [https://tourofrust.com/00_zh-cn.html](https://tourofrust.com/00_zh-cn.html)
 2. [https://github.com/rust-lang/rustlings](https://github.com/rust-lang/rustlings)
-3.
+3. [https://github.com/dslchd/tokio-cn-doc](https://github.com/dslchd/tokio-cn-doc)
+4. [https://github.com/tony612/tokio-internals](https://github.com/tony612/tokio-internals)
+5. 
+6. 
 
 ### web 框架
 
@@ -65,8 +68,9 @@
 23. [Standalone JIT-style runtime for WebAssembly, using Cranelift https://github.com/bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime)
 24. [An easy and powerful Rust HTTP Client https://github.com/seanmonstar/reqwest](https://github.com/seanmonstar/reqwest)
 25. [💎迄今为止最全面的分布式主键ID生成器。 💎优化的雪花算法（SnowFlake）——雪花漂移算法，在缩短ID长度的同时，具备极高瞬时并发处理能力（50W/0.1s）。 💎原生支持 C#/Java/Go/Rust/C/SQL 等多语言，且提供 PHP 扩展及 Python、Node.js、Ruby 多线程安全调用动态库（FFI）。💎支持容器环境自动扩容（自动注册 WorkerId ），单机或分布式唯一IdGenerator。💎顶尖优化，超强效能。 https://github.com/yitter/IdGenerator](https://github.com/yitter/IdGenerator)
-26. 
+26. [Async binding for Tungstenite, the Lightweight stream-based WebSocket implementation https://github.com/sdroege/async-tungstenite](https://github.com/sdroege/async-tungstenite)
 27. 
+28. 
 
 ### 完整项目/示例/demo/代码片段
 
@@ -118,8 +122,11 @@
 7. [https://github.com/contain-rs/bit-vec](https://github.com/contain-rs/bit-vec)
 8. 
 
-### 物联网 iot 协议 protocol
+### 物联网 iot 协议 protocol serial port
 
 1. [https://github.com/bytebeamio/rumqtt](https://github.com/bytebeamio/rumqtt)
-2. 
-3. 
+2. [https://github.com/slowtec/tokio-modbus](https://github.com/slowtec/tokio-modbus)
+3. [https://github.com/berkowski/tokio-serial](https://github.com/berkowski/tokio-serial)
+4. [Rust ZeroMQ bindings for Tokio https://github.com/cetra3/tmq](https://github.com/cetra3/tmq)
+5. [An RPC framework for Rust with a focus on ease of use https://github.com/google/tarpc](https://github.com/google/tarpc)
+6. 
