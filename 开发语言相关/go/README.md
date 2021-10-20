@@ -55,21 +55,22 @@ export all_proxy=https://goproxy.io
 
 1. Golang framework for robotics, drones, and the Internet of Things (IoT)  iot控制框架
    [https://github.com/hybridgroup/gobot](https://github.com/hybridgroup/gobot)
-1. mysql proxy
+2. mysql proxy
    Gaea是小米中国区电商研发部研发的基于mysql协议的数据库中间件，目前在小米商城大陆和海外得到广泛使用，包括订单、社区、活动等多个业务。Gaea支持分库分表、sql路由、读写分离等基本特性，更多详细功能可以参照下面的功能列表。其中分库分表方案兼容了mycat和kingshard两个项目的路由方式。Gaea在设计、实现阶段参照了mycat、kingshard和vitess，并使用tidb
    parser作为内置的sql parser，在此表达诚挚感谢
    [https://github.com/XiaoMi/Gaea](https://github.com/XiaoMi/Gaea)
-1. Go runtime source code analysis(zh-cn)
+3. Go runtime source code analysis(zh-cn)
    [https://github.com/cch123/golang-notes](https://github.com/cch123/golang-notes)
-1. An entity framework for Go 图形 图像 orm 查询存储工具库
+4. An entity framework for Go 图形 图像 orm 查询存储工具库
    [https://github.com/facebookincubator/ent](https://github.com/facebookincubator/ent)
-1. The fantastic ORM library for Golang, aims to be developer friendly
+5. The fantastic ORM library for Golang, aims to be developer friendly
    [https://github.com/jinzhu/gorm](https://github.com/jinzhu/gorm)
-1. Jupiter是douyu开源的面向服务治理的Golang微服务框架
+6. Jupiter是douyu开源的面向服务治理的Golang微服务框架
    [https://github.com/douyu/jupiter](https://github.com/douyu/jupiter)
-1. [safe and easy casting from one type to another in Go https://github.com/spf13/cast](https://github.com/spf13/cast)
-1.
-1.
+7. [safe and easy casting from one type to another in Go https://github.com/spf13/cast](https://github.com/spf13/cast)
+8. [nps是一款轻量级、高性能、功能强大的内网穿透代理服务器。目前支持tcp、udp流量转发，可支持任何tcp、udp上层协议（访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析等等……），此外还支持内网http代理、内网socks5代理、p2p等，并带有功能强大的web管理端 https://github.com/ehang-io/nps](https://github.com/ehang-io/nps)
+9. [Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,黑白名单,限速,限流量,限连接数,跨平台,KCP支持,认证API https://github.com/snail007/goproxy](https://github.com/snail007/goproxy)
+10. 
 
 ### 完整项目/示例/demo/代码片段
 
