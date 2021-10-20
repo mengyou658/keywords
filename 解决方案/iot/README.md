@@ -18,13 +18,15 @@
 ### 实用 库/模块/框架
 
 1. [Magician | 异步非阻塞的网络协议解析包 http://magician-io.com/docs/index.html](http://magician-io.com/docs/index.html)
-1. 一整套的物联网微服务解决方案
+2. 一整套的物联网微服务解决方案
    [https://github.com/devicehive](https://github.com/devicehive)
-1. JetLinks Community 基于Java8,Spring Boot 2.x ,WebFlux,Netty,Vert.x,Reactor等开发, 是一个全响应式的物联网基础平台。
+3. JetLinks Community 基于Java8,Spring Boot 2.x ,WebFlux,Netty,Vert.x,Reactor等开发, 是一个全响应式的物联网基础平台。
    [https://github.com/jetlinks/jetlinks-community](https://github.com/jetlinks/jetlinks-community)
-1. [Ultra-lightweight JavaScript engine for the Internet of Things. 轻量级JavaScript引擎 用于物联网设备 https://github.com/jerryscript-project/jerryscript](https://github.com/jerryscript-project/jerryscript)
-1. [物联大师，通用的物联数据后台，集成多种软硬件协议，提供丰富的在线模板，帮助用户快速实现零代码开发 https://github.com/zgwit/iot-master](https://github.com/zgwit/iot-master)
-1.
+4. [Ultra-lightweight JavaScript engine for the Internet of Things. 轻量级JavaScript引擎 用于物联网设备 https://github.com/jerryscript-project/jerryscript](https://github.com/jerryscript-project/jerryscript)
+5. [物联大师，通用的物联数据后台，集成多种软硬件协议，提供丰富的在线模板，帮助用户快速实现零代码开发 https://github.com/zgwit/iot-master](https://github.com/zgwit/iot-master)
+6. [https://github.com/xiaodepei/IOT-server](https://github.com/xiaodepei/IOT-server)
+7. [https://github.com/lf-edge/ekuiper](https://github.com/lf-edge/ekuiper)
+8. 
 
 ### 完整项目/示例/demo/代码片段
 
