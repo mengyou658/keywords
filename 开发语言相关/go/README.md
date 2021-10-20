@@ -70,7 +70,8 @@ export all_proxy=https://goproxy.io
 7. [safe and easy casting from one type to another in Go https://github.com/spf13/cast](https://github.com/spf13/cast)
 8. [nps是一款轻量级、高性能、功能强大的内网穿透代理服务器。目前支持tcp、udp流量转发，可支持任何tcp、udp上层协议（访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析等等……），此外还支持内网http代理、内网socks5代理、p2p等，并带有功能强大的web管理端 https://github.com/ehang-io/nps](https://github.com/ehang-io/nps)
 9. [Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,黑白名单,限速,限流量,限连接数,跨平台,KCP支持,认证API https://github.com/snail007/goproxy](https://github.com/snail007/goproxy)
-10. 
+10. [A fast, well-tested and widely used WebSocket implementation for Go. https://github.com/gorilla/websocket](https://github.com/gorilla/websocket)
+11. 
 
 ### 完整项目/示例/demo/代码片段
 
