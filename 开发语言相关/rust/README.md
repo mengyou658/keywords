@@ -113,14 +113,21 @@
 ### network tcp udp 工具库 protocol
 
 第一第二推荐 bit解析， 数据接收使用 tokio
-1. [bit 协议解析 https://github.com/dzamlo/rust-bitfield](https://github.com/dzamlo/rust-bitfield)
-2. [bit 协议解析 https://github.com/hashmismatch/packed_struct.rs](https://github.com/hashmismatch/packed_struct.rs)
-3. [A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ... https://github.com/tokio-rs/tokio](https://github.com/tokio-rs/tokio)
-4. 
-5. [Fast and easy-to-use event-driven network library. https://github.com/lemunozm/message-io](https://github.com/lemunozm/message-io)
-6. [The bitmatch crate provides tools for packing and unpacking integers as sequences of bits. Supports https://github.com/porglezomp/bitmatch](https://github.com/porglezomp/bitmatch)
-7. [https://github.com/contain-rs/bit-vec](https://github.com/contain-rs/bit-vec)
-8. 
+1. [这个比较接近 感觉可以 https://github.com/cesbo/bitwrap](https://github.com/cesbo/bitwrap)
+1. [这个比较接近 感觉可以 TODO 做一些改造 https://github.com/mengyou658/bitwrap](https://github.com/mengyou658/bitwrap)
+2. [这个也比较不错，但是没有看到动态长度协议的解析 增加了order排序 https://github.com/CirrusNeptune/modular-bitfield-msb](https://github.com/CirrusNeptune/modular-bitfield-msb)
+3. [这个也比较不错，但是没有看到动态长度协议的解析 没有大小端 https://github.com/Robbepop/modular-bitfield](https://github.com/Robbepop/modular-bitfield)
+4. [这个里面有可以借鉴的内容 https://github.com/wwylele/byte-struct-rs](https://github.com/wwylele/byte-struct-rs)
+5. [bit 协议解析 https://github.com/dzamlo/rust-bitfield](https://github.com/dzamlo/rust-bitfield)
+6. [https://crates.io/crates/bitaccess_macros](https://crates.io/crates/bitaccess_macros)
+7. [bit 协议解析 https://github.com/hashmismatch/packed_struct.rs](https://github.com/hashmismatch/packed_struct.rs)
+8. [A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ... https://github.com/tokio-rs/tokio](https://github.com/tokio-rs/tokio)
+9. [bit 操作工具类 https://github.com/bitvecto-rs/bitvec](https://github.com/bitvecto-rs/bitvec)
+10. 
+11. [Fast and easy-to-use event-driven network library. https://github.com/lemunozm/message-io](https://github.com/lemunozm/message-io)
+12. [The bitmatch crate provides tools for packing and unpacking integers as sequences of bits. Supports https://github.com/porglezomp/bitmatch](https://github.com/porglezomp/bitmatch)
+13. [https://github.com/contain-rs/bit-vec](https://github.com/contain-rs/bit-vec)
+14. 
 
 ### 物联网 iot 协议 protocol serial port
 
