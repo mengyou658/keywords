@@ -50,8 +50,7 @@
    [https://github.com/xiph/rav1e](https://github.com/xiph/rav1e)
 8. 漂亮得，现代化得ls
    [https://github.com/Peltoche/lsd](https://github.com/Peltoche/lsd)
-9. orm
-   [https://github.com/diesel-rs/diesel](https://github.com/diesel-rs/diesel)
+9. [orm https://github.com/diesel-rs/diesel](https://github.com/diesel-rs/diesel)
 10. [微软官方，Rust for the Windows SDK https://github.com/microsoft/windows-rs](https://github.com/microsoft/windows-rs)
 11. [A full featured, fast Command Line Argument Parser for Rust 参数解析 https://github.com/clap-rs/clap](https://github.com/clap-rs/clap)
 12. [https://github.com/launchbadge/sqlx](https://github.com/launchbadge/sqlx)
@@ -69,8 +68,9 @@
 24. [An easy and powerful Rust HTTP Client https://github.com/seanmonstar/reqwest](https://github.com/seanmonstar/reqwest)
 25. [💎迄今为止最全面的分布式主键ID生成器。 💎优化的雪花算法（SnowFlake）——雪花漂移算法，在缩短ID长度的同时，具备极高瞬时并发处理能力（50W/0.1s）。 💎原生支持 C#/Java/Go/Rust/C/SQL 等多语言，且提供 PHP 扩展及 Python、Node.js、Ruby 多线程安全调用动态库（FFI）。💎支持容器环境自动扩容（自动注册 WorkerId ），单机或分布式唯一IdGenerator。💎顶尖优化，超强效能。 https://github.com/yitter/IdGenerator](https://github.com/yitter/IdGenerator)
 26. [Async binding for Tungstenite, the Lightweight stream-based WebSocket implementation https://github.com/sdroege/async-tungstenite](https://github.com/sdroege/async-tungstenite)
-27. 
+27. [orm https://github.com/SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
 28. 
+29. 
 
 ### 完整项目/示例/demo/代码片段
 
