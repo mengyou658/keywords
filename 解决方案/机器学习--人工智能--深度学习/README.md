@@ -45,96 +45,97 @@
 
 1. Machine Learning 机器学习教程 Go教程 JavaScript教程 ios开发教程 Protocol协议教程 http https websocket tcp tls
    [https://github.com/halfrost/Halfrost-Field](https://github.com/halfrost/Halfrost-Field)
-1. tensorflow2中文教程
+2. [深度学习论文精读 https://github.com/mli/paper-reading](https://github.com/mli/paper-reading)
+3. tensorflow2中文教程
    [https://github.com/czy36mengfei/tensorflow2_tutorials_chinese](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)
-1. TensorFlow 2.0深度学习开源书
+4. TensorFlow 2.0深度学习开源书
    [https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)
-1. Tensorflow实战学习笔记、代码、机器学习进阶系列
+5. Tensorflow实战学习笔记、代码、机器学习进阶系列
    [https://github.com/MachineLP/Tensorflow-](https://github.com/MachineLP/Tensorflow-)
-1. 机器学习入门路径
+6. 机器学习入门路径
    [https://github.com/clone95/Virgilio/tree/master/zh-CN/LearningPaths/Machine%20Learning%20Engineer%20Career%20Path](https://github.com/clone95/Virgilio/tree/master/zh-CN/LearningPaths/Machine%20Learning%20Engineer%20Career%20Path)
-1. A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译 https://zhuanlan.zhihu.com/python-kivy
+7. A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译 https://zhuanlan.zhihu.com/python-kivy
    [https://github.com/Kivy-CN/Stanford-CS-229-CN](https://github.com/Kivy-CN/Stanford-CS-229-CN)
-1. 基于视频的目标检测算法研究 对相应的视频目标检测论文整理实现综述文档。
+8. 基于视频的目标检测算法研究 对相应的视频目标检测论文整理实现综述文档。
    [https://github.com/guanfuchen/video_obj](https://github.com/guanfuchen/video_obj)
-1. 机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归
+9. 机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归
    [https://github.com/Jack-Cherish/Machine-Learning](https://github.com/Jack-Cherish/Machine-Learning)
-1. 计算机视觉相关论文整理、翻译、记录、分享; 包括图像分类、目标检测、视觉跟踪/目标跟踪、人脸识别/人脸验证、OCR/场景文本检测、识别等领域。
-   [https://github.com/yizt/cv-papers](https://github.com/yizt/cv-papers)
-1. 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。
-   未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06
-   [https://github.com/scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)
-1. 车牌识别训练代码 Training Tools Related to HyperLPR
-   [https://github.com/zeusees/HyperLPR-Training](https://github.com/zeusees/HyperLPR-Training)
-1. 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记
-   [https://github.com/imhuay/Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
-1. AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
-   [https://github.com/apachecn/AiLearning](https://github.com/apachecn/AiLearning)
-1. 自然语言转逻辑形式"研究资料收集
-   [https://github.com/BaeSeulki/NL2LF](https://github.com/BaeSeulki/NL2LF)
-1. 机器学习视频教程
-   [https://morvanzhou.github.io/tutorials/machine-learning/ML-intro/1-1-machine-learning/](https://morvanzhou.github.io/tutorials/machine-learning/ML-intro/1-1-machine-learning/)
-1. Sklearn 与 TensorFlow 机器学习实用指南
-   [https://github.com/apachecn/hands-on-ml-zh](https://github.com/apachecn/hands-on-ml-zh)
-1. 机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归 https://cuijiahua.com/blog/ml/
-   [https://github.com/Jack-Cherish/Machine-Learning](https://github.com/Jack-Cherish/Machine-Learning)
-1. [译] 利用 Python 进行数据分析 · 第 2 版
-   [https://github.com/apachecn/pyda-2e-zh](https://github.com/apachecn/pyda-2e-zh)
-1. YOLO v3 目标检测算法 源码
-   [https://github.com/SpikeKing/keras-yolo3-detection](https://github.com/SpikeKing/keras-yolo3-detection)
-1. Detectron2 is FAIR's next-generation platform for object detection and segmentation. 目标检测算法
-   [https://github.com/facebookresearch/detectron2](https://github.com/facebookresearch/detectron2)
-1. 利用YOLOv3结合行人重识别模型，实现行人的检测识别，查找特定行人
-   [https://github.com/songwsx/person_search_demo](https://github.com/songwsx/person_search_demo)
-1. 机器人视觉 移动机器人 VS-SLAM ORB-SLAM2 深度学习目标检测 yolov3 行为检测 opencv PCL 机器学习 无人驾驶
-   [https://github.com/Ewenwan/MVision](https://github.com/Ewenwan/MVision)
-1. 为 TF 2017 打造的新版可视化教学代码 可视化的教程
-   [https://github.com/MorvanZhou/Tensorflow-Tutorial](https://github.com/MorvanZhou/Tensorflow-Tutorial)
-1. 自动视频剪辑 自动编辑视频
-   [https://github.com/carykh/jumpcutter](https://github.com/carykh/jumpcutter)
-1. Examples of using sparse attention, as in "Generating Long Sequences with Sparse Transformers" OpenAI
-   [https://github.com/openai/sparse_attention](https://github.com/openai/sparse_attention)
-1. 机器学习 相关列表
-   [https://github.com/ty4z2008/Qix/blob/master/dl.md](https://github.com/ty4z2008/Qix/blob/master/dl.md)
-1. 流行的机器学习算法的Python示例，解释了交互式Jupyter演示和数学 Python examples of popular machine learning algorithms with interactive Jupyter
-   demos and math being explained
-   [https://github.com/trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning)
-1. 面向机器学习的特征工程 开源的机器学习电子书的中文翻译，内容主要是关于如何找到数据集的特征
-   http://fe4ml.apachecn.org/#/
-1. 台湾大学李宏毅老师机器学习
-   [https://github.com/dafish-ai/NTU-Machine-learning](https://github.com/dafish-ai/NTU-Machine-learning)
-1. 一种实用的机器学习方法 A practical approach to machine learning
-   [https://github.com/GokuMohandas/practicalAI](https://github.com/GokuMohandas/practicalAI)
-1. 本社区是微软亚洲研究院（Microsoft Research Asia，简称MSRA）人工智能教育团队创立的人工智能教育与学习共建社区
-   [https://github.com/microsoft/ai-edu](https://github.com/microsoft/ai-edu)
-1. 机器学习入门示例 TensorFlow Tutorial and Examples for Beginners
-   [https://github.com/aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
-1. 人工智能学习路线图，整理近200个实战案例与项目，免费提供配套教材，零基础入门，就业实战！包括：Python，数学，机器学习，数据分析，深度学习，计算机视觉，自然语言处理等热门领域
-   [https://github.com/tangyudi/Ai-learn](https://github.com/tangyudi/Ai-learn)
-1. 机器学习模型推导教程
-   [https://github.com/shuhuai007/Machine-Learning-Session](https://github.com/shuhuai007/Machine-Learning-Session)
-1. TensorFlow 2.0 + Keras中的说明性ML笔记本
-   [https://github.com/practicalAI/practicalAI](https://github.com/practicalAI/practicalAI)
-1. [https://github.com/sun1638650145/A2PI2/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.md整理的机器学习中用到所有API，周更；从本次更新开始加入机器学习笔记，不定期更新](https://github.com/sun1638650145/A2PI2/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.md)
-1. [https://github.com/Niutranser-Li/Machine-Learning-Algorithm机器学习（统计方法+深度学习）理论方法+技术实战、数据集资源、学习方法和技术客栈](https://github.com/Niutranser-Li/Machine-Learning-Algorithm)
-1. [https://github.com/Giyn/MachineLearningAlgorithm机器学习算法教程和说明](https://github.com/Giyn/MachineLearningAlgorithm)
-1. [https://github.com/OneStepAndTwoSteps/Data_Analysis_notes学习机器学习时，最好使用真实数据，而不是人工数据集。幸运的是，有上千个开源数据集 可以进行选择，涵盖多个领域。以下是一些可以查找的数据的地方：](https://github.com/OneStepAndTwoSteps/Data_Analysis_notes)
-    * __流行的开源数据仓库：__
-        * [UC	Irvine	Machine	Learning Repository](https://link.jianshu.com/?t=http%3A%2F%2Farchive.ics.uci.edu%2Fml%2F)
-        * [Kaggle	datasets](https://link.jianshu.com/?t=https%3A%2F%2Fwww.kaggle.com%2Fdatasets)
-        * [Amazon’s AWS datasets](https://link.jianshu.com/?t=http%3A%2F%2Faws.amazon.com%2Ffr%2Fdatasets%2F)
-    * __准入口（提供开源数据列表）__
-        * http://dataportals.org/
-        * http://opendatamonitor.eu/
-        * http://quandl.com/
-    * __其它列出流行开源数据仓库的网页：__
-        * [Wikipedia’s list of Machine Learning datasets](https://link.jianshu.com/?t=https%3A%2F%2Fgoo.gl%2FSJHN2k)
-        * [Quora.com question](https://link.jianshu.com/?t=http%3A%2F%2Fgoo.gl%2FzDR78y)
-        * [Datasets subreddit](https://link.jianshu.com/?t=https%3A%2F%2Fwww.reddit.com%2Fr%2Fdatasets)
-1. [https://github.com/CodecWang/OpenCV-Python-Tutorial opencv 教程](https://github.com/CodecWang/OpenCV-Python-Tutorial)
-1. [数据科学竞赛经验分享 https://github.com/yzkang/My-Data-Competition-Experience/](https://github.com/yzkang/My-Data-Competition-Experience/)
-1.
-1.
+10. 计算机视觉相关论文整理、翻译、记录、分享; 包括图像分类、目标检测、视觉跟踪/目标跟踪、人脸识别/人脸验证、OCR/场景文本检测、识别等领域。
+    [https://github.com/yizt/cv-papers](https://github.com/yizt/cv-papers)
+11. 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。
+    未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06
+    [https://github.com/scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)
+12. 车牌识别训练代码 Training Tools Related to HyperLPR
+    [https://github.com/zeusees/HyperLPR-Training](https://github.com/zeusees/HyperLPR-Training)
+13. 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记
+    [https://github.com/imhuay/Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
+14. AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
+    [https://github.com/apachecn/AiLearning](https://github.com/apachecn/AiLearning)
+15. 自然语言转逻辑形式"研究资料收集
+    [https://github.com/BaeSeulki/NL2LF](https://github.com/BaeSeulki/NL2LF)
+16. 机器学习视频教程
+    [https://morvanzhou.github.io/tutorials/machine-learning/ML-intro/1-1-machine-learning/](https://morvanzhou.github.io/tutorials/machine-learning/ML-intro/1-1-machine-learning/)
+17. Sklearn 与 TensorFlow 机器学习实用指南
+    [https://github.com/apachecn/hands-on-ml-zh](https://github.com/apachecn/hands-on-ml-zh)
+18. 机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归 https://cuijiahua.com/blog/ml/
+    [https://github.com/Jack-Cherish/Machine-Learning](https://github.com/Jack-Cherish/Machine-Learning)
+19. [译] 利用 Python 进行数据分析 · 第 2 版
+    [https://github.com/apachecn/pyda-2e-zh](https://github.com/apachecn/pyda-2e-zh)
+20. YOLO v3 目标检测算法 源码
+    [https://github.com/SpikeKing/keras-yolo3-detection](https://github.com/SpikeKing/keras-yolo3-detection)
+21. Detectron2 is FAIR's next-generation platform for object detection and segmentation. 目标检测算法
+    [https://github.com/facebookresearch/detectron2](https://github.com/facebookresearch/detectron2)
+22. 利用YOLOv3结合行人重识别模型，实现行人的检测识别，查找特定行人
+    [https://github.com/songwsx/person_search_demo](https://github.com/songwsx/person_search_demo)
+23. 机器人视觉 移动机器人 VS-SLAM ORB-SLAM2 深度学习目标检测 yolov3 行为检测 opencv PCL 机器学习 无人驾驶
+    [https://github.com/Ewenwan/MVision](https://github.com/Ewenwan/MVision)
+24. 为 TF 2017 打造的新版可视化教学代码 可视化的教程
+    [https://github.com/MorvanZhou/Tensorflow-Tutorial](https://github.com/MorvanZhou/Tensorflow-Tutorial)
+25. 自动视频剪辑 自动编辑视频
+    [https://github.com/carykh/jumpcutter](https://github.com/carykh/jumpcutter)
+26. Examples of using sparse attention, as in "Generating Long Sequences with Sparse Transformers" OpenAI
+    [https://github.com/openai/sparse_attention](https://github.com/openai/sparse_attention)
+27. 机器学习 相关列表
+    [https://github.com/ty4z2008/Qix/blob/master/dl.md](https://github.com/ty4z2008/Qix/blob/master/dl.md)
+28. 流行的机器学习算法的Python示例，解释了交互式Jupyter演示和数学 Python examples of popular machine learning algorithms with interactive Jupyter
+    demos and math being explained
+    [https://github.com/trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning)
+29. 面向机器学习的特征工程 开源的机器学习电子书的中文翻译，内容主要是关于如何找到数据集的特征
+    http://fe4ml.apachecn.org/#/
+30. 台湾大学李宏毅老师机器学习
+    [https://github.com/dafish-ai/NTU-Machine-learning](https://github.com/dafish-ai/NTU-Machine-learning)
+31. 一种实用的机器学习方法 A practical approach to machine learning
+    [https://github.com/GokuMohandas/practicalAI](https://github.com/GokuMohandas/practicalAI)
+32. 本社区是微软亚洲研究院（Microsoft Research Asia，简称MSRA）人工智能教育团队创立的人工智能教育与学习共建社区
+    [https://github.com/microsoft/ai-edu](https://github.com/microsoft/ai-edu)
+33. 机器学习入门示例 TensorFlow Tutorial and Examples for Beginners
+    [https://github.com/aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
+34. 人工智能学习路线图，整理近200个实战案例与项目，免费提供配套教材，零基础入门，就业实战！包括：Python，数学，机器学习，数据分析，深度学习，计算机视觉，自然语言处理等热门领域
+    [https://github.com/tangyudi/Ai-learn](https://github.com/tangyudi/Ai-learn)
+35. 机器学习模型推导教程
+    [https://github.com/shuhuai007/Machine-Learning-Session](https://github.com/shuhuai007/Machine-Learning-Session)
+36. TensorFlow 2.0 + Keras中的说明性ML笔记本
+    [https://github.com/practicalAI/practicalAI](https://github.com/practicalAI/practicalAI)
+37. [https://github.com/sun1638650145/A2PI2/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.md整理的机器学习中用到所有API，周更；从本次更新开始加入机器学习笔记，不定期更新](https://github.com/sun1638650145/A2PI2/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.md)
+38. [https://github.com/Niutranser-Li/Machine-Learning-Algorithm机器学习（统计方法+深度学习）理论方法+技术实战、数据集资源、学习方法和技术客栈](https://github.com/Niutranser-Li/Machine-Learning-Algorithm)
+39. [https://github.com/Giyn/MachineLearningAlgorithm机器学习算法教程和说明](https://github.com/Giyn/MachineLearningAlgorithm)
+40. [https://github.com/OneStepAndTwoSteps/Data_Analysis_notes学习机器学习时，最好使用真实数据，而不是人工数据集。幸运的是，有上千个开源数据集 可以进行选择，涵盖多个领域。以下是一些可以查找的数据的地方：](https://github.com/OneStepAndTwoSteps/Data_Analysis_notes)
+     * __流行的开源数据仓库：__
+         * [UC	Irvine	Machine	Learning Repository](https://link.jianshu.com/?t=http%3A%2F%2Farchive.ics.uci.edu%2Fml%2F)
+         * [Kaggle	datasets](https://link.jianshu.com/?t=https%3A%2F%2Fwww.kaggle.com%2Fdatasets)
+         * [Amazon’s AWS datasets](https://link.jianshu.com/?t=http%3A%2F%2Faws.amazon.com%2Ffr%2Fdatasets%2F)
+     * __准入口（提供开源数据列表）__
+         * http://dataportals.org/
+         * http://opendatamonitor.eu/
+         * http://quandl.com/
+     * __其它列出流行开源数据仓库的网页：__
+         * [Wikipedia’s list of Machine Learning datasets](https://link.jianshu.com/?t=https%3A%2F%2Fgoo.gl%2FSJHN2k)
+         * [Quora.com question](https://link.jianshu.com/?t=http%3A%2F%2Fgoo.gl%2FzDR78y)
+         * [Datasets subreddit](https://link.jianshu.com/?t=https%3A%2F%2Fwww.reddit.com%2Fr%2Fdatasets)
+41. [https://github.com/CodecWang/OpenCV-Python-Tutorial opencv 教程](https://github.com/CodecWang/OpenCV-Python-Tutorial)
+42. [数据科学竞赛经验分享 https://github.com/yzkang/My-Data-Competition-Experience/](https://github.com/yzkang/My-Data-Competition-Experience/)
+43. 
+44. 
 
 ### 实用 库/模块/框架
 

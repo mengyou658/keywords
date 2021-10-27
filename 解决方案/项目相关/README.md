@@ -692,12 +692,14 @@ Flink使用了流处理的内核，同时提供了流处理和批处理的接口
 # OA
 
 1. 智能办公OA系统[SpringBoot2-快速开发平台]，适用于医院，学校，中小型企业等机构的管理。Activiti5.22+动态表单实现零java代码即可做到复杂业务的流程实施，同时包含文件在线操作、日志、考勤、CRM、ERP进销存
-   [https://github.com/weizhiqiang1995/skyeye 非前后端分离，暂时没有尝试](https://github.com/weizhiqiang1995/skyeye 非前后端分离，暂时没有尝试)
-   [https://github.com/mengyou658/yimioa 代码比较老，但是还是很全面的](https://github.com/mengyou658/yimioa 代码比较老，但是还是很全面的)
-   [https://gitee.com/youqiongwang/yqoas.git](https://gitee.com/youqiongwang/yqoas.git)
-   [https://gitee.com/rainrock/xinhu.git](https://gitee.com/rainrock/xinhu.git)
-   [https://gitee.com/xiaokong658/xiaoweioa](https://gitee.com/xiaokong658/xiaoweioa)
-   [https://gitee.com/ibos/IBOS 商业版本的全面，开源的阉割](https://gitee.com/ibos/IBOS 商业版本的全面，开源的阉割)
+2. [https://github.com/weizhiqiang1995/skyeye 非前后端分离，暂时没有尝试](https://github.com/weizhiqiang1995/skyeye 非前后端分离，暂时没有尝试)
+3. [https://github.com/mengyou658/yimioa 代码比较老，但是还是很全面的](https://github.com/mengyou658/yimioa 代码比较老，但是还是很全面的)
+4. [https://gitee.com/youqiongwang/yqoas.git](https://gitee.com/youqiongwang/yqoas.git)
+5. [https://gitee.com/rainrock/xinhu.git](https://gitee.com/rainrock/xinhu.git)
+6. [https://gitee.com/xiaokong658/xiaoweioa](https://gitee.com/xiaokong658/xiaoweioa)
+7. [https://gitee.com/ibos/IBOS 商业版本的全面，开源的阉割](https://gitee.com/ibos/IBOS 商业版本的全面，开源的阉割)
+8. [供应链中台系统基础版，集成零售管理, 电子商务, 供应链管理, 财务管理, 车队管理, 仓库管理, 人员管理, 产品管理, 订单管理, 会员管理, 连锁店管理, 加盟管理, 前端React/Ant Design, 后端Java Spring+自有开源框架，全面支持MySQL, PostgreSQL, 全面支持国产数据库南大通用GBase 8s,通过REST接口调用，前后端完全分离。 https://github.com/doublechaintech/scm-biz-suite](https://github.com/doublechaintech/scm-biz-suite)
+9. 
 
 # 智能图片缩放
 
@@ -1266,4 +1268,7 @@ qgis mapx
 1. [莱尼亚是一个连续细胞自动机系统，一种人工生命形式。 它源于康威的生活游戏，使一切顺利，连续和泛泛。该项目开始于2015年，通过试验生命游戏的变化，导致发现连续滑翔机球体，和400多个物种这些数字生物表现出逼真的特征，如自组织、自我修复、双边和径向对称、机车动力学，有时还有混乱的性质https://github.com/Chakazul/Lenia](https://github.com/Chakazul/Lenia)
 2. 
 
+### 音视频处理学习 FFmpeg 图像处理 视频图像处理与性能优化 视频编码
+1. [https://github.com/0voice/audio_video_streaming](https://github.com/0voice/audio_video_streaming)
+2. [WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的开箱即用的网络视频平台，负责实现核心信令与设备管理后台部分，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。支持国标级联，支持rtsp/rtmp等视频流转发到国标平台，支持rtsp/rtmp等推流转发到国标平台https://github.com/648540858/wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro)
 

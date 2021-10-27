@@ -288,6 +288,9 @@
 104. [一个 JS 库，在网页上展示一个可以书写数学公式的黑板。 https://github.com/susam/muboard](https://github.com/susam/muboard)
 105. [一个 JS 库，用来在网页上生成打字机输入文字的动画效果 https://github.com/alexmacarthur/typeit](https://github.com/alexmacarthur/typeit)
 106. [Excel 公式的 JS 版，目前有300多个公式。同时，这个库也提供数据操作功能，可以用作电子表格的后端 https://github.com/handsontable/hyperformula](https://github.com/handsontable/hyperformula)
+107. [UAParser.js - Detect Browser, Engine, OS, CPU, and Device type/model from User-Agent data. Supports browser & node.js environment. https://github.com/faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js)
+108. 
+109. 
 
 ##### worker webworker web worker child process child_process thread node electron
 
