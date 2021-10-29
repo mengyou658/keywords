@@ -3,21 +3,22 @@
 ### 现成列表
 
 1. [最新学习路线图，https://github.com/therealsreehari/Learn-Datascience-For-Free](https://github.com/therealsreehari/Learn-Datascience-For-Free)
-1. 行动识别和相关区域资源的策划清单 A curated list of action recognition and related area resources
+2. 行动识别和相关区域资源的策划清单 A curated list of action recognition and related area resources
    [https://github.com/jinwchoi/awesome-action-recognition](https://github.com/jinwchoi/awesome-action-recognition)
-1. A curated list of awesome computer vision resources 精彩的计算机视觉资源列表
+3. A curated list of awesome computer vision resources 精彩的计算机视觉资源列表
    [https://github.com/jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
-1. 《动手学深度学习》，英文版即伯克利深度学习（STAT 157，2019春）教材。面向中文读者、能运行、可讨论。 http://zh.d2l.ai
+4. 《动手学深度学习》，英文版即伯克利深度学习（STAT 157，2019春）教材。面向中文读者、能运行、可讨论。 http://zh.d2l.ai
    [https://github.com/d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh)
-1. cvpr2019 papers，极市团队整理
+5. cvpr2019 papers，极市团队整理
    [https://github.com/extreme-assistant/cvpr2019](https://github.com/extreme-assistant/cvpr2019)
-1. 深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）
+6. 深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）
    [https://github.com/amusi/Deep-Learning-Interview-Book](https://github.com/amusi/Deep-Learning-Interview-Book)
-1. AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
+7. AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
    [https://github.com/apachecn/AiLearning](https://github.com/apachecn/AiLearning)
-1. 可解释的机器学习--黑盒模型可解释性理解指南
+8. 可解释的机器学习--黑盒模型可解释性理解指南
    [https://github.com/MingchaoZhu/InterpretableMLBook](https://github.com/MingchaoZhu/InterpretableMLBook)
-1. [一款入门级的人脸、视频、文字检测以及识别的项目 https://github.com/vipstone/faceai](https://github.com/vipstone/faceai)
+9. [一款入门级的人脸、视频、文字检测以及识别的项目 https://github.com/vipstone/faceai](https://github.com/vipstone/faceai)
+10. [https://github.com/PaddlePaddle/awesome-DeepLearning](https://github.com/PaddlePaddle/awesome-DeepLearning)
 
 ### 新手入门项目
 
