@@ -1141,7 +1141,8 @@ http://www.sweethome3d.com/
    [https://github.com/kubeless/kubeless](https://github.com/kubeless/kubeless)
 3. [KubePi 是一款简单易用的开源 Kubernetes 可视化管理面板 https://github.com/KubeOperator/KubePi](https://github.com/KubeOperator/KubePi)
 4. [Rancher 是为使用容器的公司打造的容器管理平台。Rancher 简化了使用 Kubernetes 的流程，开发者可以随处运行 Kubernetes（Run Kubernetes Everywhere），满足 IT 需求规范，赋能 DevOps 团队。https://github.com/rancher/rancher](https://github.com/rancher/rancher)
-5. 
+5. [国产 K8s 管理平台 https://github.com/kubesphere/kubesphere](https://github.com/kubesphere/kubesphere)
+6. 
 
 # 百度云
 

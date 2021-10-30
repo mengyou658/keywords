@@ -19,24 +19,25 @@ export all_proxy=https://goproxy.io
 
 1. 为互联网IT人打造的中文版awesome-go
    [https://github.com/hackstoic/golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects)
-1. 学习路线
+2. 学习路线
    [https://github.com/Quorafind/golang-developer-roadmap-cn](https://github.com/Quorafind/golang-developer-roadmap-cn)
-1. 学习教程
+3. 学习教程
    [https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/preface.md](https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/preface.md)
-1. 编写和优化Go代码
+4. 编写和优化Go代码
    [https://github.com/dgryski/go-perfbook/blob/master/performance-zh.md](https://github.com/dgryski/go-perfbook/blob/master/performance-zh.md)
-1. awesome
+5. awesome
    [https://github.com/hyper0x/awesome-go-China/blob/master/zh_CN/README.md#web-frameworks](https://github.com/hyper0x/awesome-go-China/blob/master/zh_CN/README.md#web-frameworks)
-1. 一步一步教你，做Zinx框架的项目制作采用编码和学习教程同步进行，将开发的全部递进和迭代思维带入教程中，而不是一下子给大家一个非常完整的框架去学习，让很多人一头雾水，不知道该如何学起
+6. 一步一步教你，做Zinx框架的项目制作采用编码和学习教程同步进行，将开发的全部递进和迭代思维带入教程中，而不是一下子给大家一个非常完整的框架去学习，让很多人一头雾水，不知道该如何学起
    [https://github.com/aceld/zinx](https://github.com/aceld/zinx)
-1. 数据结构和算法必知必会的50个代码实现
+7. 数据结构和算法必知必会的50个代码实现
    [https://github.com/wangzheng0822/algo](https://github.com/wangzheng0822/algo)
-1. 从问题切入，串连 Go 语言相关的所有知识，融会贯通。
+8. 从问题切入，串连 Go 语言相关的所有知识，融会贯通。
    [https://github.com/qcrao/Go-Questions](https://github.com/qcrao/Go-Questions)
-1. go 入门
+9. go 入门
    [https://chai2010.cn/advanced-go-programming-book/ch2-cgo/ch2-01-hello-cgo.html](https://chai2010.cn/advanced-go-programming-book/ch2-cgo/ch2-01-hello-cgo.html)
-1.
-1.
+10. 
+11. 
+12. 
 
 ### cheatsheet 备忘录
 
@@ -71,7 +72,8 @@ export all_proxy=https://goproxy.io
 8. [nps是一款轻量级、高性能、功能强大的内网穿透代理服务器。目前支持tcp、udp流量转发，可支持任何tcp、udp上层协议（访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析等等……），此外还支持内网http代理、内网socks5代理、p2p等，并带有功能强大的web管理端 https://github.com/ehang-io/nps](https://github.com/ehang-io/nps)
 9. [Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,黑白名单,限速,限流量,限连接数,跨平台,KCP支持,认证API https://github.com/snail007/goproxy](https://github.com/snail007/goproxy)
 10. [A fast, well-tested and widely used WebSocket implementation for Go. https://github.com/gorilla/websocket](https://github.com/gorilla/websocket)
-11. 
+11. [一个示例项目，作者介绍如何从零开始实现一个小型的时序数据库（TSDB），也就是专门用于时间序列的数据库 mandodb](https://github.com/chenjiandongx/mandodb)
+12. 
 
 ### 完整项目/示例/demo/代码片段
 

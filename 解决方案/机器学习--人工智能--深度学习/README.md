@@ -142,151 +142,152 @@
 
 1. A face detection library in 200 lines of JavaScript （人脸检测 JavaScript ）
    [https://github.com/mengyou658/picojs](https://github.com/mengyou658/picojs)
-1. tensorflow
+2. tensorflow
    [https://github.com/tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
-1. TensorFlow.js
+3. TensorFlow.js
    [https://github.com/mengyou658/tfjs](https://github.com/mengyou658/tfjs)
-1. Automatically "block" people in images (like Black Mirror) using a pretrained neural network.
+4. Automatically "block" people in images (like Black Mirror) using a pretrained neural network.
    使用预训练的神经网络自动“阻挡”图像中的人（如黑镜）
    (自动识别图片中的人，车，长颈鹿，等80多种不同类型的对象，然后进行遮挡) (Python TensorFlow Keras Numpy，skimage，scipy，Pillow，cython，h5py)
    [https://github.com/mengyou658/person-blocker](https://github.com/mengyou658/person-blocker)
-1. Friendly machine learning for the web! 友好的 机器学习 web js
+5. Friendly machine learning for the web! 友好的 机器学习 web js
    [https://github.com/ml5js/ml5-library](https://github.com/ml5js/ml5-library)
-1. JavaScript中的神经网络
+6. JavaScript中的神经网络
    [https://github.com/BrainJS/brain.js](https://github.com/BrainJS/brain.js)
-1. 用python3+opencv3做的中国车牌识别，包括算法和客户端界面，只有2个文件，surface.py是界面代码，predict.py是算法代码，界面不是重点所以用tkinter写得很简单
+7. 用python3+opencv3做的中国车牌识别，包括算法和客户端界面，只有2个文件，surface.py是界面代码，predict.py是算法代码，界面不是重点所以用tkinter写得很简单
    [https://github.com/wzh191920/License-Plate-Recognition](https://github.com/wzh191920/License-Plate-Recognition)
-1. Car Recognition with Deep Learning 车辆识别
+8. Car Recognition with Deep Learning 车辆识别
    [https://github.com/foamliu/Car-Recognition](https://github.com/foamliu/Car-Recognition)
-1. The world's simplest facial recognition api for Python and the command line 世界上最简单的人脸识别库，使用 Python
+9. The world's simplest facial recognition api for Python and the command line 世界上最简单的人脸识别库，使用 Python
    或命令行，即可识别和控制人脸。该库使用 dlib 顶尖的深度学习人脸识别技术构建，在户外脸部检测数据库基准（Labeled Faces in the Wild benchmark）上的准确率高达 99.38%。
    [https://github.com/mengyou658/face_recognition](https://github.com/mengyou658/face_recognition)
-1. 自动车牌识别库 http://www.openalpr.com Automatic License Plate Recognition library
-   [https://github.com/openalpr/openalpr](https://github.com/openalpr/openalpr)
-1. 人脸识别 Face recognition using Tensorflow
-   [https://github.com/davidsandberg/facenet](https://github.com/davidsandberg/facenet)
-1. 简单的语音识别 Speech recognition for your site
-   [https://github.com/TalAter/annyang](https://github.com/TalAter/annyang)
-1. ANTLR（另一种语言识别工具）是一个功能强大的解析器生成器，用于读取，处理，执行或翻译结构化文本或二进制文件。 语法解析 ANTLR (ANother Tool for Language Recognition) is a
-   powerful parser generator for reading, processing, executing, or translating structured text or binary
-   files. http://antlr.org
-   [https://github.com/antlr/antlr4](https://github.com/antlr/antlr4)
-1. 人脸识别 JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
-   [https://github.com/justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js)
-1. 互联网上的人物跟踪器：Jose Pino的OSINT分析和研究工具
-   互联网上的人物跟踪器：学习跟踪世界，避免被追踪。Trape是一种OSINT分析和研究工具，它允许人们实时跟踪和执行智能社交工程攻击。它的创建目的是向全世界教授大型互联网公司如何获取机密信息，例如其网站或服务的会话状态，并通过浏览器控制用户，而不是他们的知识，但它的发展是为了帮助政府组织，公司和研究人员跟踪网络犯罪分子。
-   People tracker on the Internet: OSINT analysis and research tool by Jose Pino Trape is an OSINT analysis and research
-   tool, which allows people to track and execute intelligent social engineering attacks in real time. It was created
-   with the aim of teaching the world how large Internet companies could obtain confidential information such as the
-   status of sessions of their websites or services and control their users through their browser, without their
-   knowlege, but It evolves with the aim of helping government organizations, companies and researchers to track the
-   cybercriminals.
-   [https://github.com/jofpin/trape](https://github.com/jofpin/trape)
-1. 人脸识别
-   [https://github.com/deepinsight/insightface/issues/256 包含训练数据下载](https://github.com/deepinsight/insightface/issues/256
-   包含训练数据下载)
-   [https://github.com/deepinsight/insightface](https://github.com/deepinsight/insightface)
-1. 基于深度学习高性能中文车牌识别 High Performance Chinese License Plate Recognition Framework.
-   [https://github.com/zeusees/HyperLPR](https://github.com/zeusees/HyperLPR)
-1. 文字识别 其实现在做文字识别不是很难，特别基于深度学习
-   [https://github.com/JinpengLI/deep_ocr](https://github.com/JinpengLI/deep_ocr)
-1. 一款入门级的人脸、视频、文字检测以及识别的项目.人脸检测、识别（图片、视频） 轮廓标识 头像合成（给人戴帽子） 数字化妆（画口红、眉毛、眼睛等） 性别识别 表情识别（生气、厌恶、恐惧、开心、难过、惊喜、平静等七种情绪） 视频对象提取
-   图片修复（可用于水印去除） 图片自动上色 眼动追踪（待完善） 换脸（待完善）
-   [https://github.com/vipstone/faceai](https://github.com/vipstone/faceai)
-1. 基于深度学习高性能中文车牌识别 High Performance Chinese License Plate Recognition Framework
-   [https://github.com/zeusees/HyperLPR](https://github.com/zeusees/HyperLPR)
-1. 基于python图像识别实现的连连看外挂，可实现QQ连连看秒破
-   [https://github.com/TheThreeDog/Auto-Lianliankan](https://github.com/TheThreeDog/Auto-Lianliankan)
-1. Deep Pose Estimation implemented using Tensorflow with Custom Architectures for fast inference.
-   使用Tensorflow和自定义架构实现深度姿态估计，以实现快速推理 识别人体骨架 人体动作
-   [https://github.com/ildoonet/tf-pose-estimation](https://github.com/ildoonet/tf-pose-estimation)
-1. TensorFlow android demo 车道线 车辆 人脸 动作 骨架 识别 检测
-   [https://github.com/yuxitong/TensorFlowAndroidDemo](https://github.com/yuxitong/TensorFlowAndroidDemo)
-1. 换脸 Faceswap
-   [https://github.com/deepfakes/faceswap](https://github.com/deepfakes/faceswap)
-1. 端到端的三维人脸重建，基于 MobileNet 网络框架，在 CPU 上能达到实时。 The pytorch improved re-implementation of TPAMI 2017 paper: Face Alignment
-   in Full Pose Range: A 3D Total Solution.
-   [https://github.com/cleardusk/3DDFA](https://github.com/cleardusk/3DDFA)
-1. 身份证识别 ocr
-   [https://github.com/isee15/Card-Ocr](https://github.com/isee15/Card-Ocr)
-1. 一个开源的 OCR 软件，支持识别40种语言，包括中日韩文字
-   [https://github.com/JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR)
-1. wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目。 https://wukong.hahack.com/
-   [https://github.com/wzpan/wukong-robot](https://github.com/wzpan/wukong-robot)
-1. 用于构建机器人的NLP库，具有实体提取，情感分析，自动语言识别等功能 An NLP library for building bots, with entity extraction, sentiment analysis,
-   automatic language identify, and so more
-   [https://github.com/axa-group/nlp.js](https://github.com/axa-group/nlp.js)
-1. Keras的超参数调谐器，专门用于tf.kerasTensorFlow 2.0
-   [https://github.com/keras-team/keras-tuner](https://github.com/keras-team/keras-tuner)
-1. 在5秒内克隆语音，实时生成任意语音 Clone a voice in 5 seconds to generate arbitrary speech in real-time
-   [https://github.com/CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
-   ![nlpDemo gif](resources/hybridbot.gif)
-1. NSFW detection on the client-side via Tensorflow JS
-   [https://github.com/infinitered/nsfwjs](https://github.com/infinitered/nsfwjs)
-1. 本项目face_recognition是一个强大、简单、易上手的人脸识别开源项目，并且配备了完整的开发文档和应用案例，特别是兼容树莓派系统。本项目的人脸识别是基于业内领先的C++开源库 dlib中的深度学习模型，用Labeled
-   Faces in the Wild人脸数据集进行测试，有高达99.38%的准确率。但对小孩和亚洲人脸的识别准确率尚待提升。 face_recognition is a powerful, simple and easy-to-use
-   face recognition open source project with complete development documents and application cases, especially it is
-   compatible with Raspberry Pi
-   [https://github.com/ageitgey/face_recognition](https://github.com/ageitgey/face_recognition)
-1. Keras是一个高级神经网络API，用Python编写，能够在TensorFlow，CNTK或Theano之上运行。它的开发重点是实现快速实验。能够以最小的延迟从理念到结果是进行良好研究的关键。 Keras is a
-   high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It
-   was developed with a focus on enabling fast experimentation. Being able to go from idea to result with the least
-   possible delay is key to doing good research.
-   [https://github.com/keras-team/keras](https://github.com/keras-team/keras)
-1. Keras model to generate HTML code from hand-drawn website mockups. Implements an image captioning architecture to
-   drawn source images. 人工智能生成前端网页的工具，已经可用了。自动将手绘图，变成 HTML 网页。作者还写了一篇文章介绍原理 手写 草稿 草图
-   [https://github.com/ashnkumar/sketch-code](https://github.com/ashnkumar/sketch-code)
-1. FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation
-   [https://github.com/wuhuikai/FastFCN](https://github.com/wuhuikai/FastFCN)
-1. 使用深度学习,神经网络去除马赛克 视频 马赛克
-   [https://github.com/deeppomf/DeepCreamPy](https://github.com/deeppomf/DeepCreamPy)
-1. sqlflow简化 机器学习
-   [https://github.com/sql-machine-learning/sqlflow](https://github.com/sql-machine-learning/sqlflow)
-1. 车辆自动驾驶客户端 本田，丰田，讴歌，雷克萨斯，雪佛兰，现代，起亚执行自适应巡航控制（ACC）和车道保持辅助系统（LKAS）的功能
-   [https://github.com/commaai/openpilot](https://github.com/commaai/openpilot)
-1. Google X Lab 与加拿大 Perimeter 理论物理研究所的研究人员合作开发了TensorNetwork，以 TensorFlow 作为后端，针对 GPU 处理进行了优化。相比于单纯基于 CPU
-   的计算工作，TensorNetwork 可以实现高达 100 倍的加速。A library for easy and efficient manipulation of tensor networks.
-   [https://github.com/google/TensorNetwork](https://github.com/google/TensorNetwork)
-1. Official Tensorflow implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive
-   Layer-Instance Normalization for Image-to-Image Translation
-   [https://github.com/taki0112/UGATIT](https://github.com/taki0112/UGATIT)
-1. 该仓库将包含TecoGAN项目的源代码和材料，即TEmporally COherent GAN的代码 模糊像素变高清
-   [https://github.com/thunil/TecoGAN](https://github.com/thunil/TecoGAN)
-1. [StyleGAN2-ADA - Official PyTorch implementation https://github.com/NVlabs/stylegan2-ada-pytorch](https://github.com/NVlabs/stylegan2-ada-pytorch)
-1. High-performance TensorFlow library for quantitative finance TensorFlow 高性能工具库
-   [https://github.com/google/tf-quant-finance](https://github.com/google/tf-quant-finance)
-1. 人脸替换 DeepPrivacy是一种全自动的图像匿名化技术
-   [https://github.com/hukkelas/DeepPrivacy](https://github.com/hukkelas/DeepPrivacy)
-1. A High-Quality Real Time Upscaler for Anime Video 实时提升卡通动画的分辨率，使其成为高清动画的工具 动漫
-   [https://github.com/bloc97/Anime4K](https://github.com/bloc97/Anime4K)
-1. 图像查重 Finding duplicate images made easy!
-   [https://github.com/idealo/imagededup](https://github.com/idealo/imagededup)
-1. 使用机器学习算法完成对12306验证码的自动识别
-   [https://github.com/zhaipro/easy123061.](https://github.com/zhaipro/easy123061.)
-1. test_cnn基于keras，可以用来破解宝塔面板的验证码。基于深度学习的技术，识别效果接近100%准确
-   [https://github.com/imfht/test_cnn/blob/master/README_CN.md](https://github.com/imfht/test_cnn/blob/master/README_CN.md)
-1. an implementation of 3D Ken Burns Effect from a Single Image using PyTorch 单个图像合成3D Ken Burns效果
-   [https://github.com/sniklaus/3d-ken-burns](https://github.com/sniklaus/3d-ken-burns)
-1. 英伟达最强图像生成器StyleGAN2 StyleGAN2 - Official TensorFlow Implementation
-   [https://github.com/NVlabs/stylegan2](https://github.com/NVlabs/stylegan2)
-1. 这是一个用StyleGAN训练出的网红脸生成器
-   [https://github.com/a312863063/seeprettyface-generator-wanghong](https://github.com/a312863063/seeprettyface-generator-wanghong)
-1. Implementation EfficientDet: Scalable and Efficient Object Detection in PyTorch 图像识别
-   [https://github.com/toandaominh1997/EfficientDet.Pytorch](https://github.com/toandaominh1997/EfficientDet.Pytorch)
-1. 一个 Tensorflow 的算法实现，可以通过机器学习，将一片漆黑的照片（最左侧）还原成有光时的样子（最右侧）。
-   [https://github.com/cchen156](https://github.com/cchen156)
-1. 一个开源软件，只需要提供一张头像照片，就可以生成人物开口讲话的视频。
-   [https://github.com/alievk/avatarify](https://github.com/alievk/avatarify)
-1. 使用AR剪切并粘贴周围的环境
-   [https://github.com/cyrildiagne/ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste)
-1. Pose Animator takes a 2D vector illustration and animates its containing curves in real-time based on the recognition
-   result from PoseNet and FaceMesh. It borrows the idea of skeleton-based animation from computer graphics and applies
-   it to vector characters.
-   ![poseanmi.jpg](resources/poseanmi.jpg) 人脸动作转换成动画
-   [https://github.com/yemount/pose-animator](https://github.com/yemount/pose-animator)
-1. 将图片转成卡通图像
-   [https://github.com/minivision-ai/photo2cartoon](https://github.com/minivision-ai/photo2cartoon)
-1.
+10. 自动车牌识别库 http://www.openalpr.com Automatic License Plate Recognition library
+    [https://github.com/openalpr/openalpr](https://github.com/openalpr/openalpr)
+11. 人脸识别 Face recognition using Tensorflow
+    [https://github.com/davidsandberg/facenet](https://github.com/davidsandberg/facenet)
+12. 简单的语音识别 Speech recognition for your site
+    [https://github.com/TalAter/annyang](https://github.com/TalAter/annyang)
+13. ANTLR（另一种语言识别工具）是一个功能强大的解析器生成器，用于读取，处理，执行或翻译结构化文本或二进制文件。 语法解析 ANTLR (ANother Tool for Language Recognition) is a
+    powerful parser generator for reading, processing, executing, or translating structured text or binary
+    files. http://antlr.org
+    [https://github.com/antlr/antlr4](https://github.com/antlr/antlr4)
+14. 人脸识别 JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
+    [https://github.com/justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js)
+15. 互联网上的人物跟踪器：Jose Pino的OSINT分析和研究工具
+    互联网上的人物跟踪器：学习跟踪世界，避免被追踪。Trape是一种OSINT分析和研究工具，它允许人们实时跟踪和执行智能社交工程攻击。它的创建目的是向全世界教授大型互联网公司如何获取机密信息，例如其网站或服务的会话状态，并通过浏览器控制用户，而不是他们的知识，但它的发展是为了帮助政府组织，公司和研究人员跟踪网络犯罪分子。
+    People tracker on the Internet: OSINT analysis and research tool by Jose Pino Trape is an OSINT analysis and research
+    tool, which allows people to track and execute intelligent social engineering attacks in real time. It was created
+    with the aim of teaching the world how large Internet companies could obtain confidential information such as the
+    status of sessions of their websites or services and control their users through their browser, without their
+    knowlege, but It evolves with the aim of helping government organizations, companies and researchers to track the
+    cybercriminals.
+    [https://github.com/jofpin/trape](https://github.com/jofpin/trape)
+16. 人脸识别
+    [https://github.com/deepinsight/insightface/issues/256 包含训练数据下载](https://github.com/deepinsight/insightface/issues/256
+    包含训练数据下载)
+    [https://github.com/deepinsight/insightface](https://github.com/deepinsight/insightface)
+17. 基于深度学习高性能中文车牌识别 High Performance Chinese License Plate Recognition Framework.
+    [https://github.com/zeusees/HyperLPR](https://github.com/zeusees/HyperLPR)
+18. 文字识别 其实现在做文字识别不是很难，特别基于深度学习
+    [https://github.com/JinpengLI/deep_ocr](https://github.com/JinpengLI/deep_ocr)
+19. 一款入门级的人脸、视频、文字检测以及识别的项目.人脸检测、识别（图片、视频） 轮廓标识 头像合成（给人戴帽子） 数字化妆（画口红、眉毛、眼睛等） 性别识别 表情识别（生气、厌恶、恐惧、开心、难过、惊喜、平静等七种情绪） 视频对象提取
+    图片修复（可用于水印去除） 图片自动上色 眼动追踪（待完善） 换脸（待完善）
+    [https://github.com/vipstone/faceai](https://github.com/vipstone/faceai)
+20. 基于深度学习高性能中文车牌识别 High Performance Chinese License Plate Recognition Framework
+    [https://github.com/zeusees/HyperLPR](https://github.com/zeusees/HyperLPR)
+21. 基于python图像识别实现的连连看外挂，可实现QQ连连看秒破
+    [https://github.com/TheThreeDog/Auto-Lianliankan](https://github.com/TheThreeDog/Auto-Lianliankan)
+22. Deep Pose Estimation implemented using Tensorflow with Custom Architectures for fast inference.
+    使用Tensorflow和自定义架构实现深度姿态估计，以实现快速推理 识别人体骨架 人体动作
+    [https://github.com/ildoonet/tf-pose-estimation](https://github.com/ildoonet/tf-pose-estimation)
+23. TensorFlow android demo 车道线 车辆 人脸 动作 骨架 识别 检测
+    [https://github.com/yuxitong/TensorFlowAndroidDemo](https://github.com/yuxitong/TensorFlowAndroidDemo)
+24. 换脸 Faceswap
+    [https://github.com/deepfakes/faceswap](https://github.com/deepfakes/faceswap)
+25. 端到端的三维人脸重建，基于 MobileNet 网络框架，在 CPU 上能达到实时。 The pytorch improved re-implementation of TPAMI 2017 paper: Face Alignment
+    in Full Pose Range: A 3D Total Solution.
+    [https://github.com/cleardusk/3DDFA](https://github.com/cleardusk/3DDFA)
+26. 身份证识别 ocr
+    [https://github.com/isee15/Card-Ocr](https://github.com/isee15/Card-Ocr)
+27. 一个开源的 OCR 软件，支持识别40种语言，包括中日韩文字
+    [https://github.com/JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR)
+28. wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目。 https://wukong.hahack.com/
+    [https://github.com/wzpan/wukong-robot](https://github.com/wzpan/wukong-robot)
+29. 用于构建机器人的NLP库，具有实体提取，情感分析，自动语言识别等功能 An NLP library for building bots, with entity extraction, sentiment analysis,
+    automatic language identify, and so more
+    [https://github.com/axa-group/nlp.js](https://github.com/axa-group/nlp.js)
+30. Keras的超参数调谐器，专门用于tf.kerasTensorFlow 2.0
+    [https://github.com/keras-team/keras-tuner](https://github.com/keras-team/keras-tuner)
+31. 在5秒内克隆语音，实时生成任意语音 Clone a voice in 5 seconds to generate arbitrary speech in real-time
+    [https://github.com/CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
+    ![nlpDemo gif](resources/hybridbot.gif)
+32. NSFW detection on the client-side via Tensorflow JS
+    [https://github.com/infinitered/nsfwjs](https://github.com/infinitered/nsfwjs)
+33. 本项目face_recognition是一个强大、简单、易上手的人脸识别开源项目，并且配备了完整的开发文档和应用案例，特别是兼容树莓派系统。本项目的人脸识别是基于业内领先的C++开源库 dlib中的深度学习模型，用Labeled
+    Faces in the Wild人脸数据集进行测试，有高达99.38%的准确率。但对小孩和亚洲人脸的识别准确率尚待提升。 face_recognition is a powerful, simple and easy-to-use
+    face recognition open source project with complete development documents and application cases, especially it is
+    compatible with Raspberry Pi
+    [https://github.com/ageitgey/face_recognition](https://github.com/ageitgey/face_recognition)
+34. Keras是一个高级神经网络API，用Python编写，能够在TensorFlow，CNTK或Theano之上运行。它的开发重点是实现快速实验。能够以最小的延迟从理念到结果是进行良好研究的关键。 Keras is a
+    high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It
+    was developed with a focus on enabling fast experimentation. Being able to go from idea to result with the least
+    possible delay is key to doing good research.
+    [https://github.com/keras-team/keras](https://github.com/keras-team/keras)
+35. Keras model to generate HTML code from hand-drawn website mockups. Implements an image captioning architecture to
+    drawn source images. 人工智能生成前端网页的工具，已经可用了。自动将手绘图，变成 HTML 网页。作者还写了一篇文章介绍原理 手写 草稿 草图
+    [https://github.com/ashnkumar/sketch-code](https://github.com/ashnkumar/sketch-code)
+36. FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation
+    [https://github.com/wuhuikai/FastFCN](https://github.com/wuhuikai/FastFCN)
+37. 使用深度学习,神经网络去除马赛克 视频 马赛克
+    [https://github.com/deeppomf/DeepCreamPy](https://github.com/deeppomf/DeepCreamPy)
+38. sqlflow简化 机器学习
+    [https://github.com/sql-machine-learning/sqlflow](https://github.com/sql-machine-learning/sqlflow)
+39. 车辆自动驾驶客户端 本田，丰田，讴歌，雷克萨斯，雪佛兰，现代，起亚执行自适应巡航控制（ACC）和车道保持辅助系统（LKAS）的功能
+    [https://github.com/commaai/openpilot](https://github.com/commaai/openpilot)
+40. Google X Lab 与加拿大 Perimeter 理论物理研究所的研究人员合作开发了TensorNetwork，以 TensorFlow 作为后端，针对 GPU 处理进行了优化。相比于单纯基于 CPU
+    的计算工作，TensorNetwork 可以实现高达 100 倍的加速。A library for easy and efficient manipulation of tensor networks.
+    [https://github.com/google/TensorNetwork](https://github.com/google/TensorNetwork)
+41. Official Tensorflow implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive
+    Layer-Instance Normalization for Image-to-Image Translation
+    [https://github.com/taki0112/UGATIT](https://github.com/taki0112/UGATIT)
+42. 该仓库将包含TecoGAN项目的源代码和材料，即TEmporally COherent GAN的代码 模糊像素变高清
+    [https://github.com/thunil/TecoGAN](https://github.com/thunil/TecoGAN)
+43. [StyleGAN2-ADA - Official PyTorch implementation https://github.com/NVlabs/stylegan2-ada-pytorch](https://github.com/NVlabs/stylegan2-ada-pytorch)
+44. High-performance TensorFlow library for quantitative finance TensorFlow 高性能工具库
+    [https://github.com/google/tf-quant-finance](https://github.com/google/tf-quant-finance)
+45. 人脸替换 DeepPrivacy是一种全自动的图像匿名化技术
+    [https://github.com/hukkelas/DeepPrivacy](https://github.com/hukkelas/DeepPrivacy)
+46. A High-Quality Real Time Upscaler for Anime Video 实时提升卡通动画的分辨率，使其成为高清动画的工具 动漫
+    [https://github.com/bloc97/Anime4K](https://github.com/bloc97/Anime4K)
+47. 图像查重 Finding duplicate images made easy!
+    [https://github.com/idealo/imagededup](https://github.com/idealo/imagededup)
+48. 使用机器学习算法完成对12306验证码的自动识别
+    [https://github.com/zhaipro/easy123061.](https://github.com/zhaipro/easy123061.)
+49. test_cnn基于keras，可以用来破解宝塔面板的验证码。基于深度学习的技术，识别效果接近100%准确
+    [https://github.com/imfht/test_cnn/blob/master/README_CN.md](https://github.com/imfht/test_cnn/blob/master/README_CN.md)
+50. an implementation of 3D Ken Burns Effect from a Single Image using PyTorch 单个图像合成3D Ken Burns效果
+    [https://github.com/sniklaus/3d-ken-burns](https://github.com/sniklaus/3d-ken-burns)
+51. 英伟达最强图像生成器StyleGAN2 StyleGAN2 - Official TensorFlow Implementation
+    [https://github.com/NVlabs/stylegan2](https://github.com/NVlabs/stylegan2)
+52. 这是一个用StyleGAN训练出的网红脸生成器
+    [https://github.com/a312863063/seeprettyface-generator-wanghong](https://github.com/a312863063/seeprettyface-generator-wanghong)
+53. Implementation EfficientDet: Scalable and Efficient Object Detection in PyTorch 图像识别
+    [https://github.com/toandaominh1997/EfficientDet.Pytorch](https://github.com/toandaominh1997/EfficientDet.Pytorch)
+54. 一个 Tensorflow 的算法实现，可以通过机器学习，将一片漆黑的照片（最左侧）还原成有光时的样子（最右侧）。
+    [https://github.com/cchen156](https://github.com/cchen156)
+55. 一个开源软件，只需要提供一张头像照片，就可以生成人物开口讲话的视频。
+    [https://github.com/alievk/avatarify](https://github.com/alievk/avatarify)
+56. 使用AR剪切并粘贴周围的环境
+    [https://github.com/cyrildiagne/ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste)
+57. Pose Animator takes a 2D vector illustration and animates its containing curves in real-time based on the recognition
+    result from PoseNet and FaceMesh. It borrows the idea of skeleton-based animation from computer graphics and applies
+    it to vector characters.
+    ![poseanmi.jpg](resources/poseanmi.jpg) 人脸动作转换成动画
+    [https://github.com/yemount/pose-animator](https://github.com/yemount/pose-animator)
+58. 将图片转成卡通图像
+    [https://github.com/minivision-ai/photo2cartoon](https://github.com/minivision-ai/photo2cartoon)
+59. [这个库是浏览器的 Python 运行时，通过 WebAssembly 脚本让网页运行 Python 代码，可以通过它加载一些人工智能或者科学计算的库 https://github.com/pyodide/pyodide](https://github.com/pyodide/pyodide)
+60. 
 中文文本纠错工具。音似、形似错字（或变体字）纠正，可用于中文拼音、笔画输入法的错误纠正。依据语言模型检测错别字位置，通过拼音音似特征、笔画五笔编辑距离特征及语言模型困惑度特征纠正错别字。解决了在文本识别模型处理后，对识别结果中个别词汇错误进行纠错
 [https://github.com/shibing624/pycorrector](https://github.com/shibing624/pycorrector)
 1. comma.ai 开源的自动驾驶系统
