@@ -320,6 +320,7 @@ Hilo，一套HTML5跨终端的互动游戏解决方案。Hilo支持了多届淘�
 1. [推荐2 go 都包含工作流 goframe https://github.com/flipped-aurora/gf-vue-admin](https://github.com/flipped-aurora/gf-vue-admin)
 1. [推荐2 go 都包含工作流 gin https://github.com/flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)
 1. [推荐3 go ruoyi-vue https://github.com/zeroing-zy1/yjgo](https://github.com/zeroing-zy1/yjgo)
+1. [推荐3 基于 uber/fx 实现依赖注入 https://github.com/RealLiuSha/echo-admin](https://github.com/RealLiuSha/echo-admin)
 1. [推荐1 java https://gitee.com/y_project/RuoYi-Vue](https://gitee.com/y_project/RuoYi-Vue)
 1. [推荐1 java https://github.com/YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro)
 1. [推荐1 java 前后台 https://github.com/elunez/eladmin](https://github.com/elunez/eladmin)
