@@ -69,8 +69,9 @@
 25. [💎迄今为止最全面的分布式主键ID生成器。 💎优化的雪花算法（SnowFlake）——雪花漂移算法，在缩短ID长度的同时，具备极高瞬时并发处理能力（50W/0.1s）。 💎原生支持 C#/Java/Go/Rust/C/SQL 等多语言，且提供 PHP 扩展及 Python、Node.js、Ruby 多线程安全调用动态库（FFI）。💎支持容器环境自动扩容（自动注册 WorkerId ），单机或分布式唯一IdGenerator。💎顶尖优化，超强效能。 https://github.com/yitter/IdGenerator](https://github.com/yitter/IdGenerator)
 26. [Async binding for Tungstenite, the Lightweight stream-based WebSocket implementation https://github.com/sdroege/async-tungstenite](https://github.com/sdroege/async-tungstenite)
 27. [orm https://github.com/SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
-28. 
+28. [A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀 https://github.com/38/plotters](https://github.com/38/plotters)
 29. 
+30. 
 
 ### 完整项目/示例/demo/代码片段
 
@@ -109,6 +110,7 @@
 1. [A renderer written in Rust which compiles to both desktop (OpenGL) and web (WebAssembly + WebGL).asny.github.io/three-d/ https://github.com/asny/three-d](https://github.com/asny/three-d)
 2. [Safe and portable GPU abstraction in Rust, implementing WebGPU API. https://github.com/gfx-rs/wgpu](https://github.com/gfx-rs/wgpu)
 3. [RTS game/engine in Rust and WebGPU https://github.com/Ruddle/oxidator](https://github.com/Ruddle/oxidator)
+4. [A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀 https://github.com/38/plotters](https://github.com/38/plotters)
 
 ### network tcp udp 工具库 protocol
 

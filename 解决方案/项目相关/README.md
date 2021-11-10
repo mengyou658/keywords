@@ -1279,3 +1279,391 @@ qgis mapx
 1. [https://github.com/0voice/audio_video_streaming](https://github.com/0voice/audio_video_streaming)
 2. [WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的开箱即用的网络视频平台，负责实现核心信令与设备管理后台部分，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。支持国标级联，支持rtsp/rtmp等视频流转发到国标平台，支持rtsp/rtmp等推流转发到国标平台https://github.com/648540858/wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro)
 
+
+### Jupyter Kernels
+1. [IJavascript is a javascript kernel for the Jupyter notebook](https://github.com/n-riesco/ijavascript)
+2. [A Jupyter Kernel for the Rust programming language. https://github.com/google/evcxr](https://github.com/google/evcxr)
+3. [IPython Kernel for Jupyter https://github.com/ipython/ipykernel](https://github.com/ipython/ipykernel)
+4. [A Scala kernel for Jupyter https://github.com/almond-sh/almond](https://github.com/almond-sh/almond)
+5. [Kotlin kernel for Jupyter/IPython https://github.com/Kotlin/kotlin-jupyter](https://github.com/Kotlin/kotlin-jupyter)
+6. [Jupyter kernel for the C++ programming language https://github.com/jupyter-xeus/xeus-cling](https://github.com/jupyter-xeus/xeus-cling)
+7. [Jupyter Kernel for Matlab https://github.com/Calysto/matlab_kernel](https://github.com/Calysto/matlab_kernel)
+8. [The Go kernel for Jupyter notebooks and nteract. https://github.com/gopherdata/gophernotes](https://github.com/gopherdata/gophernotes)
+9. [Write SciJava scripts in Jupyter notebook https://github.com/scijava/scijava-jupyter-kernel](https://github.com/scijava/scijava-jupyter-kernel)
+10. [Jupyter kernel for SQLite https://github.com/jupyter-xeus/xeus-sqlite](https://github.com/jupyter-xeus/xeus-sqlite)
+11. 
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+_Jupyter kernels that run and introspect the user's code in a given language._
+
+<details><summary><b><a href="https://github.com/ipython/ipykernel">IPython Kernel</a></b> (🥇34 ·  ⭐ 420) - IPython Kernel for Jupyter. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+
+- [GitHub](https://github.com/ipython/ipykernel) (👨‍💻 130 · 🔀 270 · 📦 130K · 📋 350 - 54% open · ⏱️ 24.08.2021):
+
+  ```
+  git clone https://github.com/ipython/ipykernel
+  ```
+- [PyPi](https://pypi.org/project/ipykernel) (📥 17M / month · 📦 18K · ⏱️ 16.08.2021):
+  ```
+  pip install ipykernel
+  ```
+- [Conda](https://anaconda.org/anaconda/ipykernel) (📥 200K · ⏱️ 08.12.2020):
+  ```
+  conda install -c anaconda ipykernel
+  ```
+</details>
+<details><summary><b><a href="https://github.com/gopherdata/gophernotes">gophernotes</a></b> (🥇23 ·  ⭐ 3K) - The Go kernel for Jupyter notebooks and nteract. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/gopherdata/gophernotes) (👨‍💻 28 · 🔀 210 · 📥 40 · 📦 5 · 📋 160 - 25% open · ⏱️ 24.06.2021):
+
+  ```
+  git clone https://github.com/gopherdata/gophernotes
+  ```
+- [Docker Hub](https://hub.docker.com/r/gopherdata/gophernotes) (📥 83K · ⭐ 6 · ⏱️ 22.12.2018):
+  ```
+  docker pull gopherdata/gophernotes
+  ```
+</details>
+<details><summary><b><a href="https://github.com/n-riesco/ijavascript">IJavascript</a></b> (🥇23 ·  ⭐ 1.6K) - IJavascript is a javascript kernel for the Jupyter notebook. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+
+- [GitHub](https://github.com/n-riesco/ijavascript) (👨‍💻 14 · 🔀 160 · 📦 51 · 📋 210 - 27% open · ⏱️ 16.06.2021):
+
+  ```
+  git clone https://github.com/n-riesco/ijavascript
+  ```
+- [NPM](https://www.npmjs.com/package/ijavascript) (📥 2.3K / month · 📦 38 · ⏱️ 26.09.2019):
+  ```
+  npm install ijavascript
+  ```
+</details>
+<details><summary><b><a href="https://github.com/apache/incubator-toree">Apache Toree</a></b> (🥇23 ·  ⭐ 680) - Jupyter kernel for Apache Spark. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/apache/incubator-toree) (👨‍💻 100 · 🔀 210 · ⏱️ 09.06.2021):
+
+  ```
+  git clone https://github.com/apache/incubator-toree
+  ```
+- [PyPi](https://pypi.org/project/toree) (📥 9.2K / month · 📦 9 · ⏱️ 01.08.2020):
+  ```
+  pip install toree
+  ```
+</details>
+<details><summary><b><a href="https://github.com/Calysto/metakernel">Metakernel</a></b> (🥇23 ·  ⭐ 260) - Jupyter/IPython Kernel Tools. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+
+- [GitHub](https://github.com/Calysto/metakernel) (👨‍💻 28 · 🔀 71 · 📦 470 · 📋 140 - 18% open · ⏱️ 10.05.2021):
+
+  ```
+  git clone https://github.com/Calysto/metakernel
+  ```
+- [PyPi](https://pypi.org/project/metakernel) (📥 39K / month · 📦 94 · ⏱️ 09.11.2020):
+  ```
+  pip install metakernel
+  ```
+- [Conda](https://anaconda.org/conda-forge/metakernel) (📥 500K · ⏱️ 11.11.2020):
+  ```
+  conda install -c conda-forge metakernel
+  ```
+</details>
+<details><summary><b><a href="https://github.com/IRkernel/IRkernel">IRkernel</a></b> (🥈22 ·  ⭐ 1.5K) - R kernel for Jupyter. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/IRkernel/IRkernel) (👨‍💻 40 · 🔀 280 · 📋 550 - 8% open · ⏱️ 02.08.2021):
+
+  ```
+  git clone https://github.com/IRkernel/IRkernel
+  ```
+- [Conda](https://anaconda.org/r/r-irkernel) (📥 43K · ⏱️ 10.03.2020):
+  ```
+  conda install -c r r-irkernel
+  ```
+- [Docker Hub](https://hub.docker.com/r/jupyter/r-notebook) (📥 950K · ⭐ 39 · ⏱️ 26.08.2021):
+  ```
+  docker pull jupyter/r-notebook
+  ```
+</details>
+<details><summary><b><a href="https://github.com/jupyter/kernel_gateway">Kernel Gateway</a></b> (🥈21 ·  ⭐ 360) - Jupyter Kernel Gateway. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+
+- [GitHub](https://github.com/jupyter/kernel_gateway) (👨‍💻 43 · 🔀 120 · 📥 100 · 📋 170 - 8% open · ⏱️ 24.08.2021):
+
+  ```
+  git clone https://github.com/jupyter/kernel_gateway
+  ```
+- [PyPi](https://pypi.org/project/jupyter-kernel-gateway) (📥 5.8K / month · 📦 6 · ⏱️ 24.08.2021):
+  ```
+  pip install jupyter-kernel-gateway
+  ```
+</details>
+<details><summary><b><a href="https://github.com/gibiansky/IHaskell">IHaskell</a></b> (🥈20 ·  ⭐ 2.3K) - A Haskell kernel for IPython. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/gibiansky/IHaskell) (👨‍💻 100 · 🔀 240 · 📋 720 - 5% open · ⏱️ 26.08.2021):
+
+  ```
+  git clone https://github.com/gibiansky/IHaskell
+  ```
+- [NPM](https://www.npmjs.com/package/ihaskell_jupyterlab) (📥 27 / month · ⏱️ 01.08.2018):
+  ```
+  npm install ihaskell_jupyterlab
+  ```
+</details>
+<details><summary><b><a href="https://github.com/jupyter/enterprise_gateway">Enterprise Gateway</a></b> (🥈20 ·  ⭐ 450) - A lightweight, multi-tenant, scalable and secure gateway.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+
+- [GitHub](https://github.com/jupyter/enterprise_gateway) (👨‍💻 82 · 🔀 150 · 📥 11K · 📋 490 - 20% open · ⏱️ 22.08.2021):
+
+  ```
+  git clone https://github.com/jupyter/enterprise_gateway
+  ```
+- [PyPi](https://pypi.org/project/jupyter_enterprise_gateway) (📥 830 / month · 📦 1 · ⏱️ 27.04.2020):
+  ```
+  pip install jupyter_enterprise_gateway
+  ```
+</details>
+<details><summary><b><a href="https://github.com/jupyter-xeus/xeus-python">xeus-python</a></b> (🥈20 ·  ⭐ 300) - Jupyter kernel for the Python programming language. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+
+- [GitHub](https://github.com/jupyter-xeus/xeus-python) (👨‍💻 16 · 🔀 51 · 📋 150 - 35% open · ⏱️ 24.08.2021):
+
+  ```
+  git clone https://github.com/jupyter-xeus/xeus-python
+  ```
+- [PyPi](https://pypi.org/project/xeus-python) (📥 9.6K / month · ⏱️ 23.06.2021):
+  ```
+  pip install xeus-python
+  ```
+- [Conda](https://anaconda.org/conda-forge/xeus-python) (📥 760K · ⏱️ 25.06.2021):
+  ```
+  conda install -c conda-forge xeus-python
+  ```
+</details>
+<details><summary><b><a href="https://github.com/jupyter-xeus/xeus-cling">xeus-cling</a></b> (🥈19 ·  ⭐ 1.9K) - Jupyter kernel for the C++ programming language. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+
+- [GitHub](https://github.com/jupyter-xeus/xeus-cling) (👨‍💻 19 · 🔀 200 · 📋 230 - 51% open · ⏱️ 23.06.2021):
+
+  ```
+  git clone https://github.com/jupyter-xeus/xeus-cling
+  ```
+- [Conda](https://anaconda.org/conda-forge/xeus-cling) (📥 110K · ⏱️ 16.03.2021):
+  ```
+  conda install -c conda-forge xeus-cling
+  ```
+</details>
+<details><summary><b><a href="https://github.com/almond-sh/almond">almond</a></b> (🥈19 ·  ⭐ 1.4K) - A Scala kernel for Jupyter. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+
+- [GitHub](https://github.com/almond-sh/almond) (👨‍💻 34 · 🔀 200 · 📥 1.1K · 📋 300 - 36% open · ⏱️ 26.08.2021):
+
+  ```
+  git clone https://github.com/almond-sh/almond
+  ```
+- [Docker Hub](https://hub.docker.com/r/almondsh/almond) (📥 9.8K · ⭐ 6 · ⏱️ 01.04.2021):
+  ```
+  docker pull almondsh/almond
+  ```
+</details>
+<details><summary><b><a href="https://github.com/SciRuby/iruby">IRuby</a></b> (🥈19 ·  ⭐ 640) - Official gem repository: Ruby kernel for Jupyter/IPython Notebook. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/SciRuby/iruby) (👨‍💻 44 · 🔀 8 · 📥 15 · 📦 150 · 📋 180 - 22% open · ⏱️ 17.08.2021):
+
+  ```
+  git clone https://github.com/SciRuby/iruby
+  ```
+- [Docker Hub](https://hub.docker.com/r/rubydata/datascience-notebook) (📥 1.3K · ⭐ 3 · ⏱️ 28.05.2021):
+  ```
+  docker pull rubydata/datascience-notebook
+  ```
+</details>
+<details><summary><b><a href="https://github.com/JuliaLang/IJulia.jl">IJulia.jl</a></b> (🥉18 ·  ⭐ 2.3K) - Julia kernel for Jupyter. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/JuliaLang/IJulia.jl) (👨‍💻 100 · 🔀 360 · 📋 770 - 12% open · ⏱️ 10.06.2021):
+
+  ```
+  git clone https://github.com/JuliaLang/IJulia.jl
+  ```
+</details>
+<details><summary><b><a href="https://github.com/ansible/ansible-jupyter-kernel">Ansible Kernel</a></b> (🥉18 ·  ⭐ 470) - Jupyter Notebook Kernel for running Ansible Tasks and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/ansible/ansible-jupyter-kernel) (👨‍💻 9 · 🔀 46 · 📦 8 · 📋 41 - 29% open · ⏱️ 05.03.2021):
+
+  ```
+  git clone https://github.com/ansible/ansible-jupyter-kernel
+  ```
+- [PyPi](https://pypi.org/project/ansible-kernel) (📥 170 / month · ⏱️ 12.12.2018):
+  ```
+  pip install ansible-kernel
+  ```
+- [Conda](https://anaconda.org/conda-forge/ansible-kernel) (📥 7.8K · ⏱️ 14.01.2020):
+  ```
+  conda install -c conda-forge ansible-kernel
+  ```
+- [Docker Hub](https://hub.docker.com/r/benthomasson/ansible-jupyter-kernel) (📥 66K · ⭐ 2 · ⏱️ 12.12.2018):
+  ```
+  docker pull benthomasson/ansible-jupyter-kernel
+  ```
+</details>
+<details><summary><b><a href="https://github.com/lfortran/lfortran">LFortran</a></b> (🥉18 ·  ⭐ 270) - Official mirror of https://gitlab.com/lfortran/lfortran. Please submit.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/lfortran/lfortran) (👨‍💻 17 · 🔀 12 · ⏱️ 26.08.2021):
+
+  ```
+  git clone https://github.com/lfortran/lfortran
+  ```
+- [PyPi](https://pypi.org/project/lfortran) (📥 71 / month · ⏱️ 31.07.2020):
+  ```
+  pip install lfortran
+  ```
+- [Conda](https://anaconda.org/conda-forge/lfortran) (📥 27K · ⏱️ 16.08.2021):
+  ```
+  conda install -c conda-forge lfortran
+  ```
+</details>
+<details><summary><b><a href="https://github.com/akabe/ocaml-jupyter">OCaml Kernel</a></b> (🥉18 ·  ⭐ 190) - An OCaml kernel for Jupyter (IPython) notebook. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/akabe/ocaml-jupyter) (👨‍💻 17 · 🔀 26 · 📥 49K · 📋 66 - 4% open · ⏱️ 07.08.2021):
+
+  ```
+  git clone https://github.com/akabe/ocaml-jupyter
+  ```
+</details>
+<details><summary><b><a href="https://github.com/sassoftware/sas_kernel">SAS Kernel</a></b> (🥉18 ·  ⭐ 180) - A Jupyter kernel for SAS. This opens up all the data manipulation.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/sassoftware/sas_kernel) (👨‍💻 7 · 🔀 70 · 📋 54 - 5% open · ⏱️ 21.07.2021):
+
+  ```
+  git clone https://github.com/sassoftware/sas_kernel
+  ```
+- [PyPi](https://pypi.org/project/sas_kernel) (📥 740 / month · 📦 2 · ⏱️ 13.09.2017):
+  ```
+  pip install sas_kernel
+  ```
+</details>
+<details><summary><b><a href="https://github.com/scijava/scijava-jupyter-kernel">SciJava Kernel</a></b> (🥉18 ·  ⭐ 170) - Write SciJava scripts in Jupyter notebook!. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/scijava/scijava-jupyter-kernel) (👨‍💻 9 · 🔀 43 · 📥 74 · 📋 84 - 16% open · ⏱️ 09.07.2021):
+
+  ```
+  git clone https://github.com/scijava/scijava-jupyter-kernel
+  ```
+- [Conda](https://anaconda.org/conda-forge/scijava-jupyter-kernel) (📥 73K · ⏱️ 03.03.2018):
+  ```
+  conda install -c conda-forge scijava-jupyter-kernel
+  ```
+</details>
+<details><summary><b><a href="https://github.com/Calysto/matlab_kernel">Matlab Kernel</a></b> (🥉17 ·  ⭐ 400 · 💤) - Jupyter Kernel for Matlab. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+
+- [GitHub](https://github.com/Calysto/matlab_kernel) (👨‍💻 17 · 🔀 70 · 📋 120 - 20% open · ⏱️ 09.11.2020):
+
+  ```
+  git clone https://github.com/calysto/matlab_kernel
+  ```
+- [PyPi](https://pypi.org/project/matlab_kernel) (📥 1.3K / month · 📦 1 · ⏱️ 30.11.2018):
+  ```
+  pip install matlab_kernel
+  ```
+</details>
+<details><summary><b><a href="https://github.com/Anaconda-Platform/nb_conda_kernels">nb_conda_kernels</a></b> (🥉17 ·  ⭐ 390 · 💤) - Package for managing conda environment-based kernels.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+
+- [GitHub](https://github.com/Anaconda-Platform/nb_conda_kernels) (👨‍💻 14 · 🔀 50 · 📋 120 - 22% open · ⏱️ 30.11.2020):
+
+  ```
+  git clone https://github.com/Anaconda-Platform/nb_conda_kernels
+  ```
+- [Conda](https://anaconda.org/conda-forge/nb_conda_kernels) (📥 470K · ⏱️ 30.01.2021):
+  ```
+  conda install -c conda-forge nb_conda_kernels
+  ```
+</details>
+<details><summary><b><a href="https://github.com/clojupyter/clojupyter">clojupyter</a></b> (🥉16 ·  ⭐ 700 · 💤) - a Jupyter kernel for Clojure. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/clojupyter/clojupyter) (👨‍💻 23 · 🔀 82 · 📋 85 - 20% open · ⏱️ 25.01.2021):
+
+  ```
+  git clone https://github.com/clojupyter/clojupyter
+  ```
+- [Conda](https://anaconda.org/simplect/clojupyter) (📥 2.4K · ⏱️ 02.03.2020):
+  ```
+  conda install -c simplect clojupyter
+  ```
+- [Docker Hub](https://hub.docker.com/r/simplect/clojupyter) (📥 300 · ⏱️ 25.04.2019):
+  ```
+  docker pull simplect/clojupyter
+  ```
+</details>
+<details><summary><b><a href="https://github.com/fsprojects/IfSharp">F# Kernel</a></b> (🥉16 ·  ⭐ 430 · 💤) - F# for Jupyter Notebooks. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+
+- [GitHub](https://github.com/fsprojects/IfSharp) (👨‍💻 27 · 🔀 69 · 📥 5.3K · 📋 140 - 9% open · ⏱️ 10.09.2020):
+
+  ```
+  git clone https://github.com/fsprojects/IfSharp
+  ```
+- [Docker Hub](https://hub.docker.com/r/fsprojects/ifsharp) (📥 630 · ⏱️ 26.03.2019):
+  ```
+  docker pull fsprojects/ifsharp
+  ```
+</details>
+<details><summary><b><a href="https://github.com/WolframResearch/WolframLanguageForJupyter">Wolfram Kernel</a></b> (🥉15 ·  ⭐ 600 · 💤) - Wolfram Language kernel for Jupyter notebooks. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/WolframResearch/WolframLanguageForJupyter) (👨‍💻 6 · 🔀 74 · 📥 4K · 📋 79 - 22% open · ⏱️ 15.12.2020):
+
+  ```
+  git clone https://github.com/WolframResearch/WolframLanguageForJupyter
+  ```
+</details>
+<details><summary><b><a href="https://github.com/NII-cloud-operation/sshkernel">SSH Kernel</a></b> (🥉15 ·  ⭐ 45 · 💤) - SSH Kernel for Jupyter. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+
+- [GitHub](https://github.com/NII-cloud-operation/sshkernel) (👨‍💻 4 · 🔀 9 · 📦 5 · 📋 7 - 14% open · ⏱️ 28.09.2020):
+
+  ```
+  git clone https://github.com/NII-cloud-operation/sshkernel
+  ```
+- [PyPi](https://pypi.org/project/sshkernel) (📥 160 / month · ⏱️ 28.09.2020):
+  ```
+  pip install sshkernel
+  ```
+</details>
+<details><summary><b><a href="https://github.com/pprzetacznik/IElixir">IElixir</a></b> (🥉14 ·  ⭐ 330) - Jupyter's kernel for Elixir programming language. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/pprzetacznik/IElixir) (👨‍💻 18 · 🔀 39 · 📋 30 - 33% open · ⏱️ 20.03.2021):
+
+  ```
+  git clone https://github.com/pprzetacznik/IElixir
+  ```
+- [Docker Hub](https://hub.docker.com/r/pprzetacznik/ielixir) (📥 290 · ⭐ 1 · ⏱️ 20.03.2021):
+  ```
+  docker pull pprzetacznik/ielixir
+  ```
+</details>
+<details><summary><b><a href="https://github.com/minrk/allthekernels">allthekernels</a></b> (🥉14 ·  ⭐ 65 · 💤) - A multiplexer kernel for Jupyter. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/minrk/allthekernels) (👨‍💻 6 · 🔀 10 · 📦 3 · 📋 10 - 40% open · ⏱️ 14.12.2020):
+
+  ```
+  git clone https://github.com/minrk/allthekernels
+  ```
+- [PyPi](https://pypi.org/project/allthekernels) (📥 91 / month · ⏱️ 10.12.2019):
+  ```
+  pip install allthekernels
+  ```
+- [Conda](https://anaconda.org/conda-forge/allthekernels) (📥 2.8K · ⏱️ 09.01.2020):
+  ```
+  conda install -c conda-forge allthekernels
+  ```
+</details>
+<details><summary><b><a href="https://github.com/jupyter-xeus/xeus-sqlite">xeus-sqlite</a></b> (🥉10 ·  ⭐ 120) - Jupyter kernel for SQLite. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+
+- [GitHub](https://github.com/jupyter-xeus/xeus-sqlite) (👨‍💻 11 · 🔀 20 · 📋 39 - 48% open · ⏱️ 13.04.2021):
+
+  ```
+  git clone https://github.com/jupyter-xeus/xeus-sqlite
+  ```
+</details>
+<details><summary>Show 10 hidden projects...</summary>
+
+- <b><a href="https://github.com/vericast/spylon-kernel">Spylon Kernel</a></b> (🥈20 ·  ⭐ 140 · 💀) - Jupyter kernel for scala and spark. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+- <b><a href="https://github.com/Calysto/octave_kernel">Octave Kernel</a></b> (🥈19 ·  ⭐ 380 · 💀) - An Octave kernel for IPython. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+- <b><a href="https://github.com/takluyver/bash_kernel">Bash Kernel</a></b> (🥉18 ·  ⭐ 560 · 💀) - A bash kernel for IPython. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+- <b><a href="https://github.com/SpencerPark/IJava">IJava</a></b> (🥉16 ·  ⭐ 690 · 💀) - A Jupyter kernel for executing Java code. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/Cadair/jupyter_environment_kernels">Kernel Detection</a></b> (🥉15 ·  ⭐ 140 · 💀) - An Jupyter plugin to enable the automatic detection of.. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code>
+- <b><a href="https://github.com/yunabe/lgo">lgo</a></b> (🥉13 ·  ⭐ 2.2K · 💀) - Interactive Go programming with Jupyter. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+- <b><a href="https://github.com/tdaff/remote_ikernel">remote_ikernel</a></b> (🥉13 ·  ⭐ 6 · 💤) - All your Jupyter kernels, on all your machines, in one place. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code>
+- <b><a href="https://github.com/zabirauf/icsharp">ICSharp</a></b> (🥉11 ·  ⭐ 260 · 💀) - C# kernel for Jupyter. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/bernhard-42/ssh_ipykernel">ssh_ipykernel</a></b> (🥉7 ·  ⭐ 4) - A remote jupyter kernel via ssh. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/nteract/kernel-relay">kernel-relay</a></b> (🥉6 ·  ⭐ 10 · 💀) - kernel-relay is a GraphQL service for interfacing with.. <code>❗Unlicensed</code>
+</details>
+<br>
