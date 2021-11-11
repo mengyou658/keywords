@@ -70,8 +70,10 @@
 26. [Async binding for Tungstenite, the Lightweight stream-based WebSocket implementation https://github.com/sdroege/async-tungstenite](https://github.com/sdroege/async-tungstenite)
 27. [orm https://github.com/SeaQL/sea-orm](https://github.com/SeaQL/sea-orm)
 28. [A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀 https://github.com/38/plotters](https://github.com/38/plotters)
-29. 
-30. 
+29. [Artichoke is a Ruby made with Rust Artichoke 是一个由 rust 开发的 ruby 实现，可以将 ruby 代码编译至 WebAssembly https://github.com/artichoke/artichoke](https://github.com/artichoke/artichoke)
+30. [regexm 是一个用于对正则表达式进行模式匹配的库 https://github.com/TaKO8Ki/regexm](https://github.com/TaKO8Ki/regexm)
+31. [slotmap 提供了三种 map 的实现, SlotMap, HopSlotMap 和 DenseSlotMap.增加,删除,查询均为O(1)复杂度,而且额外开销非常低. 非常适合存储需要稳定和安全引用的 objects, 例如游戏中的 entities, graph 中的 nodesSlotmap data structure for Rust https://github.com/orlp/slotmap](https://github.com/orlp/slotmap)
+32. 
 
 ### 完整项目/示例/demo/代码片段
 
@@ -103,7 +105,8 @@
 
 1. [3D and 2D game engine written in Rust https://github.com/rg3dengine/rg3d](https://github.com/rg3dengine/rg3d)
 2. [Rust bindings for GDNative https://github.com/godot-rust/godot-rust](https://github.com/godot-rust/godot-rust)
-3.
+3. [2D and 3D physics engines focused on performance https://github.com/dimforge/rapier](https://github.com/dimforge/rapier)
+4. 
 
 ### WebAssembly wasm
 
