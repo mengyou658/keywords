@@ -2,8 +2,16 @@
 
 ### 现成列表
 
-1. [https://github.com/rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-1.
+1. [RustMagazine 中文月刊https://rustmagazine.github.io/rust_magazine_2021](https://rustmagazine.github.io/rust_magazine_2021)
+2. [https://github.com/rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+3. 
+4. 
+
+### 最佳实践
+
+1. [orm 目前最好使用，sea-orm，它是基于 sqlx 实现的 ORM 框架，号称要实现 Rust 版本 的 ActiveRecord Ruby on Rails ](https://github.com/SeaQL/sea-orm)
+2. [国内 Rust 社区小伙伴 @zhuxiujia 也实现了一个异步 ORM 框架 rbatis。Rbatis 并不是基于 sqlx 实现的，它的灵感来自于 Java 的 ORM 框架 Mybatis。Rbatis 提供了一些内置插件，可以针对一些常用场景增加开发效率。](https://github.com/rbatis/rbatis)
+3. 
 
 ### cheatsheet 备忘录
 
@@ -73,7 +81,18 @@
 29. [Artichoke is a Ruby made with Rust Artichoke 是一个由 rust 开发的 ruby 实现，可以将 ruby 代码编译至 WebAssembly https://github.com/artichoke/artichoke](https://github.com/artichoke/artichoke)
 30. [regexm 是一个用于对正则表达式进行模式匹配的库 https://github.com/TaKO8Ki/regexm](https://github.com/TaKO8Ki/regexm)
 31. [slotmap 提供了三种 map 的实现, SlotMap, HopSlotMap 和 DenseSlotMap.增加,删除,查询均为O(1)复杂度,而且额外开销非常低. 非常适合存储需要稳定和安全引用的 objects, 例如游戏中的 entities, graph 中的 nodesSlotmap data structure for Rust https://github.com/orlp/slotmap](https://github.com/orlp/slotmap)
-32. 
+32. [SwapQueue： 一个高度优化和轻量级的crossbeam::deque替代品 一个无锁线程拥有的队列，其中任务由线程安全窃取者通过缓冲区交换而不是任务弹出来完成。 只为通过缓冲区交换来获取整个队列这一单一的使用情况而设计。通过放弃弹出单个任务的能力，可以做出一个更适合于完全批处理的数据结构。https://github.com/Bajix/swap-queue-rs](https://github.com/Bajix/swap-queue-rs)
+33. [redact: 构建去中心化的、端到端加密的网站的工具https://github.com/pauwels-labs/redact-client值得一提的是，这个项目并没有用到区块链，但是其号称实现了零信任 zero-trust，相关领域的同学可以关注一下。](https://github.com/pauwels-labs/redact-client)
+34. [lnx: 一个基于 tantivy 的搜索引擎https://github.com/lnx-search/lnx它是 MeiliSearch 和 ElasticSearch 的竞品。其基于 tokio-rs，hyper 和 tantivy 进行开发。提供 REST 接口。现已发布 v0.6 版。持续关注](https://github.com/lnx-search/lnx)
+35. [rs-merkle：一个用Rust编写的高级散列树库 rs-merkle是一个高级的Rust merkle树库。基本功能包括构建Merkle树、创建和验证单个和多个元素的Merkle证明，即多重证明。高级功能包括对树进行事务性更改，并回滚到以前提交的任何树状态，类似于Git。 该库有两个主要结构。第一个是MerkleTree，它构建了一棵树，可用于验证数据完整性并生成Merkle证明。第二种是MerkleProof，可用于验证集合中是否包含项目。 这个库是高度可定制的。哈希算法和树的构建方式可以通过Hasher trait进行配置](https://github.com/antouhou/rs-merkle)
+36. [Rust 的动态类型 dyn_struct 这个库可以安全地初始化动态大小类型 (DST)](https://github.com/nolanderc/dyn_struct)
+37. [elasticsearch-dsl-rs - 用 Rust 写就的 Elasticsearch DSL 不依赖 elasticsearch-rs，可以作为独立库来方便 HTTP 客户端调用 ElasticSearch](https://github.com/vinted/elasticsearch-dsl-rs)
+38. [Infinitree 嵌入式数据库 具有 3 层缓存的可扩展，加密嵌入式数据库](https://github.com/symmetree-labs/infinitree)
+39. [Rust Web Local Storage API这里有一个 Rust 实现的 Web LocalStorage API，用于非浏览器环境。](https://github.com/richardanaya/web-local-storage-api)
+40. [Cooptex -无死锁 Mutexes 如果Mutex:：lock调用可能会死锁，它将返回一个Err(Retry)，请求调用方删除所有持有的锁并再次尝试获取它们。这由retry_循环函数处理](https://github.com/shelbyd/cooptex)
+41. [ruffle: Rust 实现的 Adob​​e Flash Player 模拟器](https://github.com/ruffle-rs/ruffle)
+42. [poem ]()
+43. 
 
 ### 完整项目/示例/demo/代码片段
 
