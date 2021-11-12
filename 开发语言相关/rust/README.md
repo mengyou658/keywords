@@ -8,10 +8,13 @@
 4. 
 
 ### 最佳实践
-
+- orm
 1. [orm 目前最好使用，sea-orm，它是基于 sqlx 实现的 ORM 框架，号称要实现 Rust 版本 的 ActiveRecord Ruby on Rails ](https://github.com/SeaQL/sea-orm)
 2. [国内 Rust 社区小伙伴 @zhuxiujia 也实现了一个异步 ORM 框架 rbatis。Rbatis 并不是基于 sqlx 实现的，它的灵感来自于 Java 的 ORM 框架 Mybatis。Rbatis 提供了一些内置插件，可以针对一些常用场景增加开发效率。](https://github.com/rbatis/rbatis)
-3. 
+- web 
+3. [A full-featured and easy-to-use web framework with the Rust programming language.](https://github.com/poem-web/poem)
+4. [https://github.com/actix/actix-web](https://github.com/actix/actix-web)
+5. 
 
 ### cheatsheet 备忘录
 
