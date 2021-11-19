@@ -990,12 +990,12 @@ Flink使用了流处理的内核，同时提供了流处理和批处理的接口
 
 1. 一个用于实验和教学目的的操作系统，从零开始实现
    [https://github.com/CasterWx/AntzOS](https://github.com/CasterWx/AntzOS)
-1. Linux 内核揭密
+2. Linux 内核揭密
    [https://github.com/MintCN/linux-insides-zh](https://github.com/MintCN/linux-insides-zh)
-1. Container Runtime Sandbox go语言实现的沙箱,实现了linux大部分的功能
+3. Container Runtime Sandbox go语言实现的沙箱,实现了linux大部分的功能
    [https://github.com/google/gvisor](https://github.com/google/gvisor)
-1. 使用rust 从头开发一个操作系统
-   [https://github.com/phil-opp/blog_os](https://github.com/phil-opp/blog_os)
+4. 使用rust 从头开发一个操作系统 [https://github.com/phil-opp/blog_os](https://github.com/phil-opp/blog_os)
+5. [https://github.com/sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)
 
 # 内存问题分析工具
 
