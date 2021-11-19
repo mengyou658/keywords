@@ -280,3 +280,10 @@ quercus-php
 
 1. [SpringBoot 相关漏洞学习资料，利用方法和技巧合集，黑盒安全评估 check list https://github.com/LandGrey/SpringBootVulExploit](https://github.com/LandGrey/SpringBootVulExploit)
 1. [shiro 漏洞扫描 渗透测试 https://github.com/j1anFen/shiro_attack](https://github.com/j1anFen/shiro_attack)
+
+
+### mybatis-plus mybatisplus 扩展
+1. [https://gitee.com/tangzc/mybatis-plus-ext](https://gitee.com/tangzc/mybatis-plus-ext)
+2. [https://gitee.com/rayson517/eladmin-plus](https://gitee.com/rayson517/eladmin-plus)
+3. [https://gitee.com/best_handsome/mybatis-plus-join](https://gitee.com/best_handsome/mybatis-plus-join)
+4. [https://gitee.com/JavaLionLi/RuoYi-Vue-Plus](https://gitee.com/JavaLionLi/RuoYi-Vue-Plus)
