@@ -287,74 +287,70 @@
 58. 将图片转成卡通图像
     [https://github.com/minivision-ai/photo2cartoon](https://github.com/minivision-ai/photo2cartoon)
 59. [这个库是浏览器的 Python 运行时，通过 WebAssembly 脚本让网页运行 Python 代码，可以通过它加载一些人工智能或者科学计算的库 https://github.com/pyodide/pyodide](https://github.com/pyodide/pyodide)
-60. 
-中文文本纠错工具。音似、形似错字（或变体字）纠正，可用于中文拼音、笔画输入法的错误纠正。依据语言模型检测错别字位置，通过拼音音似特征、笔画五笔编辑距离特征及语言模型困惑度特征纠正错别字。解决了在文本识别模型处理后，对识别结果中个别词汇错误进行纠错
-[https://github.com/shibing624/pycorrector](https://github.com/shibing624/pycorrector)
-1. comma.ai 开源的自动驾驶系统
-   [https://github.com/commaai/openpilot](https://github.com/commaai/openpilot)
-1. 基于卷积神经网络和监督学习的开源库，可以实现人的面部、躯干和四肢甚至手指的跟踪。适用于多人，且标记准确
-   [https://github.com/CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
-1. “Bye Bye TPU”，4 个 GPU 就能训练“史上最强” BigGAN！只需 4-8 个 GPU 即可训练，摆脱了算力束缚
-   [https://github.com/ajbrock/BigGAN-PyTorch](https://github.com/ajbrock/BigGAN-PyTorch)
-1. OpenAI 发布的 15 亿参数量通用语言模型 GPT-2，迄今最大模型！展示了一种构建语言处理系统的潜在方式，即根据自然发生的演示学习执行任务。
-   [https://github.com/openai/gpt-2](https://github.com/openai/gpt-2)
-1. OpenAI 发布的 15 亿参数量通用语言模型 GPT-3，迄今最大模型！展示了一种构建语言处理系统的潜在方式，即根据自然发生的演示学习执行任务。
-   [https://github.com/openai/gpt-3](https://github.com/openai/gpt-3)
-1. 该项目是论文 S3FD:Single Shot Scale-invariant Face Detector 的 pytorch 复现版本。S3FD 目前在 FDDB
-   的评测中排在前几位，属于精度较高的人脸检测方法。论文主要解决人脸尺度问题，进一步提升对小脸的检测
-   [https://github.com/yxlijun/S3FD.pytorch](https://github.com/yxlijun/S3FD.pytorch)
-1. The fastai deep learning library, plus lessons and tutorials
-   [https://github.com/fastai/fastai](https://github.com/fastai/fastai)
-1. 图片转3d模型 PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization (CVPR 2020)
-   [https://github.com/facebookresearch/pifuhd](https://github.com/facebookresearch/pifuhd)
-1. 根据模糊图片，生成虚构面孔 我们已经注意到很多人担心PULSE将用于识别脸部模糊的个人。我们要强调的是，这是不可能的-PULSE制作不存在的人的虚构面孔，不应将其与真实的人混淆。它不会帮助识别或重建原始图像
-   [https://github.com/adamian98/pulse](https://github.com/adamian98/pulse)
-1. [https://github.com/NathanUA/U-2-Net](https://github.com/NathanUA/U-2-Net)
-1.
-1.
-1.
-1.
-1.
+60. 中文文本纠错工具。音似、形似错字（或变体字）纠正，可用于中文拼音、笔画输入法的错误纠正。依据语言模型检测错别字位置，通过拼音音似特征、笔画五笔编辑距离特征及语言模型困惑度特征纠正错别字。解决了在文本识别模型处理后，对识别结果中个别词汇错误进行纠错[https://github.com/shibing624/pycorrector](https://github.com/shibing624/pycorrector)
+61. comma.ai 开源的自动驾驶系统
+    [https://github.com/commaai/openpilot](https://github.com/commaai/openpilot)
+62. 基于卷积神经网络和监督学习的开源库，可以实现人的面部、躯干和四肢甚至手指的跟踪。适用于多人，且标记准确
+    [https://github.com/CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+63. “Bye Bye TPU”，4 个 GPU 就能训练“史上最强” BigGAN！只需 4-8 个 GPU 即可训练，摆脱了算力束缚
+    [https://github.com/ajbrock/BigGAN-PyTorch](https://github.com/ajbrock/BigGAN-PyTorch)
+64. OpenAI 发布的 15 亿参数量通用语言模型 GPT-2，迄今最大模型！展示了一种构建语言处理系统的潜在方式，即根据自然发生的演示学习执行任务。
+    [https://github.com/openai/gpt-2](https://github.com/openai/gpt-2)
+65. OpenAI 发布的 15 亿参数量通用语言模型 GPT-3，迄今最大模型！展示了一种构建语言处理系统的潜在方式，即根据自然发生的演示学习执行任务。
+    [https://github.com/openai/gpt-3](https://github.com/openai/gpt-3)
+66. 该项目是论文 S3FD:Single Shot Scale-invariant Face Detector 的 pytorch 复现版本。S3FD 目前在 FDDB
+    的评测中排在前几位，属于精度较高的人脸检测方法。论文主要解决人脸尺度问题，进一步提升对小脸的检测
+    [https://github.com/yxlijun/S3FD.pytorch](https://github.com/yxlijun/S3FD.pytorch)
+67. The fastai deep learning library, plus lessons and tutorials
+    [https://github.com/fastai/fastai](https://github.com/fastai/fastai)
+68. 图片转3d模型 PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization (CVPR 2020)
+    [https://github.com/facebookresearch/pifuhd](https://github.com/facebookresearch/pifuhd)
+69. 根据模糊图片，生成虚构面孔 我们已经注意到很多人担心PULSE将用于识别脸部模糊的个人。我们要强调的是，这是不可能的-PULSE制作不存在的人的虚构面孔，不应将其与真实的人混淆。它不会帮助识别或重建原始图像
+    [https://github.com/adamian98/pulse](https://github.com/adamian98/pulse)
+70. [https://github.com/NathanUA/U-2-Net](https://github.com/NathanUA/U-2-Net)
+71. 
+72. 
+73. 
+74. 
+75. 
 
 ### 现成解决方案/完整项目/示例/demo/代码片段
 
-1. CV算法复现
-   [https://github.com/bbaibowen/computer-vision](https://github.com/bbaibowen/computer-vision)
-1. MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for
-   mobile, edge, cloud and the web. 现成的解决方案：包括，人脸检测，
-
-* [Face Detection人脸识别](mediapipe/docs/face_detection_mobile_gpu.md) [(web demo)](https://viz.mediapipe.dev/runner/demos/face_detection/face_detection.html)
-* [Face Mesh人脸合成](mediapipe/docs/face_mesh_mobile_gpu.md)
-* [Hand Detection手识别](mediapipe/docs/hand_detection_mobile_gpu.md)
-* [Hand Tracking手追踪](mediapipe/docs/hand_tracking_mobile_gpu.md) [(web demo)](https://viz.mediapipe.dev/runner/demos/hand_tracking/hand_tracking.html)
-* [Multi-hand Tracking多手追踪](mediapipe/docs/multi_hand_tracking_mobile_gpu.md)
-* [Hair Segmentation头发分割](mediapipe/docs/hair_segmentation_mobile_gpu.md) [(web demo)](https://viz.mediapipe.dev/runner/demos/hair_segmentation/hair_segmentation.html)
-* [Object Detection物体识别](mediapipe/docs/object_detection_mobile_gpu.md)
-* [Object Detection and Tracking物体识别和追踪](mediapipe/docs/object_tracking_mobile_gpu.md)
-* [Objectron: 3D Object Detection and Tracking3D对象检测和跟踪](mediapipe/docs/objectron_mobile_gpu.md)
-* [AutoFlip: Intelligent Video Reframing智能视频重帧](mediapipe/docs/autoflip.md)
-* [KNIFT: Template Matching with Neural Image Features具有神经图像特征的模板匹配](mediapipe/docs/template_matching_mobile_cpu.md)
-
-![face_detection](resources/mediapipe/face_detection_android_gpu_small.gif)
-![face_mesh](resources/mediapipe/face_mesh_android_gpu_small.gif)
-![hand_tracking](resources/mediapipe/hand_tracking_android_gpu_small.gif)
-![multi-hand_tracking](resources/mediapipe/multi_hand_tracking_3d_android_gpu_small.gif)
-![hair_segmentation](resources/mediapipe/hair_segmentation_android_gpu_small.gif)
-![object_detection](resources/mediapipe/object_detection_android_gpu_small.gif)
-![object_tracking](resources/mediapipe/object_tracking_android_gpu_small.gif)
-![objectron_shoes](resources/mediapipe/objectron_shoe_android_gpu_small.gif)
-![objectron_chair](resources/mediapipe/objectron_chair_android_gpu_small.gif)
-![template_matching](resources/mediapipe/template_matching_android_cpu_small.gif)
-[https://github.com/google/mediapipe](https://github.com/google/mediapipe)
-
-1. [https://github.com/ghostwwl/machine_learning机器学习相关的呢! 里面所有自有代码BSD协议放出!](https://github.com/ghostwwl/machine_learning)
-1. [https://github.com/fuyanzhang/aicar 应该还没有完善 基于树莓派做的一些玩具，主要为了学习机器学习相关知识 这里是一些过程代码及测试代码。随手一写，并无特别的设计](https://github.com/fuyanzhang/aicar)
-1. [https://github.com/tower111/binary_volnerablity_mining基于机器学习的二进制文件漏洞挖掘项目的个人文档原项目地址https://github.com/lucamassarelli/Unsupervised-Features-Learning-For-Binary-Similarity这里对源代码以及论文进行了一些分析](https://github.com/tower111/binary_volnerablity_mining)
-1. [要快速地进行模型在移动设备上的效果验证https://github.com/peng-zhihui/DeepVision](https://github.com/peng-zhihui/DeepVision)
-1.
-1.
-1.
-1.
+1. CV算法复现[https://github.com/bbaibowen/computer-vision](https://github.com/bbaibowen/computer-vision)
+2. MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for
+3. mobile, edge, cloud and the web. 现成的解决方案：包括，人脸检测，
+   * [Face Detection人脸识别](mediapipe/docs/face_detection_mobile_gpu.md) [(web demo)](https://viz.mediapipe.dev/runner/demos/face_detection/face_detection.html)
+   * [Face Mesh人脸合成](mediapipe/docs/face_mesh_mobile_gpu.md)
+   * [Hand Detection手识别](mediapipe/docs/hand_detection_mobile_gpu.md)
+   * [Hand Tracking手追踪](mediapipe/docs/hand_tracking_mobile_gpu.md) [(web demo)](https://viz.mediapipe.dev/runner/demos/hand_tracking/hand_tracking.html)
+   * [Multi-hand Tracking多手追踪](mediapipe/docs/multi_hand_tracking_mobile_gpu.md)
+   * [Hair Segmentation头发分割](mediapipe/docs/hair_segmentation_mobile_gpu.md) [(web demo)](https://viz.mediapipe.dev/runner/demos/hair_segmentation/hair_segmentation.html)
+   * [Object Detection物体识别](mediapipe/docs/object_detection_mobile_gpu.md)
+   * [Object Detection and Tracking物体识别和追踪](mediapipe/docs/object_tracking_mobile_gpu.md)
+   * [Objectron: 3D Object Detection and Tracking3D对象检测和跟踪](mediapipe/docs/objectron_mobile_gpu.md)
+   * [AutoFlip: Intelligent Video Reframing智能视频重帧](mediapipe/docs/autoflip.md)
+   * [KNIFT: Template Matching with Neural Image Features具有神经图像特征的模板匹配](mediapipe/docs/template_matching_mobile_cpu.md)
+   ![face_detection](resources/mediapipe/face_detection_android_gpu_small.gif)
+   ![face_mesh](resources/mediapipe/face_mesh_android_gpu_small.gif)
+   ![hand_tracking](resources/mediapipe/hand_tracking_android_gpu_small.gif)
+   ![multi-hand_tracking](resources/mediapipe/multi_hand_tracking_3d_android_gpu_small.gif)
+   ![hair_segmentation](resources/mediapipe/hair_segmentation_android_gpu_small.gif)
+   ![object_detection](resources/mediapipe/object_detection_android_gpu_small.gif)
+   ![object_tracking](resources/mediapipe/object_tracking_android_gpu_small.gif)
+   ![objectron_shoes](resources/mediapipe/objectron_shoe_android_gpu_small.gif)
+   ![objectron_chair](resources/mediapipe/objectron_chair_android_gpu_small.gif)
+   ![template_matching](resources/mediapipe/template_matching_android_cpu_small.gif)
+   
+4. [https://github.com/google/mediapipe](https://github.com/google/mediapipe)
+5. [https://github.com/ghostwwl/machine_learning机器学习相关的呢! 里面所有自有代码BSD协议放出!](https://github.com/ghostwwl/machine_learning)
+6. [https://github.com/fuyanzhang/aicar 应该还没有完善 基于树莓派做的一些玩具，主要为了学习机器学习相关知识 这里是一些过程代码及测试代码。随手一写，并无特别的设计](https://github.com/fuyanzhang/aicar)
+7. [https://github.com/tower111/binary_volnerablity_mining基于机器学习的二进制文件漏洞挖掘项目的个人文档原项目地址https://github.com/lucamassarelli/Unsupervised-Features-Learning-For-Binary-Similarity这里对源代码以及论文进行了一些分析](https://github.com/tower111/binary_volnerablity_mining)
+8. [要快速地进行模型在移动设备上的效果验证https://github.com/peng-zhihui/DeepVision](https://github.com/peng-zhihui/DeepVision)
+9. [ADOP: Approximate Differentiable One-Pixel Point Rendering https://github.com/darglein/ADOP](https://github.com/darglein/ADOP)
+10. 
+11. 
+12. 
+13. 
 
 ### 测试
 
