@@ -94,7 +94,7 @@
 39. [Rust Web Local Storage API这里有一个 Rust 实现的 Web LocalStorage API，用于非浏览器环境。](https://github.com/richardanaya/web-local-storage-api)
 40. [Cooptex -无死锁 Mutexes 如果Mutex:：lock调用可能会死锁，它将返回一个Err(Retry)，请求调用方删除所有持有的锁并再次尝试获取它们。这由retry_循环函数处理](https://github.com/shelbyd/cooptex)
 41. [ruffle: Rust 实现的 Adob​​e Flash Player 模拟器](https://github.com/ruffle-rs/ruffle)
-42. [poem ]()
+42. [elfshaker 是一个低占用空间、高性能的版本控制系统，针对二进制文件进行了微调 elfshaker 是一个低占用空间、高性能的版本控制系统，针对二进制文件进行了微调 有效地存储二进制对象https://github.com/elfshaker/elfshaker](https://github.com/elfshaker/elfshaker)
 43. 
 
 ### 完整项目/示例/demo/代码片段

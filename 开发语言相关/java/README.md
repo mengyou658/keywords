@@ -57,31 +57,32 @@
 
 1. The simplest, fastest way to get business intelligence and analytics to everyone in your company 数据分析工具
    [https://github.com/mengyou658/metabase](https://github.com/mengyou658/metabase)
-1. Neo4j is the world’s leading Graph Database. (java 图形 数据库)
+2. Neo4j is the world’s leading Graph Database. (java 图形 数据库)
    [https://github.com/mengyou658/neo4j](https://github.com/mengyou658/neo4j)
-1. 使用spring
+3. 使用spring
    boot打造文件文档在线预览项目解决方案，支持doc、docx、ppt、pptx、xls、xlsx、zip、rar、以及众多类文本如txt、html、xml、java、properties、mp3、mp4、sql、js、md、json、conf、ini、vue、php、py、bat、gitignore等文件在线预览 http://file.keking.cn/
    [https://github.com/mengyou658/kkFileView](https://github.com/mengyou658/kkFileView)
-1. 配置文件读取库
+4. 配置文件读取库
    [https://github.com/lightbend/config](https://github.com/lightbend/config)
-1. an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native
+5. an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native
    applications https://nacos.io 一个更易于构建云原生应用的动态服务发现、配置管理和服务管理平台
    [https://github.com/alibaba/nacos](https://github.com/alibaba/nacos)
-1. 一款用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台
+6. 一款用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台
    [https://github.com/b3log/symphony](https://github.com/b3log/symphony)
-1. Jib 是 Google 开发的可以直接构建 Java 应用的 Docker 和 OCI 镜像的类库，以 Maven 和 Gradle 插件形式提供。 通过 Jib，Java 开发者可以使用他们熟悉的 Java 工具来构建容器。Jib
+7. Jib 是 Google 开发的可以直接构建 Java 应用的 Docker 和 OCI 镜像的类库，以 Maven 和 Gradle 插件形式提供。 通过 Jib，Java 开发者可以使用他们熟悉的 Java 工具来构建容器。Jib
    是一个快速而简单的容器镜像构建工具，它负责处理将应用程序打包到容器镜像中所需的所有步骤。它不需要你编写 Dockerfile 或安装 Docker，而且可以直接集成到 Maven 和 Gradle中 ——
    只需要将插件添加到构建中，就可以立即将 Java 应用程序容器化。
    [https://github.com/GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib)
-1. 一个 Java Spring 项目的文档处理器，可以自动生成文档。 借鉴swagger
+8. 一个 Java Spring 项目的文档处理器，可以自动生成文档。 借鉴swagger
    [https://github.com/liuanxin/api-document](https://github.com/liuanxin/api-document)
-1. Java工具类 类似common
+9. Java工具类 类似common
    [https://github.com/SenhLinsh/Utils-Everywhere](https://github.com/SenhLinsh/Utils-Everywhere)
-1. Disruptor 是线程内通信框架，用于线程里共享数据。LMAX 创建Disruptor作为可靠消息架构的一部分并将它设计成一种在不同组件中共享数据非常快的方法
-   [https://github.com/LMAX-Exchange/disruptor](https://github.com/LMAX-Exchange/disruptor)
-1. Easy Scheduler是一个分布式工作流任务调度系统
-   [https://github.com/analysys/EasyScheduler](https://github.com/analysys/EasyScheduler)
-1. [这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...https://github.com/dromara/sa-token](https://github.com/dromara/sa-token)
+10. Disruptor 是线程内通信框架，用于线程里共享数据。LMAX 创建Disruptor作为可靠消息架构的一部分并将它设计成一种在不同组件中共享数据非常快的方法
+    [https://github.com/LMAX-Exchange/disruptor](https://github.com/LMAX-Exchange/disruptor)
+11. Easy Scheduler是一个分布式工作流任务调度系统
+    [https://github.com/analysys/EasyScheduler](https://github.com/analysys/EasyScheduler)
+12. [这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...https://github.com/dromara/sa-token](https://github.com/dromara/sa-token)
+13. [新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。https://github.com/ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow)
 
 ###### 微服务 动态服务发现、配置管理和服务管理平台 微服务配置 分布式配置中心
 
