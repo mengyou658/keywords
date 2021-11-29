@@ -138,3 +138,5 @@
 19. [Matplotlib中文教程 https://github.com/datawhalechina/fantastic-matplotlib](https://github.com/datawhalechina/fantastic-matplotlib)
 20. [动手学数据分析 https://github.com/datawhalechina/hands-on-data-analysis](https://github.com/datawhalechina/hands-on-data-analysis)
 21. [采集|免费|优质|的机场订阅链接；科学上网，从娃娃抓起！https://github.com/QIN2DIM/V2RayCloudSpider](https://github.com/QIN2DIM/V2RayCloudSpider)
+22. [一键ThinkPHP漏洞检测 https://github.com/Lucifer1993/TPscan](https://github.com/Lucifer1993/TPscan)
+23. 
