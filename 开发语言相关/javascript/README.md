@@ -290,8 +290,9 @@
 106. [Excel 公式的 JS 版，目前有300多个公式。同时，这个库也提供数据操作功能，可以用作电子表格的后端 https://github.com/handsontable/hyperformula](https://github.com/handsontable/hyperformula)
 107. [UAParser.js - Detect Browser, Engine, OS, CPU, and Device type/model from User-Agent data. Supports browser & node.js environment. https://github.com/faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js)
 108. [在线文档编辑 js库 https://github.com/yjs/yjs](https://github.com/yjs/yjs)
-109. 
+109. [在线文档编辑 js库 类似yjs 使用rust wasm 比yjs更快 https://github.com/josephg/diamond-types](https://github.com/josephg/diamond-types)
 110. 
+111. 
 
 ##### worker webworker web worker child process child_process thread node electron
 
