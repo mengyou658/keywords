@@ -315,10 +315,10 @@ Hilo，一套HTML5跨终端的互动游戏解决方案。Hilo支持了多届淘�
 
 # admin / 快速开发 方案
 
-1. [推荐1 go ruoyi-vue 多租户 gin （go-admin 整体封装风格因为动态数据源，导致orm每次都得写初始化 代码感觉写得会累死每一个方法都要写db初始化，log初始化，service变量设置） https://github.com/go-admin-team/go-admin](https://github.com/go-admin-team/go-admin)
-1. [推荐1 go ruoyi-vue 都包含工作流 goframe （gfast数据查询得自己拼接sql，哭gf得orm就是得自己拼接sql） https://gitee.com/tiger1103/gfast](https://gitee.com/tiger1103/gfast)
+1. [推荐1 go 都包含工作流 gin https://github.com/flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)
+1. [推荐2 go ruoyi-vue 多租户 gin （go-admin 整体封装风格因为动态数据源，导致orm每次都得写初始化 代码感觉写得会累死每一个方法都要写db初始化，log初始化，service变量设置） https://github.com/go-admin-team/go-admin](https://github.com/go-admin-team/go-admin)
+1. [推荐2 go ruoyi-vue 都包含工作流 goframe （gfast数据查询得自己拼接sql，哭gf得orm就是得自己拼接sql） https://gitee.com/tiger1103/gfast](https://gitee.com/tiger1103/gfast)
 1. [推荐2 go 都包含工作流 goframe https://github.com/flipped-aurora/gf-vue-admin](https://github.com/flipped-aurora/gf-vue-admin)
-1. [推荐2 go 都包含工作流 gin https://github.com/flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)
 1. [推荐3 go ruoyi-vue https://github.com/zeroing-zy1/yjgo](https://github.com/zeroing-zy1/yjgo)
 1. [推荐3 基于 uber/fx 实现依赖注入 https://github.com/RealLiuSha/echo-admin](https://github.com/RealLiuSha/echo-admin)
 1. [推荐1 java https://gitee.com/y_project/RuoYi-Vue](https://gitee.com/y_project/RuoYi-Vue)
