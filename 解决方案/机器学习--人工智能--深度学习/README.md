@@ -308,7 +308,7 @@
 69. 根据模糊图片，生成虚构面孔 我们已经注意到很多人担心PULSE将用于识别脸部模糊的个人。我们要强调的是，这是不可能的-PULSE制作不存在的人的虚构面孔，不应将其与真实的人混淆。它不会帮助识别或重建原始图像
     [https://github.com/adamian98/pulse](https://github.com/adamian98/pulse)
 70. [https://github.com/NathanUA/U-2-Net](https://github.com/NathanUA/U-2-Net)
-71. 
+71. [Bagua Speeds up PyTorch https://github.com/BaguaSys/bagua](https://github.com/BaguaSys/bagua)
 72. 
 73. 
 74. 

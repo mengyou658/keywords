@@ -4,7 +4,7 @@
 
 1. [RustMagazine 中文月刊https://rustmagazine.github.io/rust_magazine_2021](https://rustmagazine.github.io/rust_magazine_2021)
 2. [https://github.com/rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-3. 
+3. [rust 语法列表 https://cheats.rs/](https://cheats.rs/)
 4. 
 
 ### 最佳实践
@@ -95,7 +95,9 @@
 40. [Cooptex -无死锁 Mutexes 如果Mutex:：lock调用可能会死锁，它将返回一个Err(Retry)，请求调用方删除所有持有的锁并再次尝试获取它们。这由retry_循环函数处理](https://github.com/shelbyd/cooptex)
 41. [ruffle: Rust 实现的 Adob​​e Flash Player 模拟器](https://github.com/ruffle-rs/ruffle)
 42. [elfshaker 是一个低占用空间、高性能的版本控制系统，针对二进制文件进行了微调 elfshaker 是一个低占用空间、高性能的版本控制系统，针对二进制文件进行了微调 有效地存储二进制对象https://github.com/elfshaker/elfshaker](https://github.com/elfshaker/elfshaker)
-43. 
+43. [Bagua Speeds up PyTorch https://github.com/BaguaSys/bagua](https://github.com/BaguaSys/bagua)
+44. [This repository collects resources for writing clean, idiomatic Rust code https://github.com/mre/idiomatic-rust](https://github.com/mre/idiomatic-rust)
+45. 
 
 ### 完整项目/示例/demo/代码片段
 
