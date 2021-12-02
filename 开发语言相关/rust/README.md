@@ -166,3 +166,11 @@
 4. [Rust ZeroMQ bindings for Tokio https://github.com/cetra3/tmq](https://github.com/cetra3/tmq)
 5. [An RPC framework for Rust with a focus on ease of use https://github.com/google/tarpc](https://github.com/google/tarpc)
 6. 
+
+### 嵌入式开发 
+1. stm32
+   1. https://github.com/stm32-rs 官方rust示例
+   2. https://arewertosyet.com/ rtos 对比，一般选择[RTIC](https://github.com/rtic-rs/cortex-m-rtic)
+   3. 另外embassy and drone no_std executors allow  to provide cooperative scheduling with await syntax
+   4. 嵌入式操作系统 调试打印log [https://github.com/knurling-rs/defmt](https://github.com/knurling-rs/defmt)
+   5. wifi模块http://www.hi-flying.com/
