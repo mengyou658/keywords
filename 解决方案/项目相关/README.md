@@ -1676,3 +1676,9 @@ _Jupyter kernels that run and introspect the user's code in a given language._
 - <b><a href="https://github.com/nteract/kernel-relay">kernel-relay</a></b> (🥉6 ·  ⭐ 10 · 💀) - kernel-relay is a GraphQL service for interfacing with.. <code>❗Unlicensed</code>
 </details>
 <br>
+
+
+### png2svg png 转 svg
+
+1. [效果好点 https://www.npmjs.com/package/png2svg-cli](https://www.npmjs.com/package/png2svg-cli)
+2. [https://github.com/xyproto/png2svg](https://github.com/xyproto/png2svg)
