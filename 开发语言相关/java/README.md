@@ -285,6 +285,7 @@ quercus-php
 
 ### mybatis-plus mybatisplus 扩展
 1. [https://gitee.com/tangzc/mybatis-plus-ext](https://gitee.com/tangzc/mybatis-plus-ext)
-2. [https://gitee.com/rayson517/eladmin-plus](https://gitee.com/rayson517/eladmin-plus)
-3. [https://gitee.com/best_handsome/mybatis-plus-join](https://gitee.com/best_handsome/mybatis-plus-join)
-4. [https://gitee.com/JavaLionLi/RuoYi-Vue-Plus](https://gitee.com/JavaLionLi/RuoYi-Vue-Plus)
+2. [官方版本，目前2021-12-13还没有完善提供，https://gitee.com/baomidou/mybatis-mate-examples](https://gitee.com/baomidou/mybatis-mate-examples)
+3. [https://gitee.com/rayson517/eladmin-plus](https://gitee.com/rayson517/eladmin-plus)
+4. [https://gitee.com/best_handsome/mybatis-plus-join](https://gitee.com/best_handsome/mybatis-plus-join)
+5. [https://gitee.com/JavaLionLi/RuoYi-Vue-Plus](https://gitee.com/JavaLionLi/RuoYi-Vue-Plus)
