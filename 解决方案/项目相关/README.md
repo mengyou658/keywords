@@ -1681,4 +1681,4 @@ _Jupyter kernels that run and introspect the user's code in a given language._
 ### png2svg png 转 svg
 
 1. [效果好点 https://www.npmjs.com/package/png2svg-cli](https://www.npmjs.com/package/png2svg-cli)
-2. [https://github.com/xyproto/png2svg](https://github.com/xyproto/png2svg)
+2. [png2svg -l -o 0101.svg 0101.png 使用-l 参数即可保持更好看，https://github.com/xyproto/png2svg](https://github.com/xyproto/png2svg)
