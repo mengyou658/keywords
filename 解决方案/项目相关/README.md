@@ -1682,3 +1682,11 @@ _Jupyter kernels that run and introspect the user's code in a given language._
 
 1. [效果好点 https://www.npmjs.com/package/png2svg-cli](https://www.npmjs.com/package/png2svg-cli)
 2. [png2svg -l -o 0101.svg 0101.png 使用-l 参数即可保持更好看，https://github.com/xyproto/png2svg](https://github.com/xyproto/png2svg)
+
+### 记账 小程序
+1. https://github.com/LiJiaPing09015314/Bookkeeping
+2. https://github.com/winfyho/PocketBook
+3. https://github.com/GzhiYi/dandan-account
+4. https://github.com/xiaoxinpro/xxjzWeChat
+5. https://github.com/GzhiYi/dandan-account
+6. 
