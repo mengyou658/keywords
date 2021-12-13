@@ -316,10 +316,15 @@ Hilo，一套HTML5跨终端的互动游戏解决方案。Hilo支持了多届淘�
 # admin / 快速开发 方案
 
 1. [推荐1 go ruoyi-vue 多租户 gin （go-admin 整体封装风格因为动态数据源，导致orm每次都得写初始化 代码感觉写得会累死每一个方法都要写db初始化，log初始化，service变量设置） https://github.com/go-admin-team/go-admin](https://github.com/go-admin-team/go-admin)
-   1. 考虑加入 基于 WIRE 的依赖注入 -- 依赖注入本身的作用是解决了各个模块间层级依赖繁琐的初始化过程[https://github.com/google/wire](https://github.com/google/wire)
+   1. 考虑加入依赖注入
+      1. 基于 WIRE 的依赖注入 -- 依赖注入本身的作用是解决了各个模块间层级依赖繁琐的初始化过程，使用示例可以参考https://github.com/LyricTian/gin-admin，[https://github.com/google/wire](https://github.com/google/wire)
+      2. 基于 uber/fx 实现依赖注入 基于https://github.com/uber-go/fx，参考示例https://github.com/RealLiuSha/echo-admin
    2. 加入 https://github.com/flipped-aurora/gin-vue-admin 工作流
-2. [推荐1 go 都包含工作流 gin https://github.com/flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)
-3. [推荐2 go ruoyi-vue 都包含工作流 goframe （gfast数据查询得自己拼接sql，哭gf得orm就是得自己拼接sql） https://gitee.com/tiger1103/gfast](https://gitee.com/tiger1103/gfast)
+2. [推荐1 go ruoyi-vue 都包含工作流 goframe （gfast数据查询得自己拼接sql，哭gf得orm就是得自己拼接sql） https://gitee.com/tiger1103/gfast](https://gitee.com/tiger1103/gfast)
+   3. 考虑加入依赖注入
+      1. 基于 WIRE 的依赖注入 -- 依赖注入本身的作用是解决了各个模块间层级依赖繁琐的初始化过程，使用示例可以参考https://github.com/LyricTian/gin-admin，[https://github.com/google/wire](https://github.com/google/wire)
+      2. 基于 uber/fx 实现依赖注入 基于https://github.com/uber-go/fx，参考示例https://github.com/RealLiuSha/echo-admin
+3. [推荐1 go 都包含工作流 gin https://github.com/flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)
 4. [推荐2 go 都包含工作流 goframe https://github.com/flipped-aurora/gf-vue-admin](https://github.com/flipped-aurora/gf-vue-admin)
 5. [推荐3 go ruoyi-vue https://github.com/zeroing-zy1/yjgo](https://github.com/zeroing-zy1/yjgo)
 6. [推荐3 基于 uber/fx 实现依赖注入 https://github.com/RealLiuSha/echo-admin](https://github.com/RealLiuSha/echo-admin)
@@ -342,6 +347,7 @@ Hilo，一套HTML5跨终端的互动游戏解决方案。Hilo支持了多届淘�
 18. AdminLTE
     [https://github.com/mengyou658/AdminLTE](https://github.com/mengyou658/AdminLTE)
 19. 
+20. 
 基于Spring+SpringMVC+Mybatis分布式敏捷开发系统架构，提供整套公共微服务服务模块：集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位J2EE企业级开发解决方案。
 [https://github.com/mengyou658/zheng](https://github.com/mengyou658/zheng)
 1. hsweb (haʊs wɛb) 是一个用于快速搭建企业后台管理系统的基础项目,集成一揽子便捷功能如:通用增删改查，在线代码生成，权限管理(可控制到列和行)，动态多数据源分布式事务，动态脚本，动态定时任务，在线数据库维护等等. 基于
