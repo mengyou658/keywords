@@ -178,3 +178,10 @@
    3. 另外embassy and drone no_std executors allow  to provide cooperative scheduling with await syntax
    4. 嵌入式操作系统 调试打印log [https://github.com/knurling-rs/defmt](https://github.com/knurling-rs/defmt)
    5. wifi模块http://www.hi-flying.com/
+
+
+### 区块链开发
+
+1. [https://github.com/gakonst/foundry](https://github.com/gakonst/foundry)
+2. [https://github.com/paritytech/substrate](https://github.com/paritytech/substrate)
+3. [https://github.com/diem/diem](https://github.com/diem/diem)
