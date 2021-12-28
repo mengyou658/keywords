@@ -1289,7 +1289,7 @@ qgis mapx
 2. [WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的开箱即用的网络视频平台，负责实现核心信令与设备管理后台部分，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。支持国标级联，支持rtsp/rtmp等视频流转发到国标平台，支持rtsp/rtmp等推流转发到国标平台https://github.com/648540858/wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro)
 
 
-### Jupyter Kernels
+### Jupyter Kernels Playground
 1. [IJavascript is a javascript kernel for the Jupyter notebook](https://github.com/n-riesco/ijavascript)
 2. [A Jupyter Kernel for the Rust programming language. https://github.com/google/evcxr](https://github.com/google/evcxr)
 3. [IPython Kernel for Jupyter https://github.com/ipython/ipykernel](https://github.com/ipython/ipykernel)

@@ -5,7 +5,7 @@
 1. [RustMagazine 中文月刊https://rustmagazine.github.io/rust_magazine_2021](https://rustmagazine.github.io/rust_magazine_2021)
 2. [https://github.com/rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)
 3. [rust 语法列表 https://cheats.rs/](https://cheats.rs/)
-4. 
+4. [https://github.com/wubx/rust-in-databend](https://github.com/wubx/rust-in-databend)
 
 ### 最佳实践
 - orm
