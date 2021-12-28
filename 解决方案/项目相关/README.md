@@ -1300,7 +1300,8 @@ qgis mapx
 8. [The Go kernel for Jupyter notebooks and nteract. https://github.com/gopherdata/gophernotes](https://github.com/gopherdata/gophernotes)
 9. [Write SciJava scripts in Jupyter notebook https://github.com/scijava/scijava-jupyter-kernel](https://github.com/scijava/scijava-jupyter-kernel)
 10. [Jupyter kernel for SQLite https://github.com/jupyter-xeus/xeus-sqlite](https://github.com/jupyter-xeus/xeus-sqlite)
-11. 
+11. [https://github.com/integer32llc/rust-playground](https://github.com/integer32llc/rust-playground)
+12. 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
