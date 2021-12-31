@@ -130,17 +130,19 @@ learning、游戏game、各种开源项目、面试等等 搜索关键词，你�
 
 # 主要关注
 
-1. [Learn to write an embedded OS in Rust  https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
-2. [高质量、最全面、完全免费的系统架构设计师（软考高级）备考资源库 https://github.com/xxlllq/system_architect](https://github.com/xxlllq/system_architect)
-3. [http://zh.d2l.ai/](http://zh.d2l.ai/)
-4. [https://github.com/ShusenTang/Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
-5. [https://github.com/Mr-strlen/Cat_vs_Dog-CNN-Comparison16年Kaggle的猫狗大战数据集不同网络之间做个比较](https://github.com/Mr-strlen/Cat_vs_Dog-CNN-Comparison)
-6. [https://github.com.cnpmjs.org/amusi/Deep-Learning-Interview-Book深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）](https://github.com.cnpmjs.org/amusi/Deep-Learning-Interview-Book)
-7. [https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0)
-8. [https://github.com/cxxr/better-java/blob/master/README.zh-cn.md 享受Java，新手友好](https://github.com/cxxr/better-java/blob/master/README.zh-cn.md)
-9. [https://github.com/kon9chunkit/GitHub-Chinese-Top-ChartsGitHub 中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
-10. [https://github.com.cnpmjs.org/Light-City/CPlusPlusThings C++那些事](https://github.com.cnpmjs.org/Light-City/CPlusPlusThings)
-11. 
+1. [hutool rust 实现](https://github.com/mengyou658/hutool-rust)
+2. mapstruct rust 实现
+3. [Learn to write an embedded OS in Rust  https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+4. [高质量、最全面、完全免费的系统架构设计师（软考高级）备考资源库 https://github.com/xxlllq/system_architect](https://github.com/xxlllq/system_architect)
+5. [http://zh.d2l.ai/](http://zh.d2l.ai/)
+6. [https://github.com/ShusenTang/Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
+7. [https://github.com/Mr-strlen/Cat_vs_Dog-CNN-Comparison16年Kaggle的猫狗大战数据集不同网络之间做个比较](https://github.com/Mr-strlen/Cat_vs_Dog-CNN-Comparison)
+8. [https://github.com.cnpmjs.org/amusi/Deep-Learning-Interview-Book深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）](https://github.com.cnpmjs.org/amusi/Deep-Learning-Interview-Book)
+9. [https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0)
+10. [https://github.com/cxxr/better-java/blob/master/README.zh-cn.md 享受Java，新手友好](https://github.com/cxxr/better-java/blob/master/README.zh-cn.md)
+11. [https://github.com/kon9chunkit/GitHub-Chinese-Top-ChartsGitHub 中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
+12. [https://github.com.cnpmjs.org/Light-City/CPlusPlusThings C++那些事](https://github.com.cnpmjs.org/Light-City/CPlusPlusThings)
+13. 
 
 **c++还是要学一下的，学完，你会发现语言都是相互学习的**
 
