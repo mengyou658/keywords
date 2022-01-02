@@ -1690,4 +1690,10 @@ _Jupyter kernels that run and introspect the user's code in a given language._
 3. https://github.com/GzhiYi/dandan-account
 4. https://github.com/xiaoxinpro/xxjzWeChat
 5. https://github.com/GzhiYi/dandan-account
-6. 
+
+### excel 
+
+1. [一款免费的数据可视化工具，报表与大屏设计！类似于excel操作风格，在线拖拽完成报表设计！功能涵盖: 报表设计、图形报表、打印设计、大屏设计等，永久免费！https://github.com/zhangdaiscott/JimuReport](https://github.com/zhangdaiscott/JimuReport)
+2. [https://github.com/handsontable/handsontable](https://github.com/handsontable/handsontable)
+3. [https://github.com/ag-grid/ag-grid](https://github.com/ag-grid/ag-grid)
+4. [https://github.com/Happy-Coding-Clans/vue-easytable](https://github.com/Happy-Coding-Clans/vue-easytable)
