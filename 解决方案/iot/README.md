@@ -29,7 +29,9 @@
 8. [https://github.com/blynkkk/blynk-server](https://github.com/blynkkk/blynk-server)
 9. [https://github.com/thingsboard/thingsboard-gateway](https://github.com/thingsboard/thingsboard-gateway)
 10. [开源物联网平台，高性、高吞吐量、高扩展性的物联网平台！单机可以支持百万链接，同时支持自定义扩展功能，功能非常强大，采用netty作为通信层组件，支持插件化开发集成！ https://github.com/xiaonannet/mqtts](https://github.com/xiaonannet/mqtts)
-11. 
+11. [https://gitee.com/dotnetchina/IoTSharp](https://gitee.com/dotnetchina/IoTSharp)
+12. [https://gitee.com/willbeahero/IOTGate](https://gitee.com/willbeahero/IOTGate)
+13. 
 
 ### 完整项目/示例/demo/代码片段
 

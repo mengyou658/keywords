@@ -2,15 +2,23 @@
 
 ### 现成列表
 
-1. [RustMagazine 中文月刊https://rustmagazine.github.io/rust_magazine_2021](https://rustmagazine.github.io/rust_magazine_2021)
-2. [https://github.com/rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-3. [rust 语法列表 https://cheats.rs/](https://cheats.rs/)
-4. [https://github.com/wubx/rust-in-databend](https://github.com/wubx/rust-in-databend)
+1. [https://course.rs/](https://course.rs/)
+2. [https://doc.rust-lang.org/stable/rust-by-example](https://doc.rust-lang.org/stable/rust-by-example)
+3. [https://kaisery.github.io/trpl-zh-cn/](https://kaisery.github.io/trpl-zh-cn/)
+4. [https://github.com/mre/idiomatic-rust](https://github.com/mre/idiomatic-rust)
+5. [https://rustmagazine.github.io/rust_magazine_2021](https://rustmagazine.github.io/rust_magazine_2021)
+6. [RustMagazine 中文月刊https://rustmagazine.github.io/rust_magazine_2021](https://rustmagazine.github.io/rust_magazine_2021)
+7. [https://github.com/rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+8. [rust 语法列表 https://cheats.rs/](https://cheats.rs/)
+9. [https://github.com/wubx/rust-in-databend](https://github.com/wubx/rust-in-databend)
+10. [https://github.com/suhanyujie/resourses](https://github.com/suhanyujie/resourses)
+11. 
 
 ### 最佳实践
 - orm
 1. [orm 目前最好使用，sea-orm，它是基于 sqlx 实现的 ORM 框架，号称要实现 Rust 版本 的 ActiveRecord Ruby on Rails ](https://github.com/SeaQL/sea-orm)
 2. [国内 Rust 社区小伙伴 @zhuxiujia 也实现了一个异步 ORM 框架 rbatis。Rbatis 并不是基于 sqlx 实现的，它的灵感来自于 Java 的 ORM 框架 Mybatis。Rbatis 提供了一些内置插件，可以针对一些常用场景增加开发效率。](https://github.com/rbatis/rbatis)
+3. [https://github.com/ddddddO/qoo](https://github.com/ddddddO/qoo)
 - web 
 3. [A full-featured and easy-to-use web framework with the Rust programming language.](https://github.com/poem-web/poem)
 4. [https://github.com/actix/actix-web](https://github.com/actix/actix-web)
@@ -27,7 +35,7 @@
 2. [https://github.com/rust-lang/rustlings](https://github.com/rust-lang/rustlings)
 3. [https://github.com/dslchd/tokio-cn-doc](https://github.com/dslchd/tokio-cn-doc)
 4. [https://github.com/tony612/tokio-internals](https://github.com/tony612/tokio-internals)
-5. 
+5. [https://github.com/mini-lust/tutorials https://github.com/mini-lust/tutorials](https://github.com/mini-lust/tutorials)
 6. 
 
 ### web 框架
@@ -101,7 +109,9 @@
 46. [可帮助您压缩和解压缩多种格式的文件 https://github.com/ouch-org/ouch](https://github.com/ouch-org/ouch)
 47. [Plotters 是一个绘图库，设计用于以纯 Rust 渲染图形、绘图和图表。支持各种类型的后端，包括位图、矢量图、活塞窗口、GTK/Cairo 和 WebAssemblyhttps://crates.io/crates/debug_plotter](https://crates.io/crates/debug_plotter)
 48. [这个 crate 原理仍然是将rust编译成 cdylib，然后在 c# 里面调用。不过将这个过程变得更容易了一点 https://github.com/Diggsey/rnet](https://github.com/Diggsey/rnet)
-49. 
+49. [https://github.com/PyO3/pyo3 https://github.com/PyO3/pyo3](https://github.com/PyO3/pyo3)
+50. [Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages https://github.com/PyO3/maturin](https://github.com/PyO3/maturin)
+51. 
 
 ### 完整项目/示例/demo/代码片段
 
@@ -120,14 +130,15 @@
 1. [egui 是一个易于使用的纯 Rust 图形用户界面。egui 可以在 Web 上、本机上以及您最喜欢的游戏引擎中运行。egui 旨在成为最容易使用的 Rust GUI 库，以及在 Rust 中制作 Web 应用程序的最简单方法，它可以在任何可以绘制纹理三角形的地方使用，这意味着您可以轻松地将其集成到您选择的游戏引擎中 https://github.com/emilk/egui](https://github.com/emilk/egui)
 2. [A data-first Rust-native UI design toolkit. https://github.com/linebender/druid](https://github.com/linebender/druid)
 3. [Blazing 💥 fast terminal-ui for git written in rust 🦀 https://github.com/extrawurst/gitui](https://github.com/extrawurst/gitui)
-4.
-5.
+4. [https://github.com/AaronErhardt/relm4](https://github.com/AaronErhardt/relm4)
+5. 
 
 ### 工具
 
 1. [Rust 的内存安全和未定义行为检测工具 Rudra 是一个静态分析器，用于检测 Rust 程序中常见的未定义行为。它能够分析单个 Rust 包以及 crates.io 上的所有包 https://github.com/sslab-gatech/Rudra](https://github.com/sslab-gatech/Rudra)
 2. [A Python Interpreter written in Rust python 解释器 https://github.com/RustPython/RustPython](https://github.com/RustPython/RustPython)
 3. [远程桌面软件，开箱即用，无需任何配置https://github.com/rustdesk/rustdesk/blob/master/README-ZH.md](https://github.com/rustdesk/rustdesk/blob/master/README-ZH.md)
+4. [https://hub.fastgit.org/immunant/c2rust/](https://hub.fastgit.org/immunant/c2rust/)
 
 ### 游戏
 
@@ -186,3 +197,9 @@
 2. [https://github.com/paritytech/substrate](https://github.com/paritytech/substrate)
 3. [https://github.com/diem/diem](https://github.com/diem/diem)
 4. 
+
+
+### cargo 工具链
+1. [cargo-smart-release](https://crates.io/crates/cargo-smart-release)
+2. [额外工作比如copy  https://github.com/LucianoBestia/cargo-auto](https://github.com/LucianoBestia/cargo-auto)
+3. [https://github.com/matklad/cargo-xtask](https://github.com/matklad/cargo-xtask)

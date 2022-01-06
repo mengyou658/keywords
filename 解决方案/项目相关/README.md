@@ -238,16 +238,13 @@ Hilo，一套HTML5跨终端的互动游戏解决方案。Hilo支持了多届淘�
 
 # 接口管理
 
-1.RAP Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理
-[https://github.com/mengyou658/RAP](https://github.com/mengyou658/RAP)
-
-1. YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
-   [https://github.com/YMFE/yapi](https://github.com/YMFE/yapi)
+1. RAP Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理[https://github.com/mengyou658/RAP](https://github.com/mengyou658/RAP)
+2. YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台[https://github.com/YMFE/yapi](https://github.com/YMFE/yapi)
+3. 
 
 # 自动化接口
 
-1.RAP Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理
-[https://github.com/mengyou658/RAP](https://github.com/mengyou658/RAP)
+1. RAP Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理 [https://github.com/mengyou658/RAP](https://github.com/mengyou658/RAP)
 
 # 自动化测试
 
@@ -1697,3 +1694,48 @@ _Jupyter kernels that run and introspect the user's code in a given language._
 2. [https://github.com/handsontable/handsontable](https://github.com/handsontable/handsontable)
 3. [https://github.com/ag-grid/ag-grid](https://github.com/ag-grid/ag-grid)
 4. [https://github.com/Happy-Coding-Clans/vue-easytable](https://github.com/Happy-Coding-Clans/vue-easytable)
+
+
+### 建模工具
+
+2. [https://gitee.com/robergroup/pdman](https://gitee.com/robergroup/pdman)
+3. [使用python来画流程图 visio或者powerdesigner  https://github.com/mingrammer/diagrams](https://github.com/mingrammer/diagrams)
+4. 
+
+
+### network tcp udp 工具库 protocol
+
+第一第二推荐 bit解析， 数据接收使用 tokio
+1. [这个比较接近 感觉可以 https://github.com/cesbo/bitwrap](https://github.com/cesbo/bitwrap)
+2. [这个比较接近 感觉可以 TODO 做一些改造 https://github.com/mengyou658/bitwrap](https://github.com/mengyou658/bitwrap)
+3. [这个也比较不错，但是没有看到动态长度协议的解析 增加了order排序 https://github.com/CirrusNeptune/modular-bitfield-msb](https://github.com/CirrusNeptune/modular-bitfield-msb)
+4. [这个也比较不错，但是没有看到动态长度协议的解析 没有大小端 https://github.com/Robbepop/modular-bitfield](https://github.com/Robbepop/modular-bitfield)
+5. [这个里面有可以借鉴的内容 https://github.com/wwylele/byte-struct-rs](https://github.com/wwylele/byte-struct-rs)
+6. [bit 协议解析 https://github.com/dzamlo/rust-bitfield](https://github.com/dzamlo/rust-bitfield)
+7. [https://crates.io/crates/bitaccess_macros](https://crates.io/crates/bitaccess_macros)
+8. [bit 协议解析 https://github.com/hashmismatch/packed_struct.rs](https://github.com/hashmismatch/packed_struct.rs)
+9. [A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ... https://github.com/tokio-rs/tokio](https://github.com/tokio-rs/tokio)
+10. [bit 操作工具类 https://github.com/bitvecto-rs/bitvec](https://github.com/bitvecto-rs/bitvec)
+11. 
+12. [Fast and easy-to-use event-driven network library. https://github.com/lemunozm/message-io](https://github.com/lemunozm/message-io)
+13. [The bitmatch crate provides tools for packing and unpacking integers as sequences of bits. Supports https://github.com/porglezomp/bitmatch](https://github.com/porglezomp/bitmatch)
+14. [https://github.com/contain-rs/bit-vec](https://github.com/contain-rs/bit-vec)
+15. java [https://hub.fastgit.org/tuna-cloud/engine](https://hub.fastgit.org/tuna-cloud/engine)
+16. java [https://hub.fastgit.org/Keep-Tech/Taira](https://hub.fastgit.org/Keep-Tech/Taira)
+16. java [https://hub.fastgit.org/zhtmf/bytesutil](https://hub.fastgit.org/zhtmf/bytesutil)
+17. 
+
+
+### api 压缩
+1. [https://github.com/muscache/zetro](https://github.com/muscache/zetro)
+
+### 录音
+
+1. [https://github.com/lwyKunKun/record-websocket](https://github.com/lwyKunKun/record-websocket)
+2. [https://github.com/luohao8023/recorder-electron-vue](https://github.com/luohao8023/recorder-electron-vue)
+3. [https://github.com/2fps/recorder](https://github.com/2fps/recorder)
+
+### 内网透传工具 ngrok frp
+1. ngrok
+2. frp
+3. [rust https://hub.fastgit.org/rapiz1/rathole](https://hub.fastgit.org/rapiz1/rathole)
