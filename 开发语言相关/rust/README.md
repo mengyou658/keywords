@@ -19,7 +19,8 @@
 15. [https://blog.adamchalmers.com/nom-chars/](https://blog.adamchalmers.com/nom-chars/)
 16. [https://federicoterzi.com/blog/12-rust-tips-and-tricks-you-might-not-know-yet](https://federicoterzi.com/blog/12-rust-tips-and-tricks-you-might-not-know-yet)
 17. [https://dev.to/sbelzile/making-games-in-rust-part-6-generating-a-map-4aic](https://dev.to/sbelzile/making-games-in-rust-part-6-generating-a-map-4aic)
-18. 
+18. [https://pkolaczk.github.io/server-slower-than-a-laptop/](https://pkolaczk.github.io/server-slower-than-a-laptop/)
+19. 
 
 ### 最佳实践
 - orm
@@ -124,7 +125,17 @@
 54. [Safe, fallible, embedded-friendly ordered set/map via a scapegoat tree. Validated against BTreeSet/BTreeMap https://github.com/tnballo/scapegoat](https://github.com/tnballo/scapegoat)
 55. [又一个并行处理库，适用于在一个已有的 iterator 中加入多线程处理；如果有许多已经存储在 collection 的值，想要执行大量计算，最好使用 rayon https://github.com/dpc/pariter](https://github.com/dpc/pariter)
 56. [Rayon: A data parallelism library for Rust https://github.com/rayon-rs/rayon](https://github.com/rayon-rs/rayon)
-57. 
+57. [是一个嵌入式加密数据库Scalable and encrypted embedded database with 3-tier caching https://github.com/symmetree-labs/infinitree](https://github.com/symmetree-labs/infinitree)
+58. [Multi functional app to find duplicates, empty folders, similar images etc. https://github.com/qarmin/czkawka](https://github.com/qarmin/czkawka)
+59. [MultiMedia Ingestion and Distribution System Mmids（多媒体摄取和分发系统）是一个功能强大，用户友好的开源实时视频工作流程服务器 多媒体摄取和分发系统 https://github.com/KallDrexx/mmids/](https://github.com/KallDrexx/mmids/)
+60. [Implementation of basic math data types with high level frontend and low level backend  Low To High Level Math Library for Rust https://github.com/Aandreba/llml](https://github.com/Aandreba/llml)
+61. [Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std https://github.com/AFLplusplus/LibAFL](https://github.com/AFLplusplus/LibAFL)
+62. [Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more. https://github.com/dioxuslabs/dioxus](https://github.com/dioxuslabs/dioxus)
+63. [In short, Tremor is an event processing system. It was originally designed as a replacement for software such as Logstash or Telegraf https://github.com/tremor-rs/tremor-runtime](https://github.com/tremor-rs/tremor-runtime)
+64. [Materialize是一个用于实时应用程序的流式数据库 Materialize simplifies application development with streaming data. Incrementally-updated materialized views - in PostgreSQL and in real time. Materialize is powered by Timely Dataflow https://github.com/MaterializeInc/materialize](https://github.com/MaterializeInc/materialize)
+65. 
+66. 
+67. 
 
 ### 完整项目/示例/demo/代码片段
 
@@ -153,7 +164,9 @@
 3. [远程桌面软件，开箱即用，无需任何配置https://github.com/rustdesk/rustdesk/blob/master/README-ZH.md](https://github.com/rustdesk/rustdesk/blob/master/README-ZH.md)
 4. [https://hub.fastgit.org/immunant/c2rust/](https://hub.fastgit.org/immunant/c2rust/)
 5. cargo-udeps 是一个了不起的项目，可帮助您分析 Rust 代码库上未使用的依赖项。您可以简单cargo install cargo-udeps地安装它。
-6. 
+6. [Cargo plugin for linting your dependencies https://github.com/EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny)
+7. [Audit Cargo.lock files for dependencies with security vulnerabilities https://github.com/rustsec/rustsec](https://github.com/rustsec/rustsec)
+8. 
 
 ### 游戏
 
