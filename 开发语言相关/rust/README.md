@@ -13,6 +13,13 @@
 9. [https://github.com/wubx/rust-in-databend](https://github.com/wubx/rust-in-databend)
 10. [https://github.com/suhanyujie/resourses](https://github.com/suhanyujie/resourses)
 11. 
+12. [https://era.co/blog/unbuffered-io-slows-rust-programs](https://era.co/blog/unbuffered-io-slows-rust-programs)
+13. [https://renato.athaydes.com/posts/how-to-write-fast-rust-code.html](https://renato.athaydes.com/posts/how-to-write-fast-rust-code.html)
+14. [https://tiemoko.com/slides/SafeAndPortableDataStructureDesign_CodeAndSupply_Dec2021.pdf](https://tiemoko.com/slides/SafeAndPortableDataStructureDesign_CodeAndSupply_Dec2021.pdf)
+15. [https://blog.adamchalmers.com/nom-chars/](https://blog.adamchalmers.com/nom-chars/)
+16. [https://federicoterzi.com/blog/12-rust-tips-and-tricks-you-might-not-know-yet](https://federicoterzi.com/blog/12-rust-tips-and-tricks-you-might-not-know-yet)
+17. [https://dev.to/sbelzile/making-games-in-rust-part-6-generating-a-map-4aic](https://dev.to/sbelzile/making-games-in-rust-part-6-generating-a-map-4aic)
+18. 
 
 ### 最佳实践
 - orm
@@ -111,7 +118,13 @@
 48. [这个 crate 原理仍然是将rust编译成 cdylib，然后在 c# 里面调用。不过将这个过程变得更容易了一点 https://github.com/Diggsey/rnet](https://github.com/Diggsey/rnet)
 49. [https://github.com/PyO3/pyo3 https://github.com/PyO3/pyo3](https://github.com/PyO3/pyo3)
 50. [Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages https://github.com/PyO3/maturin](https://github.com/PyO3/maturin)
-51. 
+51. [https://github.com/taiki-e/pin-project](https://github.com/taiki-e/pin-project)
+52. [rust 类似frp和ngrok https://github.com/rapiz1/rathole](https://github.com/rapiz1/rathole)
+53. [在添加上下文时，轻松地将基础错误分配给特定于域的错误 https://github.com/shepmaster/snafu](https://github.com/shepmaster/snafu)
+54. [Safe, fallible, embedded-friendly ordered set/map via a scapegoat tree. Validated against BTreeSet/BTreeMap https://github.com/tnballo/scapegoat](https://github.com/tnballo/scapegoat)
+55. [又一个并行处理库，适用于在一个已有的 iterator 中加入多线程处理；如果有许多已经存储在 collection 的值，想要执行大量计算，最好使用 rayon https://github.com/dpc/pariter](https://github.com/dpc/pariter)
+56. [Rayon: A data parallelism library for Rust https://github.com/rayon-rs/rayon](https://github.com/rayon-rs/rayon)
+57. 
 
 ### 完整项目/示例/demo/代码片段
 
@@ -139,6 +152,8 @@
 2. [A Python Interpreter written in Rust python 解释器 https://github.com/RustPython/RustPython](https://github.com/RustPython/RustPython)
 3. [远程桌面软件，开箱即用，无需任何配置https://github.com/rustdesk/rustdesk/blob/master/README-ZH.md](https://github.com/rustdesk/rustdesk/blob/master/README-ZH.md)
 4. [https://hub.fastgit.org/immunant/c2rust/](https://hub.fastgit.org/immunant/c2rust/)
+5. cargo-udeps 是一个了不起的项目，可帮助您分析 Rust 代码库上未使用的依赖项。您可以简单cargo install cargo-udeps地安装它。
+6. 
 
 ### 游戏
 
@@ -153,6 +168,7 @@
 2. [Safe and portable GPU abstraction in Rust, implementing WebGPU API. https://github.com/gfx-rs/wgpu](https://github.com/gfx-rs/wgpu)
 3. [RTS game/engine in Rust and WebGPU https://github.com/Ruddle/oxidator](https://github.com/Ruddle/oxidator)
 4. [A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀 https://github.com/38/plotters](https://github.com/38/plotters)
+5. [The leading WebAssembly Runtime supporting WASI and Emscripten https://github.com/wasmerio/wasmer](https://github.com/wasmerio/wasmer)
 
 ### network tcp udp 工具库 protocol
 

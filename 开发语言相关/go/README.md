@@ -157,7 +157,8 @@ export all_proxy=https://goproxy.io
 13. [Sharingan（写轮眼）是一个基于golang的流量录制回放工具，适合项目重构、回归测试等。 https://github.com/didi/sharingan](https://github.com/didi/sharingan)
 14. [KubePi 是一款简单易用的开源 Kubernetes 可视化管理面板 https://github.com/KubeOperator/KubePi](https://github.com/KubeOperator/KubePi)
 15. [https://github.com/proferosec/log4jScanner](https://github.com/proferosec/log4jScanner)
-16. 
+16. [除了增加面向 IoT 和边缘计算的功能，InfluxDB 公司还启动了创新存储引擎的新项目，重新构建对存储的想象。他们宣布了下一代存储引擎的计划 —— InfluxDB I0x。InfluxDB I0x 是功能强大的新型存储引擎，旨在执行随着时间推移不断增加的查询工作负载。InfluxDB I0x 基于 Rust 语言开发，并使用了 Apache Arrow 和柱列式数据结构 Scalable datastore for metrics, events, and real-time analytics https://github.com/influxdata/influxdb](https://github.com/influxdata/influxdb)
+17. 
 
 ### web 框架
 
