@@ -17,27 +17,28 @@ export all_proxy=https://goproxy.io
 
 ### 现成列表
 
-1. 为互联网IT人打造的中文版awesome-go
+1. [Uber Go 语言编码规范中文版. The Uber Go Style Guide https://github.com/xxjwxc/uber_go_guide_cn](https://github.com/xxjwxc/uber_go_guide_cn)
+2. 为互联网IT人打造的中文版awesome-go
    [https://github.com/hackstoic/golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects)
-2. 学习路线
+3. 学习路线
    [https://github.com/Quorafind/golang-developer-roadmap-cn](https://github.com/Quorafind/golang-developer-roadmap-cn)
-3. 学习教程
+4. 学习教程
    [https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/preface.md](https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/preface.md)
-4. 编写和优化Go代码
+5. 编写和优化Go代码
    [https://github.com/dgryski/go-perfbook/blob/master/performance-zh.md](https://github.com/dgryski/go-perfbook/blob/master/performance-zh.md)
-5. awesome
+6. awesome
    [https://github.com/hyper0x/awesome-go-China/blob/master/zh_CN/README.md#web-frameworks](https://github.com/hyper0x/awesome-go-China/blob/master/zh_CN/README.md#web-frameworks)
-6. 一步一步教你，做Zinx框架的项目制作采用编码和学习教程同步进行，将开发的全部递进和迭代思维带入教程中，而不是一下子给大家一个非常完整的框架去学习，让很多人一头雾水，不知道该如何学起
+7. 一步一步教你，做Zinx框架的项目制作采用编码和学习教程同步进行，将开发的全部递进和迭代思维带入教程中，而不是一下子给大家一个非常完整的框架去学习，让很多人一头雾水，不知道该如何学起
    [https://github.com/aceld/zinx](https://github.com/aceld/zinx)
-7. 数据结构和算法必知必会的50个代码实现
+8. 数据结构和算法必知必会的50个代码实现
    [https://github.com/wangzheng0822/algo](https://github.com/wangzheng0822/algo)
-8. 从问题切入，串连 Go 语言相关的所有知识，融会贯通。
+9. 从问题切入，串连 Go 语言相关的所有知识，融会贯通。
    [https://github.com/qcrao/Go-Questions](https://github.com/qcrao/Go-Questions)
-9. go 入门
-   [https://chai2010.cn/advanced-go-programming-book/ch2-cgo/ch2-01-hello-cgo.html](https://chai2010.cn/advanced-go-programming-book/ch2-cgo/ch2-01-hello-cgo.html)
-10. 
+10. go 入门
+    [https://chai2010.cn/advanced-go-programming-book/ch2-cgo/ch2-01-hello-cgo.html](https://chai2010.cn/advanced-go-programming-book/ch2-cgo/ch2-01-hello-cgo.html)
 11. 
 12. 
+13. 
 
 ### cheatsheet 备忘录
 
@@ -75,11 +76,12 @@ export all_proxy=https://goproxy.io
 11. [一个示例项目，作者介绍如何从零开始实现一个小型的时序数据库（TSDB），也就是专门用于时间序列的数据库 mandodb](https://github.com/chenjiandongx/mandodb)
 12. [go 实现的压测工具，ab、locust、Jmeter压测工具介绍【单台机器100w连接压测实战】 https://github.com/link1st/go-stress-testing](https://github.com/link1st/go-stress-testing)
 13. [Go library for decoding generic map values into native Go structures and vice versa. https://github.com/mitchellh/mapstructure](https://github.com/mitchellh/mapstructure)
-14. 
+14. [A lightweight stream processing library for Go https://github.com/reugn/go-streams](https://github.com/reugn/go-streams)
 15. 
 16. 
 17. 
 18. 
+19. 
 
 ### 完整项目/示例/demo/代码片段
 
@@ -133,40 +135,43 @@ export all_proxy=https://goproxy.io
 
 ### 工具
 
-1. 静态网站生成
+1. [Go一些常用的工具函数收集、实现和整理 https://github.com/gookit/goutil](https://github.com/gookit/goutil)
+2. [Go library for decoding generic map values into native Go structures and vice versa. https://github.com/mitchellh/mapstructure](https://github.com/mitchellh/mapstructure)
+3. [Optional is a library of optional Go types https://github.com/markphelps/optional](https://github.com/markphelps/optional)
+4. 静态网站生成
    [https://github.com/gohugoio/hugo](https://github.com/gohugoio/hugo)
-2. gitlab 精简版本
+5. gitlab 精简版本
    [https://github.com/go-gitea/gitea](https://github.com/go-gitea/gitea)
-3. Vegeta是一个多功能的HTTP负载测试工具，需要以恒定的请求率来钻取HTTP服务。它既可以用作命令行实用程序，也可以用作库
+6. Vegeta是一个多功能的HTTP负载测试工具，需要以恒定的请求率来钻取HTTP服务。它既可以用作命令行实用程序，也可以用作库
    [https://github.com/tsenart/vegeta](https://github.com/tsenart/vegeta)
-4. GoReplay是一个开源工具，用于捕获实时HTTP流量并将其重放到测试环境中，以便使用真实数据持续测试您的系统。它可用于增加对代码部署，配置更改和基础结构更改的信心GoReplay is an open-source tool
+7. GoReplay是一个开源工具，用于捕获实时HTTP流量并将其重放到测试环境中，以便使用真实数据持续测试您的系统。它可用于增加对代码部署，配置更改和基础结构更改的信心GoReplay is an open-source tool
    for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with
    real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure
    changes.
    [https://github.com/buger/goreplay](https://github.com/buger/goreplay)
-5. https://staticcheck.io的静态分析工具的集合
+8. https://staticcheck.io的静态分析工具的集合
    [https://github.com/dominikh/go-tools](https://github.com/dominikh/go-tools)
-6. Kubernetes Native Serverless Framework https://kubeless.io
+9. Kubernetes Native Serverless Framework https://kubeless.io
    [https://github.com/kubeless/kubeless](https://github.com/kubeless/kubeless)
-7. go 命令行dashboard工具 The personal information dashboard for your terminal
-   [https://github.com/wtfutil/wtf](https://github.com/wtfutil/wtf)
-8. 一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。
-   [https://github.com/cnlh/nps](https://github.com/cnlh/nps)
-9. auto generate sql from gorm model struct
-   [https://github.com/liudanking/gorm2sql](https://github.com/liudanking/gorm2sql)
-10. go 爬虫工具
+10. go 命令行dashboard工具 The personal information dashboard for your terminal
+    [https://github.com/wtfutil/wtf](https://github.com/wtfutil/wtf)
+11. 一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。
+    [https://github.com/cnlh/nps](https://github.com/cnlh/nps)
+12. auto generate sql from gorm model struct
+    [https://github.com/liudanking/gorm2sql](https://github.com/liudanking/gorm2sql)
+13. go 爬虫工具
     [https://github.com/hakluke/hakrawler](https://github.com/hakluke/hakrawler)
-11. fate 命运 起名 算命 宝宝起名
+14. fate 命运 起名 算命 宝宝起名
     [https://github.com/godcong/fate](https://github.com/godcong/fate)
-12. kubernetes高可用安装工具，一条命令，离线安装，包含所有依赖，内核负载不依赖haproxy keepalived,纯golang开发,99年证书,支持v1.16.4 v1.15.7 v1.14.10
+15. kubernetes高可用安装工具，一条命令，离线安装，包含所有依赖，内核负载不依赖haproxy keepalived,纯golang开发,99年证书,支持v1.16.4 v1.15.7 v1.14.10
     v1.17.0! https://sealyun.com
     [https://github.com/fanux/sealos](https://github.com/fanux/sealos)
-13. [Sharingan（写轮眼）是一个基于golang的流量录制回放工具，适合项目重构、回归测试等。 https://github.com/didi/sharingan](https://github.com/didi/sharingan)
-14. [KubePi 是一款简单易用的开源 Kubernetes 可视化管理面板 https://github.com/KubeOperator/KubePi](https://github.com/KubeOperator/KubePi)
-15. [https://github.com/proferosec/log4jScanner](https://github.com/proferosec/log4jScanner)
-16. [除了增加面向 IoT 和边缘计算的功能，InfluxDB 公司还启动了创新存储引擎的新项目，重新构建对存储的想象。他们宣布了下一代存储引擎的计划 —— InfluxDB I0x。InfluxDB I0x 是功能强大的新型存储引擎，旨在执行随着时间推移不断增加的查询工作负载。InfluxDB I0x 基于 Rust 语言开发，并使用了 Apache Arrow 和柱列式数据结构 Scalable datastore for metrics, events, and real-time analytics https://github.com/influxdata/influxdb](https://github.com/influxdata/influxdb)
-17. [https://mholt.github.io/json-to-go/](https://mholt.github.io/json-to-go/)
-18. 
+16. [Sharingan（写轮眼）是一个基于golang的流量录制回放工具，适合项目重构、回归测试等。 https://github.com/didi/sharingan](https://github.com/didi/sharingan)
+17. [KubePi 是一款简单易用的开源 Kubernetes 可视化管理面板 https://github.com/KubeOperator/KubePi](https://github.com/KubeOperator/KubePi)
+18. [https://github.com/proferosec/log4jScanner](https://github.com/proferosec/log4jScanner)
+19. [除了增加面向 IoT 和边缘计算的功能，InfluxDB 公司还启动了创新存储引擎的新项目，重新构建对存储的想象。他们宣布了下一代存储引擎的计划 —— InfluxDB I0x。InfluxDB I0x 是功能强大的新型存储引擎，旨在执行随着时间推移不断增加的查询工作负载。InfluxDB I0x 基于 Rust 语言开发，并使用了 Apache Arrow 和柱列式数据结构 Scalable datastore for metrics, events, and real-time analytics https://github.com/influxdata/influxdb](https://github.com/influxdata/influxdb)
+20. [https://mholt.github.io/json-to-go/](https://mholt.github.io/json-to-go/)
+21. 
 
 ### web 框架
 

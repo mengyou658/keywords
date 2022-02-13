@@ -1286,6 +1286,8 @@ qgis mapx
 ### 音视频处理学习 FFmpeg 图像处理 视频图像处理与性能优化 视频编码
 1. [https://github.com/0voice/audio_video_streaming](https://github.com/0voice/audio_video_streaming)
 2. [WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的开箱即用的网络视频平台，负责实现核心信令与设备管理后台部分，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。支持国标级联，支持rtsp/rtmp等视频流转发到国标平台，支持rtsp/rtmp等推流转发到国标平台https://github.com/648540858/wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro)
+3. [一个如何调用 FFmpeg 视频库的教程，有中文翻译。https://github.com/leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial)
+4. 
 
 
 ### Jupyter Kernels Playground
