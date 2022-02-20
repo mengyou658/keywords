@@ -37,8 +37,17 @@
 ### 完整项目/示例/demo/代码片段
 
 1. [https://github.com/olegnet/iot-data-server](https://github.com/olegnet/iot-data-server)
-2. 
+2. [https://github.com/rumblefrog/lrthrome](https://github.com/rumblefrog/lrthrome)
 3. 
+
+### 开发参考
+
+1. [https://github.com/tokio-rs/mini-redis](https://github.com/tokio-rs/mini-redis)
+2. [https://github.com/cesbo/bitwrap](https://github.com/cesbo/bitwrap)
+3. [https://github.com/rumblefrog/lrthrome](https://github.com/rumblefrog/lrthrome)
+4. 
+5. 
+6. 
 
 ### 测试
 
@@ -57,7 +66,8 @@
 3. [https://github.com/pyrinas-iot/pyrinas-server-rs](https://github.com/pyrinas-iot/pyrinas-server-rs)
 4. [https://github.com/rmqtt-rs/rmqtt](https://github.com/rmqtt-rs/rmqtt)
 5. [https://github.com/locka99/opcua](https://github.com/locka99/opcua)
-6. 
+6. [https://github.com/rumblefrog/lrthrome](https://github.com/rumblefrog/lrthrome)
+7. 
 
 ### 工具
 
