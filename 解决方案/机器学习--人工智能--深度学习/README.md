@@ -717,8 +717,9 @@ http://www.jezzamon.com/fourier/zh-cn.html
 # YOLO 目标检测算法
 
 1. [说明理解](https://blog.csdn.net/litt1e/article/details/88907542)
-1. [https://github.com/SpikeKing/keras-yolo3-detection](https://github.com/SpikeKing/keras-yolo3-detection)
-1. [https://github.com/DataXujing/YOLO-v5YOLO v5在医疗领域中消化内镜目标检测的应用](https://github.com/DataXujing/YOLO-v5)
+2. [https://github.com/SpikeKing/keras-yolo3-detection](https://github.com/SpikeKing/keras-yolo3-detection)
+3. [https://github.com/DataXujing/YOLO-v5YOLO v5在医疗领域中消化内镜目标检测的应用](https://github.com/DataXujing/YOLO-v5)
+4. [yolov5 人脸识别 https://github.com/deepcam-cn/yolov5-face](https://github.com/deepcam-cn/yolov5-face)
 
 # [https://github.com/Chrispresso/SuperMarioBros-AI 机器学习自动完超级马里奥](https://github.com/Chrispresso/SuperMarioBros-AI)
 
@@ -731,3 +732,4 @@ http://www.jezzamon.com/fourier/zh-cn.html
 ## 手势 和脸部表情检测
 
 1. [https://handsfree.js.org/](https://handsfree.js.org/)
+2. [手势识别 https://github.com/EricLee2021-72324/handpose_x](https://github.com/EricLee2021-72324/handpose_x)

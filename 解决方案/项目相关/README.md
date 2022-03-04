@@ -1785,3 +1785,11 @@ _Jupyter kernels that run and introspect the user's code in a given language._
 ### 矢量图形
 
 1. [超强的跨平台矢量图形编辑软件 Inkscape](https://inkscape.org/)
+
+
+### 等值线 contour isoline
+
+1. [https://github.com/mthh/contour-rs](https://github.com/mthh/contour-rs)
+2. [https://github.com/jbuckmccready/cavalier_contours](https://github.com/jbuckmccready/cavalier_contours)
+3. [https://github.com/fschutt/marching-squares](https://github.com/fschutt/marching-squares)
+
