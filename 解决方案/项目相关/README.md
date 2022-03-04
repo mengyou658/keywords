@@ -1747,9 +1747,15 @@ _Jupyter kernels that run and introspect the user's code in a given language._
 14. [https://github.com/contain-rs/bit-vec](https://github.com/contain-rs/bit-vec)
 15. java [https://hub.fastgit.org/tuna-cloud/engine](https://hub.fastgit.org/tuna-cloud/engine)
 16. java [https://hub.fastgit.org/Keep-Tech/Taira](https://hub.fastgit.org/Keep-Tech/Taira)
-16. java [https://hub.fastgit.org/zhtmf/bytesutil](https://hub.fastgit.org/zhtmf/bytesutil)
-17. 
+17. java [https://hub.fastgit.org/zhtmf/bytesutil](https://hub.fastgit.org/zhtmf/bytesutil)
+18. nodejs 缺少string bit等[https://github.com/substack/node-binary](https://github.com/substack/node-binary)
+19. nodejs 缺少大小端 [https://github.com/zswang/jpacks](https://github.com/zswang/jpacks)
+19. nodejs 缺少 bit [https://github.com/majimboo/c-struct](https://github.com/majimboo/c-struct)
+19. nodejs 缺少大小端 bit [https://github.com/sourcecaster/packme.js](https://github.com/sourcecaster/packme.js)
+20. 
 
+### 波形图
+1. [bit field diagram renderer https://github.com/wavedrom/bitfield](https://github.com/wavedrom/bitfield)
 
 ### api 压缩
 1. [https://github.com/muscache/zetro](https://github.com/muscache/zetro)
