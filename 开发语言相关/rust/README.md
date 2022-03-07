@@ -143,7 +143,10 @@
 1. [web 浏览器 https://github.com/servo/servo](https://github.com/servo/servo)
 2. [electron rust https://github.com/AmyrAhmady/electrust](https://github.com/AmyrAhmady/electrust)
 3. [Learn to write an embedded OS in Rust  https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
-4. 
+4. [actix 的项目示例 https://hub.fastgit.xyz/actix/examples](https://hub.fastgit.xyz/actix/examples)
+5. [actix sqlx mysql https://hub.fastgit.xyz/jamesjmeyer210/actix_sqlx_mysql_user_crud](https://hub.fastgit.xyz/jamesjmeyer210/actix_sqlx_mysql_user_crud)
+6. [actix jwt .env 比较全面的一个示例 https://hub.fastgit.xyz/ddimaria/rust-actix-example](https://hub.fastgit.xyz/ddimaria/rust-actix-example)
+7. 
 
 ### 测试
 

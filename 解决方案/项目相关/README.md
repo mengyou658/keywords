@@ -328,6 +328,8 @@ Hilo，一套HTML5跨终端的互动游戏解决方案。Hilo支持了多届淘�
 7. [推荐1 java https://gitee.com/y_project/RuoYi-Vue](https://gitee.com/y_project/RuoYi-Vue)
 8. [推荐1 java https://github.com/YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro)
 9. [推荐1 java 前后台 https://github.com/elunez/eladmin](https://github.com/elunez/eladmin)
+5. [rust 推荐1 actix sqlx mysql https://hub.fastgit.xyz/jamesjmeyer210/actix_sqlx_mysql_user_crud](https://hub.fastgit.xyz/jamesjmeyer210/actix_sqlx_mysql_user_crud)
+6. [rust 推荐2 actix jwt .env 比较全面的一个示例 https://hub.fastgit.xyz/ddimaria/rust-actix-example](https://hub.fastgit.xyz/ddimaria/rust-actix-example)
 10. [推荐3 RUST Vue-AntDesign-Pro https://github.com/rbatis/abs_admin](https://github.com/rbatis/abs_admin)
 11. [推荐3 RUST https://github.com/tokio-rs/axum](https://github.com/tokio-rs/axum)
 12. [前台 https://github.com/PanJiaChen/vue-element-admin/blob/master/README.zh-CN.md](https://github.com/PanJiaChen/vue-element-admin/blob/master/README.zh-CN.md)
