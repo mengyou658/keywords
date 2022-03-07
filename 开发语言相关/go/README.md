@@ -77,7 +77,7 @@ export all_proxy=https://goproxy.io
 12. [go 实现的压测工具，ab、locust、Jmeter压测工具介绍【单台机器100w连接压测实战】 https://github.com/link1st/go-stress-testing](https://github.com/link1st/go-stress-testing)
 13. [Go library for decoding generic map values into native Go structures and vice versa. https://github.com/mitchellh/mapstructure](https://github.com/mitchellh/mapstructure)
 14. [A lightweight stream processing library for Go https://github.com/reugn/go-streams](https://github.com/reugn/go-streams)
-15. 
+15. [A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...) https://github.com/samber/lo](https://github.com/samber/lo)
 16. 
 17. 
 18. 
