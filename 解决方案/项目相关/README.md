@@ -313,40 +313,42 @@ Hilo，一套HTML5跨终端的互动游戏解决方案。Hilo支持了多届淘�
 # admin / 快速开发 方案
 
 3. [推荐1 go 都包含工作流 gin https://github.com/flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)
-1. [推荐1 go vue 多租户 gin （go-admin 整体封装风格因为动态数据源，导致orm每次都得写初始化 代码感觉写得会累死每一个方法都要写db初始化，log初始化，service变量设置） https://github.com/go-admin-team/go-admin](https://github.com/go-admin-team/go-admin)
+4. [推荐1 go vue 多租户 gin （go-admin 整体封装风格因为动态数据源，导致orm每次都得写初始化 代码感觉写得会累死每一个方法都要写db初始化，log初始化，service变量设置） https://github.com/go-admin-team/go-admin](https://github.com/go-admin-team/go-admin)
    1. 考虑加入依赖注入
       1. 基于 WIRE 的依赖注入 -- 依赖注入本身的作用是解决了各个模块间层级依赖繁琐的初始化过程，使用示例可以参考https://github.com/LyricTian/gin-admin，[https://github.com/google/wire](https://github.com/google/wire)
       2. 基于 uber/fx 实现依赖注入 基于https://github.com/uber-go/fx，参考示例https://github.com/RealLiuSha/echo-admin
    2. 加入 https://github.com/flipped-aurora/gin-vue-admin 工作流
-2. [推荐1 go ruoyi-vue 都包含工作流 goframe （gfast数据查询得自己拼接sql，哭gf得orm就是得自己拼接sql） https://gitee.com/tiger1103/gfast](https://gitee.com/tiger1103/gfast)
+5. [推荐1 go ruoyi-vue 都包含工作流 goframe （gfast数据查询得自己拼接sql，哭gf得orm就是得自己拼接sql） https://gitee.com/tiger1103/gfast](https://gitee.com/tiger1103/gfast)
    3. 考虑加入依赖注入
       1. 基于 WIRE 的依赖注入 -- 依赖注入本身的作用是解决了各个模块间层级依赖繁琐的初始化过程，使用示例可以参考https://github.com/LyricTian/gin-admin，[https://github.com/google/wire](https://github.com/google/wire)
       2. 基于 uber/fx 实现依赖注入 基于https://github.com/uber-go/fx，参考示例https://github.com/RealLiuSha/echo-admin
-4. [推荐2 go 都包含工作流 goframe https://github.com/flipped-aurora/gf-vue-admin](https://github.com/flipped-aurora/gf-vue-admin)
-5. [推荐3 go ruoyi-vue https://github.com/zeroing-zy1/yjgo](https://github.com/zeroing-zy1/yjgo)
-6. [推荐3 基于 uber/fx 实现依赖注入 https://github.com/RealLiuSha/echo-admin](https://github.com/RealLiuSha/echo-admin)
-7. [推荐1 java https://gitee.com/y_project/RuoYi-Vue](https://gitee.com/y_project/RuoYi-Vue)
-8. [推荐1 java https://github.com/YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro)
-9. [推荐1 java 前后台 https://github.com/elunez/eladmin](https://github.com/elunez/eladmin)
-5. [rust 推荐1 actix sqlx mysql https://hub.fastgit.xyz/jamesjmeyer210/actix_sqlx_mysql_user_crud](https://hub.fastgit.xyz/jamesjmeyer210/actix_sqlx_mysql_user_crud)
-6. [rust 推荐2 actix jwt .env 比较全面的一个示例 https://hub.fastgit.xyz/ddimaria/rust-actix-example](https://hub.fastgit.xyz/ddimaria/rust-actix-example)
-10. [推荐3 RUST Vue-AntDesign-Pro https://github.com/rbatis/abs_admin](https://github.com/rbatis/abs_admin)
-11. [推荐3 RUST https://github.com/tokio-rs/axum](https://github.com/tokio-rs/axum)
-12. [前台 https://github.com/PanJiaChen/vue-element-admin/blob/master/README.zh-CN.md](https://github.com/PanJiaChen/vue-element-admin/blob/master/README.zh-CN.md)
-13. ant-design-pro开箱即用的中台前端/设计解决方案
+6. [推荐2 go 都包含工作流 goframe https://github.com/flipped-aurora/gf-vue-admin](https://github.com/flipped-aurora/gf-vue-admin)
+7. [推荐3 go ruoyi-vue https://github.com/zeroing-zy1/yjgo](https://github.com/zeroing-zy1/yjgo)
+8. [推荐3 基于 uber/fx 实现依赖注入 https://github.com/RealLiuSha/echo-admin](https://github.com/RealLiuSha/echo-admin)
+9. [推荐1 java https://gitee.com/y_project/RuoYi-Vue](https://gitee.com/y_project/RuoYi-Vue)
+10. [推荐1 java https://github.com/YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro)
+11. [推荐1 java 前后台 https://github.com/elunez/eladmin](https://github.com/elunez/eladmin)
+12. [rust 推荐1 actix sqlx mysql https://hub.fastgit.xyz/jamesjmeyer210/actix_sqlx_mysql_user_crud](https://hub.fastgit.xyz/jamesjmeyer210/actix_sqlx_mysql_user_crud)
+13. [rust 推荐1 actix jwt .env 比较全面的一个示例 https://hub.fastgit.xyz/ddimaria/rust-actix-example](https://hub.fastgit.xyz/ddimaria/rust-actix-example)
+    1. orm 可以改成https://github.com/SeaQL/sea-orm
+    2. 升级一下基础库
+14. [推荐1 RUST Vue-AntDesign-Pro https://github.com/rbatis/abs_admin](https://github.com/rbatis/abs_admin)
+15. [推荐3 RUST https://github.com/tokio-rs/axum](https://github.com/tokio-rs/axum)
+16. [前台 https://github.com/PanJiaChen/vue-element-admin/blob/master/README.zh-CN.md](https://github.com/PanJiaChen/vue-element-admin/blob/master/README.zh-CN.md)
+17. ant-design-pro开箱即用的中台前端/设计解决方案
     [https://github.com/mengyou658/ant-design-pro](https://github.com/mengyou658/ant-design-pro)
-14. A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites. 直接挑选看中的模板，下载代码即可使用
+18. A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites. 直接挑选看中的模板，下载代码即可使用
     bootstrap 代码片段
     [https://github.com/mengyou658/design-blocks](https://github.com/mengyou658/design-blocks)
-15. xadmin （django bootstrap）
+19. xadmin （django bootstrap）
     [https://github.com/sshwsfc/xadmin](https://github.com/sshwsfc/xadmin)
-16. [vue iview-admin](https://github.com/mengyou658/iview-admin)
-17. charisma (bootstrap)
+20. [vue iview-admin](https://github.com/mengyou658/iview-admin)
+21. charisma (bootstrap)
     [https://github.com/mengyou658/charisma](https://github.com/mengyou658/charisma)
-18. AdminLTE
+22. AdminLTE
     [https://github.com/mengyou658/AdminLTE](https://github.com/mengyou658/AdminLTE)
-19. 
-20. 
+23. 
+24. 
 基于Spring+SpringMVC+Mybatis分布式敏捷开发系统架构，提供整套公共微服务服务模块：集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位J2EE企业级开发解决方案。
 [https://github.com/mengyou658/zheng](https://github.com/mengyou658/zheng)
 1. hsweb (haʊs wɛb) 是一个用于快速搭建企业后台管理系统的基础项目,集成一揽子便捷功能如:通用增删改查，在线代码生成，权限管理(可控制到列和行)，动态多数据源分布式事务，动态脚本，动态定时任务，在线数据库维护等等. 基于
