@@ -1793,3 +1793,7 @@ _Jupyter kernels that run and introspect the user's code in a given language._
 2. [https://github.com/jbuckmccready/cavalier_contours](https://github.com/jbuckmccready/cavalier_contours)
 3. [https://github.com/fschutt/marching-squares](https://github.com/fschutt/marching-squares)
 
+### windows exe debug 工具intel vtune
+
+
+### gps工作原理 https://pages.longtian.info/gps/

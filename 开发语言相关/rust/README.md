@@ -50,14 +50,14 @@
 
 1. A web framework for Rust
    [https://github.com/SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket)
-1. Actix web is a small, pragmatic, and extremely fast rust web framework.
+2. Actix web is a small, pragmatic, and extremely fast rust web framework.
    [https://github.com/actix/actix-web](https://github.com/actix/actix-web)
-1. Serve the web – ergonomic async http server framework
+3. Serve the web – ergonomic async http server framework
    [https://github.com/http-rs/tide](https://github.com/http-rs/tide)
-1. An Extensible, Concurrent Web Framework for Rust
+4. An Extensible, Concurrent Web Framework for Rust
    [https://github.com/iron/iron](https://github.com/iron/iron)
-1. 完全使用rust开发的web程序
-   [https://github.com/saschagrunert/webapp.rs](https://github.com/saschagrunert/webapp.rs)
+5. 完全使用rust开发的web程序[https://github.com/saschagrunert/webapp.rs](https://github.com/saschagrunert/webapp.rs)
+6. 
 
 ### 实用 库/模块/框架
 
@@ -133,9 +133,10 @@
 62. [Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more. https://github.com/dioxuslabs/dioxus](https://github.com/dioxuslabs/dioxus)
 63. [In short, Tremor is an event processing system. It was originally designed as a replacement for software such as Logstash or Telegraf https://github.com/tremor-rs/tremor-runtime](https://github.com/tremor-rs/tremor-runtime)
 64. [Materialize是一个用于实时应用程序的流式数据库 Materialize simplifies application development with streaming data. Incrementally-updated materialized views - in PostgreSQL and in real time. Materialize is powered by Timely Dataflow https://github.com/MaterializeInc/materialize](https://github.com/MaterializeInc/materialize)
-65. 
-66. 
-67. 
+65. [A memory efficient string type that can store up to 24* bytes on the stack 一种内存高效的字符串类型，可在堆栈上存储多达 24* 个字节 https://github.com/ParkMyCar/compact_str](https://github.com/ParkMyCar/compact_str)
+66. [Safe interop between Rust and Qt https://github.com/KDAB/cxx-qt](https://github.com/KDAB/cxx-qt)
+67. [可以研究学习实现 https://docs.rs/zerocopy/0.6.0/zerocopy/](https://docs.rs/zerocopy/0.6.0/zerocopy/)
+68. 
 
 ### 完整项目/示例/demo/代码片段
 
@@ -166,7 +167,11 @@
 5. cargo-udeps 是一个了不起的项目，可帮助您分析 Rust 代码库上未使用的依赖项。您可以简单cargo install cargo-udeps地安装它。
 6. [Cargo plugin for linting your dependencies https://github.com/EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny)
 7. [Audit Cargo.lock files for dependencies with security vulnerabilities https://github.com/rustsec/rustsec](https://github.com/rustsec/rustsec)
-8. 
+8. [可以当做入门druid和wgpu的项目学习 Lapce is written in pure Rust, with UI in Druid. It's using Xi-Editor's Rope Science for text editing, and using Wgpu for rendering. More information on the website. https://hub.fastgit.xyz/lapce/lapce](https://hub.fastgit.xyz/lapce/lapce)
+9. [Compile Cargo project with zig as linker https://github.com/messense/cargo-zigbuild](https://github.com/messense/cargo-zigbuild)
+10. [wasm-pack plugin for Vite https://github.com/rwasm/vite-plugin-rsw](https://github.com/rwasm/vite-plugin-rsw)
+11. 
+12. 
 
 ### 游戏
 
@@ -186,21 +191,25 @@
 ### network tcp udp 工具库 protocol
 
 第一第二推荐 bit解析， 数据接收使用 tokio
-1. [这个比较接近 感觉可以 https://github.com/cesbo/bitwrap](https://github.com/cesbo/bitwrap)
-1. [这个比较接近 感觉可以 TODO 做一些改造 https://github.com/mengyou658/bitwrap](https://github.com/mengyou658/bitwrap)
-2. [这个也比较不错，但是没有看到动态长度协议的解析 增加了order排序 https://github.com/CirrusNeptune/modular-bitfield-msb](https://github.com/CirrusNeptune/modular-bitfield-msb)
-3. [这个也比较不错，但是没有看到动态长度协议的解析 没有大小端 https://github.com/Robbepop/modular-bitfield](https://github.com/Robbepop/modular-bitfield)
-4. [这个里面有可以借鉴的内容 https://github.com/wwylele/byte-struct-rs](https://github.com/wwylele/byte-struct-rs)
-5. [bit 协议解析 https://github.com/dzamlo/rust-bitfield](https://github.com/dzamlo/rust-bitfield)
-6. [https://crates.io/crates/bitaccess_macros](https://crates.io/crates/bitaccess_macros)
-7. [bit 协议解析 https://github.com/hashmismatch/packed_struct.rs](https://github.com/hashmismatch/packed_struct.rs)
-8. [A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ... https://github.com/tokio-rs/tokio](https://github.com/tokio-rs/tokio)
-9. [bit 操作工具类 https://github.com/bitvecto-rs/bitvec](https://github.com/bitvecto-rs/bitvec)
-10. 
-11. [Fast and easy-to-use event-driven network library. https://github.com/lemunozm/message-io](https://github.com/lemunozm/message-io)
-12. [The bitmatch crate provides tools for packing and unpacking integers as sequences of bits. Supports https://github.com/porglezomp/bitmatch](https://github.com/porglezomp/bitmatch)
-13. [https://github.com/contain-rs/bit-vec](https://github.com/contain-rs/bit-vec)
-14. 
+1. [这个比较接近 感觉可以 这个也非常不错 https://github.com/libpnet/libpnet](https://github.com/libpnet/libpnet)
+2. [这个比较接近 感觉可以 https://github.com/cesbo/bitwrap](https://github.com/cesbo/bitwrap)
+3. [这个比较接近 感觉可以 TODO 做一些改造 https://github.com/mengyou658/bitwrap](https://github.com/mengyou658/bitwrap)
+4. [这个也比较不错，但是没有看到动态长度协议的解析 增加了order排序 https://github.com/CirrusNeptune/modular-bitfield-msb](https://github.com/CirrusNeptune/modular-bitfield-msb)
+5. [这个也比较不错，但是没有看到动态长度协议的解析 没有大小端 https://github.com/Robbepop/modular-bitfield](https://github.com/Robbepop/modular-bitfield)
+6. [这个里面有可以借鉴的内容 https://github.com/wwylele/byte-struct-rs](https://github.com/wwylele/byte-struct-rs)
+7. [bit 协议解析 https://github.com/dzamlo/rust-bitfield](https://github.com/dzamlo/rust-bitfield)
+8. [https://crates.io/crates/bitaccess_macros](https://crates.io/crates/bitaccess_macros)
+9. [bit 协议解析 https://github.com/hashmismatch/packed_struct.rs](https://github.com/hashmismatch/packed_struct.rs)
+10. [A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ... https://github.com/tokio-rs/tokio](https://github.com/tokio-rs/tokio)
+11. [bit 操作工具类 https://github.com/bitvecto-rs/bitvec](https://github.com/bitvecto-rs/bitvec)
+12. 
+13. [Fast and easy-to-use event-driven network library. https://github.com/lemunozm/message-io](https://github.com/lemunozm/message-io)
+14. [The bitmatch crate provides tools for packing and unpacking integers as sequences of bits. Supports https://github.com/porglezomp/bitmatch](https://github.com/porglezomp/bitmatch)
+15. [https://github.com/contain-rs/bit-vec](https://github.com/contain-rs/bit-vec)
+16. [https://github.com/dylanmckay/protocol](https://github.com/dylanmckay/protocol)
+17. [框架模板 https://gitlab.com/leonhard-llc/fixed-buffer-rs](https://gitlab.com/leonhard-llc/fixed-buffer-rs)
+18. [https://github.com/tokio-rs/bytes](https://github.com/tokio-rs/bytes)
+19. 
 
 ### 物联网 iot 协议 protocol serial port
 

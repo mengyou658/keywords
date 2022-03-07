@@ -553,6 +553,8 @@ Hilo，一套HTML5跨终端的互动游戏解决方案。Hilo支持了多届淘�
 52. [一个基于 Tailwind 的 CSS 组件库，用法简洁，封装掉了 Tailwind CSS 的复杂性，看上去还不错 https://daisyui.com/](https://daisyui.com/)
 53. [一个极小化的 JavaScript 运行时，跟 Node.js 类似，但只有 1.8MB https://github.com/saghul/txiki.js](https://github.com/saghul/txiki.js)
 54. [nodejs 写脚本 替代bash脚本 https://github.com/google/zx](https://github.com/google/zx)
+55. [3d建模编辑器类似3dmax https://github.com/nkallen/plasticity](https://github.com/nkallen/plasticity)
+56. 
 
 ### # 文件上传
 

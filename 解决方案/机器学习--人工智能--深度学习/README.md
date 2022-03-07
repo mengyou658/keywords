@@ -664,6 +664,8 @@ NLP面试中常考到的知识点和代码实现、nlp4han:中文自然语言处
     [https://github.com/AIDungeon/AIDungeon](https://github.com/AIDungeon/AIDungeon)
 20. [An implementation of model parallel GPT2& GPT3-like models, with the ability to scale up to full GPT3 sizes (and possibly more!), using the mesh-tensorflow library. https://github.com/EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo)
 21. [Removing people from complex backgrounds in real time using TensorFlow.js in the web browser https://github.com/jasonmayes/Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal)
+22. [MegFlow 提供快速视觉应用落地流程，最快 15 分钟搭建起视频分析服务 https://github.com/MegEngine/MegFlow](https://github.com/MegEngine/MegFlow)
+23. 
 
 # 为关系数据库开发自然语言接口 自动生成sql的训练和示例
 
