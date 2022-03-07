@@ -156,7 +156,8 @@
 2. [A data-first Rust-native UI design toolkit. https://github.com/linebender/druid](https://github.com/linebender/druid)
 3. [Blazing 💥 fast terminal-ui for git written in rust 🦀 https://github.com/extrawurst/gitui](https://github.com/extrawurst/gitui)
 4. [https://github.com/AaronErhardt/relm4](https://github.com/AaronErhardt/relm4)
-5. 
+5. [https://hub.fastgit.xyz/iced-rs/iced](https://hub.fastgit.xyz/iced-rs/iced)
+6. 
 
 ### 工具
 
