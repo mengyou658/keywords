@@ -175,7 +175,7 @@
 8. [可以当做入门druid和wgpu的项目学习 Lapce is written in pure Rust, with UI in Druid. It's using Xi-Editor's Rope Science for text editing, and using Wgpu for rendering. More information on the website. https://hub.fastgit.xyz/lapce/lapce](https://hub.fastgit.xyz/lapce/lapce)
 9. [Compile Cargo project with zig as linker https://github.com/messense/cargo-zigbuild](https://github.com/messense/cargo-zigbuild)
 10. [wasm-pack plugin for Vite https://github.com/rwasm/vite-plugin-rsw](https://github.com/rwasm/vite-plugin-rsw)
-11. [https://github.com/getzola/zola](https://github.com/getzola/zola)
+11. [静态网站生成 https://github.com/getzola/zola](https://github.com/getzola/zola)
 12. 
 
 ### 游戏
