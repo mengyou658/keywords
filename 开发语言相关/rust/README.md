@@ -138,7 +138,8 @@
 67. [可以研究学习实现 https://docs.rs/zerocopy/0.6.0/zerocopy/](https://docs.rs/zerocopy/0.6.0/zerocopy/)
 68. [mock数据生成 支持直接数据库插入 https://github.com/getsynth/synth](https://github.com/getsynth/synth)
 69. [目前支持Python ruby Kotlin Swift， UniFFI - a multi-language bindings generator for Rust https://github.com/mozilla/uniffi-rs](https://github.com/mozilla/uniffi-rs)
-70. 
+70. [此项目是用于 WebAssembly 程序和 WebAssembly 嵌入的绑定生成器框架 https://github.com/bytecodealliance/wit-bindgen](https://github.com/bytecodealliance/wit-bindgen)
+71. 
 
 ### 完整项目/示例/demo/代码片段
  
@@ -149,7 +150,8 @@
 5. [actix sqlx mysql https://hub.fastgit.xyz/jamesjmeyer210/actix_sqlx_mysql_user_crud](https://hub.fastgit.xyz/jamesjmeyer210/actix_sqlx_mysql_user_crud)
 6. [actix jwt .env 比较全面的一个示例 https://hub.fastgit.xyz/ddimaria/rust-actix-example](https://hub.fastgit.xyz/ddimaria/rust-actix-example)
 7. [https://github.com/actix/actix-extras](https://github.com/actix/actix-extras)
-8. 
+8. [在控制台中渲染一个字符地球可以缩放可以转动，Interactive ASCII globe generator https://github.com/adamsky/globe](https://github.com/adamsky/globe)
+9. 
 
 ### 测试
 
@@ -248,3 +250,19 @@
 1. [cargo-smart-release](https://crates.io/crates/cargo-smart-release)
 2. [额外工作比如copy  https://github.com/LucianoBestia/cargo-auto](https://github.com/LucianoBestia/cargo-auto)
 3. [https://github.com/matklad/cargo-xtask](https://github.com/matklad/cargo-xtask)
+
+
+### 数据解析器 Comparison with similar parser generators
+| crate     	| parser type 	| action code 	| integration        	| input type             	| precedence climbing 	| parameterized rules 	| streaming input 	|
+|-----------	|-------------	|-------------	|--------------------	|------------------------	|---------------------	|--------------------	|-----------------	|
+| [peg]       	| PEG         	| in grammar  	| proc macro (block) 	| `&str`, `&[T]`, custom 	| Yes                 	| Yes                	| No              	|
+| [pest]    	| PEG         	| external    	| proc macro (file)  	| `&str`                 	| Yes                 	| No                 	| No              	|
+| [nom]     	| combinators 	| in source   	| library            	| `&[u8]`, custom        	| No                  	| Yes                	| Yes             	|
+| [lalrpop] 	| LR(1)       	| in grammar  	| build script       	| `&str`                 	| No                  	| Yes                	| No              	|
+
+1. [https://github.com/rrevenantt/antlr4rust](https://github.com/rrevenantt/antlr4rust)
+
+[peg]: https://github.com/kevinmehall/rust-peg
+[pest]: https://github.com/pest-parser/pest
+[nom]: https://github.com/geal/nom
+[lalrpop]: https://github.com/lalrpop/lalrpop
