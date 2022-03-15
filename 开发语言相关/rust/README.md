@@ -136,7 +136,9 @@
 65. [A memory efficient string type that can store up to 24* bytes on the stack 一种内存高效的字符串类型，可在堆栈上存储多达 24* 个字节 https://github.com/ParkMyCar/compact_str](https://github.com/ParkMyCar/compact_str)
 66. [Safe interop between Rust and Qt https://github.com/KDAB/cxx-qt](https://github.com/KDAB/cxx-qt)
 67. [可以研究学习实现 https://docs.rs/zerocopy/0.6.0/zerocopy/](https://docs.rs/zerocopy/0.6.0/zerocopy/)
-68. 
+68. [mock数据生成 支持直接数据库插入 https://github.com/getsynth/synth](https://github.com/getsynth/synth)
+69. [目前支持Python ruby Kotlin Swift， UniFFI - a multi-language bindings generator for Rust https://github.com/mozilla/uniffi-rs](https://github.com/mozilla/uniffi-rs)
+70. 
 
 ### 完整项目/示例/demo/代码片段
  
