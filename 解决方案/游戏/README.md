@@ -20,6 +20,7 @@
 7. https://github.com/QianMo/Awesome-Unity-Shader
 8. https://github.com/U3DC/AS4U
 9. [https://hub.fastgit.org/QianMo/Game-Programmer-Study-Notes](https://hub.fastgit.org/QianMo/Game-Programmer-Study-Notes)
+10. [https://github.com/QianMo/Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
 
 ### cheatsheet 备忘录
 
