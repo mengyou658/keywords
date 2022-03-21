@@ -139,7 +139,10 @@
 68. [mock数据生成 支持直接数据库插入 https://github.com/getsynth/synth](https://github.com/getsynth/synth)
 69. [目前支持Python ruby Kotlin Swift， UniFFI - a multi-language bindings generator for Rust https://github.com/mozilla/uniffi-rs](https://github.com/mozilla/uniffi-rs)
 70. [此项目是用于 WebAssembly 程序和 WebAssembly 嵌入的绑定生成器框架 https://github.com/bytecodealliance/wit-bindgen](https://github.com/bytecodealliance/wit-bindgen)
-71. 
+71. [QtQuick interface for Rust https://github.com/cyndis/qmlrs](https://github.com/cyndis/qmlrs)
+72. [Use C++ libraries from Rust https://github.com/rust-qt/ritual](https://github.com/rust-qt/ritual)
+73. [rust 调用qt https://rust-qt.github.io/qt/](https://rust-qt.github.io/qt/)
+74. 
 
 ### 完整项目/示例/demo/代码片段
  
@@ -165,7 +168,8 @@
 3. [Blazing 💥 fast terminal-ui for git written in rust 🦀 https://github.com/extrawurst/gitui](https://github.com/extrawurst/gitui)
 4. [https://github.com/AaronErhardt/relm4](https://github.com/AaronErhardt/relm4)
 5. [https://hub.fastgit.xyz/iced-rs/iced](https://hub.fastgit.xyz/iced-rs/iced)
-6. 
+6. [Rust bindings for Dear ImGui https://github.com/imgui-rs/imgui-rs](https://github.com/imgui-rs/imgui-rs)
+7. 
 
 ### 工具
 
@@ -180,7 +184,8 @@
 9. [Compile Cargo project with zig as linker https://github.com/messense/cargo-zigbuild](https://github.com/messense/cargo-zigbuild)
 10. [wasm-pack plugin for Vite https://github.com/rwasm/vite-plugin-rsw](https://github.com/rwasm/vite-plugin-rsw)
 11. [静态网站生成 https://github.com/getzola/zola](https://github.com/getzola/zola)
-12. 
+12. [Nickel 非常适合需要生成复杂配置的任何情况，无论是单个应用程序、计算机、整个基础结构还是构建系统 https://github.com/tweag/nickel](https://github.com/tweag/nickel)
+13. 
 
 ### 游戏
 
