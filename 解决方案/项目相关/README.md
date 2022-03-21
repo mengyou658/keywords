@@ -1804,3 +1804,5 @@ _Jupyter kernels that run and introspect the user's code in a given language._
 
 
 ### 知名网站前段复刻 https://github.com/GorvGoyl/Clone-Wars
+
+### CodeEdit macOS App https://github.com/CodeEditApp/CodeEdit

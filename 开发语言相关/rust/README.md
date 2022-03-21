@@ -5,22 +5,23 @@
 1. [https://course.rs/](https://course.rs/)
 2. [https://doc.rust-lang.org/stable/rust-by-example](https://doc.rust-lang.org/stable/rust-by-example)
 3. [https://kaisery.github.io/trpl-zh-cn/](https://kaisery.github.io/trpl-zh-cn/)
-4. [https://github.com/mre/idiomatic-rust](https://github.com/mre/idiomatic-rust)
-5. [https://rustmagazine.github.io/rust_magazine_2021](https://rustmagazine.github.io/rust_magazine_2021)
-6. [RustMagazine 中文月刊https://rustmagazine.github.io/rust_magazine_2021](https://rustmagazine.github.io/rust_magazine_2021)
-7. [https://github.com/rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)
-8. [rust 语法列表 https://cheats.rs/](https://cheats.rs/)
-9. [https://github.com/wubx/rust-in-databend](https://github.com/wubx/rust-in-databend)
-10. [https://github.com/suhanyujie/resourses](https://github.com/suhanyujie/resourses)
-11. 
-12. [https://era.co/blog/unbuffered-io-slows-rust-programs](https://era.co/blog/unbuffered-io-slows-rust-programs)
-13. [https://renato.athaydes.com/posts/how-to-write-fast-rust-code.html](https://renato.athaydes.com/posts/how-to-write-fast-rust-code.html)
-14. [https://tiemoko.com/slides/SafeAndPortableDataStructureDesign_CodeAndSupply_Dec2021.pdf](https://tiemoko.com/slides/SafeAndPortableDataStructureDesign_CodeAndSupply_Dec2021.pdf)
-15. [https://blog.adamchalmers.com/nom-chars/](https://blog.adamchalmers.com/nom-chars/)
-16. [https://federicoterzi.com/blog/12-rust-tips-and-tricks-you-might-not-know-yet](https://federicoterzi.com/blog/12-rust-tips-and-tricks-you-might-not-know-yet)
-17. [https://dev.to/sbelzile/making-games-in-rust-part-6-generating-a-map-4aic](https://dev.to/sbelzile/making-games-in-rust-part-6-generating-a-map-4aic)
-18. [https://pkolaczk.github.io/server-slower-than-a-laptop/](https://pkolaczk.github.io/server-slower-than-a-laptop/)
-19. 
+4. [https://github.com/anshulrgoyal/rust-web-developer-roadmap/blob/master/i18n/zh-CN/README-zh-CN.md](https://github.com/anshulrgoyal/rust-web-developer-roadmap/blob/master/i18n/zh-CN/README-zh-CN.md)
+5. [https://github.com/mre/idiomatic-rust](https://github.com/mre/idiomatic-rust)
+6. [https://rustmagazine.github.io/rust_magazine_2021](https://rustmagazine.github.io/rust_magazine_2021)
+7. [RustMagazine 中文月刊https://rustmagazine.github.io/rust_magazine_2021](https://rustmagazine.github.io/rust_magazine_2021)
+8. [https://github.com/rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+9. [rust 语法列表 https://cheats.rs/](https://cheats.rs/)
+10. [https://github.com/wubx/rust-in-databend](https://github.com/wubx/rust-in-databend)
+11. [https://github.com/suhanyujie/resourses](https://github.com/suhanyujie/resourses)
+12. 
+13. [https://era.co/blog/unbuffered-io-slows-rust-programs](https://era.co/blog/unbuffered-io-slows-rust-programs)
+14. [https://renato.athaydes.com/posts/how-to-write-fast-rust-code.html](https://renato.athaydes.com/posts/how-to-write-fast-rust-code.html)
+15. [https://tiemoko.com/slides/SafeAndPortableDataStructureDesign_CodeAndSupply_Dec2021.pdf](https://tiemoko.com/slides/SafeAndPortableDataStructureDesign_CodeAndSupply_Dec2021.pdf)
+16. [https://blog.adamchalmers.com/nom-chars/](https://blog.adamchalmers.com/nom-chars/)
+17. [https://federicoterzi.com/blog/12-rust-tips-and-tricks-you-might-not-know-yet](https://federicoterzi.com/blog/12-rust-tips-and-tricks-you-might-not-know-yet)
+18. [https://dev.to/sbelzile/making-games-in-rust-part-6-generating-a-map-4aic](https://dev.to/sbelzile/making-games-in-rust-part-6-generating-a-map-4aic)
+19. [https://pkolaczk.github.io/server-slower-than-a-laptop/](https://pkolaczk.github.io/server-slower-than-a-laptop/)
+20. 
 
 ### 最佳实践
 - orm
@@ -142,7 +143,12 @@
 71. [QtQuick interface for Rust https://github.com/cyndis/qmlrs](https://github.com/cyndis/qmlrs)
 72. [Use C++ libraries from Rust https://github.com/rust-qt/ritual](https://github.com/rust-qt/ritual)
 73. [rust 调用qt https://rust-qt.github.io/qt/](https://rust-qt.github.io/qt/)
-74. 
+74. [Integrate Qml and Rust by building the QMetaObject at compile time https://github.com/woboq/qmetaobject-rs](https://github.com/woboq/qmetaobject-rs)
+75. [大数据处理 速度快 Polars is a blazingly fast DataFrames library implemented in Rust using Apache Arrow Columnar Format as memory model https://github.com/pola-rs/polars](https://github.com/pola-rs/polars)
+![img.png](img.png)
+76. [https://github.com/aisk/rust-memcache](https://github.com/aisk/rust-memcache)
+77. [A native gRPC client & server implementation with async/await support. https://github.com/hyperium/tonic](https://github.com/hyperium/tonic)
+78. 
 
 ### 完整项目/示例/demo/代码片段
  
@@ -185,7 +191,8 @@
 10. [wasm-pack plugin for Vite https://github.com/rwasm/vite-plugin-rsw](https://github.com/rwasm/vite-plugin-rsw)
 11. [静态网站生成 https://github.com/getzola/zola](https://github.com/getzola/zola)
 12. [Nickel 非常适合需要生成复杂配置的任何情况，无论是单个应用程序、计算机、整个基础结构还是构建系统 https://github.com/tweag/nickel](https://github.com/tweag/nickel)
-13. 
+13. [Fuzz Rust code with LibAFL https://github.com/AFLplusplus/cargo-libafl](https://github.com/AFLplusplus/cargo-libafl)
+14. 
 
 ### 游戏
 
@@ -201,6 +208,8 @@
 3. [RTS game/engine in Rust and WebGPU https://github.com/Ruddle/oxidator](https://github.com/Ruddle/oxidator)
 4. [A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀 https://github.com/38/plotters](https://github.com/38/plotters)
 5. [The leading WebAssembly Runtime supporting WASI and Emscripten https://github.com/wasmerio/wasmer](https://github.com/wasmerio/wasmer)
+7. [https://github.com/WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge)
+6. 
 
 ### network tcp udp 工具库 protocol
 
@@ -271,3 +280,11 @@
 [pest]: https://github.com/pest-parser/pest
 [nom]: https://github.com/geal/nom
 [lalrpop]: https://github.com/lalrpop/lalrpop
+
+### QT
+1. [QtQuick interface for Rust https://github.com/cyndis/qmlrs](https://github.com/cyndis/qmlrs)
+2. [Use C++ libraries from Rust https://github.com/rust-qt/ritual](https://github.com/rust-qt/ritual)
+3. [rust 调用qt https://rust-qt.github.io/qt/](https://rust-qt.github.io/qt/)
+4. [Integrate Qml and Rust by building the QMetaObject at compile time https://github.com/woboq/qmetaobject-rs](https://github.com/woboq/qmetaobject-rs)
+
+### [rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison)
