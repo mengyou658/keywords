@@ -13,7 +13,7 @@
 9. [rust 语法列表 https://cheats.rs/](https://cheats.rs/)
 10. [https://github.com/wubx/rust-in-databend](https://github.com/wubx/rust-in-databend)
 11. [https://github.com/suhanyujie/resourses](https://github.com/suhanyujie/resourses)
-12. 
+12. [https://hub.fastgit.xyz/sunface/rust-course](https://hub.fastgit.xyz/sunface/rust-course)
 13. [https://era.co/blog/unbuffered-io-slows-rust-programs](https://era.co/blog/unbuffered-io-slows-rust-programs)
 14. [https://renato.athaydes.com/posts/how-to-write-fast-rust-code.html](https://renato.athaydes.com/posts/how-to-write-fast-rust-code.html)
 15. [https://tiemoko.com/slides/SafeAndPortableDataStructureDesign_CodeAndSupply_Dec2021.pdf](https://tiemoko.com/slides/SafeAndPortableDataStructureDesign_CodeAndSupply_Dec2021.pdf)
@@ -157,7 +157,10 @@
 83. [Rust bindings for webview, a tiny cross-platform library to render web-based GUIs for desktop applications https://github.com/Boscop/web-view](https://github.com/Boscop/web-view)
 84. [Rust wrapper for Microsoft's ONNX Runtime (version 1.8) https://github.com/nbigaouette/onnxruntime-rs](https://github.com/nbigaouette/onnxruntime-rs)
 85. [A fast, easy and strict URI parser written in Rust. https://github.com/yescallop/fluent-uri-rs](https://github.com/yescallop/fluent-uri-rs)
-86. 
+86. [This is an experimental Javascript lexer, parser and interpreter written in Rust. Currently, it has support for some of the language https://hub.fastgit.xyz/boa-dev/boa](https://hub.fastgit.xyz/boa-dev/boa)
+87. [Vector is a high-performance, end-to-end (agent & aggregator) observability data pipeline that puts you in control of your observability data https://hub.fastgit.xyz/vectordotdev/vector](https://hub.fastgit.xyz/vectordotdev/vector)
+88. 
+89. 
 
 ### 完整项目/示例/demo/代码片段
  
@@ -205,7 +208,9 @@
 11. [静态网站生成 https://github.com/getzola/zola](https://github.com/getzola/zola)
 12. [Nickel 非常适合需要生成复杂配置的任何情况，无论是单个应用程序、计算机、整个基础结构还是构建系统 https://github.com/tweag/nickel](https://github.com/tweag/nickel)
 13. [Fuzz Rust code with LibAFL https://github.com/AFLplusplus/cargo-libafl](https://github.com/AFLplusplus/cargo-libafl)
-14. 
+14. [Layout is a rust library and a stand alone utility that draws graphs. Layout can parse Graphviz dot files and render them https://hub.fastgit.xyz/nadavrot/layout](https://hub.fastgit.xyz/nadavrot/layout)
+15. [A private network system that uses WireGuard under the hood https://hub.fastgit.xyz/tonarino/innernet](https://hub.fastgit.xyz/tonarino/innernet)
+16. 
 
 ### 游戏
 

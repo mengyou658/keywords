@@ -31,32 +31,33 @@
 
 1. xadmin
    [https://github.com/mengyou658/xadmin](https://github.com/mengyou658/xadmin)
-1. Natural Language Processing (NLP) with Python and Cython / python 自然语言处理工具包
+2. Natural Language Processing (NLP) with Python and Cython / python 自然语言处理工具包
    [https://github.com/mengyou658/spaCy](https://github.com/mengyou658/spaCy)
-1. 低延迟交易执行系统
+3. 低延迟交易执行系统
    [https://github.com/mengyou658/kungfu](https://github.com/mengyou658/kungfu)
-1. Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation （可以将表情等直接复制到相似的图像中，达到同步更改人物的影像）
+4. Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation （可以将表情等直接复制到相似的图像中，达到同步更改人物的影像）
    [https://github.com/mengyou658/StarGAN](https://github.com/mengyou658/StarGAN)
-1. The easy way to send notifications 通过第三方的服务，发送通知  (Pushover SimplePush Slack Gmail Email (SMTP) Telegram Gitter
+5. The easy way to send notifications 通过第三方的服务，发送通知  (Pushover SimplePush Slack Gmail Email (SMTP) Telegram Gitter
    Pushbullet Join Hipchat Zulip)
    [https://github.com/mengyou658/notifiers](https://github.com/mengyou658/notifiers)
-1. 中文处理工具包
+6. 中文处理工具包
    [https://github.com/mengyou658/FoolNLTK](https://github.com/mengyou658/FoolNLTK)
-1. The world's simplest facial recognition api for Python and the command line 世界上最简单的人脸识别库，使用 Python
+7. The world's simplest facial recognition api for Python and the command line 世界上最简单的人脸识别库，使用 Python
    或命令行，即可识别和控制人脸。该库使用 dlib 顶尖的深度学习人脸识别技术构建，在户外脸部检测数据库基准（Labeled Faces in the Wild benchmark）上的准确率高达 99.38%。
    [https://github.com/mengyou658/face_recognition](https://github.com/mengyou658/face_recognition)
-1. 另外一个框架
+8. 另外一个框架
    [https://github.com/pallets/flask](https://github.com/pallets/flask)
-1. HTML Parsing for Humans™ (简单的html解析工具)
+9. HTML Parsing for Humans™ (简单的html解析工具)
    [https://github.com/mengyou658/requests-html](https://github.com/mengyou658/requests-html)
-1. 多数据流实时分布式分析系统 Confluo。它可以作为网络监控和诊断框架，也可以作为时序数据库和发布订阅消息系统。作为时序数据库，它的性能比其他时序数据库高出数倍，而作为发布消息订阅系统，它的吞吐量比 Kafka 高出 4 到 10
-   倍。
-   [https://github.com/ucbrise/confluo](https://github.com/ucbrise/confluo)
-1. [使用python来画流程图 visio或者powerdesigner  https://github.com/mingrammer/diagrams](https://github.com/mingrammer/diagrams)
-1. [https://github.com/facebookresearch/hiplot](https://github.com/facebookresearch/hiplot)
-1.
-1.
-1.
+10. 多数据流实时分布式分析系统 Confluo。它可以作为网络监控和诊断框架，也可以作为时序数据库和发布订阅消息系统。作为时序数据库，它的性能比其他时序数据库高出数倍，而作为发布消息订阅系统，它的吞吐量比 Kafka 高出 4 到 10
+    倍。
+    [https://github.com/ucbrise/confluo](https://github.com/ucbrise/confluo)
+11. [使用python来画流程图 visio或者powerdesigner  https://github.com/mingrammer/diagrams](https://github.com/mingrammer/diagrams)
+12. [https://github.com/facebookresearch/hiplot](https://github.com/facebookresearch/hiplot)
+13. [https://hub.fastgit.xyz/iperov/DeepFaceLive](https://hub.fastgit.xyz/iperov/DeepFaceLive)
+14. 
+15. 
+16. 
 
 ### 完整项目/示例/demo/代码片段
 
