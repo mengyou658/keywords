@@ -36,7 +36,7 @@ export all_proxy=https://goproxy.io
    [https://github.com/qcrao/Go-Questions](https://github.com/qcrao/Go-Questions)
 10. go 入门
     [https://chai2010.cn/advanced-go-programming-book/ch2-cgo/ch2-01-hello-cgo.html](https://chai2010.cn/advanced-go-programming-book/ch2-cgo/ch2-01-hello-cgo.html)
-11. 
+11. [https://www.zhihu.com/question/482042789](https://www.zhihu.com/question/482042789)
 12. 
 13. 
 
