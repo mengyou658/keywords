@@ -365,15 +365,18 @@
 ### 工具 增强
 
 1. [在我很多项目中用到的CV算法推理框架应用https://github.com/peng-zhihui/DeepVision](https://github.com/peng-zhihui/DeepVision)
-1. Streamlit — The fastest way to build custom ML tools 交互互动的可视化工具，可以快速创建交互的界面，自行调节参数 https://streamlit.io/
+2. Streamlit — The fastest way to build custom ML tools 交互互动的可视化工具，可以快速创建交互的界面，自行调节参数 https://streamlit.io/
    jasper-notebook 功能升级
    [https://github.com/streamlit/streamlit](https://github.com/streamlit/streamlit)
-1. HiPlot使理解高维数据变得容易
+3. HiPlot使理解高维数据变得容易
    [https://github.com/facebookresearch/hiplot](https://github.com/facebookresearch/hiplot)
    ![hiplot png](resources/hiplot.png)
-1. 构建机器学习API，多重框架：部署TensorFlow，PyTorch，scikit-learn和其他模型
+4. 构建机器学习API，多重框架：部署TensorFlow，PyTorch，scikit-learn和其他模型
    [https://github.com/cortexlabs/cortex](https://github.com/cortexlabs/cortex)
-1. [闪电通过将科学与工程脱钩来帮助提高生产力。从某种意义上说，它使您的代码更简洁，有点像TensorFlow的Keras。但是，这并不能控制您。它仍然是PyTorch，您可以访问所有常用的API https://github.com/PyTorchLightning/PyTorch-lightning](https://github.com/PyTorchLightning/PyTorch-lightning)
+5. [闪电通过将科学与工程脱钩来帮助提高生产力。从某种意义上说，它使您的代码更简洁，有点像TensorFlow的Keras。但是，这并不能控制您。它仍然是PyTorch，您可以访问所有常用的API https://github.com/PyTorchLightning/PyTorch-lightning](https://github.com/PyTorchLightning/PyTorch-lightning)
+6. [交互式标记工具 https://github.com/PaddlePaddle/PaddleSeg/tree/release/2.4/EISeg](https://github.com/PaddlePaddle/PaddleSeg/tree/release/2.4/EISeg)
+7. [标记工具 labelimg](https://github.com/tzutalin/labelImg)
+8. 
 
 ### 工具
 
