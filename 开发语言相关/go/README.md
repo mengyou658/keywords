@@ -37,7 +37,7 @@ export all_proxy=https://goproxy.io
 10. go 入门
     [https://chai2010.cn/advanced-go-programming-book/ch2-cgo/ch2-01-hello-cgo.html](https://chai2010.cn/advanced-go-programming-book/ch2-cgo/ch2-01-hello-cgo.html)
 11. [https://www.zhihu.com/question/482042789](https://www.zhihu.com/question/482042789)
-12. 
+12. [https://github.com/xxjwxc/uber_go_guide_cn](https://github.com/xxjwxc/uber_go_guide_cn)
 13. 
 
 ### cheatsheet 备忘录
@@ -50,8 +50,9 @@ export all_proxy=https://goproxy.io
 1. Dave Cheney 的教学记录，完整介绍了如何开发、测试、调试高性能 Go
    程序的过程，包括所有周边工具的使用和相关运行时的概念及深入分析 https://dave.cheney.net/high-performance-go-workshop/gopherchina-2019.html
    [https://github.com/davecheney/high-performance-go-workshop](https://github.com/davecheney/high-performance-go-workshop)
-1.
-1.
+2. [https://mp.weixin.qq.com/s/KqNHNs75CimBMX9cF2zwZw](https://mp.weixin.qq.com/s/KqNHNs75CimBMX9cF2zwZw)
+3. 
+4. 
 
 ### 实用 库/模块/框架
 
