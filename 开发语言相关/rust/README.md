@@ -21,7 +21,8 @@
 17. [https://federicoterzi.com/blog/12-rust-tips-and-tricks-you-might-not-know-yet](https://federicoterzi.com/blog/12-rust-tips-and-tricks-you-might-not-know-yet)
 18. [https://dev.to/sbelzile/making-games-in-rust-part-6-generating-a-map-4aic](https://dev.to/sbelzile/making-games-in-rust-part-6-generating-a-map-4aic)
 19. [https://pkolaczk.github.io/server-slower-than-a-laptop/](https://pkolaczk.github.io/server-slower-than-a-laptop/)
-20. 
+20. [硬件rust教程 https://lupyuen.github.io/articles/rusti2c](https://lupyuen.github.io/articles/rusti2c)
+21. 
 
 ### 最佳实践
 - orm
@@ -147,10 +148,16 @@
 75. [大数据处理 速度快 Polars is a blazingly fast DataFrames library implemented in Rust using Apache Arrow Columnar Format as memory model https://github.com/pola-rs/polars](https://github.com/pola-rs/polars)
 ![img.png](img.png)
 76. [https://github.com/aisk/rust-memcache](https://github.com/aisk/rust-memcache)
-77. [A native gRPC client & server implementation with async/await support. https://github.com/hyperium/tonic](https://github.com/hyperium/tonic)
-78. [https://github.com/getsentry/sentry-rust](https://github.com/getsentry/sentry-rust)
-79. [Time-manager of delayed tasks. Like crontab, but synchronous asynchronous tasks are possible scheduling, and dynamic add/cancel/remove is supported https://github.com/BinChengZhao/delay-timer](https://github.com/BinChengZhao/delay-timer)
-80. 
+77. [General key value storage for actix-web with switchable backends(redis, sled, hashmaps) https://github.com/pooyamb/actix-storage](https://github.com/pooyamb/actix-storage)
+78. [A native gRPC client & server implementation with async/await support. https://github.com/hyperium/tonic](https://github.com/hyperium/tonic)
+79. [https://github.com/getsentry/sentry-rust](https://github.com/getsentry/sentry-rust)
+80. [Time-manager of delayed tasks. Like crontab, but synchronous asynchronous tasks are possible scheduling, and dynamic add/cancel/remove is supported https://github.com/BinChengZhao/delay-timer](https://github.com/BinChengZhao/delay-timer)
+81. [Simple validation for Rust structs https://github.com/Keats/validator](https://github.com/Keats/validator)
+82. [A generic connection pool for Rust https://github.com/sfackler/r2d2](https://github.com/sfackler/r2d2)
+83. [Rust bindings for webview, a tiny cross-platform library to render web-based GUIs for desktop applications https://github.com/Boscop/web-view](https://github.com/Boscop/web-view)
+84. [Rust wrapper for Microsoft's ONNX Runtime (version 1.8) https://github.com/nbigaouette/onnxruntime-rs](https://github.com/nbigaouette/onnxruntime-rs)
+85. [A fast, easy and strict URI parser written in Rust. https://github.com/yescallop/fluent-uri-rs](https://github.com/yescallop/fluent-uri-rs)
+86. 
 
 ### 完整项目/示例/demo/代码片段
  
@@ -162,7 +169,10 @@
 6. [actix jwt .env 比较全面的一个示例 https://hub.fastgit.xyz/ddimaria/rust-actix-example](https://hub.fastgit.xyz/ddimaria/rust-actix-example)
 7. [https://github.com/actix/actix-extras](https://github.com/actix/actix-extras)
 8. [在控制台中渲染一个字符地球可以缩放可以转动，Interactive ASCII globe generator https://github.com/adamsky/globe](https://github.com/adamsky/globe)
-9. 
+9. [https://github.com/fairingrey/actix-realworld-example-app](https://github.com/fairingrey/actix-realworld-example-app)
+10. [https://github.com/SakaDream/actix-web-rest-api-with-jwt](https://github.com/SakaDream/actix-web-rest-api-with-jwt)
+11. [https://github.com/actix/examples](https://github.com/actix/examples)
+12. 
 
 ### 测试
 
@@ -171,13 +181,14 @@
 
 ### UI
 
-1. [egui 是一个易于使用的纯 Rust 图形用户界面。egui 可以在 Web 上、本机上以及您最喜欢的游戏引擎中运行。egui 旨在成为最容易使用的 Rust GUI 库，以及在 Rust 中制作 Web 应用程序的最简单方法，它可以在任何可以绘制纹理三角形的地方使用，这意味着您可以轻松地将其集成到您选择的游戏引擎中 https://github.com/emilk/egui](https://github.com/emilk/egui)
-2. [A data-first Rust-native UI design toolkit. https://github.com/linebender/druid](https://github.com/linebender/druid)
-3. [Blazing 💥 fast terminal-ui for git written in rust 🦀 https://github.com/extrawurst/gitui](https://github.com/extrawurst/gitui)
-4. [https://github.com/AaronErhardt/relm4](https://github.com/AaronErhardt/relm4)
-5. [https://hub.fastgit.xyz/iced-rs/iced](https://hub.fastgit.xyz/iced-rs/iced)
-6. [Rust bindings for Dear ImGui https://github.com/imgui-rs/imgui-rs](https://github.com/imgui-rs/imgui-rs)
-7. 
+1. [各种语言静态分析工具收集 https://github.com/analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis)
+2. [egui 是一个易于使用的纯 Rust 图形用户界面。egui 可以在 Web 上、本机上以及您最喜欢的游戏引擎中运行。egui 旨在成为最容易使用的 Rust GUI 库，以及在 Rust 中制作 Web 应用程序的最简单方法，它可以在任何可以绘制纹理三角形的地方使用，这意味着您可以轻松地将其集成到您选择的游戏引擎中 https://github.com/emilk/egui](https://github.com/emilk/egui)
+3. [A data-first Rust-native UI design toolkit. https://github.com/linebender/druid](https://github.com/linebender/druid)
+4. [Blazing 💥 fast terminal-ui for git written in rust 🦀 https://github.com/extrawurst/gitui](https://github.com/extrawurst/gitui)
+5. [https://github.com/AaronErhardt/relm4](https://github.com/AaronErhardt/relm4)
+6. [https://hub.fastgit.xyz/iced-rs/iced](https://hub.fastgit.xyz/iced-rs/iced)
+7. [Rust bindings for Dear ImGui https://github.com/imgui-rs/imgui-rs](https://github.com/imgui-rs/imgui-rs)
+8. 
 
 ### 工具
 
@@ -252,6 +263,8 @@
    3. 另外embassy and drone no_std executors allow  to provide cooperative scheduling with await syntax
    4. 嵌入式操作系统 调试打印log [https://github.com/knurling-rs/defmt](https://github.com/knurling-rs/defmt)
    5. wifi模块http://www.hi-flying.com/
+2. risc-v
+   1. [The 峨眉 (EMei) JIT/AOT backend framework https://github.com/imlyzh/emei](https://github.com/imlyzh/emei)
 
 
 ### 区块链开发
