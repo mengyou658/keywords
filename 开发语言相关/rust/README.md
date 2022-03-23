@@ -273,6 +273,8 @@
    5. wifi模块http://www.hi-flying.com/
 2. risc-v
    1. [The 峨眉 (EMei) JIT/AOT backend framework https://github.com/imlyzh/emei](https://github.com/imlyzh/emei)
+   2. [太素OS是一个用 Rust 编写的基于 RISCV 架构的操作系统，主要用于教学目的，为初学者提供参考 https://github.com/belowthetree/TisuOS](https://github.com/belowthetree/TisuOS)
+   3. [基于 RustSBI 的 labeled-RISC-V (ZCU102) 启动器 https://github.com/Gallium70/lrv-rust-bl](https://github.com/Gallium70/lrv-rust-bl)
 
 
 ### 区块链开发
