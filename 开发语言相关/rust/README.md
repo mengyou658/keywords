@@ -320,4 +320,5 @@
 1. [https://github.com/allevo/struct2swagger](https://github.com/allevo/struct2swagger)
 2. [swagger 代码生成 https://github.com/adwhit/hsr](https://github.com/adwhit/hsr)
 2. [swagger 代码生成 https://github.com/OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
+2. [swagger 代码生成 https://crates.io/crates/oapi_generator](https://crates.io/crates/oapi_generator)
 3. [poem-openapi 全家桶 https://crates.io/crates/poem-openapi](https://crates.io/crates/poem-openapi)
