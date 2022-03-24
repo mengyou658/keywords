@@ -162,7 +162,8 @@
 87. [Vector is a high-performance, end-to-end (agent & aggregator) observability data pipeline that puts you in control of your observability data https://hub.fastgit.xyz/vectordotdev/vector](https://hub.fastgit.xyz/vectordotdev/vector)
 88. [https://docs.rs/zerocopy/0.6.1/zerocopy/](https://docs.rs/zerocopy/0.6.1/zerocopy/)
 89. [https://crates.io/crates/rust-embed](https://crates.io/crates/rust-embed)
-90. 
+90. [XIU是用纯Rust开发的一款简单和安全的流媒体视频服务器，目前支持流行的三大流媒体协议包括RTMP/HLS/HTTPFLV（将来有可能支持其它协议），可以单点部署，也可以用relay功能来部署集群 https://github.com/harlanc/xiu/](https://github.com/harlanc/xiu/)
+91. 
 
 ### 完整项目/示例/demo/代码片段
  
