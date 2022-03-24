@@ -161,7 +161,7 @@
 86. [This is an experimental Javascript lexer, parser and interpreter written in Rust. Currently, it has support for some of the language https://hub.fastgit.xyz/boa-dev/boa](https://hub.fastgit.xyz/boa-dev/boa)
 87. [Vector is a high-performance, end-to-end (agent & aggregator) observability data pipeline that puts you in control of your observability data https://hub.fastgit.xyz/vectordotdev/vector](https://hub.fastgit.xyz/vectordotdev/vector)
 88. [https://docs.rs/zerocopy/0.6.1/zerocopy/](https://docs.rs/zerocopy/0.6.1/zerocopy/)
-89. 
+89. [https://crates.io/crates/rust-embed](https://crates.io/crates/rust-embed)
 90. 
 
 ### 完整项目/示例/demo/代码片段
@@ -214,6 +214,7 @@
 15. [A private network system that uses WireGuard under the hood https://hub.fastgit.xyz/tonarino/innernet](https://hub.fastgit.xyz/tonarino/innernet)
 16. [cxx2flow 是国内开发者开源的一款流程图转换工具，可将 C/C++ 代码快速转换为流程图，便于增强图表复用率与团队协作效率 https://github.com/Enter-tainer/cxx2flow](https://github.com/Enter-tainer/cxx2flow)
 17. 
+18. 
 
 ### 游戏
 
@@ -313,3 +314,10 @@
 4. [Integrate Qml and Rust by building the QMetaObject at compile time https://github.com/woboq/qmetaobject-rs](https://github.com/woboq/qmetaobject-rs)
 
 ### [rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison)
+
+
+### swagger 
+1. [https://github.com/allevo/struct2swagger](https://github.com/allevo/struct2swagger)
+2. [swagger 代码生成 https://github.com/adwhit/hsr](https://github.com/adwhit/hsr)
+2. [swagger 代码生成 https://github.com/OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
+3. [poem-openapi 全家桶 https://crates.io/crates/poem-openapi](https://crates.io/crates/poem-openapi)
