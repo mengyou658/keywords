@@ -163,7 +163,7 @@
 88. [https://docs.rs/zerocopy/0.6.1/zerocopy/](https://docs.rs/zerocopy/0.6.1/zerocopy/)
 89. [https://crates.io/crates/rust-embed](https://crates.io/crates/rust-embed)
 90. [XIU是用纯Rust开发的一款简单和安全的流媒体视频服务器，目前支持流行的三大流媒体协议包括RTMP/HLS/HTTPFLV（将来有可能支持其它协议），可以单点部署，也可以用relay功能来部署集群 https://github.com/harlanc/xiu/](https://github.com/harlanc/xiu/)
-91. 
+91. [基于CRNN（MobileNetV3_Small + LSTM）字符识别模型，使用原神字体对原神中会出现的字符串进行训练，达到更高的速度和更精确的结果。 导出结果可以导入分析工具（例如 莫娜占卜铺 ）进行配装或者其他计算由于使用了 Rust 进行编写，运行效率和文件体积都得到了很大的提升 https://github.com/wormtql/yas](https://github.com/wormtql/yas)
 
 ### 完整项目/示例/demo/代码片段
  
@@ -178,7 +178,8 @@
 9. [https://github.com/fairingrey/actix-realworld-example-app](https://github.com/fairingrey/actix-realworld-example-app)
 10. [https://github.com/SakaDream/actix-web-rest-api-with-jwt](https://github.com/SakaDream/actix-web-rest-api-with-jwt)
 11. [https://github.com/actix/examples](https://github.com/actix/examples)
-12. 
+12. [Use your tablet as graphic tablet/touch screen on your computer https://github.com/H-M-H/Weylus](https://github.com/H-M-H/Weylus)
+13. 
 
 ### 测试
 
