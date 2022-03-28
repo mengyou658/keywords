@@ -323,3 +323,10 @@
 2. [swagger 代码生成 https://github.com/OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
 2. [swagger 代码生成 https://crates.io/crates/oapi_generator](https://crates.io/crates/oapi_generator)
 3. [poem-openapi 全家桶 https://crates.io/crates/poem-openapi](https://crates.io/crates/poem-openapi)
+
+### 宏 过程宏
+1. [获取crate所在的文件 https://crates.io/crates/proc-macro-crate](https://crates.io/crates/proc-macro-crate)
+2. [解析宏属性 enables parsing attributes into structs https://crates.io/crates/darling](https://crates.io/crates/darling)
+3. [https://crates.io/crates/proc-macro2](https://crates.io/crates/proc-macro2)
+4. [https://crates.io/crates/syn](https://crates.io/crates/syn)
+5. [https://crates.io/crates/proc-macro-error](https://crates.io/crates/proc-macro-error)
