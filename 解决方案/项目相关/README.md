@@ -1126,6 +1126,7 @@ Ant Design Landing 平台拥有丰富的各类首页模板，下载模板代码�
    [https://github.com/Exrick/xmall](https://github.com/Exrick/xmall)
    [https://github.com/Exrick/xmall-weapp](https://github.com/Exrick/xmall-weapp)
 6. [塔可商城, 一个基于springboot+uniapp+vue3技术栈开发的开源跨平台小程序、管理后台，后端服务的项目，它内置提供了会员分销， 区域代理， 商品零售等功能的新零售电商系统 https://github.com/codingtalk/tacomall](https://github.com/codingtalk/tacomall)
+7. [Mall-Cook 是一个基于 vue 开发的可视化商城搭建平台，包括多页面可视化构建、Json Schema 生成器（可视化搭建物料控制面板），实现组件流水线式标准接入平台。最新版本使用 uni-app 重构物料、模板项目，支持生成 H5、小程序多端商城 https://github.com/wangyuan389/mall-cook](https://github.com/wangyuan389/mall-cook)
 
 # 一个开源的室内设计 3D 软件
 
