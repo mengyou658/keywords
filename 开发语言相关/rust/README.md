@@ -169,7 +169,11 @@
 94. [Utilities for pinning https://github.com/rust-lang-nursery/pin-utils](https://github.com/rust-lang-nursery/pin-utils)
 95. [文本换行Textwrap is a library for wrapping and indenting text https://crates.io/crates/textwrap](https://crates.io/crates/textwrap)
 96. [字符串相似性指标的 Rust 实现 https://crates.io/crates/strsim](https://crates.io/crates/strsim)
-97. 
+97. [This library provides implementations of , , and that are smaller, faster and more flexible than those in the Rust standard library, as well as a type which supports recursive locking. It also exposes a low-level API for creating your own efficient synchronization primitives.MutexRwLockCondvarOnceReentrantMutex https://crates.io/crates/parking_lot](https://crates.io/crates/parking_lot)
+98. [ defer Rust crate for a convenient RAII scope guard https://github.com/bluss/scopeguard](https://github.com/bluss/scopeguard)
+99. [多字符串搜索 Fast multiple substring searching. https://crates.io/crates/aho-corasick](https://crates.io/crates/aho-corasick)
+100. [大小端 This crate provides convenience methods for encoding and decoding numbers in either big-endian or little-endian order https://crates.io/crates/byteorder](https://crates.io/crates/byteorder)
+101. 
 
 ### 完整项目/示例/demo/代码片段
  
