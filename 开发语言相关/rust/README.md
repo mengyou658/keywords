@@ -166,7 +166,10 @@
 91. [基于CRNN（MobileNetV3_Small + LSTM）字符识别模型，使用原神字体对原神中会出现的字符串进行训练，达到更高的速度和更精确的结果。 导出结果可以导入分析工具（例如 莫娜占卜铺 ）进行配装或者其他计算由于使用了 Rust 进行编写，运行效率和文件体积都得到了很大的提升 https://github.com/wormtql/yas](https://github.com/wormtql/yas)
 92. [Fast State-of-the-Art Tokenizers optimized for Research and Production https://github.com/huggingface/tokenizers](https://github.com/huggingface/tokenizers)
 93. [Rust has lots of builtin traits that are implemented for its basic types, such as Add, Not, From or Display github.com/JelteF/derive_more](https://github.com/JelteF/derive_more)
-94. 
+94. [Utilities for pinning https://github.com/rust-lang-nursery/pin-utils](https://github.com/rust-lang-nursery/pin-utils)
+95. [文本换行Textwrap is a library for wrapping and indenting text https://crates.io/crates/textwrap](https://crates.io/crates/textwrap)
+96. [字符串相似性指标的 Rust 实现 https://crates.io/crates/strsim](https://crates.io/crates/strsim)
+97. 
 
 ### 完整项目/示例/demo/代码片段
  
