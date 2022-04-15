@@ -738,3 +738,7 @@ http://www.jezzamon.com/fourier/zh-cn.html
 
 1. [https://handsfree.js.org/](https://handsfree.js.org/)
 2. [手势识别 https://github.com/EricLee2021-72324/handpose_x](https://github.com/EricLee2021-72324/handpose_x)
+3. [https://github.com/oarriaga/paz](https://github.com/oarriaga/paz)
+4. [Human: AI-powered 3D Face Detection & Rotation Tracking, Face Description & Recognition, Body Pose Tracking, 3D Hand https://github.com/vladmandic/human](https://github.com/vladmandic/human)
+5. [gender 性别 https://github.com/thanhvie/face_recognition_webapp](https://github.com/thanhvie/face_recognition_webapp)
+6. 
