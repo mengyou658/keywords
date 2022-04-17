@@ -19,6 +19,7 @@
    [https://github.com/MingchaoZhu/InterpretableMLBook](https://github.com/MingchaoZhu/InterpretableMLBook)
 9. [一款入门级的人脸、视频、文字检测以及识别的项目 https://github.com/vipstone/faceai](https://github.com/vipstone/faceai)
 10. [https://github.com/PaddlePaddle/awesome-DeepLearning](https://github.com/PaddlePaddle/awesome-DeepLearning)
+11. [https://github.com/luoqiuluoqiu/note](https://github.com/luoqiuluoqiu/note)
 
 ### 新手入门项目
 
@@ -525,70 +526,37 @@
 1. 各种深度学习架构，模型和技巧的集合 A collection of various deep learning architectures, models, and tips
    [https://github.com/rasbt/deeplearning-models](https://github.com/rasbt/deeplearning-models)
 
-# 公开数据集，大部分免费，涵盖机器学习、自然语言处理、图像识别等领域
+# 公开数据集，大部分免费，涵盖机器学习、自然语言处理、图像识别等领域 预训练模型 pre-trained models
 
 1. TensorFlow code and pre-trained models for BERT https://arxiv.org/abs/1810.04805
    [https://github.com/google-research/bert](https://github.com/google-research/bert)
-1. 公开数据集，大部分免费，涵盖机器学习、自然语言处理、图像识别等领域
+2. 公开数据集，大部分免费，涵盖机器学习、自然语言处理、图像识别等领域
    [https://github.com/awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
-1. 这里列出50个可以用来训练模型的免费大型数据集
+3. 这里列出50个可以用来训练模型的免费大型数据集
    [https://gengo.ai/articles/the-50-best-free-datasets-for-machine-learning/](https://gengo.ai/articles/the-50-best-free-datasets-for-machine-learning/)
-1.
-中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:
-中英文跨语言百科知识图谱、清华大学人工智能技术 数据集
-涉及内容包括：中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:
-中英文跨语言百科知识图谱、清华大学人工智能技术系列报告、自然语言生成、NLU太难了系列、自动对联数据及机器人、用户名黑名单列表、罪名法务名词及分类模型、微信公众号语料、cs224n深度学习自然语言处理课程、中文手写汉字识别、中文自然语言处理
-语料/数据集、变量命名神器、分词语料库+代码、任务型对话英文数据集、ASR 语音数据集 + 基于深度学习的中文语音识别系统、笑声检测器、Microsoft多语言数字/单位/如日期时间识别包、中华新华字典数据库及api(
-包括常用歇后语、成语、词语和汉字)、文档图谱自动生成、SpaCy 中文模型、Common Voice语音识别数据集新版、神经网络关系抽取、基于bert的命名实体识别、关键词(Keyphrase)
-抽取包pke、基于医疗领域知识图谱的问答系统、基于依存句法与语义角色标注的事件三元组抽取、依存句法分析4万句高质量标注数据、cnocr：用来做中文OCR的Python3包、中文人物关系知识图谱项目、中文nlp竞赛项目及代码汇总、中文字符数据、speech-aligner:
-从“人声语音”及其“语言文本”产生音素级别时间对齐标注的工具、AmpliGraph: 知识图谱表示学习(Python)库：知识图谱概念链接预测、Scattertext 文本可视化(python)、语言/知识表示工具：BERT &
-ERNIE、中文对比英文自然语言处理NLP的区别综述、Synonyms中文近义词工具包、HarvestText领域自适应文本挖掘工具（新词发现-情感分析-实体链接等）、word2word：(Python)
-方便易用的多语言词-词对集：62种语言/3,564个多语言对、语音识别语料生成工具：从具有音频/字幕的在线视频创建自动语音识别(ASR)
-语料库、构建医疗实体识别的模型（包含词典和语料标注）、单文档非监督的关键词抽取、Kashgari中使用gpt-2语言模型、开源的金融投资数据提取工具、文本自动摘要库TextTeaser:
-仅支持英文、人民日报语料处理工具集、一些关于自然语言的基本模型、基于14W歌曲知识库的问答尝试--功能包括歌词接龙and已知歌词找歌曲以及歌曲歌手歌词三角关系的问答、基于Siamese
-bilstm模型的相似句子判定模型并提供训练数据集和测试数据集、用Transformer编解码模型实现的根据Hacker
-News文章标题自动生成评论、用BERT进行序列标记和文本分类的模板代码、LitBank：NLP数据集——支持自然语言处理和计算人文学科任务的100部带标记英文小说语料、百度开源的基准信息抽取系统、虚假新闻数据集、Facebook:
-LAMA语言模型分析，提供Transformer-XL/BERT/ELMo/GPT预训练语言模型的统一访问接口、CommonsenseQA：面向常识的英文QA挑战、中文知识图谱资料、数据及工具、各大公司内部里大牛分享的技术文档 PDF 或者
-PPT、自然语言生成SQL语句（英文）、中文NLP数据增强（EDA）工具、英文NLP数据增强工具
-、基于医药知识图谱的智能问答系统、京东商品知识图谱、基于mongodb存储的军事领域知识图谱问答项目、基于远监督的中文关系抽取、语音情感分析、中文ULMFiT-情感分析-文本分类-语料及模型、一个拍照做题程序、世界各国大规模人名库、一个利用有趣中文语料库
-qingyun
-训练出来的中文聊天机器人、中文聊天机器人seqGAN、省市区镇行政区划数据带拼音标注、教育行业新闻语料库包含自动文摘功能、开放了对话机器人-知识图谱-语义理解-自然语言处理工具及数据、中文知识图谱：基于百度百科中文页面-抽取三元组信息-构建中文知识图谱、masr:
-中文语音识别-提供预训练模型-高识别率、Python音频数据增广库、中文全词覆盖BERT及两份阅读理解数据、ConvLab：开源多域端到端对话系统平台、中文自然语言处理数据集、基于最新版本rasa搭建的对话系统、基于TensorFlow和BERT的管道式实体及关系抽取、一个小型的证券知识图谱/知识库、复盘所有NLP比赛的TOP方案、OpenCLaP：多领域开源中文预训练语言模型仓库、UER：基于不同语料+编码器+目标任务的中文预训练模型仓库、中文自然语言处理向量合集、基于金融-司法领域(
-兼有闲聊性质)的聊天机器人、g2pC：基于上下文的汉语读音自动标记模块、Zincbase
-知识图谱构建工具包、诗歌质量评价/细粒度情感诗歌语料库、快速转化「中文数字」和「阿拉伯数字」、百度知道问答语料库、基于知识图谱的问答系统、jieba_fast
-加速版的jieba、正则表达式教程、中文阅读理解数据集、基于BERT等最新语言模型的抽取式摘要提取、Python利用深度学习进行文本摘要的综合指南、知识图谱深度学习相关资料整理、维基大规模平行文本语料、StanfordNLP
-0.2.0：纯Python版自然语言处理包、NeuralNLP-NeuralClassifier：腾讯开源深度学习文本分类工具、端到端的封闭域对话系统、中文命名实体识别：NeuroNER vs.
-BertNER、新闻事件线索抽取、2019年百度的三元组抽取比赛：“科学空间队”源码、基于依存句法的开放域文本知识三元组抽取和知识库构建、中文的GPT2训练代码、ML-NLP - 机器学习(Machine Learning)
-NLP面试中常考到的知识点和代码实现、nlp4han:中文自然语言处理工具集(
-断句/分词/词性标注/组块/句法分析/语义分析/NER/N元语法/HMM/代词消解/情感分析/拼写检查、XLM：Facebook的跨语言预训练语言模型、用基于BERT的微调和特征提取方法来进行知识图谱百度百科人物词条属性抽取、中文自然语言处理相关的开放任务-数据集-当前最佳结果、CoupletAI
-- 基于CNN+Bi-LSTM+Attention 的自动对对联系统、抽象知识图谱、MiningZhiDaoQACorpus - 580万百度知道问答数据挖掘项目。
-[https://github.com/fighting41love/funNLP](https://github.com/fighting41love/funNLP)
-1. CCPD: Chinese City Parking Dataset 该存储库旨在提供用于车牌检测和识别的开源数据集
+4. [https://github.com/fighting41love/funNLP](https://github.com/fighting41love/funNLP)
+5. CCPD: Chinese City Parking Dataset 该存储库旨在提供用于车牌检测和识别的开源数据集
    [https://github.com/detectRecog/CCPD](https://github.com/detectRecog/CCPD)
-1. Dataset for couplets. 70万条对联数据库。
+6. Dataset for couplets. 70万条对联数据库。
    [https://github.com/wb14123/couplet-dataset](https://github.com/wb14123/couplet-dataset)
-1. 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词
+7. 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词
    [https://github.com/chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
-1. 中华新华字典数据库。包括歇后语，成语，词语，汉字。
+8. 中华新华字典数据库。包括歇后语，成语，词语，汉字。
    [https://github.com/pwxcoo/chinese-xinhua](https://gfithub.com/pwxcoo/chinese-xinhua)
-1. 中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据 Node.js 爬虫。
+9. 中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据 Node.js 爬虫。
    [https://github.com/modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China)
-1.
-省市区县乡镇三级或四级城市数据，带拼音标注、坐标、行政区域边界范围；2020年03月09日最新采集，综合了中华人民共和国民政部、国家统计局、高德地图、腾讯地图行政区划数据；提供csv格式文件，支持在线转成多级联动js代码、通用json格式；带浏览器里面运行的js采集源码 https://xiangyuecn.github.io/AreaCity…
-[https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov](https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov)
-1. 链家二手房爬取数据
-   [https://github.com/XuefengHuang/lianjia-scrawler](https://github.com/XuefengHuang/lianjia-scrawler)
-1. CVPR2019的数据集和代码库“在密集场景中进行精确检测”
-   [https://github.com/eg4000/SKU110K_CVPR19](https://github.com/eg4000/SKU110K_CVPR19)
-1. Pre-trained and Reproduced Deep Learning Models （『飞桨』官方模型库，包含多种学术前沿和工业场景验证的深度学习模型）
-   [https://github.com/PaddlePaddle/models](https://github.com/PaddlePaddle/models)
-   1.[https://github.com/CLUEbenchmark/CLUEDatasetSearch搜索所有中文NLP数据集，附常用英文NLP数据集](https://github.com/CLUEbenchmark/CLUEDatasetSearch)
-   1.[https://github.com/Lam1360/YOLOv3-model-pruning用 YOLOv3 模型在一个开源的人手检测数据集 oxford hand 上做人手检测，并在此基础上做模型剪枝](https://github.com/Lam1360/YOLOv3-model-pruning)
-   1.[https://github.com/skdjfla/toutiao-text-classfication-dataset中文文本分析数据集](https://github.com/skdjfla/toutiao-text-classfication-dataset)
-1.
-1.
-1.
-1.
+10. 省市区县乡镇三级或四级城市数据，带拼音标注、坐标、行政区域边界范围；2020年03月09日最新采集，综合了中华人民共和国民政部、国家统计局、高德地图、腾讯地图行政区划数据；提供csv格式文件，支持在线转成多级联动js代码、通用json格式；带浏览器里面运行的js采集源码 https://xiangyuecn.github.io/AreaCity…[https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov](https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov)
+11. 链家二手房爬取数据[https://github.com/XuefengHuang/lianjia-scrawler](https://github.com/XuefengHuang/lianjia-scrawler)
+12. CVPR2019的数据集和代码库“在密集场景中进行精确检测”
+    [https://github.com/eg4000/SKU110K_CVPR19](https://github.com/eg4000/SKU110K_CVPR19)
+13. Pre-trained and Reproduced Deep Learning Models （『飞桨』官方模型库，包含多种学术前沿和工业场景验证的深度学习模型）
+    [https://github.com/PaddlePaddle/models](https://github.com/PaddlePaddle/models)
+14. [https://github.com/CLUEbenchmark/CLUEDatasetSearch搜索所有中文NLP数据集，附常用英文NLP数据集](https://github.com/CLUEbenchmark/CLUEDatasetSearch)
+15. [https://github.com/Lam1360/YOLOv3-model-pruning用 YOLOv3 模型在一个开源的人手检测数据集 oxford hand 上做人手检测，并在此基础上做模型剪枝](https://github.com/Lam1360/YOLOv3-model-pruning)
+16. [https://github.com/skdjfla/toutiao-text-classfication-dataset中文文本分析数据集](https://github.com/skdjfla/toutiao-text-classfication-dataset)
+17. [https://github.com/achuthasubhash/Complete-Life-Cycle-of-a-Data-Science-Project](https://github.com/achuthasubhash/Complete-Life-Cycle-of-a-Data-Science-Project)
+18. 
+19. 
 
 # 笔迹识别算法
 
@@ -742,3 +710,6 @@ http://www.jezzamon.com/fourier/zh-cn.html
 4. [Human: AI-powered 3D Face Detection & Rotation Tracking, Face Description & Recognition, Body Pose Tracking, 3D Hand https://github.com/vladmandic/human](https://github.com/vladmandic/human)
 5. [gender 性别 https://github.com/thanhvie/face_recognition_webapp](https://github.com/thanhvie/face_recognition_webapp)
 6. 
+
+
+### 
