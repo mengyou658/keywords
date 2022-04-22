@@ -292,7 +292,7 @@
 108. [在线文档编辑 js库 https://github.com/yjs/yjs](https://github.com/yjs/yjs)
 109. [在线文档编辑 js库 类似yjs 使用rust wasm 比yjs更快 https://github.com/josephg/diamond-types](https://github.com/josephg/diamond-types)
 110. [在线文档编辑 js库 https://github.com/share/sharedb/](https://github.com/share/sharedb/)
-111. 
+111. [一款 HTML 演示框架。让你摆脱传统死板的 PPT 制作方法，可以方便地使用 HTML、Markdown 语言制作 PPT https://github.com/hakimel/reveal.js](https://github.com/hakimel/reveal.js)
 112. 
 
 ##### worker webworker web worker child process child_process thread node electron
