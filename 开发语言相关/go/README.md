@@ -79,7 +79,7 @@ export all_proxy=https://goproxy.io
 13. [Go library for decoding generic map values into native Go structures and vice versa. https://github.com/mitchellh/mapstructure](https://github.com/mitchellh/mapstructure)
 14. [A lightweight stream processing library for Go https://github.com/reugn/go-streams](https://github.com/reugn/go-streams)
 15. [A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...) https://github.com/samber/lo](https://github.com/samber/lo)
-16. 
+16. [ioc 框架 https://hub.fastgit.xyz/go-spring/go-spring](https://hub.fastgit.xyz/go-spring/go-spring)
 17. 
 18. 
 19. 
@@ -215,3 +215,6 @@ export all_proxy=https://goproxy.io
 1. 多语言相互转换 parser generator
    [https://github.com/github/semantic](https://github.com/github/semantic)
 
+
+### gop go plus 
+1. [https://hub.fastgit.xyz/goplus/gop](https://hub.fastgit.xyz/goplus/gop)

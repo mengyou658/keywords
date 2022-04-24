@@ -437,75 +437,76 @@
     1. CRNN文本识别 参考 https://github.com/ooooverflow/chinese-ocr
     1. BERT文本摘要
     1. GPT-2文本生成 https://github.com/imcaspar/gpt2-ml/
-1. 中文文本分类，TextCNN，TextRNN，FastText，TextRCNN，BiLSTM_Attention，DPCNN，Transformer，基于pytorch，开箱即用。
+2. 中文文本分类，TextCNN，TextRNN，FastText，TextRCNN，BiLSTM_Attention，DPCNN，Transformer，基于pytorch，开箱即用。
    [https://github.com/649453932/Chinese-Text-Classification-Pytorch](https://github.com/649453932/Chinese-Text-Classification-Pytorch)
-1. pkuseg多领域中文分词工具; The pkuseg toolkit for multi-domain Chinese word segmentation
+3. pkuseg多领域中文分词工具; The pkuseg toolkit for multi-domain Chinese word segmentation
    [https://github.com/lancopku/pkuseg-python](https://github.com/lancopku/pkuseg-python)
-1. 自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 关键词提取 新词发现 短语提取 自动摘要 文本分类 拼音简繁 http://hanlp.hankcs.com/
+4. 自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 关键词提取 新词发现 短语提取 自动摘要 文本分类 拼音简繁 http://hanlp.hankcs.com/
    [https://github.com/hankcs/HanLP](https://github.com/hankcs/HanLP)
-1. 存储库，用于跟踪自然语言处理（NLP）中的进度，包括数据集和最常用的NLP任务的当前最新技术。
+5. 存储库，用于跟踪自然语言处理（NLP）中的进度，包括数据集和最常用的NLP任务的当前最新技术。
    [https://github.com/sebastianruder/NLP-progress](https://github.com/sebastianruder/NLP-progress)
-1. Jiagu深度学习自然语言处理工具 中文分词 词性标注 命名实体识别 情感分析 新词发现 关键词
+6. Jiagu深度学习自然语言处理工具 中文分词 词性标注 命名实体识别 情感分析 新词发现 关键词
    文本摘要Jiagu以BiLSTM等模型为基础，使用大规模语料训练而成。将提供中文分词、词性标注、命名实体识别、关键词抽取、文本摘要、新词发现等常用自然语言处理功能。参考了各大工具优缺点制作，将Jiagu回馈给大家
    [https://github.com/ownthink/Jiagu](https://github.com/ownthink/Jiagu)
-1. Python 中文分词组件
+7. Python 中文分词组件
    [https://www.oschina.net/p/jieba](https://www.oschina.net/p/jieba)
-1. 轻量级 Java 中文分词器
+8. 轻量级 Java 中文分词器
    [https://www.oschina.net/p/jcseg](https://www.oschina.net/p/jcseg)
-1. Go 中文分词
+9. Go 中文分词
    [https://www.oschina.net/p/sego](https://www.oschina.net/p/sego)
-1. 可能是最准的开源中文分词
-   [https://www.oschina.net/p/foolnltk](https://www.oschina.net/p/foolnltk)
-1. 基于 n-Gram+CRF+HMM 的中文分词的 Java 实现
-   [https://www.oschina.net/p/ansj](https://www.oschina.net/p/ansj)
-1. Java 分布式中文分词组件
-   [https://www.oschina.net/p/word](https://www.oschina.net/p/word)
-1. Recursive Radical Packing Language (RRPL) is a proposal for a method of describing arbitrary Chinese characters
-   concisely while retaining their structural information. Potential fields for usage include font design and machine
-   learning. In RRPL, each Chinese character is described as a short string of numbers, symbols, and references to other
-   characters. Its syntax is inspired by markup languages such as LaTeX, as well as the traditional "米" grids used for
-   calligraphy practice.
-   用递归激进包装语言描述汉字（RRPL）递归激进打包语言（RRPL）是一种在保留结构信息的同时简明地描述任意汉字的方法的提议。可能的使用领域包括字体设计和机器学习。在RRPL中，每个中文字符被描述为一串数字，符号和对其他字符的引用。它的语法灵感来自于LaTeX等标记语言，以及用于书法练习的传统“米”网格。
-   [https://github.com/LingDong-/rrpl](https://github.com/LingDong-/rrpl)
-1. Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and
-   PyTorch. https://huggingface.co/transformers TensorFlow 2.0和PyTorch的最新自然语言处理
-   [https://github.com/huggingface/transformers](https://github.com/huggingface/transformers)
-1. CNN-RNN中文文本分类，基于TensorFlow
-   [https://github.com/gaussic/text-classification-cnn-rnn](https://github.com/gaussic/text-classification-cnn-rnn)
-1. bert中文分类实践
-   [https://github.com/NLPScott/bert-Chinese-classification-task](https://github.com/NLPScott/bert-Chinese-classification-task)
-1. 中文ULMFiT 情感分析 文本分类
-   [https://github.com/bigboNed3/chinese_ulmfit](https://github.com/bigboNed3/chinese_ulmfit)
-1. 嵌入Word2vec词向量的CNN中文文本分类
-   [https://github.com/cjymz886/text-cnn](https://github.com/cjymz886/text-cnn)
-1. CNN, LSTM, NBOW, fasttext 中文文本分类
-   [https://github.com/CementMaker/cnn_lstm_for_text_classify](https://github.com/CementMaker/cnn_lstm_for_text_classify)
-1. 使用Bert，ERNIE，进行中文文本分类
-   [https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch](https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch)
-1. 中文文本分类，TextCNN，TextRNN，FastText，TextRCNN，BiLSTM_Attention，DPCNN，Transformer，基于pytorch，开箱即用。
-   [https://github.com/649453932/Chinese-Text-Classification-Pytorch](https://github.com/649453932/Chinese-Text-Classification-Pytorch)
-1. Analyze her mood through her girlfriend's words ·女朋友聊天时的情绪波动图谱，没女朋友的可自用(雾）
-   [https://github.com/CasterWx/python-girlfriend-mood](https://github.com/CasterWx/python-girlfriend-mood)
-1. 自然语言处理入门练习
-   [https://github.com/FudanNLP/nlp-beginner](https://github.com/FudanNLP/nlp-beginner)
-1. 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M
-   [https://github.com/ouyanghuiyu/chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite)
-1. ansj分词.ict的真正java实现.分词效果速度都超过开源版的ict. 中文分词,人名识别,词性标注,用户自定义词典
-   [https://github.com/NLPchina/ansj_seg](https://github.com/NLPchina/ansj_seg)
-1. 简单易用的文本分类器。适用多种语言，自带两个预训练模型，使用预训练模型进行分类只需一行代码。使用自己的数据集进行定制训练也只需要十行代码。轻松达到高精确率，召回率。同时该库支持自定义分词算法、分类算法等。
-   [https://github.com/Windsooon/cherry](https://github.com/Windsooon/cherry)
-1. 海量中文预训练 ALBERT 模型
-   [https://github.com/brightmart/albert_zh](https://github.com/brightmart/albert_zh)
-1. 中文自然语言处理数据集
-   [https://github.com/InsaneLife/ChineseNLPCorpus](https://github.com/InsaneLife/ChineseNLPCorpus)
-1. [在自然语言处理领域中，预训练模型（Pre-trained Models）已成为非常重要的基础技术。 为了进一步促进中文信息处理的研究发展，我们发布了基于全词遮罩（Whole Word Masking）技术的中文预训练模型BERT-wwm，以及与此技术密切相关的模型：BERT-wwm-ext，RoBERTa-wwm-ext，RoBERTa-wwm-ext-large, RBT3, RBTL3。https://github.com/ymcui/Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm)
-1. [https://github.com/jbesomi/textheroTexthero是一个Python工具箱，可快速轻松地处理基于文本的数据集。Texthero非常简单易学，可以在熊猫上使用。Texthero具有与Pandas相同的表现力和力量，并有大量文献记载。Texthero是现代的，面向2020年代的程序员，几乎没有语言方面的知识。](https://github.com/jbesomi/texthero)
-1. [https://github.com/DA-southampton/NLP_ability建立这个仓库是为了梳理自然语言处理(NLP)各个方面的知识，提升自己的核心竞争力。我觉得NLP是一个值得深耕的领域，所以希望可以不停的提升自己的段位！微信公众号：NLP从入门到放弃](https://github.com/DA-southampton/NLP_ability)
-1. [https://github.com/DA-southampton/NLP_ability总结梳理自然语言处理工程师(NLP)需要积累的各方面知识，包括各种面试题，基础知识，工程能力等等，提升核心竞争力](https://github.com/DA-southampton/NLP_ability)
-1. [https://github.com/InsaneLife/ChineseNLPCorpus中文自然语言处理数据集，平时做做实验的材料](https://github.com/InsaneLife/ChineseNLPCorpus)
-1. [小米自然语言处理平台（MiNLP）具备词法、句法、语义分析等数十个功能模块 https://github.com/XiaoMi/MiNLP](https://github.com/XiaoMi/MiNLP)
-1. [运用tf实现自然场景文字检测,keras/pytorch实现ctpn+crnn+ctc实现不定长场景文字OCR识别https://github.com/xiaofengShi/CHINESE-OCR](https://github.com/xiaofengShi/CHINESE-OCR)
-1. [A Deep-Learning-Based Chinese Speech Recognition System 基于深度学习的中文语音识别系统https://github.com/nl8590687/ASRT_SpeechRecognition](https://github.com/nl8590687/ASRT_SpeechRecognition)
+10. 可能是最准的开源中文分词
+    [https://www.oschina.net/p/foolnltk](https://www.oschina.net/p/foolnltk)
+11. 基于 n-Gram+CRF+HMM 的中文分词的 Java 实现
+    [https://www.oschina.net/p/ansj](https://www.oschina.net/p/ansj)
+12. Java 分布式中文分词组件
+    [https://www.oschina.net/p/word](https://www.oschina.net/p/word)
+13. Recursive Radical Packing Language (RRPL) is a proposal for a method of describing arbitrary Chinese characters
+    concisely while retaining their structural information. Potential fields for usage include font design and machine
+    learning. In RRPL, each Chinese character is described as a short string of numbers, symbols, and references to other
+    characters. Its syntax is inspired by markup languages such as LaTeX, as well as the traditional "米" grids used for
+    calligraphy practice.
+    用递归激进包装语言描述汉字（RRPL）递归激进打包语言（RRPL）是一种在保留结构信息的同时简明地描述任意汉字的方法的提议。可能的使用领域包括字体设计和机器学习。在RRPL中，每个中文字符被描述为一串数字，符号和对其他字符的引用。它的语法灵感来自于LaTeX等标记语言，以及用于书法练习的传统“米”网格。
+    [https://github.com/LingDong-/rrpl](https://github.com/LingDong-/rrpl)
+14. Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and
+    PyTorch. https://huggingface.co/transformers TensorFlow 2.0和PyTorch的最新自然语言处理
+    [https://github.com/huggingface/transformers](https://github.com/huggingface/transformers)
+15. CNN-RNN中文文本分类，基于TensorFlow
+    [https://github.com/gaussic/text-classification-cnn-rnn](https://github.com/gaussic/text-classification-cnn-rnn)
+16. bert中文分类实践
+    [https://github.com/NLPScott/bert-Chinese-classification-task](https://github.com/NLPScott/bert-Chinese-classification-task)
+17. 中文ULMFiT 情感分析 文本分类
+    [https://github.com/bigboNed3/chinese_ulmfit](https://github.com/bigboNed3/chinese_ulmfit)
+18. 嵌入Word2vec词向量的CNN中文文本分类
+    [https://github.com/cjymz886/text-cnn](https://github.com/cjymz886/text-cnn)
+19. CNN, LSTM, NBOW, fasttext 中文文本分类
+    [https://github.com/CementMaker/cnn_lstm_for_text_classify](https://github.com/CementMaker/cnn_lstm_for_text_classify)
+20. 使用Bert，ERNIE，进行中文文本分类
+    [https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch](https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch)
+21. 中文文本分类，TextCNN，TextRNN，FastText，TextRCNN，BiLSTM_Attention，DPCNN，Transformer，基于pytorch，开箱即用。
+    [https://github.com/649453932/Chinese-Text-Classification-Pytorch](https://github.com/649453932/Chinese-Text-Classification-Pytorch)
+22. Analyze her mood through her girlfriend's words ·女朋友聊天时的情绪波动图谱，没女朋友的可自用(雾）
+    [https://github.com/CasterWx/python-girlfriend-mood](https://github.com/CasterWx/python-girlfriend-mood)
+23. 自然语言处理入门练习
+    [https://github.com/FudanNLP/nlp-beginner](https://github.com/FudanNLP/nlp-beginner)
+24. 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M
+    [https://github.com/ouyanghuiyu/chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite)
+25. ansj分词.ict的真正java实现.分词效果速度都超过开源版的ict. 中文分词,人名识别,词性标注,用户自定义词典
+    [https://github.com/NLPchina/ansj_seg](https://github.com/NLPchina/ansj_seg)
+26. 简单易用的文本分类器。适用多种语言，自带两个预训练模型，使用预训练模型进行分类只需一行代码。使用自己的数据集进行定制训练也只需要十行代码。轻松达到高精确率，召回率。同时该库支持自定义分词算法、分类算法等。
+    [https://github.com/Windsooon/cherry](https://github.com/Windsooon/cherry)
+27. 海量中文预训练 ALBERT 模型
+    [https://github.com/brightmart/albert_zh](https://github.com/brightmart/albert_zh)
+28. 中文自然语言处理数据集
+    [https://github.com/InsaneLife/ChineseNLPCorpus](https://github.com/InsaneLife/ChineseNLPCorpus)
+29. [在自然语言处理领域中，预训练模型（Pre-trained Models）已成为非常重要的基础技术。 为了进一步促进中文信息处理的研究发展，我们发布了基于全词遮罩（Whole Word Masking）技术的中文预训练模型BERT-wwm，以及与此技术密切相关的模型：BERT-wwm-ext，RoBERTa-wwm-ext，RoBERTa-wwm-ext-large, RBT3, RBTL3。https://github.com/ymcui/Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm)
+30. [https://github.com/jbesomi/textheroTexthero是一个Python工具箱，可快速轻松地处理基于文本的数据集。Texthero非常简单易学，可以在熊猫上使用。Texthero具有与Pandas相同的表现力和力量，并有大量文献记载。Texthero是现代的，面向2020年代的程序员，几乎没有语言方面的知识。](https://github.com/jbesomi/texthero)
+31. [https://github.com/DA-southampton/NLP_ability建立这个仓库是为了梳理自然语言处理(NLP)各个方面的知识，提升自己的核心竞争力。我觉得NLP是一个值得深耕的领域，所以希望可以不停的提升自己的段位！微信公众号：NLP从入门到放弃](https://github.com/DA-southampton/NLP_ability)
+32. [https://github.com/DA-southampton/NLP_ability总结梳理自然语言处理工程师(NLP)需要积累的各方面知识，包括各种面试题，基础知识，工程能力等等，提升核心竞争力](https://github.com/DA-southampton/NLP_ability)
+33. [https://github.com/InsaneLife/ChineseNLPCorpus中文自然语言处理数据集，平时做做实验的材料](https://github.com/InsaneLife/ChineseNLPCorpus)
+34. [小米自然语言处理平台（MiNLP）具备词法、句法、语义分析等数十个功能模块 https://github.com/XiaoMi/MiNLP](https://github.com/XiaoMi/MiNLP)
+35. [运用tf实现自然场景文字检测,keras/pytorch实现ctpn+crnn+ctc实现不定长场景文字OCR识别https://github.com/xiaofengShi/CHINESE-OCR](https://github.com/xiaofengShi/CHINESE-OCR)
+36. [A Deep-Learning-Based Chinese Speech Recognition System 基于深度学习的中文语音识别系统https://github.com/nl8590687/ASRT_SpeechRecognition](https://github.com/nl8590687/ASRT_SpeechRecognition)
+37. [Rust 最准确的自然语言检测库，适用于长文本和短文本 https://github.com/pemistahl/lingua-rs](https://github.com/pemistahl/lingua-rs)
 
 # 数据分析/数据可视化
 
