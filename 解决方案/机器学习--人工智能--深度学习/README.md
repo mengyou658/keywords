@@ -20,6 +20,7 @@
 9. [一款入门级的人脸、视频、文字检测以及识别的项目 https://github.com/vipstone/faceai](https://github.com/vipstone/faceai)
 10. [https://github.com/PaddlePaddle/awesome-DeepLearning](https://github.com/PaddlePaddle/awesome-DeepLearning)
 11. [https://github.com/luoqiuluoqiu/note](https://github.com/luoqiuluoqiu/note)
+12. [ deep learning for image processing including classification and object-detection etc https://github.com/WZMIAOMIAO/deep-learning-for-image-processing](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing)
 
 ### 新手入门项目
 

@@ -142,7 +142,8 @@ learning、游戏game、各种开源项目、面试等等 搜索关键词，你�
 10. [https://github.com/cxxr/better-java/blob/master/README.zh-cn.md 享受Java，新手友好](https://github.com/cxxr/better-java/blob/master/README.zh-cn.md)
 11. [https://github.com/kon9chunkit/GitHub-Chinese-Top-ChartsGitHub 中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
 12. [https://github.com.cnpmjs.org/Light-City/CPlusPlusThings C++那些事](https://github.com.cnpmjs.org/Light-City/CPlusPlusThings)
-13. 
+13. [https://github.com/doocs/source-code-hunter](https://github.com/doocs/source-code-hunter)
+14. 
 
 **c++还是要学一下的，学完，你会发现语言都是相互学习的**
 

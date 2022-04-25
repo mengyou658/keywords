@@ -179,7 +179,11 @@
 104. [Fast, efficient, and robust memory reclamation for concurrent data structures 为并发数据结构提供快速、高效且可靠的内存回收 https://github.com/ibraheemdev/seize](https://github.com/ibraheemdev/seize)
 105. [Declare your digital independence https://github.com/freenet/locutus](https://github.com/freenet/locutus)
 106. [A parser library for humans with powerful error recovery https://github.com/zesterer/chumsky](https://github.com/zesterer/chumsky)
-107. 
+107. [Simple validation for Rust structs https://github.com/Keats/validator](https://github.com/Keats/validator)
+108. [This crate provides a capability-based version of std, providing sandboxed filesystem, networking, and clock APIs. See the toplevel README.md for more information about sandboxing using capability-based security. https://crates.io/crates/cap-std](https://crates.io/crates/cap-std)
+109. [Extensions to the Rust standard library https://crates.io/crates/system-interface](https://crates.io/crates/system-interface)
+110. 
+111. 
 
 ### 完整项目/示例/demo/代码片段
  
@@ -275,7 +279,8 @@
 16. [https://github.com/dylanmckay/protocol](https://github.com/dylanmckay/protocol)
 17. [框架模板 https://gitlab.com/leonhard-llc/fixed-buffer-rs](https://gitlab.com/leonhard-llc/fixed-buffer-rs)
 18. [https://github.com/tokio-rs/bytes](https://github.com/tokio-rs/bytes)
-19. 
+19. [Easy protocol definitions in Rust https://crates.io/crates/protocol](https://crates.io/crates/protocol)
+20. 
 
 ### 物联网 iot 协议 protocol serial port
 
