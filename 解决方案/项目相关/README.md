@@ -1759,6 +1759,7 @@ _Jupyter kernels that run and introspect the user's code in a given language._
 19. nodejs 缺少大小端 [https://github.com/zswang/jpacks](https://github.com/zswang/jpacks)
 19. nodejs 缺少 bit [https://github.com/majimboo/c-struct](https://github.com/majimboo/c-struct)
 19. nodejs 缺少大小端 bit [https://github.com/sourcecaster/packme.js](https://github.com/sourcecaster/packme.js)
+6. [协议解析 https://github.com/sharksforarms/deku](https://github.com/sharksforarms/deku)
 20. 
 
 ### 波形图

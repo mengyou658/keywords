@@ -47,7 +47,8 @@
 3. [https://github.com/dslchd/tokio-cn-doc](https://github.com/dslchd/tokio-cn-doc)
 4. [https://github.com/tony612/tokio-internals](https://github.com/tony612/tokio-internals)
 5. [https://github.com/mini-lust/tutorials https://github.com/mini-lust/tutorials](https://github.com/mini-lust/tutorials)
-6. 
+6. [https://github.com/jack1232/wgpu-step-by-step](https://github.com/jack1232/wgpu-step-by-step)
+7. 
 
 ### web 框架
 
@@ -182,8 +183,9 @@
 107. [Simple validation for Rust structs https://github.com/Keats/validator](https://github.com/Keats/validator)
 108. [This crate provides a capability-based version of std, providing sandboxed filesystem, networking, and clock APIs. See the toplevel README.md for more information about sandboxing using capability-based security. https://crates.io/crates/cap-std](https://crates.io/crates/cap-std)
 109. [Extensions to the Rust standard library https://crates.io/crates/system-interface](https://crates.io/crates/system-interface)
-110. 
+110. [作者想在自己的第一个项目中处理一些非常大的二进制文件，读取它们，遍历它们，等等。 但是作者在搜索支持内存映射文件的Rust库时发现 cross-platform Rust API for memory mapped IO https://github.com/RazrFalcon/memmap2-rs](https://github.com/RazrFalcon/memmap2-rs)
 111. 
+112. 
 
 ### 完整项目/示例/demo/代码片段
  
@@ -280,6 +282,7 @@
 17. [框架模板 https://gitlab.com/leonhard-llc/fixed-buffer-rs](https://gitlab.com/leonhard-llc/fixed-buffer-rs)
 18. [https://github.com/tokio-rs/bytes](https://github.com/tokio-rs/bytes)
 19. [Easy protocol definitions in Rust https://crates.io/crates/protocol](https://crates.io/crates/protocol)
+6. [协议解析 https://github.com/sharksforarms/deku](https://github.com/sharksforarms/deku)
 20. 
 
 ### 物联网 iot 协议 protocol serial port
@@ -289,7 +292,8 @@
 3. [https://github.com/berkowski/tokio-serial](https://github.com/berkowski/tokio-serial)
 4. [Rust ZeroMQ bindings for Tokio https://github.com/cetra3/tmq](https://github.com/cetra3/tmq)
 5. [An RPC framework for Rust with a focus on ease of use https://github.com/google/tarpc](https://github.com/google/tarpc)
-6. 
+6. [协议解析 https://github.com/sharksforarms/deku](https://github.com/sharksforarms/deku)
+7. 
 
 ### 嵌入式开发 
 1. stm32
