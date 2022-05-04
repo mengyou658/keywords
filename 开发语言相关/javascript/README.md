@@ -293,7 +293,9 @@
 109. [在线文档编辑 js库 类似yjs 使用rust wasm 比yjs更快 https://github.com/josephg/diamond-types](https://github.com/josephg/diamond-types)
 110. [在线文档编辑 js库 https://github.com/share/sharedb/](https://github.com/share/sharedb/)
 111. [一款 HTML 演示框架。让你摆脱传统死板的 PPT 制作方法，可以方便地使用 HTML、Markdown 语言制作 PPT https://github.com/hakimel/reveal.js](https://github.com/hakimel/reveal.js)
-112. 
+112. [web中使用Python PyScript是一个元项目，旨在结合多种开放技术，为用户创建一个框架，以使用Python（和其他语言）在浏览器中创建复杂的应用程序 https://github.com/pyscript/pyscript](https://github.com/pyscript/pyscript)
+113. [web中使用Python Pyodide是一个基于WebAssembly的浏览器和Node.js Python发行版 https://github.com/pyodide/pyodide](https://github.com/pyodide/pyodide)
+114. 
 
 ##### worker webworker web worker child process child_process thread node electron
 
