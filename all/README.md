@@ -106,29 +106,30 @@
 
 1. 系统设计 学习如何设计大型系统 为系统设计的面试做准备
    [https://github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
-1. Writing a sqlite clone from scratch in C （教你怎么样写一个数据库）
+2. Writing a sqlite clone from scratch in C （教你怎么样写一个数据库）
    [https://github.com/cstack/db_tutorial](https://github.com/cstack/db_tutorial)
-1. 规范
+3. 规范
    [https://github.com/wearehive/project-guidelines/blob/master/README-zh.md](https://github.com/wearehive/project-guidelines/blob/master/README-zh.md)
-1. Web Security Learning (web安全)
+4. Web Security Learning (web安全)
    [https://github.com/mengyou658/Web-Security-Learning](https://github.com/mengyou658/Web-Security-Learning)
-1. A collective list of public JSON APIs for use in web development.
+5. A collective list of public JSON APIs for use in web development.
    [https://github.com/mengyou658/public-apis-1](https://github.com/mengyou658/public-apis-1)
-1. API Gateway & Microservice Management（nginx插件，api防火墙和服务治理）
+6. API Gateway & Microservice Management（nginx插件，api防火墙和服务治理）
    [https://github.com/Mashape/kong](https://github.com/Mashape/kong)
-1. spark相关笔记
+7. spark相关笔记
    [https://github.com/ColZer/DigAndBuried/](https://github.com/ColZer/DigAndBuried/)
-1. 学习教程
+8. 学习教程
    [https://github.com/clone95/Virgilio/blob/master/zh-CN/README.md](https://github.com/clone95/Virgilio/blob/master/zh-CN/README.md)
-1. 2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
+9. 2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
    [https://github.com/0voice/from_coder_to_expert](https://github.com/0voice/from_coder_to_expert)
-1. readme 模板 Various README templates & tips on writing high-quality documentation that people want to read
-   [https://github.com/kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium)
-1. 每个软件开发人员应该知道的（大多数）技术事项的集合 A collection of (mostly) technical things every software developer should know
-   [https://github.com/mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
-1. python3写的综合扫描工具，主要用来敏感文件探测(目录扫描与js泄露接口)
-   ，WAF/CDN识别，端口扫描，指纹/服务识别，操作系统识别，弱口令探测，POC扫描，SQL注入，绕过CDN，查询旁站等功能，主要用来甲方自测或乙方授权测试，请勿用来搞破坏
-   [https://github.com/al0ne/Vxscan](https://github.com/al0ne/Vxscan)
+10. readme 模板 Various README templates & tips on writing high-quality documentation that people want to read
+    [https://github.com/kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium)
+11. 每个软件开发人员应该知道的（大多数）技术事项的集合 A collection of (mostly) technical things every software developer should know
+    [https://github.com/mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
+12. python3写的综合扫描工具，主要用来敏感文件探测(目录扫描与js泄露接口)
+    ，WAF/CDN识别，端口扫描，指纹/服务识别，操作系统识别，弱口令探测，POC扫描，SQL注入，绕过CDN，查询旁站等功能，主要用来甲方自测或乙方授权测试，请勿用来搞破坏
+    [https://github.com/al0ne/Vxscan](https://github.com/al0ne/Vxscan)
+13. [用gdb学c语言 https://zhuanlan.zhihu.com/p/483372519](https://zhuanlan.zhihu.com/p/483372519)
 
 # 课程教程视频文档下载
 
