@@ -1786,9 +1786,11 @@ _Jupyter kernels that run and introspect the user's code in a given language._
 ### 中文排版
 1. [专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。 https://github.com/sivan/heti](https://github.com/sivan/heti)
 
-### ue4 
+### ue4 web ui CEF UI Unreal Engine
 
-1. [Rich HTML UI engine for UE4 https://github.com/getnamo/BLUI](https://github.com/getnamo/BLUI)
+1. [Rich HTML UI engine for UE4 https://github.com/getnamo/BLUI-Unreal](https://github.com/getnamo/BLUI-Unreal)
+2. [https://github.com/aSurgingRiver/WebView](https://github.com/aSurgingRiver/WebView)
+3. [https://github.com/microdee/Uranium](https://github.com/microdee/Uranium)
 
 ### 矢量图形
 
@@ -1800,6 +1802,7 @@ _Jupyter kernels that run and introspect the user's code in a given language._
 1. [https://github.com/mthh/contour-rs](https://github.com/mthh/contour-rs)
 2. [https://github.com/jbuckmccready/cavalier_contours](https://github.com/jbuckmccready/cavalier_contours)
 3. [https://github.com/fschutt/marching-squares](https://github.com/fschutt/marching-squares)
+4. [https://github.com/shiniu0606/ChromiumUI](https://github.com/shiniu0606/ChromiumUI)
 
 ### windows exe debug 工具intel vtune
 
