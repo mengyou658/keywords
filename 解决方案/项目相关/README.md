@@ -1287,7 +1287,8 @@ qgis mapx
 ### 数学
 
 1. [一个专门用于数学的前端可视化库 https://github.com/thoughtspile/grafar/](https://github.com/thoughtspile/grafar/)
-1. [一个用来生成数学动画视频（比如绘制函数）的 Python 库 https://github.com/3b1b/manim](https://github.com/3b1b/manim)
+2. [一个用来生成数学动画视频（比如绘制函数）的 Python 库 https://github.com/3b1b/manim](https://github.com/3b1b/manim)
+3. [数学公式可视化 www.geogebra.org/3d](www.geogebra.org/3d)
 
 ### 激光检测设备
 

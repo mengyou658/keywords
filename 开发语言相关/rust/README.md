@@ -188,7 +188,13 @@
 112. [Rust connector for the Apache AGE https://github.com/dzordzu/rust-apache-age](https://github.com/dzordzu/rust-apache-age)
 113. [Stevedore can be used as a replacement for Docker Desktop, or Mirantis Container Runtime https://github.com/slonopotamus/stevedore](https://github.com/slonopotamus/stevedore)
 114. [验证组件 Core validation logic for pydantic written in rust https://github.com/samuelcolvin/pydantic-core](https://github.com/samuelcolvin/pydantic-core)
-115. 
+115. [审核 Cargo.lock 文件是否存在具有安全漏洞的依赖项  https://github.com/rustsec/rustsec](https://github.com/rustsec/rustsec)
+116. [https://github.com/KDAB/cxx-qt/](https://github.com/KDAB/cxx-qt/)
+117. [Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.https://github.com/spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
+118. [A lightweight library that helps you detect failure of spawned async tasks without having to .await their handles. Useful when you are spawning lots of detached tasks but want to fast-fail if a panic occurs. https://github.com/kkaatii/pandet/](https://github.com/kkaatii/pandet/)
+119. [Instant messaging chat system over TCP. https://github.com/loipesmas/accord](https://github.com/loipesmas/accord)
+120. [rust unsafe code verify The Kani Rust Verifier is a bit-precise model checker for Rust.Kani is particularly useful for verifying unsafe code in Rust, where many of the language's usual guarantees are no longer checked by the compiler. Kani verifie https://github.com/model-checking/kani](https://github.com/model-checking/kani)
+121. 
 
 ### 完整项目/示例/demo/代码片段
  
@@ -375,3 +381,7 @@
 ### tokio async 异步 
 1. tokio
 2. [A small and fast async runtime for Rust https://github.com/smol-rs/smol](https://github.com/smol-rs/smol)
+
+
+### go in rust 
+1. [Go语言规范非的官方实现，用于Rust项目的内嵌或封装。https://github.com/oxfeeefeee/goscript](https://github.com/oxfeeefeee/goscript)
