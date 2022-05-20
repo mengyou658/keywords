@@ -184,8 +184,11 @@
 108. [This crate provides a capability-based version of std, providing sandboxed filesystem, networking, and clock APIs. See the toplevel README.md for more information about sandboxing using capability-based security. https://crates.io/crates/cap-std](https://crates.io/crates/cap-std)
 109. [Extensions to the Rust standard library https://crates.io/crates/system-interface](https://crates.io/crates/system-interface)
 110. [作者想在自己的第一个项目中处理一些非常大的二进制文件，读取它们，遍历它们，等等。 但是作者在搜索支持内存映射文件的Rust库时发现 cross-platform Rust API for memory mapped IO https://github.com/RazrFalcon/memmap2-rs](https://github.com/RazrFalcon/memmap2-rs)
-111. 
-112. 
+111. [cache An embedded key-value database in pure Rust https://github.com/cberner/redb](https://github.com/cberner/redb)
+112. [Rust connector for the Apache AGE https://github.com/dzordzu/rust-apache-age](https://github.com/dzordzu/rust-apache-age)
+113. [Stevedore can be used as a replacement for Docker Desktop, or Mirantis Container Runtime https://github.com/slonopotamus/stevedore](https://github.com/slonopotamus/stevedore)
+114. [验证组件 Core validation logic for pydantic written in rust https://github.com/samuelcolvin/pydantic-core](https://github.com/samuelcolvin/pydantic-core)
+115. 
 
 ### 完整项目/示例/demo/代码片段
  
@@ -239,7 +242,7 @@
 14. [Layout is a rust library and a stand alone utility that draws graphs. Layout can parse Graphviz dot files and render them https://hub.fastgit.xyz/nadavrot/layout](https://hub.fastgit.xyz/nadavrot/layout)
 15. [A private network system that uses WireGuard under the hood https://hub.fastgit.xyz/tonarino/innernet](https://hub.fastgit.xyz/tonarino/innernet)
 16. [cxx2flow 是国内开发者开源的一款流程图转换工具，可将 C/C++ 代码快速转换为流程图，便于增强图表复用率与团队协作效率 https://github.com/Enter-tainer/cxx2flow](https://github.com/Enter-tainer/cxx2flow)
-17. 
+17. [Command-line tool to make Rust source code entities from Postgres tables https://github.com/spanasik/pg2rs](https://github.com/spanasik/pg2rs)
 18. 
 
 ### 游戏
@@ -258,7 +261,9 @@
 5. [The leading WebAssembly Runtime supporting WASI and Emscripten https://github.com/wasmerio/wasmer](https://github.com/wasmerio/wasmer)
 6. [https://github.com/WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge)
 7. [Zaplib is an open-source library for speeding up web applications using Rust and WebAssembly. It lets you write high-performance code in Rust, alongside your existing JavaScript code, using simple APIs https://github.com/Zaplib/zaplib](https://github.com/Zaplib/zaplib)
-8. 
+8. [Standalone JIT-style runtime for WebAssembly, using Cranelift https://github.com/bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime)
+9. 
+10. 
 
 ### network tcp udp 工具库 protocol
 
@@ -365,3 +370,8 @@
 
 ### postgres prepared statements
 1. [https://github.com/LouisGariepy/cornucopia](https://github.com/LouisGariepy/cornucopia)
+
+
+### tokio async 异步 
+1. tokio
+2. [A small and fast async runtime for Rust https://github.com/smol-rs/smol](https://github.com/smol-rs/smol)
