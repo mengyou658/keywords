@@ -51,7 +51,7 @@ export all_proxy=https://goproxy.io
    程序的过程，包括所有周边工具的使用和相关运行时的概念及深入分析 https://dave.cheney.net/high-performance-go-workshop/gopherchina-2019.html
    [https://github.com/davecheney/high-performance-go-workshop](https://github.com/davecheney/high-performance-go-workshop)
 2. [https://mp.weixin.qq.com/s/KqNHNs75CimBMX9cF2zwZw](https://mp.weixin.qq.com/s/KqNHNs75CimBMX9cF2zwZw)
-3. 
+3. [https://github.com/Mikaelemmmm/go-zero-looklook](https://github.com/Mikaelemmmm/go-zero-looklook)
 4. 
 
 ### 实用 库/模块/框架
@@ -80,49 +80,50 @@ export all_proxy=https://goproxy.io
 14. [A lightweight stream processing library for Go https://github.com/reugn/go-streams](https://github.com/reugn/go-streams)
 15. [A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...) https://github.com/samber/lo](https://github.com/samber/lo)
 16. [ioc 框架 https://hub.fastgit.xyz/go-spring/go-spring](https://hub.fastgit.xyz/go-spring/go-spring)
-17. 
+17. [Multi-Cloud Object Storage 对象存储服务 https://github.com/minio/minio](https://github.com/minio/minio)
 18. 
 19. 
 
 ### 完整项目/示例/demo/代码片段
 
-1. 也简单，可以作为基础的一个参考，beego + vue前后端分离个人博客
+1. [干净基础的代码模板 Clean Architecture template for Golang services https://github.com/evrone/go-clean-template](https://github.com/evrone/go-clean-template)
+2. 也简单，可以作为基础的一个参考，beego + vue前后端分离个人博客
    [https://github.com/louyan/go-vue-blog](https://github.com/louyan/go-vue-blog)
-2. 基于Golang解决的长连接并发服务器框架 一步一步教你，做Zinx框架的项目制作采用编码和学习教程同步进行，将开发的全部递进和迭代思维带入教程中，而不是一下子给大家一个非常完整的框架去学习，让很多人一头雾水，不知道该如何学起
+3. 基于Golang解决的长连接并发服务器框架 一步一步教你，做Zinx框架的项目制作采用编码和学习教程同步进行，将开发的全部递进和迭代思维带入教程中，而不是一下子给大家一个非常完整的框架去学习，让很多人一头雾水，不知道该如何学起
    [https://github.com/aceld/zinx](https://github.com/aceld/zinx)
-3. 成果、价值、进度管理系统——基于golang
+4. 成果、价值、进度管理系统——基于golang
    go语言（beego框架），本系统方便为工程师团队统计工作量，进行成果校审流程，对工程师进行价值评测，据此进行效益分配。系统既可以运行于个人电脑，也可以放到服务器上。本系统包含了EngineerCMS所有功能。
    [https://github.com/mengyou658/meritms](https://github.com/mengyou658/meritms)
-4. 工程师知识管理系统：基于golang
+5. 工程师知识管理系统：基于golang
    go语言（beego框架）。每个行业都有自己的知识管理系统，engineercms旨在为土木工程师们打造一款适用的基于web的知识管理系统。它既可以用于管理个人的项目资料，也可以用于管理项目团队资料；它既可以运行于个人电脑，也可以放到服务器上。支持onlyoffice实时文档协作，直接在线编辑dwg文件、office文档，预览PDF文件。通用的文档流程设置。手机端配套小程序，微信搜索“珠三角设代”或“青少儿书画”即可呼出小程序。 https://zsj.itdos.com/
    [https://github.com/3xxx/engineercms](https://github.com/3xxx/engineercms)
-5. 一个简单直观的bug管理系统，但不仅仅只是一个bug管理系统，IT人员工作流程，go+vue
+6. 一个简单直观的bug管理系统，但不仅仅只是一个bug管理系统，IT人员工作流程，go+vue
    [https://github.com/hyahm/ITflow](https://github.com/hyahm/ITflow)
-6. 简单，界面还可以。 beego+layui+mysql 开发 简洁美观的个人博客系统
+7. 简单，界面还可以。 beego+layui+mysql 开发 简洁美观的个人博客系统
    [https://github.com/Echosong/beego_blog](https://github.com/Echosong/beego_blog)
-7. 太简单，太老了，暂时不用。基于beego框架的cms系统
+8. 太简单，太老了，暂时不用。基于beego框架的cms系统
    [https://github.com/linbaozhong/go-cms](https://github.com/linbaozhong/go-cms)
-8. moshopserver小程序商城后台系统
+9. moshopserver小程序商城后台系统
    [https://github.com/tumobi/nideshop-mini-program](https://github.com/tumobi/nideshop-mini-program)
-9. 使用的前端技术有点老，暂时不用 beego RBAC 权限 文章 简单的cms blog
-   [https://github.com/mengyou658/rabbit](https://github.com/mengyou658/rabbit)
-10. OPMS项目+OA管理系统 协同办公 beego
+10. 使用的前端技术有点老，暂时不用 beego RBAC 权限 文章 简单的cms blog
+    [https://github.com/mengyou658/rabbit](https://github.com/mengyou658/rabbit)
+11. OPMS项目+OA管理系统 协同办公 beego
     [https://github.com/lock-upme/OPMS](https://github.com/lock-upme/OPMS)
-11. 基于go开发的一款新的开发语言，可以参考从头开始学习语言的设计
+12. 基于go开发的一款新的开发语言，可以参考从头开始学习语言的设计
     [https://github.com/vlang/v](https://github.com/vlang/v)
-12. BookStack，基于MinDoc，使用Beego开发的在线文档管理系统，功能类似Gitbook和看云
+13. BookStack，基于MinDoc，使用Beego开发的在线文档管理系统，功能类似Gitbook和看云
     [https://github.com/TruthHun/BookStack](https://github.com/TruthHun/BookStack)
-13. Golang实现的基于beego框架的接口在线文档管理系统 https://www.iminho.me
+14. Golang实现的基于beego框架的接口在线文档管理系统 https://www.iminho.me
     [https://github.com/lifei6671/mindoc](https://github.com/lifei6671/mindoc)
-14. 一个轻量级网络混淆代理，基于 SOCKS5 协议，可用来代替 Shadowsocks
+15. 一个轻量级网络混淆代理，基于 SOCKS5 协议，可用来代替 Shadowsocks
     [https://github.com/gwuhaolin/lightsocks](https://github.com/gwuhaolin/lightsocks)
-15. 从Chrome中获取自动保存的用户名密码
+16. 从Chrome中获取自动保存的用户名密码
     [https://github.com/cckuailong/HackChrome](https://github.com/cckuailong/HackChrome)
-16. 
 17. 
 18. 
 19. 
 20. 
+21. 
 
 ### 测试
 
