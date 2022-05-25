@@ -126,93 +126,94 @@ Hilo，一套HTML5跨终端的互动游戏解决方案。Hilo支持了多届淘�
 
 # 安全相关、性能相关 信息收集自动化工具 安全扫描 漏洞扫描 攻击
 
-1. 应急响应实战笔记，一个安全工程师的自我修养
+1. [本项目集成了全网优秀的攻防工具项目，包含自动化利用，子域名、敏感目录、端口等扫描，各大中间件，cms漏洞利用工具以及应急响应等资料 https://hub.fastgit.xyz/guchangan1/All-Defense-Tool](https://hub.fastgit.xyz/guchangan1/All-Defense-Tool)
+2. 应急响应实战笔记，一个安全工程师的自我修养
    [https://github.com/Bypass007/Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes)
-2. 一个匿名作者写的渗透攻击教程，主要用于 Windows 主机。"适用于初中级安全从业人员，乙方安全测试，甲方安全自检，网络安全爱好者等，企业安全防护与提高"。
+3. 一个匿名作者写的渗透攻击教程，主要用于 Windows 主机。"适用于初中级安全从业人员，乙方安全测试，甲方安全自检，网络安全爱好者等，企业安全防护与提高"。
    [https://github.com/Micropoor/Micro8](https://github.com/Micropoor/Micro8)
-3. HAProxy 是一个负载均衡服务器，自带过滤 HTTP 请求的功能，可以防止应用层的 DDOS 攻击，这方面比 nginx 更强大
+4. HAProxy 是一个负载均衡服务器，自带过滤 HTTP 请求的功能，可以防止应用层的 DDOS 攻击，这方面比 nginx 更强大
    http://www.haproxy.org/#down
-4. 安全思维导图集合
+5. 安全思维导图集合
    [https://github.com/SecWiki/sec-chart](https://github.com/SecWiki/sec-chart)
-5. 各种安全相关思维导图整理收集
+6. 各种安全相关思维导图整理收集
    [https://github.com/phith0n/Mind-Map](https://github.com/phith0n/Mind-Map)
-6. Scanners
+7. Scanners
    Box是一个集合github平台上的安全行业从业者自研开源扫描器的仓库，包括子域名枚举、数据库漏洞扫描、弱口令或信息泄漏扫描、端口扫描、指纹识别以及其他大型扫描器或模块化扫描器，同时该仓库只收录各位网友自己编写的一般性开源扫描器，类似awvs、nmap、w3af等知名扫描工具不收录
    [https://github.com/We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box)
    1.Security Guide for Developers (实用性开发人员安全须知) https://git.io/security
    [https://github.com/FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers)
-7. 一系列安全须知
+8. 一系列安全须知
    www.freebuf.com/articles/web/135278.html
-8. nginx + lua api 网关限流
+9. nginx + lua api 网关限流
    http://mp.weixin.qq.com/s/1C9ucY2Cbc2_8yK1IfVTMQ
-9. 分布式系统的流量防卫兵 随着微服务的流行，服务和服务之间的稳定性变得越来越重要。Sentinel 以流量为切入点，从流量控制、熔断降级、系统负载保护等多个维度保护服务的稳定性。
-   [https://github.com/alibaba/Sentinel](https://github.com/alibaba/Sentinel)
-10. 性能
+10. 分布式系统的流量防卫兵 随着微服务的流行，服务和服务之间的稳定性变得越来越重要。Sentinel 以流量为切入点，从流量控制、熔断降级、系统负载保护等多个维度保护服务的稳定性。
+    [https://github.com/alibaba/Sentinel](https://github.com/alibaba/Sentinel)
+11. 性能
     http://mp.weixin.qq.com/s/eW0ptVDqGO3kfHpX_GMn9w
-11. Nginx反向代理，负载均衡，redis session共享，keepalived高可用
+12. Nginx反向代理，负载均衡，redis session共享，keepalived高可用
     http://mp.weixin.qq.com/s/P4jwsiZwTdDGoQdRu8Flww
-12. Nginx configuration static analyzer nginx安全配置扫描
+13. Nginx configuration static analyzer nginx安全配置扫描
     [https://github.com/yandex/gixy](https://github.com/yandex/gixy)
-13. 它在Nginx的基础上，针对大访问量网站的需求，添加了很多高级功能和特性
+14. 它在Nginx的基础上，针对大访问量网站的需求，添加了很多高级功能和特性
     [https://github.com/alibaba/tengine](https://github.com/alibaba/tengine)
-14. NGINX-based Media Streaming Server http://nginx-rtmp.blogspot.com
+15. NGINX-based Media Streaming Server http://nginx-rtmp.blogspot.com
     [https://github.com/mengyou658/nginx-rtmp-module](https://github.com/mengyou658/nginx-rtmp-module)
-15. Embed the Power of Lua into NGINX HTTP servers lua for nginx
+16. Embed the Power of Lua into NGINX HTTP servers lua for nginx
     [https://github.com/mengyou658/lua-nginx-module](https://github.com/mengyou658/lua-nginx-module)
-16. SecLists is the security tester's companion. It is a collection of multiple types of lists used during security
+17. SecLists is the security tester's companion. It is a collection of multiple types of lists used during security
     assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many
     more. SecLists 是安全测试人员的手册，它是在安全评估中使用的多种测试类型的列表集合，类型包括用户名，密码，URL，敏感数据，模糊内容，Web shells 等等。
     [https://github.com/mengyou658/SecLists](https://github.com/mengyou658/SecLists)
-17. DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a
+18. DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a
     secure default, but offers a lot of configurability and hooks. 防止html xss 攻击工具
     [https://github.com/mengyou658/DOMPurify](https://github.com/mengyou658/DOMPurify)
-18. Clean up user-submitted HTML, preserving whitelisted elements and whitelisted attributes on a per-element basis.
+19. Clean up user-submitted HTML, preserving whitelisted elements and whitelisted attributes on a per-element basis.
     Built on htmlparser2 for speed and tolerance. 防止html xss 攻击工具
     [https://github.com/mengyou658/sanitize-html](https://github.com/mengyou658/sanitize-html)
-19. Hacker101 is a free class for web security
+20. Hacker101 is a free class for web security
     [https://github.com/mengyou658/hacker101](https://github.com/mengyou658/hacker101)
-20. 基于项目的学习教程
+21. 基于项目的学习教程
     [https://github.com/mengyou658/project-based-learning](https://github.com/mengyou658/project-based-learning)
-21. 页面性能分析和优化工具 Google 的网页性能优化工具
+22. 页面性能分析和优化工具 Google 的网页性能优化工具
     http://developers.google.cn/speed/pagespeed/insights/
     [https://developers.google.com/speed/pagespeed/insights/](https://developers.google.com/speed/pagespeed/insights/)
-22. A memory profiler for Linux 内存分析
+23. A memory profiler for Linux 内存分析
     [https://github.com/nokia/memory-profiler](https://github.com/nokia/memory-profiler)
-23. 应急响应实战笔记，一个安全工程师的自我修养
+24. 应急响应实战笔记，一个安全工程师的自我修养
     [https://github.com/Bypass007/Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes)
-24. 个人域渗透学习笔记
+25. 个人域渗透学习笔记
     [https://github.com/uknowsec/Active-Directory-Pentest-Notes](https://github.com/uknowsec/Active-Directory-Pentest-Notes)
-25. 鼓舞人心清单，手册，备忘，博客，黑客，单行，CLI /网络工具和更多的集合
+26. 鼓舞人心清单，手册，备忘，博客，黑客，单行，CLI /网络工具和更多的集合
     [https://github.com/trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
-26. BurpSuite收集：包括不限于 Burp 文章、破解版、插件(非BApp Store)、汉化等相关教程 web攻击 安全防御
+27. BurpSuite收集：包括不限于 Burp 文章、破解版、插件(非BApp Store)、汉化等相关教程 web攻击 安全防御
     [https://github.com/Mr-xn/BurpSuite-collections](https://github.com/Mr-xn/BurpSuite-collections)
-27. ATTCK-PenTester-Book 由DeadEye安全团队根据ATT&CK知识体系编制出长达400页的渗透手册已经全部完成。现将该手册发放给大家，希望大家在即将到来的播种季节播种知识的种子，等待年底收获满满！！！
+28. ATTCK-PenTester-Book 由DeadEye安全团队根据ATT&CK知识体系编制出长达400页的渗透手册已经全部完成。现将该手册发放给大家，希望大家在即将到来的播种季节播种知识的种子，等待年底收获满满！！！
     [https://github.com/Dm2333/ATTCK-PenTester-Book](https://github.com/Dm2333/ATTCK-PenTester-Book)
-28. OneForAll是一款功能强大的子域收集工具 https://hackfun.org/OneForAll/ 在渗透测试中信息收集的重要性不言而喻，子域收集是信息收集中必不可少且非常重要的一环，目前网上也开源了许多子域收集的工具
+29. OneForAll是一款功能强大的子域收集工具 https://hackfun.org/OneForAll/ 在渗透测试中信息收集的重要性不言而喻，子域收集是信息收集中必不可少且非常重要的一环，目前网上也开源了许多子域收集的工具
     [https://github.com/shmilylty/OneForAll](https://github.com/shmilylty/OneForAll)
-29. Mars(战神)——资产发现、子域名枚举、C段扫描、资产变更监测、端口变更监测、域名解析变更监测、Awvs扫描、POC检测、web指纹探测、端口指纹探测、CDN探测、操作系统指纹探测、泛解析探测、WAF探测、敏感信息检测等等
+30. Mars(战神)——资产发现、子域名枚举、C段扫描、资产变更监测、端口变更监测、域名解析变更监测、Awvs扫描、POC检测、web指纹探测、端口指纹探测、CDN探测、操作系统指纹探测、泛解析探测、WAF探测、敏感信息检测等等
     [https://github.com/TideSec/Mars](https://github.com/TideSec/Mars)
 30.当企业被攻击者入侵，系统被挂暗链、内容遭到恶意篡改，服务器出现异常链接、卡顿等情况时，需要进行紧急处理，使系统在最短时间内恢复正常。由于应急处理往往时间紧，所以尝试将应急中常见处理方法整合到脚本中，可自动化实现部分应急工作。应急脚本采用python2.0完成，由于所有需要执行的命令都是依靠ssh进行远程链接，所以在运行脚本之前，需要输入正确的主机ip地址、ssh远程连接端口、ssh远程登录账户、ssh远程登录密码。https://github.com/tide-emergency/yingji
-30. Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files
+31. Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files
     .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber
     security & computer science resources. 安全 骇客
     [https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)
     [https://github.com/tide-emergency/yingji](https://github.com/tide-emergency/yingji)
-31. 渗透测试有关的POC、EXP、脚本、提权、小工具等
+32. 渗透测试有关的POC、EXP、脚本、提权、小工具等
     [https://github.com/Mr-xn/Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC)
-32. Web 端口敲门的奇思妙想 ，先敲门，然后再放行
+33. Web 端口敲门的奇思妙想 ，先敲门，然后再放行
     [https://github.com/EtherDream/js-port-knocking](https://github.com/EtherDream/js-port-knocking)
-33. [EHole是一款对资产中重点系统指纹识别的工具，在红队作战中，信息收集是必不可少的环节，如何才能从大量的资产中提取有用的系统(如OA、VPN、Weblogic...)。EHole旨在帮助红队人员在信息收集期间能够快速从C段、大量杂乱的资产中精准定位到易被攻击的系统，从而实施进一步攻击。https://github.com/ShiHuang-ESec/EHole](https://github.com/ShiHuang-ESec/EHole)
-34. [红队作战中比较常遇到的一些重点系统漏洞整理。https://github.com/r0eXpeR/redteam_vul](https://github.com/r0eXpeR/redteam_vul)
-35. [信息收集自动化工具 只需要输入根域名即可全方位收集相关资产，并检测漏洞 https://github.com/0x727/ShuiZe_0x727](https://github.com/0x727/ShuiZe_0x727)
-36. [个人维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup https://github.com/No-Github/1earn](https://github.com/No-Github/1earn)
-37. [开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) https://github.com/veo/vscan](https://github.com/veo/vscan)
-38. [ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。 https://github.com/TophantTechnology/ARL](https://github.com/TophantTechnology/ARL)
-39. [SpringBoot 相关漏洞学习资料，利用方法和技巧合集，黑盒安全评估 check list https://github.com/EdgeSecurityTeam/Vulnerability](https://github.com/EdgeSecurityTeam/Vulnerability)
-40. [面向开发人员梳理的代码安全指南，旨在梳理API层面的风险点并提供详实可行的安全编码方案 基于DevSecOps理念，我们希望用开发者更易懂的方式阐述安全编码方案，引导从源头规避漏洞 https://github.com/Tencent/secguide](https://github.com/Tencent/secguide)
-41. [Fofa平台采集工具 https://github.com/tangxiaofeng7/Fofa-collect](https://github.com/tangxiaofeng7/Fofa-collect)
-42. 
+34. [EHole是一款对资产中重点系统指纹识别的工具，在红队作战中，信息收集是必不可少的环节，如何才能从大量的资产中提取有用的系统(如OA、VPN、Weblogic...)。EHole旨在帮助红队人员在信息收集期间能够快速从C段、大量杂乱的资产中精准定位到易被攻击的系统，从而实施进一步攻击。https://github.com/ShiHuang-ESec/EHole](https://github.com/ShiHuang-ESec/EHole)
+35. [红队作战中比较常遇到的一些重点系统漏洞整理。https://github.com/r0eXpeR/redteam_vul](https://github.com/r0eXpeR/redteam_vul)
+36. [信息收集自动化工具 只需要输入根域名即可全方位收集相关资产，并检测漏洞 https://github.com/0x727/ShuiZe_0x727](https://github.com/0x727/ShuiZe_0x727)
+37. [个人维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup https://github.com/No-Github/1earn](https://github.com/No-Github/1earn)
+38. [开源、轻量、快速、跨平台 的红队(redteam)外网打点扫描器，功能 端口扫描(port scan) 指纹识别(fingerprint) nday检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz) https://github.com/veo/vscan](https://github.com/veo/vscan)
+39. [ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。 https://github.com/TophantTechnology/ARL](https://github.com/TophantTechnology/ARL)
+40. [SpringBoot 相关漏洞学习资料，利用方法和技巧合集，黑盒安全评估 check list https://github.com/EdgeSecurityTeam/Vulnerability](https://github.com/EdgeSecurityTeam/Vulnerability)
+41. [面向开发人员梳理的代码安全指南，旨在梳理API层面的风险点并提供详实可行的安全编码方案 基于DevSecOps理念，我们希望用开发者更易懂的方式阐述安全编码方案，引导从源头规避漏洞 https://github.com/Tencent/secguide](https://github.com/Tencent/secguide)
+42. [Fofa平台采集工具 https://github.com/tangxiaofeng7/Fofa-collect](https://github.com/tangxiaofeng7/Fofa-collect)
 43. 
+44. 
 
 # 微服务
 
@@ -656,9 +657,10 @@ Flink使用了流处理的内核，同时提供了流处理和批处理的接口
    [https://github.com/mengyou658/past](https://github.com/mengyou658/past)
 1. scrypt 是内存依赖型的POW算法 这是目前为止最难破解的
 
-# rust 语言
+# 新 开发 语言
 
-总体感觉是如果有一门语言能够取代C++，那么它只可能是Rust
+1. 总体感觉是如果有一门语言能够取代C++，那么它只可能是Rust
+2. [用rust编写的语言 跟rust有一拼 Jakt is a memory-safe systems programming language It currently transpiles to C++  https://hub.fastgit.xyz/SerenityOS/jakt](https://hub.fastgit.xyz/SerenityOS/jakt)
 
 # 自动驾驶
 
