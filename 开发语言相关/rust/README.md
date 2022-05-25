@@ -194,7 +194,13 @@
 118. [A lightweight library that helps you detect failure of spawned async tasks without having to .await their handles. Useful when you are spawning lots of detached tasks but want to fast-fail if a panic occurs. https://github.com/kkaatii/pandet/](https://github.com/kkaatii/pandet/)
 119. [Instant messaging chat system over TCP. https://github.com/loipesmas/accord](https://github.com/loipesmas/accord)
 120. [rust unsafe code verify The Kani Rust Verifier is a bit-precise model checker for Rust.Kani is particularly useful for verifying unsafe code in Rust, where many of the language's usual guarantees are no longer checked by the compiler. Kani verifie https://github.com/model-checking/kani](https://github.com/model-checking/kani)
-121. 
+121. [DLHN ( Pronounced the same as "Dullahan" ) is a language and platform neutral binary serialization format that is inspired by JSON, CSV, MessagePack, and Protocol Buffers. It is designed for blazing fast serialization and deserialization with the smallest possible data size without the need for schema file. However, we are also considering supporting schema file in the future https://github.com/otake84/dlhn](https://github.com/otake84/dlhn)
+122. hybrid_array
+123. [Redis compatible server framework for Rust 用于 Rust 的 Redis 兼容服务器框架 https://github.com/tidwall/redcon.rs](https://github.com/tidwall/redcon.rs)
+124. [一种多任务调度内核 单物理线程任务优先级+时间片调度 https://github.com/gqf2008/xtask](https://github.com/gqf2008/xtask)
+125. [该项目旨在成为一个简单且可移植的层，旨在在其上制作自己的多媒体应用程序，而无需过多担心特定于平台的代码 Cross-platform multimedia layer https://github.com/Nazariglez/notan/](https://github.com/Nazariglez/notan/)
+126. 
+127. 
 
 ### 完整项目/示例/demo/代码片段
  
@@ -249,7 +255,10 @@
 15. [A private network system that uses WireGuard under the hood https://hub.fastgit.xyz/tonarino/innernet](https://hub.fastgit.xyz/tonarino/innernet)
 16. [cxx2flow 是国内开发者开源的一款流程图转换工具，可将 C/C++ 代码快速转换为流程图，便于增强图表复用率与团队协作效率 https://github.com/Enter-tainer/cxx2flow](https://github.com/Enter-tainer/cxx2flow)
 17. [Command-line tool to make Rust source code entities from Postgres tables https://github.com/spanasik/pg2rs](https://github.com/spanasik/pg2rs)
-18. 
+18. [修改cargo相关依赖版本深层依赖版本，patch https://gatowololo.github.io/blog/cargo-patch/](https://gatowololo.github.io/blog/cargo-patch/)
+19. [Pinging.net - Monitor Your Internet Connection https://github.com/benhansenslc/pinging](https://github.com/benhansenslc/pinging)
+20. [暗黑模式开关是一个项目中常用的功能，为了减少后续新项目的工作量，所以封装了这个组件 https://github.com/dishait/vue-dark-switch](https://github.com/dishait/vue-dark-switch)
+21. 
 
 ### 游戏
 
@@ -320,6 +329,8 @@
    4. [RISC-V Supervisor Binary Interface (SBI) implementation in Rust; runs on M-mode. https://github.com/rustsbi/rustsbi/](https://github.com/rustsbi/rustsbi/)
 3. 嵌入式开发入门
    1. [https://space.bilibili.com/500416539/channel/collectiondetail?sid=177577](https://space.bilibili.com/500416539/channel/collectiondetail?sid=177577)
+4. [一种多任务调度内核 单物理线程任务优先级+时间片调度 https://github.com/gqf2008/xtask](https://github.com/gqf2008/xtask)
+5. 
 
 ### 区块链开发
 

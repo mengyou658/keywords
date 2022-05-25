@@ -421,7 +421,7 @@ Hilo，一套HTML5跨终端的互动游戏解决方案。Hilo支持了多届淘�
 1. ui设计列表 Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools
    and much more
    [https://github.com/bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
-1.
+2. [20220525 Vue 3.2 + TypeScript + Pinia + Vite2 + Element-Plus 管理系统 https://github.com/HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin)
 
 [https://uidesigndaily.com/](https://uidesigndaily.com/)
 
