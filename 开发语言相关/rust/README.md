@@ -199,7 +199,7 @@
 123. [Redis compatible server framework for Rust 用于 Rust 的 Redis 兼容服务器框架 https://github.com/tidwall/redcon.rs](https://github.com/tidwall/redcon.rs)
 124. [一种多任务调度内核 单物理线程任务优先级+时间片调度 https://github.com/gqf2008/xtask](https://github.com/gqf2008/xtask)
 125. [该项目旨在成为一个简单且可移植的层，旨在在其上制作自己的多媒体应用程序，而无需过多担心特定于平台的代码 Cross-platform multimedia layer https://github.com/Nazariglez/notan/](https://github.com/Nazariglez/notan/)
-126. 
+126. [The Rust Implementation of the libp2p networking stack https://hub.fastgit.xyz/libp2p/rust-libp2p](https://hub.fastgit.xyz/libp2p/rust-libp2p)
 127. 
 
 ### 完整项目/示例/demo/代码片段
