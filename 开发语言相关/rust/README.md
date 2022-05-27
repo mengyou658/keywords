@@ -397,3 +397,8 @@
 
 ### go in rust 
 1. [Go语言规范非的官方实现，用于Rust项目的内嵌或封装。https://github.com/oxfeeefeee/goscript](https://github.com/oxfeeefeee/goscript)
+
+
+### mapstruct orkia 相关 mapstruct rust 实现 map a struct to another on in rust 
+1. [生成rust代码 Provides a builder API for generating Rust code https://github.com/carllerche/codegen](https://github.com/carllerche/codegen)
+2. [使用From和Into手动实现 https://doc.rust-lang.org/std/convert/trait.From.html](https://doc.rust-lang.org/std/convert/trait.From.html)
