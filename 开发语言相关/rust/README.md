@@ -403,3 +403,10 @@
 1. [生成rust代码 Provides a builder API for generating Rust code https://github.com/carllerche/codegen](https://github.com/carllerche/codegen)
 2. [使用From和Into手动实现 https://doc.rust-lang.org/std/convert/trait.From.html](https://doc.rust-lang.org/std/convert/trait.From.html)
 3. [https://stackoverflow.com/questions/62575384/how-does-one-map-a-struct-to-another-one-in-rust](https://stackoverflow.com/questions/62575384/how-does-one-map-a-struct-to-another-one-in-rust)
+4. [思路：使用宏来impl From来实现，代码可以sync和qute来生成，格式化用rust-fmt命令]
+```rust
+Command::new("rustfmt")
+                    .arg(dir.join(name))
+                    .spawn()?
+                    .wait()?;
+```
