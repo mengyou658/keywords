@@ -200,7 +200,9 @@
 124. [一种多任务调度内核 单物理线程任务优先级+时间片调度 https://github.com/gqf2008/xtask](https://github.com/gqf2008/xtask)
 125. [该项目旨在成为一个简单且可移植的层，旨在在其上制作自己的多媒体应用程序，而无需过多担心特定于平台的代码 Cross-platform multimedia layer https://github.com/Nazariglez/notan/](https://github.com/Nazariglez/notan/)
 126. [The Rust Implementation of the libp2p networking stack https://hub.fastgit.xyz/libp2p/rust-libp2p](https://hub.fastgit.xyz/libp2p/rust-libp2p)
-127. 
+127. [rust 继承https://docs.rs/crate/extends-rs/](https://docs.rs/crate/extends-rs/)
+128. [给其他你不拥有的类添加新的方法，Create extensions for types you don't own with extension traits but without the boilerplate https://github.com/davidpdrsn/extend.git](https://github.com/davidpdrsn/extend.git)
+129. 
 
 ### 完整项目/示例/demo/代码片段
  
