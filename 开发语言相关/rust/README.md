@@ -206,7 +206,8 @@
 127. [rust 继承https://docs.rs/crate/extends-rs/](https://docs.rs/crate/extends-rs/)
 128. [给其他你不拥有的类添加新的方法，Create extensions for types you don't own with extension traits but without the boilerplate https://github.com/davidpdrsn/extend.git](https://github.com/davidpdrsn/extend.git)
 129. [一个简单的文件管理上传服务 https://hub.fastgit.xyz/tree-sitter/tree-sitter](https://hub.fastgit.xyz/tree-sitter/tree-sitter)
-130. 
+130. [p2p rust 实现 https://hub.fastgit.xyz/libp2p/rust-libp2p](https://hub.fastgit.xyz/libp2p/rust-libp2p)
+131. 
 
 ### 完整项目/示例/demo/代码片段
  
@@ -417,3 +418,7 @@ Command::new("rustfmt")
      .spawn()?
      .wait()?;
 ```
+
+### 类似 rust 的新 语言 lang
+1. [代码最终转义成c++ https://hub.fastgit.xyz/SerenityOS/jakt](https://hub.fastgit.xyz/SerenityOS/jakt)
+2. []
