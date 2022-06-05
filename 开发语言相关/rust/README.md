@@ -48,7 +48,10 @@
 4. [https://github.com/tony612/tokio-internals](https://github.com/tony612/tokio-internals)
 5. [https://github.com/mini-lust/tutorials https://github.com/mini-lust/tutorials](https://github.com/mini-lust/tutorials)
 6. [https://github.com/jack1232/wgpu-step-by-step](https://github.com/jack1232/wgpu-step-by-step)
-7. 
+7. [强类型化的诅咒 https://fasterthanli.me/articles/the-curse-of-strong-typing](https://fasterthanli.me/articles/the-curse-of-strong-typing)
+8. [https://flakm.github.io/posts/heap_allocation/](https://flakm.github.io/posts/heap_allocation/)
+9. [https://conradludgate.com/posts/macros_match](https://conradludgate.com/posts/macros_match)
+10. 
 
 ### web 框架
 
@@ -236,7 +239,8 @@
 5. [https://github.com/AaronErhardt/relm4](https://github.com/AaronErhardt/relm4)
 6. [https://hub.fastgit.xyz/iced-rs/iced](https://hub.fastgit.xyz/iced-rs/iced)
 7. [Rust bindings for Dear ImGui https://github.com/imgui-rs/imgui-rs](https://github.com/imgui-rs/imgui-rs)
-8. 
+8. [https://elkowar.github.io/eww/](https://elkowar.github.io/eww/)
+9. 
 
 ### 工具
 
@@ -408,7 +412,7 @@
 4. [思路：使用宏来impl From来实现，代码可以sync和qute来生成，格式化用rust-fmt命令]
 ```rust
 Command::new("rustfmt")
-                    .arg(dir.join(name))
-                    .spawn()?
-                    .wait()?;
+     .arg(dir.join(name))
+     .spawn()?
+     .wait()?;
 ```
