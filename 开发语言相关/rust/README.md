@@ -382,9 +382,12 @@
 ### swagger 
 1. [https://github.com/allevo/struct2swagger](https://github.com/allevo/struct2swagger)
 2. [swagger 代码生成 https://github.com/adwhit/hsr](https://github.com/adwhit/hsr)
-2. [swagger 代码生成 https://github.com/OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
-2. [swagger 代码生成 https://crates.io/crates/oapi_generator](https://crates.io/crates/oapi_generator)
-3. [poem-openapi 全家桶 https://crates.io/crates/poem-openapi](https://crates.io/crates/poem-openapi)
+3. [swagger 代码生成 https://github.com/OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
+4. [swagger 代码生成 https://crates.io/crates/oapi_generator](https://crates.io/crates/oapi_generator)
+5. [poem-openapi 全家桶 https://crates.io/crates/poem-openapi](https://crates.io/crates/poem-openapi)
+6. [rocket 架子使用 https://github.com/GREsau/okapi](https://github.com/GREsau/okapi)
+7. [https://github.com/paperclip-rs/paperclip](https://github.com/paperclip-rs/paperclip)
+8. 
 
 ### 宏 过程宏
 1. [获取crate所在的文件 https://crates.io/crates/proc-macro-crate](https://crates.io/crates/proc-macro-crate)
