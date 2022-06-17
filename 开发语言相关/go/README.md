@@ -119,7 +119,7 @@ export all_proxy=https://goproxy.io
     [https://github.com/gwuhaolin/lightsocks](https://github.com/gwuhaolin/lightsocks)
 16. 从Chrome中获取自动保存的用户名密码
     [https://github.com/cckuailong/HackChrome](https://github.com/cckuailong/HackChrome)
-17. 
+17. [A well tested and comprehensive Golang statistics library / package / module with no dependencies https://github.com/montanaflynn/stats](https://github.com/montanaflynn/stats)
 18. 
 19. 
 20. 

@@ -23,7 +23,8 @@
 19. [https://pkolaczk.github.io/server-slower-than-a-laptop/](https://pkolaczk.github.io/server-slower-than-a-laptop/)
 20. [硬件rust教程 https://lupyuen.github.io/articles/rusti2c](https://lupyuen.github.io/articles/rusti2c)
 21. [Easy to use RDMA API in Rust async https://github.com/datenlord/async-rdma](https://github.com/datenlord/async-rdma)
-22. 
+22. [https://github.com/CleanCut/ultimate_rust_crash_course](https://github.com/CleanCut/ultimate_rust_crash_course)
+23. 
 
 ### 最佳实践
 - orm
@@ -33,12 +34,16 @@
 - web 
 3. [A full-featured and easy-to-use web framework with the Rust programming language.](https://github.com/poem-web/poem)
 4. [https://github.com/actix/actix-web](https://github.com/actix/actix-web)
-5. 
+5. [go-zero 实战 https://github.com/zhoushuguang/lebron](https://github.com/zhoushuguang/lebron)
+6. 
 
-### cheatsheet 备忘录
+### cheatsheet 备忘录 面试
 
-1.
-1.
+1. [https://flakm.github.io/posts/rust_interview_questions/](https://flakm.github.io/posts/rust_interview_questions/)
+2. 
+
+### 浏览器扩展工具
+1. [显示cargo.toml 中依赖相关信息 https://chrome.google.com/webstore/detail/createhub/ipcffemefdnmgnhkpdkenddfoebpejei](https://chrome.google.com/webstore/detail/createhub/ipcffemefdnmgnhkpdkenddfoebpejei)
 
 ### 教程/文章/小抄/规范/记事
 
@@ -207,7 +212,14 @@
 128. [给其他你不拥有的类添加新的方法，Create extensions for types you don't own with extension traits but without the boilerplate https://github.com/davidpdrsn/extend.git](https://github.com/davidpdrsn/extend.git)
 129. [一个简单的文件管理上传服务 https://hub.fastgit.xyz/tree-sitter/tree-sitter](https://hub.fastgit.xyz/tree-sitter/tree-sitter)
 130. [p2p rust 实现 https://hub.fastgit.xyz/libp2p/rust-libp2p](https://hub.fastgit.xyz/libp2p/rust-libp2p)
-131. 
+131. [动态模板引擎是阿里巴巴优酷技术团队研发的一套轻量级的纯Native动态化卡片跨端解决方案 https://github.com/alibaba/GaiaX](https://github.com/alibaba/GaiaX)
+132. [High-performance QEMU memory and instruction tracing https://github.com/MarginResearch/cannoli](https://github.com/MarginResearch/cannoli)
+133. [mirrord lets you easily mirror traffic from your production environment to your development environment https://github.com/metalbear-co/mirrord](https://github.com/metalbear-co/mirrord)
+134. [BLAKE3 cryptographic hash https://github.com/oconnor663/bao](https://github.com/oconnor663/bao)
+135. [BLAKE3 cryptographic hash https://github.com/BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3)
+136. [BLAKE3 cryptographic hash https://github.com/rmw-lib/blake3_merkle](https://github.com/rmw-lib/blake3_merkle)
+137. [Unofficial transmute-free Rust library to work with the Arrow format https://github.com/jorgecarleitao/arrow2](https://github.com/jorgecarleitao/arrow2)
+138. 
 
 ### 完整项目/示例/demo/代码片段
  
