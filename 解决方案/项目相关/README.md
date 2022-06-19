@@ -1184,36 +1184,37 @@ http://www.sweethome3d.com/
 
 # BI(Business Intelligence)商务智能 用来帮助企业更好地利用数据提高决策质量的技术集合，是从大量的数据中钻取信息与知识的过程
 
-1. superset
+1. [数据大屏 https://gitee.com/MTrun/big-screen-vue-datav](https://gitee.com/MTrun/big-screen-vue-datav)
+2. [数据大屏 https://gitee.com/memeda520/IofTV-Screen](https://gitee.com/memeda520/IofTV-Screen)
+3. superset
    [https://github.com/apache/incubator-superset](https://github.com/apache/incubator-superset)
-2. Actively curated list of awesome BI tools. PRs welcome!
+4. Actively curated list of awesome BI tools. PRs welcome!
    [https://github.com/thenaturalist/awesome-business-intelligence](https://github.com/thenaturalist/awesome-business-intelligence)
-3. 数据可视化等等
+5. 数据可视化等等
    [https://github.com/shzlw/poli](https://github.com/shzlw/poli)
-4. 数据可视化，只能用数据库作为数据源
+6. 数据可视化，只能用数据库作为数据源
    [https://www.metabase.com/start/other.html](https://www.metabase.com/start/other.html)
-5. [一款免费的数据可视化工具，报表与大屏设计！类似于excel操作风格，在线拖拽完成报表设计！功能涵盖: 报表设计、图形报表、打印设计、大屏设计等，永久免费！https://github.com/zhangdaiscott/JimuReport](https://github.com/zhangdaiscott/JimuReport)
-6. [人人可用的开源数据可视化分析工具https://github.com/dataease/dataease](https://github.com/dataease/dataease)
-7. [Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布) https://github.com/DataV-Team/DataV](https://github.com/DataV-Team/DataV)
-8. [低代码 可视化 拖拽大屏 https://github.com/zzcandor/lowcode-dashboard](https://github.com/zzcandor/lowcode-dashboard)
-9. [AJ-Report是一个完全开源，拖拽编辑的可视化设计工具。三步快速完成大屏：配置数据源---->写SQL配置数据集---->拖拽生成大屏。让管理层随时随地掌控业务动态，让每个决策都有数据支撑。 https://github.com/anji-plus/report](https://github.com/anji-plus/report)
-10. [数据可视化,大屏, 支持Echarts,SQL,API,VUE,可用于Jupyter, 比pyecharts容易, 极低门槛,拿来即用,比拖拽方便,项目插件或独立平台皆可, 简单, 敏捷, 高效, 通用化, 高度可定制化,为你完全打通前后端, 图形数据联动, 筛选开发毫无压力, 数据缓存处理机制让报表快人一步 https://github.com/JohnYan2017/SmartCharts.git](https://github.com/JohnYan2017/SmartCharts.git)
-11. [大屏数据可视化，轻业务开发，低代码平台，可视化编辑器，支持图层锁定、群组、对齐、排序，支持使用react、vue2和vue3自定义组件，支持拖拽可视化布局、事件交互、动态脚本、跨终端交互同步和跨屏联动交互 https://github.com/drinkjs/mojito.git](https://github.com/drinkjs/mojito.git)
-12. [大数据可视化基于 koa ,mysql,mogongdb，socket.io 进行开发，整合系统配置(用户，角色，菜单权限，大屏权限)，结合数据源配置（数据库连接，api 连接，excel 导入），指标通过连接数据库，输入现成sql 语句,或者api，或者excel产生指标数据.后台起另外进程 node-schedule 达到 每 60 s (避免语句过长，卡住)根据指标库，更新指标库 content 实现 实时数据 。后台 通过配置组件，传输前端，拖拽生产大屏， 同时 通过 socket.io 根据不同 角色推送大屏 组件，以及数据结构。实现大屏整体更新。 结合 vue-cli 前端 传递信息进行实时遥控切换 https://github.com/xxn123456/big-screen-server.git](https://github.com/xxn123456/big-screen-server.git)
-13. https://github.com/alibaba/DataX
-14. https://gitee.com/MTrun/big-screen-vue-datav
-15. [大屏数据可视化 Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布) http://datav.jiaminghi.com https://github.com/DataV-Team/DataV](https://github.com/DataV-Team/DataV)
-16. [一款免费的数据可视化工具，报表与大屏设计！类似于excel操作风格，在线拖拽完成报表设计！功能涵盖: 报表设计、图形报表、打印设计、大屏设计等，永久免费！https://github.com/zhangdaiscott/JimuReport](https://github.com/zhangdaiscott/JimuReport)
-17. http://datav.jiaminghi.com/guide/
-18. https://github.com/datavi/datav
-19. https://github.com/ddiu8081/ChartFun
-20. https://github.com/lizhensheng/vue-data-view
-21. https://github.com/DataV-Team/DataV
-22. https://github.com/yyhsong/iDataV
-23. https://github.com/L-noodle/vue-big-screen
-24. https://github.com/hzzly/credit-bi-react
-25. https://github.com/guohaiqiangwork/bigData
-26. https://github.com/pengxiaotian/datav-vue
+7. [一款免费的数据可视化工具，报表与大屏设计！类似于excel操作风格，在线拖拽完成报表设计！功能涵盖: 报表设计、图形报表、打印设计、大屏设计等，永久免费！https://github.com/zhangdaiscott/JimuReport](https://github.com/zhangdaiscott/JimuReport)
+8. [人人可用的开源数据可视化分析工具https://github.com/dataease/dataease](https://github.com/dataease/dataease)
+9. [Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布) https://github.com/DataV-Team/DataV](https://github.com/DataV-Team/DataV)
+10. [低代码 可视化 拖拽大屏 https://github.com/zzcandor/lowcode-dashboard](https://github.com/zzcandor/lowcode-dashboard)
+11. [AJ-Report是一个完全开源，拖拽编辑的可视化设计工具。三步快速完成大屏：配置数据源---->写SQL配置数据集---->拖拽生成大屏。让管理层随时随地掌控业务动态，让每个决策都有数据支撑。 https://github.com/anji-plus/report](https://github.com/anji-plus/report)
+12. [数据可视化,大屏, 支持Echarts,SQL,API,VUE,可用于Jupyter, 比pyecharts容易, 极低门槛,拿来即用,比拖拽方便,项目插件或独立平台皆可, 简单, 敏捷, 高效, 通用化, 高度可定制化,为你完全打通前后端, 图形数据联动, 筛选开发毫无压力, 数据缓存处理机制让报表快人一步 https://github.com/JohnYan2017/SmartCharts.git](https://github.com/JohnYan2017/SmartCharts.git)
+13. [大屏数据可视化，轻业务开发，低代码平台，可视化编辑器，支持图层锁定、群组、对齐、排序，支持使用react、vue2和vue3自定义组件，支持拖拽可视化布局、事件交互、动态脚本、跨终端交互同步和跨屏联动交互 https://github.com/drinkjs/mojito.git](https://github.com/drinkjs/mojito.git)
+14. [大数据可视化基于 koa ,mysql,mogongdb，socket.io 进行开发，整合系统配置(用户，角色，菜单权限，大屏权限)，结合数据源配置（数据库连接，api 连接，excel 导入），指标通过连接数据库，输入现成sql 语句,或者api，或者excel产生指标数据.后台起另外进程 node-schedule 达到 每 60 s (避免语句过长，卡住)根据指标库，更新指标库 content 实现 实时数据 。后台 通过配置组件，传输前端，拖拽生产大屏， 同时 通过 socket.io 根据不同 角色推送大屏 组件，以及数据结构。实现大屏整体更新。 结合 vue-cli 前端 传递信息进行实时遥控切换 https://github.com/xxn123456/big-screen-server.git](https://github.com/xxn123456/big-screen-server.git)
+15. https://github.com/alibaba/DataX
+16. [大屏数据可视化 Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布) http://datav.jiaminghi.com https://github.com/DataV-Team/DataV](https://github.com/DataV-Team/DataV)
+17. [一款免费的数据可视化工具，报表与大屏设计！类似于excel操作风格，在线拖拽完成报表设计！功能涵盖: 报表设计、图形报表、打印设计、大屏设计等，永久免费！https://github.com/zhangdaiscott/JimuReport](https://github.com/zhangdaiscott/JimuReport)
+18. http://datav.jiaminghi.com/guide/
+19. https://github.com/datavi/datav
+20. https://github.com/ddiu8081/ChartFun
+21. https://github.com/lizhensheng/vue-data-view
+22. https://github.com/DataV-Team/DataV
+23. https://github.com/yyhsong/iDataV
+24. https://github.com/L-noodle/vue-big-screen
+25. https://github.com/hzzly/credit-bi-react
+26. https://github.com/guohaiqiangwork/bigData
+27. https://github.com/pengxiaotian/datav-vue
 
 ### vn.py是一套基于Python的开源量化交易系统开发框架，于2015年1月正式发布，在开源社区6年持续不断的贡献下一步步成长为全功能量化交易平台，目前国内外金融机构用户已经超过500家，包括：私募基金、证券自营和资管、期货资管和子公司、高校研究机构、自营交易公司、交易所、Token Fund等。
 
