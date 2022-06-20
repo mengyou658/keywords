@@ -40,14 +40,24 @@
 2. [https://github.com/rumblefrog/lrthrome](https://github.com/rumblefrog/lrthrome)
 3. 
 
-### 开发参考
+### 开发参考 tcp udp server protocol
 
 1. [https://github.com/tokio-rs/mini-redis](https://github.com/tokio-rs/mini-redis)
 2. [https://github.com/cesbo/bitwrap](https://github.com/cesbo/bitwrap)
 3. [https://github.com/rumblefrog/lrthrome](https://github.com/rumblefrog/lrthrome)
 4. [https://github.com/Dooskington/grubbnet.git](https://github.com/Dooskington/grubbnet.git)
-5. 
-6. 
+5. 这个作为基础，非tokio 一个封装好的类库，https://github.com/Dooskington/grubbnet.git
+6. 这个作为基础，作为基础，有限流等，https://github.com/rumblefrog/lrthrome
+7. ratelimit_meter 需要切换到最新的 governor
+8. 这个作为基础，非tokio 参考api设计，https://github.com/eduardvercaemer/srve
+9. 这个作为基础，参考api设计，https://github.com/luyikk/tcp_server
+10. 
+11. 这个是协议定义宏，bitwrap-extra
+12. 这个参考封装，https://github.com/tokio-rs/mini-redis
+13. https://github.com/stohrendorf/haunted-coop
+14. 
+15. 
+16. 
 
 ### 测试
 
