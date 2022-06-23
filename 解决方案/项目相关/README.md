@@ -319,6 +319,7 @@ Hilo，一套HTML5跨终端的互动游戏解决方案。Hilo支持了多届淘�
       1. 基于 WIRE 的依赖注入 -- 依赖注入本身的作用是解决了各个模块间层级依赖繁琐的初始化过程，使用示例可以参考https://github.com/LyricTian/gin-admin，[https://github.com/google/wire](https://github.com/google/wire)
       2. 基于 uber/fx 实现依赖注入 基于https://github.com/uber-go/fx，参考示例https://github.com/RealLiuSha/echo-admin
    2. 加入 https://github.com/flipped-aurora/gin-vue-admin 工作流
+   3. 常用给的数据处理，lodash用来处理数据 https://github.com/samber/lo
 5. [推荐1 go ruoyi-vue 都包含工作流 goframe （gfast数据查询得自己拼接sql，哭gf得orm就是得自己拼接sql） https://gitee.com/tiger1103/gfast](https://gitee.com/tiger1103/gfast)
    3. 考虑加入依赖注入
       1. 基于 WIRE 的依赖注入 -- 依赖注入本身的作用是解决了各个模块间层级依赖繁琐的初始化过程，使用示例可以参考https://github.com/LyricTian/gin-admin，[https://github.com/google/wire](https://github.com/google/wire)
