@@ -58,6 +58,7 @@
 14. 
 15. 
 16. 
+17. 
 
 ### 完整项目/示例/demo/代码片段
 
@@ -141,5 +142,7 @@
 21. [采集|免费|优质|的机场订阅链接；科学上网，从娃娃抓起！https://github.com/QIN2DIM/V2RayCloudSpider](https://github.com/QIN2DIM/V2RayCloudSpider)
 22. [一键ThinkPHP漏洞检测 https://github.com/Lucifer1993/TPscan](https://github.com/Lucifer1993/TPscan)
 23. [Sherloq 是 GitHub 上近期比较热门的一款开源图像取证工具，可对图像具体信息进行提取、分析、比对，并以此检测图像是否被篡改或伪造，功能颇为强大 https://github.com/GuidoBartoli/sherloq](https://github.com/GuidoBartoli/sherloq)
-24. 
-25. 
+24. [Composer is a library written in PyTorch that enables you to train neural networks faster, at lower cost, and to higher accuracy https://hub.fastgit.xyz/mosaicml/composer](https://hub.fastgit.xyz/mosaicml/composer)
+25. [python 画流程图 Diagram as Code for prototyping cloud system architectures https://github.com/mingrammer/diagrams](https://github.com/mingrammer/diagrams)
+26. 
+27. 

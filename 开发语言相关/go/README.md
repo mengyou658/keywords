@@ -120,7 +120,7 @@ export all_proxy=https://goproxy.io
 16. 从Chrome中获取自动保存的用户名密码
     [https://github.com/cckuailong/HackChrome](https://github.com/cckuailong/HackChrome)
 17. [A well tested and comprehensive Golang statistics library / package / module with no dependencies https://github.com/montanaflynn/stats](https://github.com/montanaflynn/stats)
-18. 
+18. [是一个 Golang 微服务 HTTP 框架，在设计之初参考了其他开源框架 fasthttp、gin、echo 的优势，并结合字节跳动内部的需求，使其具有高易用性、高性能、高扩展性等特点，目前在字节跳动内部已广泛使用。如今越来越多的微服务选择使用 Golang，如果对微服务性能有要求，又希望框架能够充分满足内部的可定制化需求，Hertz 会是一个不错的选择 https://hub.fastgit.xyz/cloudwego/hertz](https://hub.fastgit.xyz/cloudwego/hertz)
 19. 
 20. 
 21. 
@@ -174,7 +174,9 @@ export all_proxy=https://goproxy.io
 19. [除了增加面向 IoT 和边缘计算的功能，InfluxDB 公司还启动了创新存储引擎的新项目，重新构建对存储的想象。他们宣布了下一代存储引擎的计划 —— InfluxDB I0x。InfluxDB I0x 是功能强大的新型存储引擎，旨在执行随着时间推移不断增加的查询工作负载。InfluxDB I0x 基于 Rust 语言开发，并使用了 Apache Arrow 和柱列式数据结构 Scalable datastore for metrics, events, and real-time analytics https://github.com/influxdata/influxdb](https://github.com/influxdata/influxdb)
 20. [https://mholt.github.io/json-to-go/](https://mholt.github.io/json-to-go/)
 21. [一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描 https://hub.fastgit.xyz/shadow1ng/fscan](https://hub.fastgit.xyz/shadow1ng/fscan)
-22. 
+22. [Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. https://hub.fastgit.xyz/hashicorp/nomad](https://hub.fastgit.xyz/hashicorp/nomad)
+23. [Zero-configuration build system to very quickly build C/C++ projects https://github.com/codecat/qb](https://github.com/codecat/qb)
+24. 
 
 ### web 框架
 
