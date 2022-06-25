@@ -282,7 +282,8 @@
 20. [暗黑模式开关是一个项目中常用的功能，为了减少后续新项目的工作量，所以封装了这个组件 https://github.com/dishait/vue-dark-switch](https://github.com/dishait/vue-dark-switch)
 21. [(work in progress) Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic. Trunk附带了一个内置服务器，用于快速开发工作流程，并支持HTTP和WebSocket代理 Trunk 会监视您的应用程序是否有更改，并触发您的构建。浏览器重新加载、HMR 和其他相关功能正在进行中 https://github.com/Barre/privaxy](https://github.com/Barre/privaxy)
 22. [Dufs is a distinctive utility file server that supports static serving, uploading, searching, accessing control, webdav...https://github.com/sigoden/dufs](https://github.com/sigoden/dufs)
-23. 
+23. [RepliByte: 一个开源的数据库同步服务 它支持 Pg、Mysql、MongoDB 的数据备份和还原，还支持敏感数据替换、数据子集、传输过程中的数据压缩和加密等，最重要的：它是 Rust 写的 https://github.com/Qovery/replibyte](https://github.com/Qovery/replibyte)
+24. 
 
 ### 游戏
 
