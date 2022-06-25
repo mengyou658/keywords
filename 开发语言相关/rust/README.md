@@ -443,7 +443,7 @@ Command::new("rustfmt")
 
 ### 类似 rust 的新 语言 lang
 1. [代码最终转义成c++ https://hub.fastgit.xyz/SerenityOS/jakt](https://hub.fastgit.xyz/SerenityOS/jakt)
-2. []
+2. [https://harelang.org/](https://harelang.org/)
 
 
 ### 错误处理
