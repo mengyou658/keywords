@@ -220,7 +220,7 @@
 136. [BLAKE3 cryptographic hash https://github.com/rmw-lib/blake3_merkle](https://github.com/rmw-lib/blake3_merkle)
 137. [Unofficial transmute-free Rust library to work with the Arrow format https://github.com/jorgecarleitao/arrow2](https://github.com/jorgecarleitao/arrow2)
 138. [定时任务 Minimalist scheduling library for Rust https://github.com/mitghi/quartz.rs](https://github.com/mitghi/quartz.rs)
-139. 
+139. [Pisanix [Pi-sanics] is a modern database governance framework for Kubernetes. Pisanix adds SQL-aware traffic control, audit, security and extension abilities to help manage various databases in the Database Mesh way https://github.com/database-mesh/pisanix](https://github.com/database-mesh/pisanix)
 140. 
 
 ### 完整项目/示例/demo/代码片段
@@ -283,7 +283,8 @@
 21. [(work in progress) Privaxy is the next generation tracker and advertisement blocker. It blocks ads and trackers by MITMing HTTP(s) traffic. Trunk附带了一个内置服务器，用于快速开发工作流程，并支持HTTP和WebSocket代理 Trunk 会监视您的应用程序是否有更改，并触发您的构建。浏览器重新加载、HMR 和其他相关功能正在进行中 https://github.com/Barre/privaxy](https://github.com/Barre/privaxy)
 22. [Dufs is a distinctive utility file server that supports static serving, uploading, searching, accessing control, webdav...https://github.com/sigoden/dufs](https://github.com/sigoden/dufs)
 23. [RepliByte: 一个开源的数据库同步服务 它支持 Pg、Mysql、MongoDB 的数据备份和还原，还支持敏感数据替换、数据子集、传输过程中的数据压缩和加密等，最重要的：它是 Rust 写的 https://github.com/Qovery/replibyte](https://github.com/Qovery/replibyte)
-24. 
+24. [rust 字符串混淆 https://github.com/CasualX/obfstr](https://github.com/CasualX/obfstr)
+25. 
 
 ### 游戏
 
