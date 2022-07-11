@@ -853,6 +853,11 @@ Flink使用了流处理的内核，同时提供了流处理和批处理的接口
 9. [Erlang跨平台数蛙工业物联网SaaS平台（Industry SaaS for IoT Platform）](https://github.com/dgiot/dgiot)
 10. [go物联网开发平台 https://github.com/xiaodingding/iotfast](https://github.com/xiaodingding/iotfast)
 11. [go物联网开发平台 https://github.com/tkeel-io/tkeel/blob/main/README_zh.md](https://github.com/tkeel-io/tkeel/blob/main/README_zh.md)
+12. [go物联网开发平台 https://github.com/i4de/ithings](https://github.com/i4de/ithings)
+    1. https://github.com/i4de/ithings-admin
+13. [go物联网开发平台 https://github.com/ZhangChengJi/giot](https://github.com/ZhangChengJi/giot)
+14. [git@github.com:goworkeryyt/go-socket.git](git@github.com:goworkeryyt/go-socket.git)
+15. 
 
 # 项目管理
 
