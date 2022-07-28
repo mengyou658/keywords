@@ -289,5 +289,7 @@ quercus-php
 1. [https://gitee.com/tangzc/mybatis-plus-ext](https://gitee.com/tangzc/mybatis-plus-ext)
 2. [官方版本，目前2021-12-13还没有完善提供，https://gitee.com/baomidou/mybatis-mate-examples](https://gitee.com/baomidou/mybatis-mate-examples)
 3. [https://gitee.com/rayson517/eladmin-plus](https://gitee.com/rayson517/eladmin-plus)
-4. [https://gitee.com/best_handsome/mybatis-plus-join](https://gitee.com/best_handsome/mybatis-plus-join)
+4. [多表查询https://gitee.com/best_handsome/mybatis-plus-join](https://gitee.com/best_handsome/mybatis-plus-join)
 5. [https://gitee.com/JavaLionLi/RuoYi-Vue-Plus](https://gitee.com/JavaLionLi/RuoYi-Vue-Plus)
+6. [多表查询 https://gitee.com/mhb0409/mybatis-plus-join](https://gitee.com/mhb0409/mybatis-plus-join)
+7. [mybatis-plus的连表的增强，提供lambda和字符串两种方式的wrapper编写sql，项目版本现阶段已适配3.5.2的最新版本的mybatis-plus https://gitee.com/wuliangyu1/mybatis-plus-join](https://gitee.com/wuliangyu1/mybatis-plus-join)
