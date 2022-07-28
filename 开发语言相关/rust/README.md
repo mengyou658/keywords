@@ -445,6 +445,8 @@ Command::new("rustfmt")
 ### 类似 rust 的新 语言 lang
 1. [代码最终转义成c++ https://hub.fastgit.xyz/SerenityOS/jakt](https://hub.fastgit.xyz/SerenityOS/jakt)
 2. [https://harelang.org/](https://harelang.org/)
+3. [https://github.com/ziglang/zig](https://github.com/ziglang/zig)
+4. [https://github.com/move-language/move](https://github.com/move-language/move)
 
 
 ### 错误处理

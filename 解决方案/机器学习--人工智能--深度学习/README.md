@@ -711,7 +711,8 @@ http://www.jezzamon.com/fourier/zh-cn.html
 3. [https://github.com/oarriaga/paz](https://github.com/oarriaga/paz)
 4. [Human: AI-powered 3D Face Detection & Rotation Tracking, Face Description & Recognition, Body Pose Tracking, 3D Hand https://github.com/vladmandic/human](https://github.com/vladmandic/human)
 5. [gender 性别 https://github.com/thanhvie/face_recognition_webapp](https://github.com/thanhvie/face_recognition_webapp)
-6. 
+6. [deepface](https://github.com/serengil/deepface) - Deepface 是一个用于 python 的轻量级人脸识别和人脸属性分析（年龄、性别、情感和种族）框架。它是一个混合人脸识别框架，包含最先进的模型：VGG-Face、Google FaceNet、OpenFace、Facebook DeepFace、DeepID、ArcFace 和 Dlib。
+7. [CompreFace](https://github.com/exadel-inc/CompreFace) - Exadel CompreFace 是一项免费的开源人脸识别服务，无需事先具备机器学习技能即可轻松集成到任何系统中。CompreFace 提供 REST API 用于人脸识别、人脸验证、人脸检测、地标检测、年龄和性别识别，并且可以通过 docker 轻松部署，并支持在 CPU 和 GPU 上工作的不同模型。
 
 
 ### 

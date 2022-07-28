@@ -73,6 +73,7 @@
 12. [申论文章生成器，输入主题字数，输出随机拼凑的文章。https://github.com/Uahh/slscq](https://github.com/Uahh/slscq)
 13. [iTX Technologies Mirai Console Loader Installer ，高效率 QQ 机器人支持库 支持自动下载Java 运行时和 iTXTech Mirai Console Loader  https://github.com/iTXTech/mcl-installer](https://github.com/iTXTech/mcl-installer)
 14. [PC版微信机器人 https://github.com/TonyChen56/WeChatRobot](https://github.com/TonyChen56/WeChatRobot)
+15. 
 
 ### 测试
 
@@ -91,6 +92,7 @@
 2. [A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM. https://github.com/WerWolv/ImHex](https://github.com/WerWolv/ImHex)
 3. [Web Fuzzing Box - Web 模糊测试字典与一些Payloads，主要包含：弱口令暴力破解、目录以及文件枚举、Web漏洞...字典运用于实战案例：https://gh0st.cn/archives/2019-11-11/1 https://github.com/gh0stkey/Web-Fuzzing-Box](https://github.com/gh0stkey/Web-Fuzzing-Box)
 4. [密码破解 https://github.com/hashcat/hashcat](https://github.com/hashcat/hashcat)
+5. [A Hex Editor for Reverse Engineers 发编译工具 https://github.com/WerWolv/ImHex](https://github.com/WerWolv/ImHex)
 5. 
 
 ### QT

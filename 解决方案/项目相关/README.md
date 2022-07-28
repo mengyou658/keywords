@@ -673,9 +673,11 @@ Flink使用了流处理的内核，同时提供了流处理和批处理的接口
 1. [https://github.com/ly525/luban-h5](https://github.com/ly525/luban-h5)
 1. [https://github.com/mengyou658/eqxiu](https://github.com/mengyou658/eqxiu)
 1. [https://github.com/mengyou658/yiqixiu](https://github.com/mengyou658/yiqixiu)
-1. git@gitee.com:xiaokong658/yiqixiu.git
-1. 基于vue的高扩展在线网页制作平台，可自定义组件，可添加脚本，可数据统计。A mobile page builder/editor, similar with amolink. https://godspen.ymm56.com
-   [https://github.com/ymm-tech/gods-pen](https://github.com/ymm-tech/gods-pen)
+2. git@gitee.com:xiaokong658/yiqixiu.git
+1. 基于vue的高扩展在线网页制作平台，可自定义组件，可添加脚本，可数据统计。A mobile page builder/editor, similar with amolink. https://godspen.ymm56.com[https://github.com/ymm-tech/gods-pen](https://github.com/ymm-tech/gods-pen)
+2. [vue3.x vite2.x vant element-plus H5 移动端低代码平台 lowcode 可视化拖拽 可视化编辑器 visual editor 类似易企秀的H5制作、建站工具、可视化搭建工具。 https://github.com/buqiyuan/vite-vue3-lowcode](https://github.com/buqiyuan/vite-vue3-lowcode)
+3. [海报编辑器最左侧是组件列表。可以在最左侧选择组件，比如文本、二维码、图片等添加到最中间的画布区域，通过右侧的属性调节面板调节添加组件的样式。https://gitee.com/vitojc/fast-poster](https://gitee.com/vitojc/fast-poster)
+2. 
 
 # 目标检测算法
 
