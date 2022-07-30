@@ -661,7 +661,14 @@ Flink使用了流处理的内核，同时提供了流处理和批处理的接口
 # 新 开发 语言
 
 1. 总体感觉是如果有一门语言能够取代C++，那么它只可能是Rust
+2. cpython
+2. golang gop 
 2. [用rust编写的语言 跟rust有一拼 Jakt is a memory-safe systems programming language It currently transpiles to C++  https://hub.fastgit.xyz/SerenityOS/jakt](https://hub.fastgit.xyz/SerenityOS/jakt)
+3. julia 面向科学的开发语言
+4. move language 
+5. zig 早期语言
+6. vlang 类似golang但是比go多了一些控制 调用c快 但是很多特性都没有实现，有待观察
+7. nim 语言没有富爸爸，全靠开发者凭爱好开发。这是一个发展很佛系的语言
 
 # 自动驾驶
 
