@@ -221,6 +221,7 @@
 137. [Unofficial transmute-free Rust library to work with the Arrow format https://github.com/jorgecarleitao/arrow2](https://github.com/jorgecarleitao/arrow2)
 138. [定时任务 Minimalist scheduling library for Rust https://github.com/mitghi/quartz.rs](https://github.com/mitghi/quartz.rs)
 139. [Pisanix [Pi-sanics] is a modern database governance framework for Kubernetes. Pisanix adds SQL-aware traffic control, audit, security and extension abilities to help manage various databases in the Database Mesh way https://github.com/database-mesh/pisanix](https://github.com/database-mesh/pisanix)
+140. [A rust implementation of the AMQP1.0 protocol based on serde and tokio https://github.com/minghuaw/fe2o3-amqp](https://github.com/minghuaw/fe2o3-amqp)
 140. 
 
 ### 完整项目/示例/demo/代码片段
@@ -284,6 +285,7 @@
 22. [Dufs is a distinctive utility file server that supports static serving, uploading, searching, accessing control, webdav...https://github.com/sigoden/dufs](https://github.com/sigoden/dufs)
 23. [RepliByte: 一个开源的数据库同步服务 它支持 Pg、Mysql、MongoDB 的数据备份和还原，还支持敏感数据替换、数据子集、传输过程中的数据压缩和加密等，最重要的：它是 Rust 写的 https://github.com/Qovery/replibyte](https://github.com/Qovery/replibyte)
 24. [rust 字符串混淆 https://github.com/CasualX/obfstr](https://github.com/CasualX/obfstr)
+25. [检查非安全代码 https://github.com/model-checking/kani](https://github.com/model-checking/kani)
 25. 
 
 ### 游戏
@@ -454,3 +456,7 @@ Command::new("rustfmt")
 2. anyhow
 3. thiserror
 4. error-stack
+
+
+### 机器学习 深度学习 machine learn 
+1. [Strongly typed Deep Learning in Rust https://github.com/coreylowman/dfdx](https://github.com/coreylowman/dfdx)
