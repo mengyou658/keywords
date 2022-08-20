@@ -1850,3 +1850,8 @@ _Jupyter kernels that run and introspect the user's code in a given language._
 
 ### [开箱即用的postgresql 发行版本 增加了很多的插件和运维。http://pigsty.cc/](http://pigsty.cc/)
 ### [postgresql 索引文档  https://www.crunchydata.com/blog/postgres-indexes-for-newbies](https://www.crunchydata.com/blog/postgres-indexes-for-newbies)
+
+
+### 在线文档协作算法
+1. CRDT
+2. 

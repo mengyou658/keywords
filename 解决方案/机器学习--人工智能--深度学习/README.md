@@ -691,10 +691,12 @@ http://www.jezzamon.com/fourier/zh-cn.html
 
 # YOLO 目标检测算法
 
-1. [说明理解](https://blog.csdn.net/litt1e/article/details/88907542)
+1. [yolo 集合发布版本 YOLOAir算法库 是一个基于 PyTorch 的一系列 YOLO 检测算法组合工具箱。用来组合不同模块构建不同网络 https://github.com/iscyy/yoloair](https://github.com/iscyy/yoloair)
+2. [说明理解](https://blog.csdn.net/litt1e/article/details/88907542)
 2. [https://github.com/SpikeKing/keras-yolo3-detection](https://github.com/SpikeKing/keras-yolo3-detection)
 3. [https://github.com/DataXujing/YOLO-v5YOLO v5在医疗领域中消化内镜目标检测的应用](https://github.com/DataXujing/YOLO-v5)
 4. [yolov5 人脸识别 https://github.com/deepcam-cn/yolov5-face](https://github.com/deepcam-cn/yolov5-face)
+5. 
 
 # [https://github.com/Chrispresso/SuperMarioBros-AI 机器学习自动完超级马里奥](https://github.com/Chrispresso/SuperMarioBros-AI)
 

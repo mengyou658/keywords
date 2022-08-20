@@ -222,6 +222,8 @@
 138. [定时任务 Minimalist scheduling library for Rust https://github.com/mitghi/quartz.rs](https://github.com/mitghi/quartz.rs)
 139. [Pisanix [Pi-sanics] is a modern database governance framework for Kubernetes. Pisanix adds SQL-aware traffic control, audit, security and extension abilities to help manage various databases in the Database Mesh way https://github.com/database-mesh/pisanix](https://github.com/database-mesh/pisanix)
 140. [A rust implementation of the AMQP1.0 protocol based on serde and tokio https://github.com/minghuaw/fe2o3-amqp](https://github.com/minghuaw/fe2o3-amqp)
+141. [Fast, flexible, lightweight web framework for Rust https://github.com/viz-rs/viz](https://github.com/viz-rs/viz)
+142. [Qdrant - 用于下一代AI应用的矢量搜索引擎 使用Qdrant，嵌入或神经网络编码器可以变成成熟的应用程序，用于匹配，搜索，推荐等等 https://github.com/qdrant/qdrant](https://github.com/qdrant/qdrant)
 140. 
 
 ### 完整项目/示例/demo/代码片段
@@ -286,6 +288,8 @@
 23. [RepliByte: 一个开源的数据库同步服务 它支持 Pg、Mysql、MongoDB 的数据备份和还原，还支持敏感数据替换、数据子集、传输过程中的数据压缩和加密等，最重要的：它是 Rust 写的 https://github.com/Qovery/replibyte](https://github.com/Qovery/replibyte)
 24. [rust 字符串混淆 https://github.com/CasualX/obfstr](https://github.com/CasualX/obfstr)
 25. [检查非安全代码 https://github.com/model-checking/kani](https://github.com/model-checking/kani)
+26. [Use Tree Sitter to parse your own languages in Rust https://github.com/hydro-project/rust-sitter](https://github.com/hydro-project/rust-sitter)
+27. [命令行识别文本 lemmeknow can be used for identifying mysterious text or to analyze hard-coded strings from captured network packets, malwares, or just about anything https://github.com/swanandx/lemmeknow](https://github.com/swanandx/lemmeknow)
 25. 
 
 ### 游戏
