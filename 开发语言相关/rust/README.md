@@ -464,3 +464,8 @@ Command::new("rustfmt")
 
 ### 机器学习 深度学习 machine learn 
 1. [Strongly typed Deep Learning in Rust https://github.com/coreylowman/dfdx](https://github.com/coreylowman/dfdx)
+
+
+### rtsp server 视频服务
+1. [A simple and secure live media server in pure Rust (RTMP/HTTP-FLV/HLS/Relay). https://github.com/harlanc/xiu](https://github.com/harlanc/xiu)
+2. https://github.com/sean-halpin/rust_rtsp_server
