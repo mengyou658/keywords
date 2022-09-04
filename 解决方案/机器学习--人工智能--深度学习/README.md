@@ -692,10 +692,14 @@ http://www.jezzamon.com/fourier/zh-cn.html
 # YOLO 目标检测算法
 
 1. [yolo 集合发布版本 YOLOAir算法库 是一个基于 PyTorch 的一系列 YOLO 检测算法组合工具箱。用来组合不同模块构建不同网络 https://github.com/iscyy/yoloair](https://github.com/iscyy/yoloair)
+2. [https://github.com/WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7)
 2. [说明理解](https://blog.csdn.net/litt1e/article/details/88907542)
 2. [https://github.com/SpikeKing/keras-yolo3-detection](https://github.com/SpikeKing/keras-yolo3-detection)
 3. [https://github.com/DataXujing/YOLO-v5YOLO v5在医疗领域中消化内镜目标检测的应用](https://github.com/DataXujing/YOLO-v5)
 4. [yolov5 人脸识别 https://github.com/deepcam-cn/yolov5-face](https://github.com/deepcam-cn/yolov5-face)
+5. [EasyCV是一个涵盖多个领域的基于Pytorch的计算机视觉工具箱，聚焦自监督学习和视觉transformer关键技术，覆盖主流的视觉建模任务例如图像分类，度量学习，目标检测，关键点检测等。 https://github.com/alibaba/EasyCV](https://github.com/alibaba/EasyCV)
+6. [YOLOX is an anchor-free version of YOLO, with a simpler design but better performance! It aims to bridge the gap between research and industrial communities. For more details, please refer to our report on Arxiv https://github.com/Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)
+7. [https://github.com/jizhishutong/YOLOU](https://github.com/jizhishutong/YOLOU)
 5. 
 
 # [https://github.com/Chrispresso/SuperMarioBros-AI 机器学习自动完超级马里奥](https://github.com/Chrispresso/SuperMarioBros-AI)
@@ -717,4 +721,6 @@ http://www.jezzamon.com/fourier/zh-cn.html
 7. [CompreFace](https://github.com/exadel-inc/CompreFace) - Exadel CompreFace 是一项免费的开源人脸识别服务，无需事先具备机器学习技能即可轻松集成到任何系统中。CompreFace 提供 REST API 用于人脸识别、人脸验证、人脸检测、地标检测、年龄和性别识别，并且可以通过 docker 轻松部署，并支持在 CPU 和 GPU 上工作的不同模型。
 
 
-### 
+### 草稿 草图 生成图片 生成AI艺术和动画 涂鸦 素描
+1. [草稿 草图 生成图片 生成AI艺术和动画 https://github.com/CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)
+2. [草稿 草图 生成图片 生成AI艺术和动画 https://github.com/alembics/disco-diffusion](https://github.com/alembics/disco-diffusion)

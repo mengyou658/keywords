@@ -224,6 +224,10 @@
 140. [A rust implementation of the AMQP1.0 protocol based on serde and tokio https://github.com/minghuaw/fe2o3-amqp](https://github.com/minghuaw/fe2o3-amqp)
 141. [Fast, flexible, lightweight web framework for Rust https://github.com/viz-rs/viz](https://github.com/viz-rs/viz)
 142. [Qdrant - 用于下一代AI应用的矢量搜索引擎 使用Qdrant，嵌入或神经网络编码器可以变成成熟的应用程序，用于匹配，搜索，推荐等等 https://github.com/qdrant/qdrant](https://github.com/qdrant/qdrant)
+143. [A scalable, distributed, collaborative, document-graph database, for the realtime web https://github.com/surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)
+144. [WRLD is a set of derive macro to make easy, pleasent and more safe wgpu code.WRLD description is based on Learn wgpu tutorial. https://github.com/CorentinDeblock/wrld](https://github.com/CorentinDeblock/wrld)
+145. [A set of libraries for working with PHP in Rust. https://github.com/ryangjchandler/trunk](https://github.com/ryangjchandler/trunk)
+146. [A port of MUSL's libm to Rust https://github.com/rust-lang/libm](https://github.com/rust-lang/libm)
 140. 
 
 ### 完整项目/示例/demo/代码片段
@@ -290,6 +294,7 @@
 25. [检查非安全代码 https://github.com/model-checking/kani](https://github.com/model-checking/kani)
 26. [Use Tree Sitter to parse your own languages in Rust https://github.com/hydro-project/rust-sitter](https://github.com/hydro-project/rust-sitter)
 27. [命令行识别文本 lemmeknow can be used for identifying mysterious text or to analyze hard-coded strings from captured network packets, malwares, or just about anything https://github.com/swanandx/lemmeknow](https://github.com/swanandx/lemmeknow)
+28. [Prettier Rust is an opinionated code formatter that autocorrects bad syntax. https://github.com/jinxdash/prettier-plugin-rust](https://github.com/jinxdash/prettier-plugin-rust)
 25. 
 
 ### 游戏
