@@ -418,6 +418,7 @@
 8. [https://github.com/paperclip-rs/paperclip](https://github.com/paperclip-rs/paperclip)
 9. [Rust crate for serializing and deserializing open api documents https://github.com/kdy1/openapi](https://github.com/kdy1/openapi)
 10. [Generate JSON Schema documents from Rust code https://github.com/GREsau/schemars](https://github.com/GREsau/schemars)
+11. [Rust OpenAPI 3.0 docs generator https://github.com/Rexagon/opg](https://github.com/Rexagon/opg)
 11. 
 
 ### 宏 过程宏
