@@ -724,3 +724,4 @@ http://www.jezzamon.com/fourier/zh-cn.html
 ### 草稿 草图 生成图片 生成AI艺术和动画 涂鸦 素描
 1. [草稿 草图 生成图片 生成AI艺术和动画 https://github.com/CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)
 2. [草稿 草图 生成图片 生成AI艺术和动画 https://github.com/alembics/disco-diffusion](https://github.com/alembics/disco-diffusion)
+3. [草图生成图片 A compendium of informations regarding Stable Diffusion (SD) https://github.com/Maks-s/sd-akashic](https://github.com/Maks-s/sd-akashic)

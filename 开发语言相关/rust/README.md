@@ -228,6 +228,9 @@
 144. [WRLD is a set of derive macro to make easy, pleasent and more safe wgpu code.WRLD description is based on Learn wgpu tutorial. https://github.com/CorentinDeblock/wrld](https://github.com/CorentinDeblock/wrld)
 145. [A set of libraries for working with PHP in Rust. https://github.com/ryangjchandler/trunk](https://github.com/ryangjchandler/trunk)
 146. [A port of MUSL's libm to Rust https://github.com/rust-lang/libm](https://github.com/rust-lang/libm)
+147. [A wide string Rust library for converting to and from wide strings, such as those often used in Windows API or other FFI libaries. Both u16 and u32 string types are provided, including support for UTF-16 and UTF-32, malformed encoding, C-style strings, etc. https://github.com/starkat99/widestring-rs](https://github.com/starkat99/widestring-rs)
+148. [Rust integration for Unreal Engine 5 https://github.com/MaikKlein/unreal-rust](https://github.com/MaikKlein/unreal-rust)
+149. [A hobby runtime for JavaScript and TypeScript https://github.com/aalykiot/dune](https://github.com/aalykiot/dune)
 140. 
 
 ### 完整项目/示例/demo/代码片段
@@ -295,6 +298,7 @@
 26. [Use Tree Sitter to parse your own languages in Rust https://github.com/hydro-project/rust-sitter](https://github.com/hydro-project/rust-sitter)
 27. [命令行识别文本 lemmeknow can be used for identifying mysterious text or to analyze hard-coded strings from captured network packets, malwares, or just about anything https://github.com/swanandx/lemmeknow](https://github.com/swanandx/lemmeknow)
 28. [Prettier Rust is an opinionated code formatter that autocorrects bad syntax. https://github.com/jinxdash/prettier-plugin-rust](https://github.com/jinxdash/prettier-plugin-rust)
+29. [A memory profiler for Linux. https://github.com/koute/bytehound](https://github.com/koute/bytehound)
 25. 
 
 ### 游戏
@@ -302,6 +306,7 @@
 1. [3D and 2D game engine written in Rust https://github.com/rg3dengine/rg3d](https://github.com/rg3dengine/rg3d)
 2. [Rust bindings for GDNative https://github.com/godot-rust/godot-rust](https://github.com/godot-rust/godot-rust)
 3. [2D and 3D physics engines focused on performance https://github.com/dimforge/rapier](https://github.com/dimforge/rapier)
+4. [A Rust framework for building Minecraft servers. 我的世界游戏服务器 https://github.com/valence-rs/valence](https://github.com/valence-rs/valence)
 4. 
 
 ### WebAssembly wasm
@@ -476,3 +481,7 @@ Command::new("rustfmt")
 ### rtsp server 视频服务
 1. [A simple and secure live media server in pure Rust (RTMP/HTTP-FLV/HLS/Relay). https://github.com/harlanc/xiu](https://github.com/harlanc/xiu)
 2. https://github.com/sean-halpin/rust_rtsp_server
+
+
+### rpc server microservices 微服务
+1. [A high-performance and strong-extensibility Rust RPC framework that helps developers build microservices. https://github.com/cloudwego/volo](https://github.com/cloudwego/volo)
