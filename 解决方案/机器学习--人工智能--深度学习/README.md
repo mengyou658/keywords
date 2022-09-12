@@ -700,6 +700,7 @@ http://www.jezzamon.com/fourier/zh-cn.html
 5. [EasyCV是一个涵盖多个领域的基于Pytorch的计算机视觉工具箱，聚焦自监督学习和视觉transformer关键技术，覆盖主流的视觉建模任务例如图像分类，度量学习，目标检测，关键点检测等。 https://github.com/alibaba/EasyCV](https://github.com/alibaba/EasyCV)
 6. [YOLOX is an anchor-free version of YOLO, with a simpler design but better performance! It aims to bridge the gap between research and industrial communities. For more details, please refer to our report on Arxiv https://github.com/Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)
 7. [https://github.com/jizhishutong/YOLOU](https://github.com/jizhishutong/YOLOU)
+8. [https://github.com/Sharpiless/Yolov5-Deepsort](https://github.com/Sharpiless/Yolov5-Deepsort)
 5. 
 
 # [https://github.com/Chrispresso/SuperMarioBros-AI 机器学习自动完超级马里奥](https://github.com/Chrispresso/SuperMarioBros-AI)

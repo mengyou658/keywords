@@ -481,7 +481,8 @@ Command::new("rustfmt")
 ### rtsp server 视频服务 rtmp
 1. [A simple and secure live media server in pure Rust (RTMP/HTTP-FLV/HLS/Relay). https://github.com/harlanc/xiu](https://github.com/harlanc/xiu)
 2. https://github.com/sean-halpin/rust_rtsp_server
-3. 可以用任何推流软件或者命令工具来推RTMP流，比如使用OBS或者用ffmpeg命令行： ffmpeg -re -stream_loop -1 -i test.mp4 -c:a copy -c:v copy -f flv -flvflags no_duration_filesize rtmp://127.0.0.1:1935/live/test
+3. 可以用任何推流软件或者命令工具来推RTMP流，比如使用OBS或者live555或者用ffmpeg命令行： ffmpeg -re -stream_loop -1 -i test.mp4 -c:a copy -c:v copy -f flv -flvflags no_duration_filesize rtmp://127.0.0.1:1935/live/test
+4. [https://github.com/ISSuh/image2rtsp](https://github.com/ISSuh/image2rtsp)
 
 
 ### rpc server microservices 微服务
