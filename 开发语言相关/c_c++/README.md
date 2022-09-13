@@ -73,6 +73,8 @@
 12. [申论文章生成器，输入主题字数，输出随机拼凑的文章。https://github.com/Uahh/slscq](https://github.com/Uahh/slscq)
 13. [iTX Technologies Mirai Console Loader Installer ，高效率 QQ 机器人支持库 支持自动下载Java 运行时和 iTXTech Mirai Console Loader  https://github.com/iTXTech/mcl-installer](https://github.com/iTXTech/mcl-installer)
 14. [PC版微信机器人 https://github.com/TonyChen56/WeChatRobot](https://github.com/TonyChen56/WeChatRobot)
+15. [用 C 语言从零实现的软件渲染器。不用图形 API 仅用几千行 C 代码，实现了一套类似 OpenGL 的基本图形功能，以及应用于游戏开发的实时渲染技术，如阴影、切线空间法线映射、基于物理的材质系统等。该项目包含丰富的注释和数学计算推导过程的说明，可用于帮助理解和学习 GPU 的基本工作原理、基础渲染知识和着色器原理。 https://github.com/cadenji/foolrenderer](https://github.com/cadenji/foolrenderer)
+16. [用于近似最近邻搜索的算法库。近似最近邻(ANN)方法是指一系列解决最近邻查找问题的近似算法，多用于内容推荐、搜索等场景。该项目是封装好的 C++/Python Annoy 算法库。Annoy 是用树为数据结构的 ANN 算法实现，它通过随机投影创建二叉树构建索引提升查询效率，采用优先队列和“森林”查询方法提高准确率，实现海量数据下的实时搜索。 https://github.com/spotify/annoy](https://github.com/spotify/annoy)
 15. 
 
 ### 测试

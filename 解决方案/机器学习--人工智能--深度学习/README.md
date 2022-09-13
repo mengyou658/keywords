@@ -378,6 +378,7 @@
 5. [闪电通过将科学与工程脱钩来帮助提高生产力。从某种意义上说，它使您的代码更简洁，有点像TensorFlow的Keras。但是，这并不能控制您。它仍然是PyTorch，您可以访问所有常用的API https://github.com/PyTorchLightning/PyTorch-lightning](https://github.com/PyTorchLightning/PyTorch-lightning)
 6. [交互式标记工具 https://github.com/PaddlePaddle/PaddleSeg/tree/release/2.4/EISeg](https://github.com/PaddlePaddle/PaddleSeg/tree/release/2.4/EISeg)
 7. [标记工具 labelimg](https://github.com/tzutalin/labelImg)
+8. [开源的数据标注工具。支持音频、文本、图像、视频、时间序列等，多种类型数据的标注和注释工具 https://github.com/heartexlabs/label-studio](https://github.com/heartexlabs/label-studio)
 8. 
 
 ### 工具

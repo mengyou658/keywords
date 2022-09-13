@@ -82,6 +82,7 @@ export all_proxy=https://goproxy.io
 16. [ioc 框架 https://hub.fastgit.xyz/go-spring/go-spring](https://hub.fastgit.xyz/go-spring/go-spring)
 17. [Multi-Cloud Object Storage 对象存储服务 https://github.com/minio/minio](https://github.com/minio/minio)
 18. [Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM https://github.com/tinygo-org/tinygo](https://github.com/tinygo-org/tinygo)
+19. [可能是最知名的 Go 爬虫框架。它拥有友好的 API 和丰富代码示例，短时间内即可上手。性能方面单核能达到 1K 请求/秒，还可以轻松管理请求方式、间隔和最大并发数，功能强大且优雅。 https://github.com/gocolly/colly](https://github.com/gocolly/colly)
 19. 
 
 ### 完整项目/示例/demo/代码片段
@@ -176,6 +177,7 @@ export all_proxy=https://goproxy.io
 21. [一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描 https://hub.fastgit.xyz/shadow1ng/fscan](https://hub.fastgit.xyz/shadow1ng/fscan)
 22. [Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. https://hub.fastgit.xyz/hashicorp/nomad](https://hub.fastgit.xyz/hashicorp/nomad)
 23. [Zero-configuration build system to very quickly build C/C++ projects https://github.com/codecat/qb](https://github.com/codecat/qb)
+24. [开源的云原生监控系统。支持 Docker 等多种部署方式，集数据采集、监控告警、可视化为一体的企业级监控平台。借助高性能时序库，可以满足数亿时间线的采集、存储和告警分析的场景。该项目已在上千家企业部署落地，经历了各种生产环境的检验。 https://github.com/ccfos/nightingale](https://github.com/ccfos/nightingale)
 24. 
 
 ### web 框架
