@@ -1874,6 +1874,7 @@ _Jupyter kernels that run and introspect the user's code in a given language._
 2. [使用cesium，进行贴地面积量算 https://blog.csdn.net/weixin_42476786/article/details/93967338](https://blog.csdn.net/weixin_42476786/article/details/93967338)
 3. [cesium-measure：cesium 三维测量插件 http://www.5imoban.net/jiaocheng/mapgis/2021/0602/4849.html](http://www.5imoban.net/jiaocheng/mapgis/2021/0602/4849.html)
 4. [cesium测量距离，测量地形上两点的距离（工具篇） https://www.jianshu.com/p/a8d4123c03ef](https://www.jianshu.com/p/a8d4123c03ef)
+[cesium-measure测量插件代码](cesium-measure测量插件.zip)
 5. [使用cesium，进行贴地面积量算https://codeleading.com/article/71301358592/](https://codeleading.com/article/71301358592/)
 ```js
     viewer.cesiumWidget.screenSpaceEventHandler.removeInputAction(Cesium.ScreenSpaceEventType.LEFT_DOUBLE_CLICK);
