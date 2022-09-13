@@ -1870,4 +1870,6 @@ _Jupyter kernels that run and introspect the user's code in a given language._
 2. 
 
 ### 贴地面积
-1. 
+1. [距离计算中的表面说明 https://pro.arcgis.com/zh-cn/pro-app/2.8/tool-reference/spatial-analyst/account-for-surface-in-distance-calculations.htm](https://pro.arcgis.com/zh-cn/pro-app/2.8/tool-reference/spatial-analyst/account-for-surface-in-distance-calculations.htm)
+2. [使用cesium，进行贴地面积量算 https://blog.csdn.net/weixin_42476786/article/details/93967338](https://blog.csdn.net/weixin_42476786/article/details/93967338)
+3. [cesium-measure：cesium 三维测量插件 http://www.5imoban.net/jiaocheng/mapgis/2021/0602/4849.html](http://www.5imoban.net/jiaocheng/mapgis/2021/0602/4849.html)
