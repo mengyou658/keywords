@@ -1873,3 +1873,154 @@ _Jupyter kernels that run and introspect the user's code in a given language._
 1. [距离计算中的表面说明 https://pro.arcgis.com/zh-cn/pro-app/2.8/tool-reference/spatial-analyst/account-for-surface-in-distance-calculations.htm](https://pro.arcgis.com/zh-cn/pro-app/2.8/tool-reference/spatial-analyst/account-for-surface-in-distance-calculations.htm)
 2. [使用cesium，进行贴地面积量算 https://blog.csdn.net/weixin_42476786/article/details/93967338](https://blog.csdn.net/weixin_42476786/article/details/93967338)
 3. [cesium-measure：cesium 三维测量插件 http://www.5imoban.net/jiaocheng/mapgis/2021/0602/4849.html](http://www.5imoban.net/jiaocheng/mapgis/2021/0602/4849.html)
+4. [cesium测量距离，测量地形上两点的距离（工具篇） https://www.jianshu.com/p/a8d4123c03ef](https://www.jianshu.com/p/a8d4123c03ef)
+5. [使用cesium，进行贴地面积量算https://codeleading.com/article/71301358592/](https://codeleading.com/article/71301358592/)
+```js
+    viewer.cesiumWidget.screenSpaceEventHandler.removeInputAction(Cesium.ScreenSpaceEventType.LEFT_DOUBLE_CLICK);
+    //绘制点
+    function createPoint(worldPosition) {
+        console.log(worldPosition.x);
+        if (worldPosition.x != NaN && worldPosition.y != NaN && worldPosition.z != NaN) {
+            var point = viewer.entities.add({
+                position: worldPosition,
+                name: 'pointer',
+                point: {
+                    color: Cesium.Color.WHITE,
+                    pixelSize: 10,
+                    heightReference: Cesium.HeightReference.CLAMP_TO_GROUND
+                }
+            });
+            return point;
+        }
+
+    }
+    //绘制图形
+    function drawShape(positionData) {
+        var shape;
+        //当positionData为数组时绘制最终图，如果为function则绘制动态图
+        var arr = typeof positionData.getValue === 'function' ? positionData.getValue(0) : positionData;
+        var ceshi = new Cesium.CallbackProperty(function () {
+            var obj = new Cesium.PolygonHierarchy(arr);
+            console.log(obj.positions)
+            return obj.positions;
+        }, false);
+        console.log(typeof ceshi);
+        shape = viewer.entities.add({
+            polygon: {
+                hierarchy: arr,
+                material: new Cesium.ColorMaterialProperty(Cesium.Color.ORANGE.withAlpha(0.3)),
+            }
+        })
+        return shape;
+    }
+    var activeShapePoints = [];
+    var activeShape;
+    var floatingPoint;
+    var handler = new Cesium.ScreenSpaceEventHandler(viewer.canvas);
+    handler.setInputAction(function (event) {
+        // We use `viewer.scene.pickPosition` here instead of `viewer.camera.pickEllipsoid` so that
+        // we get the correct point when mousing over terrain.
+        var earthPosition = viewer.scene.pickPosition(event.position);
+        // `earthPosition` will be undefined if our mouse is not over the globe.
+        if (Cesium.defined(earthPosition)) {
+            if (activeShapePoints.length === 0) {
+                floatingPoint = createPoint(earthPosition);
+                activeShapePoints.push(earthPosition);
+                var dynamicPositions = new Cesium.CallbackProperty(function () {
+                    return activeShapePoints;
+                }, false);
+                activeShape = drawShape(dynamicPositions);
+            }
+            activeShapePoints.push(earthPosition);
+            createPoint(earthPosition);
+        }
+    }, Cesium.ScreenSpaceEventType.LEFT_CLICK);
+
+    handler.setInputAction(function (event) {
+        if (Cesium.defined(floatingPoint)) {
+            var newPosition = viewer.scene.pickPosition(event.endPosition);
+            if (Cesium.defined(newPosition)) {
+                floatingPoint.position.setValue(newPosition);
+                activeShapePoints.pop();
+                activeShapePoints.push(newPosition);
+            }
+        }
+    }, Cesium.ScreenSpaceEventType.MOUSE_MOVE);
+    // Redraw the shape so it's not dynamic and remove the dynamic shape.
+    function terminateShape() {
+        activeShapePoints.pop();
+        drawShape(activeShapePoints);
+        var lastRectangle = drawShape(activeShapePoints);//绘制最终图
+        var coors = lastRectangle._polygon._hierarchy._value;
+        var Geographys = [];
+        for (var i = 0; i < coors.length; i++) {
+            Geographys.push({ lon: Number(Cesium.Math.toDegrees(viewer.scene.globe.ellipsoid.cartesianToCartographic(coors[i]).longitude)), lat: Number(Cesium.Math.toDegrees(viewer.scene.globe.ellipsoid.cartesianToCartographic(coors[i]).latitude)) })
+        }
+        //Geography = [Cesium.Math.toDegrees(Geography.longitude), Cesium.Math.toDegrees(Geography.latitude)];
+        console.log(lastRectangle, coors, Geographys, "duobianxing贴面")
+        viewer.entities.remove(floatingPoint);
+        viewer.entities.remove(activeShape);
+        floatingPoint = undefined;
+        activeShape = undefined;
+        activeShapePoints = [];
+        return Geographys;
+    }
+    handler.setInputAction(function (event) {
+        var pointer = terminateShape();
+        viewer.scene.globe.depthTestAgainstTerrain = false;
+        handler.removeInputAction(Cesium.ScreenSpaceEventType.LEFT_CLICK);
+        console.log(computeSignedArea(pointer).toFixed(1) / 1000000, pointer[0].lon, pointer[0].lat)
+        var mj = (computeSignedArea(pointer) / 1000000).toFixed(1);
+        viewer.entities.add({
+            position: Cesium.Cartesian3.fromDegrees(pointer[0].lon, pointer[0].lat),
+            label: {
+                text: mj + 'k㎡',
+                font: '22px Helvetica',
+                fillColor: Cesium.Color.SKYBLUE,
+                outlineColor: Cesium.Color.BLACK,
+                outlineWidth: 2,
+                style: Cesium.LabelStyle.FILL_AND_OUTLINE,
+                horizontalOrigin: Cesium.HorizontalOrigin.CENTER,
+                heightReference: Cesium.HeightReference.CLAMP_TO_GROUND 
+            }
+        });
+    }, Cesium.ScreenSpaceEventType.RIGHT_CLICK);
+    //计算多边形面积
+    function computeSignedArea(path) {
+    let radius = 6371009
+    let len = path.length;
+    if (len < 3) return 0;
+    let total = 0;
+    let prev = path[len - 1];
+    let prevTanLat = Math.tan(((Math.PI / 2 - prev.lat / 180 * Math.PI) / 2));
+        let prevLng = (prev.lon) / 180 * Math.PI;
+    for (let i in path) {
+        let tanLat = Math.tan((Math.PI / 2 -
+            (path[i].lat) / 180 * Math.PI) / 2);
+        let lng = (path[i].lon) / 180 * Math.PI;
+        total += polarTriangleArea(tanLat, lng, prevTanLat, prevLng);
+        prevTanLat = tanLat;
+        prevLng = lng;
+    }
+    return Math.abs(total * (radius * radius));
+    }
+    function polarTriangleArea(tan1, lng1, tan2, lng2) {
+        let deltaLng = lng1 - lng2;
+        let t = tan1 * tan2;
+        return 2 * Math.atan2(t * Math.sin(deltaLng), 1 + t * Math.cos(deltaLng));
+    }
+    //清楚图层并且注销事件
+    function clearAlls() {
+        var clearS = viewer.entities.values;
+        console.log(clearS);
+        viewer.scene.globe.depthTestAgainstTerrain = false;
+        handler.removeInputAction(Cesium.ScreenSpaceEventType.LEFT_CLICK);
+        for (var i = 0; i < clearS.length; i++) {
+            viewer.entities.removeById(clearS[i]._id)
+            i--;
+        }
+        console.log(clearS)
+        getdata_ZHDPage();
+    }
+```
+6. 
