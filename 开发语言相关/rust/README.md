@@ -299,6 +299,7 @@
 27. [命令行识别文本 lemmeknow can be used for identifying mysterious text or to analyze hard-coded strings from captured network packets, malwares, or just about anything https://github.com/swanandx/lemmeknow](https://github.com/swanandx/lemmeknow)
 28. [Prettier Rust is an opinionated code formatter that autocorrects bad syntax. https://github.com/jinxdash/prettier-plugin-rust](https://github.com/jinxdash/prettier-plugin-rust)
 29. [A memory profiler for Linux. https://github.com/koute/bytehound](https://github.com/koute/bytehound)
+30. [可观察性的数据流中间件 A high-performance observability data pipeline. https://github.com/vectordotdev/vector](https://github.com/vectordotdev/vector)
 25. 
 
 ### 游戏
