@@ -231,6 +231,7 @@
 147. [A wide string Rust library for converting to and from wide strings, such as those often used in Windows API or other FFI libaries. Both u16 and u32 string types are provided, including support for UTF-16 and UTF-32, malformed encoding, C-style strings, etc. https://github.com/starkat99/widestring-rs](https://github.com/starkat99/widestring-rs)
 148. [Rust integration for Unreal Engine 5 https://github.com/MaikKlein/unreal-rust](https://github.com/MaikKlein/unreal-rust)
 149. [A hobby runtime for JavaScript and TypeScript https://github.com/aalykiot/dune](https://github.com/aalykiot/dune)
+150. [A library for deserializing json directly into numpy arrays https://github.com/wnorcbrown/serde-numpy](https://github.com/wnorcbrown/serde-numpy)
 140. 
 
 ### 完整项目/示例/demo/代码片段
@@ -300,6 +301,7 @@
 28. [Prettier Rust is an opinionated code formatter that autocorrects bad syntax. https://github.com/jinxdash/prettier-plugin-rust](https://github.com/jinxdash/prettier-plugin-rust)
 29. [A memory profiler for Linux. https://github.com/koute/bytehound](https://github.com/koute/bytehound)
 30. [可观察性的数据流中间件 A high-performance observability data pipeline. https://github.com/vectordotdev/vector](https://github.com/vectordotdev/vector)
+31. [Multithreaded application to analyze and filter network traffic. https://github.com/GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
 25. 
 
 ### 游戏
