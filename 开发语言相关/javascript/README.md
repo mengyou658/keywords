@@ -684,6 +684,11 @@ import "./app";
 10. [https://github.com/SimulatedGREG/electron-vue](https://github.com/SimulatedGREG/electron-vue)
 11. [基于 electron 的开源工具箱，自由集成丰富插件。 https://github.com/clouDr-f2e/rubick](https://github.com/clouDr-f2e/rubick)
 12. [一个基于Electron的画图板 https://github.com/jindada1/photoshit](https://github.com/jindada1/photoshit)
+13. [https://github.com/electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue)
+14. [https://github.com/nklayman/vue-cli-plugin-electron-builder](https://github.com/nklayman/vue-cli-plugin-electron-builder)
+15. [https://github.com/cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder)
+16. [https://github.com/alex8088/electron-vite](https://github.com/alex8088/electron-vite)
+17. [https://github.com/electron-vite/vite-plugin-electron](https://github.com/electron-vite/vite-plugin-electron)
 
 # pwa
 
