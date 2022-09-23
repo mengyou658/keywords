@@ -295,6 +295,7 @@
 111. [一款 HTML 演示框架。让你摆脱传统死板的 PPT 制作方法，可以方便地使用 HTML、Markdown 语言制作 PPT https://github.com/hakimel/reveal.js](https://github.com/hakimel/reveal.js)
 112. [web中使用Python PyScript是一个元项目，旨在结合多种开放技术，为用户创建一个框架，以使用Python（和其他语言）在浏览器中创建复杂的应用程序 https://github.com/pyscript/pyscript](https://github.com/pyscript/pyscript)
 113. [web中使用Python Pyodide是一个基于WebAssembly的浏览器和Node.js Python发行版 https://github.com/pyodide/pyodide](https://github.com/pyodide/pyodide)
+114. [一个 npm 模块，借助零宽度字符，在文本里面插入（或解码）不可见的文字水印 https://github.com/zengkan0703/text-watermark](https://github.com/zengkan0703/text-watermark)
 114. 
 
 ##### worker webworker web worker child process child_process thread node electron
