@@ -322,8 +322,9 @@
 6. [https://github.com/WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge)
 7. [Zaplib is an open-source library for speeding up web applications using Rust and WebAssembly. It lets you write high-performance code in Rust, alongside your existing JavaScript code, using simple APIs https://github.com/Zaplib/zaplib](https://github.com/Zaplib/zaplib)
 8. [Standalone JIT-style runtime for WebAssembly, using Cranelift https://github.com/bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime)
-9. 
-10. 
+9. [js to wasm https://github.com/Shopify/javy](https://github.com/Shopify/javy)
+10. [ts to wasm https://github.com/AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript)
+11. 
 
 ### network tcp udp 工具库 protocol
 
