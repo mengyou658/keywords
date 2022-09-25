@@ -296,6 +296,10 @@
 112. [web中使用Python PyScript是一个元项目，旨在结合多种开放技术，为用户创建一个框架，以使用Python（和其他语言）在浏览器中创建复杂的应用程序 https://github.com/pyscript/pyscript](https://github.com/pyscript/pyscript)
 113. [web中使用Python Pyodide是一个基于WebAssembly的浏览器和Node.js Python发行版 https://github.com/pyodide/pyodide](https://github.com/pyodide/pyodide)
 114. [一个 npm 模块，借助零宽度字符，在文本里面插入（或解码）不可见的文字水印 https://github.com/zengkan0703/text-watermark](https://github.com/zengkan0703/text-watermark)
+115. [memlab is an E2E testing and analysis framework for finding JavaScript memory leaks and optimization opportunities https://github.com/facebookincubator/memlab](https://github.com/facebookincubator/memlab)
+116. [The communications platform that puts data protection first. https://github.com/RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
+117. [我的世界服务器 https://github.com/MCHPR/MCHPRS](https://github.com/MCHPR/MCHPRS)
+118. [hex 编辑器 Versatile GUI hex editor focused on binary file exploration and aiding pattern recognition. Written in Rust. https://github.com/crumblingstatue/hexerator](https://github.com/crumblingstatue/hexerator)
 114. 
 
 ##### worker webworker web worker child process child_process thread node electron

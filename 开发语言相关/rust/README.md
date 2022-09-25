@@ -232,6 +232,9 @@
 148. [Rust integration for Unreal Engine 5 https://github.com/MaikKlein/unreal-rust](https://github.com/MaikKlein/unreal-rust)
 149. [A hobby runtime for JavaScript and TypeScript https://github.com/aalykiot/dune](https://github.com/aalykiot/dune)
 150. [A library for deserializing json directly into numpy arrays https://github.com/wnorcbrown/serde-numpy](https://github.com/wnorcbrown/serde-numpy)
+151. [Multithreaded application to analyze and filter network traffic https://github.com/GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
+152. [Stalwart JMAP is an open-source JSON Meta Application Protocol server designed to be secure, fast, robust and scalable. JMAP is a modern protocol for synchronising data such as mail, calendars, or contacts that makes much more efficient use of network resources. https://github.com/stalwartlabs/jmap-server](https://github.com/stalwartlabs/jmap-server)
+153. [Paste Rust code and see the AST (abstract syntax tree) it generates https://github.com/CarlKCarlK/rust-ast-explorer](https://github.com/CarlKCarlK/rust-ast-explorer)
 140. 
 
 ### 完整项目/示例/demo/代码片段

@@ -1201,7 +1201,7 @@ http://www.sweethome3d.com/
 1. https://branca.io/
 1. https://paseto.io/
 
-# BI(Business Intelligence)商务智能 用来帮助企业更好地利用数据提高决策质量的技术集合，是从大量的数据中钻取信息与知识的过程
+# BI(Business Intelligence)商务智能 用来帮助企业更好地利用数据提高决策质量的技术集合，是从大量的数据中钻取信息与知识的过程 datav
 
 1. [数据大屏 https://gitee.com/MTrun/big-screen-vue-datav](https://gitee.com/MTrun/big-screen-vue-datav)
 2. [数据大屏 https://gitee.com/memeda520/IofTV-Screen](https://gitee.com/memeda520/IofTV-Screen)
@@ -1235,6 +1235,7 @@ http://www.sweethome3d.com/
 26. https://github.com/hzzly/credit-bi-react
 27. https://github.com/guohaiqiangwork/bigData
 28. https://github.com/pengxiaotian/datav-vue
+29. [基于Vue3的拖拽式、低代码数据可视化平台 https://github.com/AnsGoo/openDataV](https://github.com/AnsGoo/openDataV)
 
 ### vn.py是一套基于Python的开源量化交易系统开发框架，于2015年1月正式发布，在开源社区6年持续不断的贡献下一步步成长为全功能量化交易平台，目前国内外金融机构用户已经超过500家，包括：私募基金、证券自营和资管、期货资管和子公司、高校研究机构、自营交易公司、交易所、Token Fund等。
 
