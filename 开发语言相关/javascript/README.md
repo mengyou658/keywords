@@ -300,6 +300,7 @@
 116. [The communications platform that puts data protection first. https://github.com/RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
 117. [我的世界服务器 https://github.com/MCHPR/MCHPRS](https://github.com/MCHPR/MCHPRS)
 118. [hex 编辑器 Versatile GUI hex editor focused on binary file exploration and aiding pattern recognition. Written in Rust. https://github.com/crumblingstatue/hexerator](https://github.com/crumblingstatue/hexerator)
+119. [加速页面加载 精确的按需加载 The HTML-first framework. Instant apps of any size with ~ 1kb JS https://github.com/BuilderIO/qwik](https://github.com/BuilderIO/qwik)
 114. 
 
 ##### worker webworker web worker child process child_process thread node electron
