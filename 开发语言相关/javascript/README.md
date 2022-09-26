@@ -562,6 +562,7 @@ Hilo，一套HTML5跨终端的互动游戏解决方案。Hilo支持了多届淘�
 54. [nodejs 写脚本 替代bash脚本 https://github.com/google/zx](https://github.com/google/zx)
 55. [3d建模编辑器类似3dmax https://github.com/nkallen/plasticity](https://github.com/nkallen/plasticity)
 56. [音频视频编辑器The swiss army knife of lossless video/audio editing https://hub.fastgit.xyz/mifi/lossless-cut](https://hub.fastgit.xyz/mifi/lossless-cut)
+57. [js 混淆加密 https://github.com/javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator)
 57. 
 
 ### # 文件上传
