@@ -695,6 +695,12 @@ import "./app";
 15. [https://github.com/cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder)
 16. [https://github.com/alex8088/electron-vite](https://github.com/alex8088/electron-vite)
 17. [https://github.com/electron-vite/vite-plugin-electron](https://github.com/electron-vite/vite-plugin-electron)
+18. [基于electron react的浏览器 https://hub.nuaa.cf/wexond/browser-base](https://hub.nuaa.cf/wexond/browser-base)
+19. [基于electron vue2的浏览器 https://github.com/LulumiProject/lulumi-browser](https://github.com/LulumiProject/lulumi-browser)
+20. [基于electron 的浏览器https://github.com/hulufei/electron-as-browser](https://github.com/hulufei/electron-as-browser)
+21. [基于electron react的浏览器https://github.com/elzabrowser/elza](https://github.com/elzabrowser/elza)
+21. [基于electron react的浏览器https://github.com/snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
+21. [基于electron react的浏览器https://github.com/BonBon-exchange/bonbon-web-browser](https://github.com/BonBon-exchange/bonbon-web-browser)
 
 # pwa
 

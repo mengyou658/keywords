@@ -509,6 +509,7 @@
 35. [运用tf实现自然场景文字检测,keras/pytorch实现ctpn+crnn+ctc实现不定长场景文字OCR识别https://github.com/xiaofengShi/CHINESE-OCR](https://github.com/xiaofengShi/CHINESE-OCR)
 36. [A Deep-Learning-Based Chinese Speech Recognition System 基于深度学习的中文语音识别系统https://github.com/nl8590687/ASRT_SpeechRecognition](https://github.com/nl8590687/ASRT_SpeechRecognition)
 37. [Rust 最准确的自然语言检测库，适用于长文本和短文本 https://github.com/pemistahl/lingua-rs](https://github.com/pemistahl/lingua-rs)
+38. [OpenAI 新开源的语音识别模型，经过大量音频数据训练，Whisper 可用于多语言语音识别以及语音翻译。Whisper 提供 5 种不同大小的模型，Large 模型（含 1550M 参数）支持多语言，剩余的其他四种模型在英语应用程序上比较会更好。 https://github.com/openai/whisper](https://github.com/openai/whisper)
 
 # 数据分析/数据可视化
 
@@ -727,3 +728,6 @@ http://www.jezzamon.com/fourier/zh-cn.html
 1. [草稿 草图 生成图片 生成AI艺术和动画 https://github.com/CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)
 2. [草稿 草图 生成图片 生成AI艺术和动画 https://github.com/alembics/disco-diffusion](https://github.com/alembics/disco-diffusion)
 3. [草图生成图片 A compendium of informations regarding Stable Diffusion (SD) https://github.com/Maks-s/sd-akashic](https://github.com/Maks-s/sd-akashic)
+
+
+### [一个支持 JAX、TensorFlow、PyTorch 和 Numpy 的统一 ML 框架。你可以快速用 Ivy 来训练一个神经网络，就像这样，用上你喜欢的框架 https://github.com/unifyai/ivy](https://github.com/unifyai/ivy)

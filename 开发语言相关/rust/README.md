@@ -313,6 +313,7 @@
 2. [Rust bindings for GDNative https://github.com/godot-rust/godot-rust](https://github.com/godot-rust/godot-rust)
 3. [2D and 3D physics engines focused on performance https://github.com/dimforge/rapier](https://github.com/dimforge/rapier)
 4. [A Rust framework for building Minecraft servers. 我的世界游戏服务器 https://github.com/valence-rs/valence](https://github.com/valence-rs/valence)
+5. [3D and 2D game engine written in Rust https://github.com/FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox)
 4. 
 
 ### WebAssembly wasm
@@ -327,7 +328,7 @@
 8. [Standalone JIT-style runtime for WebAssembly, using Cranelift https://github.com/bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime)
 9. [js to wasm https://github.com/Shopify/javy](https://github.com/Shopify/javy)
 10. [ts to wasm https://github.com/AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript)
-11. 
+11. [https://wasi.dev/](https://wasi.dev/)
 
 ### network tcp udp 工具库 protocol
 

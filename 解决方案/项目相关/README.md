@@ -2025,4 +2025,10 @@ _Jupyter kernels that run and introspect the user's code in a given language._
         getdata_ZHDPage();
     }
 ```
-6. 
+
+
+### 图片转视频
+1. [http://main.net.cn/faq/special/ffmpeg/node-js-realtime-conversion-from-jpeg-images-to-video-file/](http://main.net.cn/faq/special/ffmpeg/node-js-realtime-conversion-from-jpeg-images-to-video-file/)
+
+
+### 一个跨平台 OpenGL 终端模拟器，可根据你自身需求进行配置。目前 Alacritty 支持 BSD、Linux、macOS、Windows 等操作系统[https://github.com/alacritty/alacritty](https://github.com/alacritty/alacritty)
