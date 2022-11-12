@@ -731,3 +731,11 @@ http://www.jezzamon.com/fourier/zh-cn.html
 
 
 ### [一个支持 JAX、TensorFlow、PyTorch 和 Numpy 的统一 ML 框架。你可以快速用 Ivy 来训练一个神经网络，就像这样，用上你喜欢的框架 https://github.com/unifyai/ivy](https://github.com/unifyai/ivy)
+
+
+### [一个国产的代码生成的人工智能工具，跟 GitHub Copilot 类似，可以将一种语言的代码翻译成另一种，并提供 VS Code 插件 https://keg.cs.tsinghua.edu.cn/codegeex/index_zh.html](https://keg.cs.tsinghua.edu.cn/codegeex/index_zh.html)
+
+
+### [一个开源的 AI 工具，可以从图片上擦除任何不需要的物体 https://github.com/Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner)
+
+

@@ -2032,3 +2032,6 @@ _Jupyter kernels that run and introspect the user's code in a given language._
 
 
 ### 一个跨平台 OpenGL 终端模拟器，可根据你自身需求进行配置。目前 Alacritty 支持 BSD、Linux、macOS、Windows 等操作系统[https://github.com/alacritty/alacritty](https://github.com/alacritty/alacritty)
+
+### [一个国产的代码生成的人工智能工具，跟 GitHub Copilot 类似，可以将一种语言的代码翻译成另一种，并提供 VS Code 插件 https://keg.cs.tsinghua.edu.cn/codegeex/index_zh.html](https://keg.cs.tsinghua.edu.cn/codegeex/index_zh.html)
+
