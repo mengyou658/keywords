@@ -329,6 +329,7 @@
 9. [js to wasm https://github.com/Shopify/javy](https://github.com/Shopify/javy)
 10. [ts to wasm https://github.com/AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript)
 11. [https://wasi.dev/](https://wasi.dev/)
+12. [Spin is an open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly https://github.com/fermyon/spin](https://github.com/fermyon/spin)
 
 ### network tcp udp 工具库 protocol
 

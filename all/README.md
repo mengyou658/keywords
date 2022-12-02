@@ -177,6 +177,7 @@
    [https://github.com/mengyou658/Mars-1](https://github.com/mengyou658/Mars-1)
 1. 列表
    [https://github.com/mengyou658/awesome](https://github.com/mengyou658/awesome)
+2. [计算机自学指南 https://github.com/PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
 
 ###### # 规范
 
