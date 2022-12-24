@@ -235,6 +235,11 @@
 151. [Multithreaded application to analyze and filter network traffic https://github.com/GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
 152. [Stalwart JMAP is an open-source JSON Meta Application Protocol server designed to be secure, fast, robust and scalable. JMAP is a modern protocol for synchronising data such as mail, calendars, or contacts that makes much more efficient use of network resources. https://github.com/stalwartlabs/jmap-server](https://github.com/stalwartlabs/jmap-server)
 153. [Paste Rust code and see the AST (abstract syntax tree) it generates https://github.com/CarlKCarlK/rust-ast-explorer](https://github.com/CarlKCarlK/rust-ast-explorer)
+154. [Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language https://github.com/boa-dev/boa](https://github.com/boa-dev/boa)
+155. [煎锅是一种轻量级、油炸、生锈的应用程序，用于使用 vtkio 和 glium 进行交互式科学可视化 https://github.com/JeffIrwin/skillet](https://github.com/JeffIrwin/skillet)
+156. [Execute Rust code carefully, with extra checking along the way https://github.com/RalfJung/cargo-careful](https://github.com/RalfJung/cargo-careful)
+157. [A scalable, distributed, collaborative, document-graph database, for the realtime web https://github.com/surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)
+158. [An easy to use library for pretty print tables of Rust structs and enums https://github.com/zhiburt/tabled](https://github.com/zhiburt/tabled)
 140. 
 
 ### 完整项目/示例/demo/代码片段

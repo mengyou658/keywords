@@ -178,6 +178,7 @@
 1. 列表
    [https://github.com/mengyou658/awesome](https://github.com/mengyou658/awesome)
 2. [计算机自学指南 https://github.com/PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
+3. [https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)
 
 ###### # 规范
 
