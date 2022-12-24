@@ -301,6 +301,9 @@
 117. [我的世界服务器 https://github.com/MCHPR/MCHPRS](https://github.com/MCHPR/MCHPRS)
 118. [hex 编辑器 Versatile GUI hex editor focused on binary file exploration and aiding pattern recognition. Written in Rust. https://github.com/crumblingstatue/hexerator](https://github.com/crumblingstatue/hexerator)
 119. [加速页面加载 精确的按需加载 The HTML-first framework. Instant apps of any size with ~ 1kb JS https://github.com/BuilderIO/qwik](https://github.com/BuilderIO/qwik)
+120. [Point Cloud Library (PCL) for browser, powered by WebAssembly.｜在浏览器运行的点云库 (PCL)，由 WebAssembly 提供支持 https://github.com/luoxuhai/pcl.js](https://github.com/luoxuhai/pcl.js)
+121. [A strictly typed utility library https://github.com/MathisBullinger/froebel](https://github.com/MathisBullinger/froebel)
+122. [基于fabric.js和Vue的图片编辑器，可自定义字体、素材、设计模板 https://github.com/nihaojob/vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor)
 114. 
 
 ##### worker webworker web worker child process child_process thread node electron

@@ -145,5 +145,5 @@
 23. [Sherloq 是 GitHub 上近期比较热门的一款开源图像取证工具，可对图像具体信息进行提取、分析、比对，并以此检测图像是否被篡改或伪造，功能颇为强大 https://github.com/GuidoBartoli/sherloq](https://github.com/GuidoBartoli/sherloq)
 24. [Composer is a library written in PyTorch that enables you to train neural networks faster, at lower cost, and to higher accuracy https://hub.fastgit.xyz/mosaicml/composer](https://hub.fastgit.xyz/mosaicml/composer)
 25. [python 画流程图 Diagram as Code for prototyping cloud system architectures https://github.com/mingrammer/diagrams](https://github.com/mingrammer/diagrams)
-26. 
+26. [互联网从业者的灵感数据库，无广告，Github Actions自动检测网站访问速度 https://github.com/zhaoolee/ins](https://github.com/zhaoolee/ins)
 27. 

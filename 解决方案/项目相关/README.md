@@ -641,6 +641,7 @@ Flink使用了流处理的内核，同时提供了流处理和批处理的接口
    [https://github.com/zhangdaiscott/h5huodong](https://github.com/zhangdaiscott/h5huodong)
 1. 微信小程序 转 支付宝小程序
    [https://github.com/ant-move/antmove](https://github.com/ant-move/antmove)
+2. [贝壳小盒子Wechat微信小程序，高校微信小程序，集课表查询、成绩查询、电费查询、图书查询等功能于一体 https://github.com/Airmole/ShellBox](https://github.com/Airmole/ShellBox)
 
 # 加密
 
@@ -1339,7 +1340,7 @@ qgis mapx
 1. [https://github.com/0voice/audio_video_streaming](https://github.com/0voice/audio_video_streaming)
 2. [WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的开箱即用的网络视频平台，负责实现核心信令与设备管理后台部分，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。支持国标级联，支持rtsp/rtmp等视频流转发到国标平台，支持rtsp/rtmp等推流转发到国标平台https://github.com/648540858/wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro)
 3. [一个如何调用 FFmpeg 视频库的教程，有中文翻译。https://github.com/leandromoreira/ffmpeg-libav-tutorial](https://github.com/leandromoreira/ffmpeg-libav-tutorial)
-4. 
+4. [I love ffmpeg and always forget how to use it. This little webpage hopes to help you build ffmpeg commands! https://github.com/EvanHahn/ffmpeg-buddy](https://github.com/EvanHahn/ffmpeg-buddy)
 
 
 ### Jupyter Kernels Playground

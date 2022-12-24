@@ -95,6 +95,8 @@
 3. [Web Fuzzing Box - Web 模糊测试字典与一些Payloads，主要包含：弱口令暴力破解、目录以及文件枚举、Web漏洞...字典运用于实战案例：https://gh0st.cn/archives/2019-11-11/1 https://github.com/gh0stkey/Web-Fuzzing-Box](https://github.com/gh0stkey/Web-Fuzzing-Box)
 4. [密码破解 https://github.com/hashcat/hashcat](https://github.com/hashcat/hashcat)
 5. [A Hex Editor for Reverse Engineers 发编译工具 https://github.com/WerWolv/ImHex](https://github.com/WerWolv/ImHex)
+6. [https://github.com/dail8859/NotepadNext](https://github.com/dail8859/NotepadNext)
+7. [Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM https://github.com/redpanda-data/redpanda](https://github.com/redpanda-data/redpanda)
 5. 
 
 ### QT

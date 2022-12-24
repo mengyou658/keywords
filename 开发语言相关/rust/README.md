@@ -242,6 +242,11 @@
 158. [An easy to use library for pretty print tables of Rust structs and enums https://github.com/zhiburt/tabled](https://github.com/zhiburt/tabled)
 159. [path-tree is a lightweight high performance HTTP request router for Rust https://github.com/viz-rs/path-tree](https://github.com/viz-rs/path-tree)
 160. [Stellarium是一款免费的GPL软件，它使用OpenGL实时渲染逼真的天空。它适用于Linux/Unix，Windows和macOS。有了Stellarium，你真的可以看到你用眼睛、双筒望远镜或小型望远镜看到的东西 https://github.com/Stellarium/stellarium](https://github.com/Stellarium/stellarium)
+161. [The fast sync and async channel that Rust deserves https://github.com/fereidani/kanal](https://github.com/fereidani/kanal)
+162. [The universal plug-in system. Run WebAssembly extensions inside your app. Use idiomatic Host SDKs https://github.com/extism/extism](https://github.com/extism/extism)
+163. [高效的矢量图形渲染器 一个（彻底）并行化的实验性 Rust 矢量图形渲染器 A (thoroughly) parallelized experimental Rust vector-graphics renderer with both a software (CPU) and hardware (GPU) back-end having the following goals https://github.com/google/forma](https://github.com/google/forma)
+164. [pulp is a safe abstraction over SIMD instructions, that allows you to write a function once and dispatch to equivalent vectorized versions based on the features detected at runtime https://github.com/sarah-ek/pulp/](https://github.com/sarah-ek/pulp/)
+165. [Parse command line arguments by defining a struct. https://github.com/TeXitoi/structopt](https://github.com/TeXitoi/structopt)
 140. 
 
 ### 完整项目/示例/demo/代码片段
@@ -277,6 +282,7 @@
 6. [https://hub.fastgit.xyz/iced-rs/iced](https://hub.fastgit.xyz/iced-rs/iced)
 7. [Rust bindings for Dear ImGui https://github.com/imgui-rs/imgui-rs](https://github.com/imgui-rs/imgui-rs)
 8. [https://elkowar.github.io/eww/](https://elkowar.github.io/eww/)
+9. [Frui is a developer-friendly UI framework that makes building user interfaces easy and productive. It's inspired by Flutter architecture and is written in Rust! https://github.com/fruiframework/frui](https://github.com/fruiframework/frui)
 9. 
 
 ### 工具
