@@ -240,6 +240,8 @@
 156. [Execute Rust code carefully, with extra checking along the way https://github.com/RalfJung/cargo-careful](https://github.com/RalfJung/cargo-careful)
 157. [A scalable, distributed, collaborative, document-graph database, for the realtime web https://github.com/surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)
 158. [An easy to use library for pretty print tables of Rust structs and enums https://github.com/zhiburt/tabled](https://github.com/zhiburt/tabled)
+159. [path-tree is a lightweight high performance HTTP request router for Rust https://github.com/viz-rs/path-tree](https://github.com/viz-rs/path-tree)
+160. [Stellarium是一款免费的GPL软件，它使用OpenGL实时渲染逼真的天空。它适用于Linux/Unix，Windows和macOS。有了Stellarium，你真的可以看到你用眼睛、双筒望远镜或小型望远镜看到的东西 https://github.com/Stellarium/stellarium](https://github.com/Stellarium/stellarium)
 140. 
 
 ### 完整项目/示例/demo/代码片段
@@ -310,6 +312,7 @@
 29. [A memory profiler for Linux. https://github.com/koute/bytehound](https://github.com/koute/bytehound)
 30. [可观察性的数据流中间件 A high-performance observability data pipeline. https://github.com/vectordotdev/vector](https://github.com/vectordotdev/vector)
 31. [Multithreaded application to analyze and filter network traffic. https://github.com/GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
+32. [Simply make any web page a desktop application using Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App https://github.com/tw93/pake](https://github.com/tw93/pake)
 25. 
 
 ### 游戏
@@ -319,6 +322,7 @@
 3. [2D and 3D physics engines focused on performance https://github.com/dimforge/rapier](https://github.com/dimforge/rapier)
 4. [A Rust framework for building Minecraft servers. 我的世界游戏服务器 https://github.com/valence-rs/valence](https://github.com/valence-rs/valence)
 5. [3D and 2D game engine written in Rust https://github.com/FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox)
+6. [一个功能丰富、生产就绪的通用 2D/3D 游戏引擎，用 Rust 编写，带有场景编辑器。以前称为 rg3d https://github.com/FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox)
 4. 
 
 ### WebAssembly wasm

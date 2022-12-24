@@ -56,6 +56,7 @@
 12. [https://github.com/facebookresearch/hiplot](https://github.com/facebookresearch/hiplot)
 13. [https://hub.fastgit.xyz/iperov/DeepFaceLive](https://hub.fastgit.xyz/iperov/DeepFaceLive)
 14. [https://github.com/ahawker/ulid](https://github.com/ahawker/ulid)
+15. [用于可扩展贝叶斯优化的开源 Python 库 https://github.com/Dragonfly/dragonfly](https://github.com/Dragonfly/dragonfly)
 15. 
 16. 
 17. 

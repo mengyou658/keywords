@@ -664,6 +664,7 @@ import "./app";
 1. NodeGUI由Qt5提供支持 💚 与其他基于铬的解决方案（如electron）相比，它使CPU和内存效率更高
    [https://github.com/nodegui/nodegui](https://github.com/nodegui/nodegui)
    [https://github.com/nodegui/react-nodegui](https://github.com/nodegui/react-nodegui)
+2. [go js 桌面 https://github.com/wailsapp/wails/](https://github.com/wailsapp/wails/)
 
 # electron
 
@@ -702,6 +703,7 @@ import "./app";
 21. [基于electron react的浏览器https://github.com/elzabrowser/elza](https://github.com/elzabrowser/elza)
 21. [基于electron react的浏览器https://github.com/snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
 21. [基于electron react的浏览器https://github.com/BonBon-exchange/bonbon-web-browser](https://github.com/BonBon-exchange/bonbon-web-browser)
+22. [Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护 https://github.com/alex8088/electron-vite](https://github.com/alex8088/electron-vite)
 
 # pwa
 
