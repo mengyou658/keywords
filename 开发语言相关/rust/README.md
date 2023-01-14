@@ -35,7 +35,7 @@
 3. [A full-featured and easy-to-use web framework with the Rust programming language.](https://github.com/poem-web/poem)
 4. [https://github.com/actix/actix-web](https://github.com/actix/actix-web)
 5. [go-zero 实战 https://github.com/zhoushuguang/lebron](https://github.com/zhoushuguang/lebron)
-6. 
+6. [https://marabos.nl/atomics/](https://marabos.nl/atomics/)
 
 ### cheatsheet 备忘录 面试
 
@@ -245,8 +245,11 @@
 161. [The fast sync and async channel that Rust deserves https://github.com/fereidani/kanal](https://github.com/fereidani/kanal)
 162. [The universal plug-in system. Run WebAssembly extensions inside your app. Use idiomatic Host SDKs https://github.com/extism/extism](https://github.com/extism/extism)
 163. [高效的矢量图形渲染器 一个（彻底）并行化的实验性 Rust 矢量图形渲染器 A (thoroughly) parallelized experimental Rust vector-graphics renderer with both a software (CPU) and hardware (GPU) back-end having the following goals https://github.com/google/forma](https://github.com/google/forma)
-164. [pulp is a safe abstraction over SIMD instructions, that allows you to write a function once and dispatch to equivalent vectorized versions based on the features detected at runtime https://github.com/sarah-ek/pulp/](https://github.com/sarah-ek/pulp/)
+164. [pulp is a safe abstraction over SIMD instructions, that allows you to write tra function once and dispatch to equivalent vectorized versions based on the features detected at runtime https://github.com/sarah-ek/pulp/](https://github.com/sarah-ek/pulp/)
 165. [Parse command line arguments by defining a struct. https://github.com/TeXitoi/structopt](https://github.com/TeXitoi/structopt)
+166. [hoton is a high-performance image processing library, written in Rust and compilable to WebAssembly, which can be used both natively and on the web https://github.com/silvia-odwyer/photon/](https://github.com/silvia-odwyer/photon/)
+167. [Library for writing system daemons https://github.com/knsd/daemonize](https://github.com/knsd/daemonize)
+168. [Friendly React-like GUI library for desktop, web, mobile, and more https://github.com/DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)
 140. 
 
 ### 完整项目/示例/demo/代码片段
@@ -287,6 +290,10 @@
 
 ### 工具
 
+```
+cargo install cargo-watch cargo-edit cargo-watch cargo-update cargo-tarpaulin watchexec-cli cargo-outdated just fnm broot stylua
+```
+
 1. [Rust 的内存安全和未定义行为检测工具 Rudra 是一个静态分析器，用于检测 Rust 程序中常见的未定义行为。它能够分析单个 Rust 包以及 crates.io 上的所有包 https://github.com/sslab-gatech/Rudra](https://github.com/sslab-gatech/Rudra)
 2. [A Python Interpreter written in Rust python 解释器 https://github.com/RustPython/RustPython](https://github.com/RustPython/RustPython)
 3. [远程桌面软件，开箱即用，无需任何配置https://github.com/rustdesk/rustdesk/blob/master/README-ZH.md](https://github.com/rustdesk/rustdesk/blob/master/README-ZH.md)
@@ -319,6 +326,7 @@
 30. [可观察性的数据流中间件 A high-performance observability data pipeline. https://github.com/vectordotdev/vector](https://github.com/vectordotdev/vector)
 31. [Multithreaded application to analyze and filter network traffic. https://github.com/GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
 32. [Simply make any web page a desktop application using Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App https://github.com/tw93/pake](https://github.com/tw93/pake)
+33. [https://github.com/watchexec/cargo-watch/](https://github.com/watchexec/cargo-watch/)
 25. 
 
 ### 游戏
@@ -396,6 +404,7 @@
 3. 嵌入式开发入门
    1. [https://space.bilibili.com/500416539/channel/collectiondetail?sid=177577](https://space.bilibili.com/500416539/channel/collectiondetail?sid=177577)
 4. [一种多任务调度内核 单物理线程任务优先级+时间片调度 https://github.com/gqf2008/xtask](https://github.com/gqf2008/xtask)
+5. [https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
 5. 
 
 ### 区块链开发

@@ -131,6 +131,7 @@
    [https://github.com/postalsys/pending-dns](https://github.com/postalsys/pending-dns)
 1. nodejsscan is a static security code scanner for Node.js applications 代码 安全 扫描
    [https://github.com/ajinabraham/nodejsscan](https://github.com/ajinabraham/nodejsscan)
+2. [https://blog.appsignal.com/2022/09/28/minimize-heap-allocations-in-nodejs.html](https://blog.appsignal.com/2022/09/28/minimize-heap-allocations-in-nodejs.html)
 
 ### 进程管理 保证进程永远执行 类似 supervisor forever
 

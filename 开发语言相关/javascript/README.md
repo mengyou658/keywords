@@ -60,7 +60,8 @@
    [https://github.com/Advanced-Frontend/Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
 1. JavaScript是如何工作的系列 前端性能优化 JavaScript 数据结构
    [https://github.com/qq449245884/xiaozhi](https://github.com/qq449245884/xiaozhi)
-1.
+2. [交互式flex 学习https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
+1.  
 
 ### 实用 库/模块/框架
 
@@ -671,7 +672,8 @@ import "./app";
 
 # electron
 
-1. Electron application boilerplate based on React, Redux, React Router, Webpack, React Transform HMR for rapid
+1. [这个更好点 https://github.com/alex8088/electron-vite](https://github.com/alex8088/electron-vite)
+2. Electron application boilerplate based on React, Redux, React Router, Webpack, React Transform HMR for rapid
    application development.
    [https://github.com/chentsulin/electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate)
 2. 直接把网页转变成桌面app Make any web page a desktop application
@@ -698,7 +700,7 @@ import "./app";
 13. [https://github.com/electron-vite/electron-vite-vue](https://github.com/electron-vite/electron-vite-vue)
 14. [https://github.com/nklayman/vue-cli-plugin-electron-builder](https://github.com/nklayman/vue-cli-plugin-electron-builder)
 15. [https://github.com/cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder)
-16. [https://github.com/alex8088/electron-vite](https://github.com/alex8088/electron-vite)
+16. 
 17. [https://github.com/electron-vite/vite-plugin-electron](https://github.com/electron-vite/vite-plugin-electron)
 18. [基于electron react的浏览器 https://hub.nuaa.cf/wexond/browser-base](https://hub.nuaa.cf/wexond/browser-base)
 19. [基于electron vue2的浏览器 https://github.com/LulumiProject/lulumi-browser](https://github.com/LulumiProject/lulumi-browser)
@@ -707,6 +709,7 @@ import "./app";
 21. [基于electron react的浏览器https://github.com/snaildos/Fifo-Browser](https://github.com/snaildos/Fifo-Browser)
 21. [基于electron react的浏览器https://github.com/BonBon-exchange/bonbon-web-browser](https://github.com/BonBon-exchange/bonbon-web-browser)
 22. [Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护 https://github.com/alex8088/electron-vite](https://github.com/alex8088/electron-vite)
+23. [https://gitee.com/dromara/electron-egg.git](https://gitee.com/dromara/electron-egg.git)
 
 # pwa
 
