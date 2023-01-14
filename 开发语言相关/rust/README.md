@@ -292,6 +292,11 @@
 9. [Frui is a developer-friendly UI framework that makes building user interfaces easy and productive. It's inspired by Flutter architecture and is written in Rust! https://github.com/fruiframework/frui](https://github.com/fruiframework/frui)
 9. 
 
+### 图形渲染和处理
+
+1. [https://github.com/gfx-rs/wgpu](https://github.com/gfx-rs/wgpu)
+2. [https://github.com/EmbarkStudios/rust-gpu](https://github.com/EmbarkStudios/rust-gpu)
+
 ### 工具
 
 ```
@@ -332,6 +337,7 @@ cargo install cargo-watch cargo-edit cargo-watch cargo-update cargo-tarpaulin wa
 32. [Simply make any web page a desktop application using Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App https://github.com/tw93/pake](https://github.com/tw93/pake)
 33. [https://github.com/watchexec/cargo-watch/](https://github.com/watchexec/cargo-watch/)
 34. [ For when you really just want to serve some files over HTTP right now https://github.com/svenstaro/miniserve](https://github.com/svenstaro/miniserve)
+35. [Graphite 是一个 Rust 实现的轻量级的光栅和矢量 2D 图形编辑器，它是免费和开源的 https://github.com/GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite)
 25. 
 
 ### 游戏
