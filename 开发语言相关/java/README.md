@@ -4,7 +4,8 @@
 
 ### 现成列表
 
-1. java成长路线
+1. [https://github.com/itwanger/toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer)
+2. java成长路线
    [https://github.com/javagrowing/JGrowing](https://github.com/javagrowing/JGrowing)
 1. awesome-java-cn
    [https://github.com/jobbole/awesome-java-cn](https://github.com/jobbole/awesome-java-cn)

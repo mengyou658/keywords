@@ -250,6 +250,10 @@
 166. [hoton is a high-performance image processing library, written in Rust and compilable to WebAssembly, which can be used both natively and on the web https://github.com/silvia-odwyer/photon/](https://github.com/silvia-odwyer/photon/)
 167. [Library for writing system daemons https://github.com/knsd/daemonize](https://github.com/knsd/daemonize)
 168. [Friendly React-like GUI library for desktop, web, mobile, and more https://github.com/DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)
+169. [Build fast web applications with Rust https://github.com/leptos-rs/leptos](https://github.com/leptos-rs/leptos)
+170. [An incremental parsing system for programming tools https://github.com/tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter)
+171. [Simple, safe way to store and distribute tensors https://github.com/huggingface/safetensors](https://github.com/huggingface/safetensors)
+172. [The Rust Implementation of the libp2p networking stack https://github.com/libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p)
 140. 
 
 ### 完整项目/示例/demo/代码片段
@@ -327,6 +331,7 @@ cargo install cargo-watch cargo-edit cargo-watch cargo-update cargo-tarpaulin wa
 31. [Multithreaded application to analyze and filter network traffic. https://github.com/GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
 32. [Simply make any web page a desktop application using Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App https://github.com/tw93/pake](https://github.com/tw93/pake)
 33. [https://github.com/watchexec/cargo-watch/](https://github.com/watchexec/cargo-watch/)
+34. [ For when you really just want to serve some files over HTTP right now https://github.com/svenstaro/miniserve](https://github.com/svenstaro/miniserve)
 25. 
 
 ### 游戏
@@ -337,6 +342,7 @@ cargo install cargo-watch cargo-edit cargo-watch cargo-update cargo-tarpaulin wa
 4. [A Rust framework for building Minecraft servers. 我的世界游戏服务器 https://github.com/valence-rs/valence](https://github.com/valence-rs/valence)
 5. [3D and 2D game engine written in Rust https://github.com/FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox)
 6. [一个功能丰富、生产就绪的通用 2D/3D 游戏引擎，用 Rust 编写，带有场景编辑器。以前称为 rg3d https://github.com/FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox)
+7. [A safe, fast and cross-platform 2D component-based game framework written in rust https://github.com/AndriBaal/shura](https://github.com/AndriBaal/shura)
 4. 
 
 ### WebAssembly wasm
