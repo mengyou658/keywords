@@ -521,6 +521,7 @@ Command::new("rustfmt")
 ### 机器学习 深度学习 machine learn 
 1. [Transform ML models into a native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart, Haskell, Ruby, F#, Rust) with zero dependencies https://github.com/BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen)
 2. [Strongly typed Deep Learning in Rust https://github.com/coreylowman/dfdx](https://github.com/coreylowman/dfdx)
+3. [Rust bindings for the C++ api of PyTorch https://github.com/LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs)
 
 
 ### rtsp server 视频服务 rtmp
