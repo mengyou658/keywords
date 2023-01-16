@@ -1828,6 +1828,7 @@ _Jupyter kernels that run and introspect the user's code in a given language._
 
 第一第二推荐 bit解析， 数据接收使用 tokio
 
+1. [这个推荐 动态都符合 这个也非常不错 https://github.com/sharksforarms/deku](https://github.com/sharksforarms/deku)
 1. [这个比较接近 感觉可以 https://github.com/cesbo/bitwrap](https://github.com/cesbo/bitwrap)
 2. [这个比较接近 感觉可以 TODO 做一些改造 https://github.com/mengyou658/bitwrap](https://github.com/mengyou658/bitwrap)
 3. [这个也比较不错，但是没有看到动态长度协议的解析 增加了order排序 https://github.com/CirrusNeptune/modular-bitfield-msb](https://github.com/CirrusNeptune/modular-bitfield-msb)

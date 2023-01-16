@@ -369,7 +369,8 @@ cargo install cargo-watch cargo-edit cargo-watch cargo-update cargo-tarpaulin wa
 ### network tcp udp 工具库 protocol
 
 第一第二推荐 bit解析， 数据接收使用 tokio
-1. [这个比较接近 感觉可以 这个也非常不错 https://github.com/libpnet/libpnet](https://github.com/libpnet/libpnet)
+1. [这个推荐 动态都符合 这个也非常不错 https://github.com/sharksforarms/deku](https://github.com/sharksforarms/deku)
+2. [这个比较接近 感觉可以 这个也非常不错 https://github.com/libpnet/libpnet](https://github.com/libpnet/libpnet)
 2. [这个比较接近 感觉可以 https://github.com/cesbo/bitwrap](https://github.com/cesbo/bitwrap)
 3. [这个比较接近 感觉可以 TODO 做一些改造 https://github.com/mengyou658/bitwrap](https://github.com/mengyou658/bitwrap)
 4. [这个也比较不错，但是没有看到动态长度协议的解析 增加了order排序 https://github.com/CirrusNeptune/modular-bitfield-msb](https://github.com/CirrusNeptune/modular-bitfield-msb)
