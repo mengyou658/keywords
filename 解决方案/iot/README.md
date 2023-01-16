@@ -43,6 +43,7 @@
 ### 开发参考 tcp udp server protocol
 
 1. [这个推荐 动态都符合 这个也非常不错 https://github.com/sharksforarms/deku](https://github.com/sharksforarms/deku)
+1. [这个推荐 动态都符合 这个也非常不错 https://github.com/jam1garner/binrw](https://github.com/jam1garner/binrw)
 1. [https://github.com/tokio-rs/mini-redis](https://github.com/tokio-rs/mini-redis)
 2. [https://github.com/cesbo/bitwrap](https://github.com/cesbo/bitwrap)
 3. [https://github.com/rumblefrog/lrthrome](https://github.com/rumblefrog/lrthrome)

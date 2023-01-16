@@ -254,6 +254,12 @@
 170. [An incremental parsing system for programming tools https://github.com/tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter)
 171. [Simple, safe way to store and distribute tensors https://github.com/huggingface/safetensors](https://github.com/huggingface/safetensors)
 172. [The Rust Implementation of the libp2p networking stack https://github.com/libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p)
+173. [Determine if a type implements a logical trait expression https://lib.rs/crates/impls](https://lib.rs/crates/impls)
+174. [Initialize config structure from environment variables in Rust without boilerplate https://crates.io/crates/envconfig](https://crates.io/crates/envconfig)
+175. [Rust implementations of string similarity metrics https://github.com/dguo/strsim-rs](https://github.com/dguo/strsim-rs)
+176. [Make your code extrasafe by preventing it from calling unneeded syscalls https://github.com/boustrophedon/extrasafe](https://github.com/boustrophedon/extrasafe)
+177. [A utility crate for lazily formatting values for later https://github.com/lucretiel/lazy_format](https://github.com/lucretiel/lazy_format)
+178. [Frunk provides developers with a number of functional programming tools like HList, Coproduct, Generic, LabelledGeneric, Validated, Monoid, Semigroup and friends https://lib.rs/crates/frunk](https://lib.rs/crates/frunk)
 140. 
 
 ### 完整项目/示例/demo/代码片段
@@ -338,6 +344,9 @@ cargo install cargo-watch cargo-edit cargo-watch cargo-update cargo-tarpaulin wa
 33. [https://github.com/watchexec/cargo-watch/](https://github.com/watchexec/cargo-watch/)
 34. [ For when you really just want to serve some files over HTTP right now https://github.com/svenstaro/miniserve](https://github.com/svenstaro/miniserve)
 35. [Graphite 是一个 Rust 实现的轻量级的光栅和矢量 2D 图形编辑器，它是免费和开源的 https://github.com/GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite)
+36. [Drill is an HTTP load testing application written in Rust https://github.com/fcsonline/drill](https://github.com/fcsonline/drill)
+37. [Easy function multiversioning for Rust Many CPU architectures have a variety of instruction set extensions that provide additional functionality https://github.com/calebzulawski/multiversion](https://github.com/calebzulawski/multiversion)
+38. 
 25. 
 
 ### 游戏
@@ -370,6 +379,7 @@ cargo install cargo-watch cargo-edit cargo-watch cargo-update cargo-tarpaulin wa
 
 第一第二推荐 bit解析， 数据接收使用 tokio
 1. [这个推荐 动态都符合 这个也非常不错 https://github.com/sharksforarms/deku](https://github.com/sharksforarms/deku)
+1. [这个推荐 动态都符合 这个也非常不错 https://github.com/jam1garner/binrw](https://github.com/jam1garner/binrw)
 2. [这个比较接近 感觉可以 这个也非常不错 https://github.com/libpnet/libpnet](https://github.com/libpnet/libpnet)
 2. [这个比较接近 感觉可以 https://github.com/cesbo/bitwrap](https://github.com/cesbo/bitwrap)
 3. [这个比较接近 感觉可以 TODO 做一些改造 https://github.com/mengyou658/bitwrap](https://github.com/mengyou658/bitwrap)
@@ -472,12 +482,18 @@ cargo install cargo-watch cargo-edit cargo-watch cargo-update cargo-tarpaulin wa
 11. [Rust OpenAPI 3.0 docs generator https://github.com/Rexagon/opg](https://github.com/Rexagon/opg)
 11. 
 
-### 宏 过程宏
+### 宏 过程宏 derive micro
 1. [获取crate所在的文件 https://crates.io/crates/proc-macro-crate](https://crates.io/crates/proc-macro-crate)
 2. [解析宏属性 enables parsing attributes into structs https://crates.io/crates/darling](https://crates.io/crates/darling)
 3. [https://crates.io/crates/proc-macro2](https://crates.io/crates/proc-macro2)
 4. [https://crates.io/crates/syn](https://crates.io/crates/syn)
 5. [https://crates.io/crates/proc-macro-error](https://crates.io/crates/proc-macro-error)
+6. [Rust has lots of builtin traits that are implemented for its basic types, such as Add, Not, From or Display https://github.com/JelteF/derive_more](https://github.com/JelteF/derive_more)
+7. [Strum is a set of macros and traits for working with enums and strings easier in Rust https://github.com/Peternator7/strum](https://github.com/Peternator7/strum)
+8. [This crate provides procedural macros to help you implement Rust-built-in traits quickly https://crates.io/crates/educe](https://crates.io/crates/educe)
+9. [The assertables Rust crate provides many assert macros to help with compile-time testing and run-time reliability https://github.com/sixarm/assertables-rust-crate/](https://github.com/sixarm/assertables-rust-crate/)
+10. [Determine displayed width of char and str types according to Unicode Standard Annex #11 rules https://github.com/unicode-rs/unicode-width](https://github.com/unicode-rs/unicode-width)
+7. 
 
 
 ### postgres prepared statements
@@ -513,7 +529,7 @@ Command::new("rustfmt")
 
 
 ### 错误处理
-1. eyre
+1. [https://github.com/yaahc/eyre](https://github.com/yaahc/eyre)
 2. anyhow
 3. thiserror
 4. error-stack
