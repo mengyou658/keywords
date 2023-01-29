@@ -704,6 +704,7 @@ http://www.jezzamon.com/fourier/zh-cn.html
 6. [YOLOX is an anchor-free version of YOLO, with a simpler design but better performance! It aims to bridge the gap between research and industrial communities. For more details, please refer to our report on Arxiv https://github.com/Megvii-BaseDetection/YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)
 7. [https://github.com/jizhishutong/YOLOU](https://github.com/jizhishutong/YOLOU)
 8. [https://github.com/Sharpiless/Yolov5-Deepsort](https://github.com/Sharpiless/Yolov5-Deepsort)
+9. [Yolo v7 and several Multi-Object Tracker(SORT, DeepSORT, ByteTrack, BoT-SORT, etc.) in VisDrone2019 Dataset. It uses a unified style and integrated tracker for easy embedding in your own projects https://github.com/JackWoo0831/Yolov7-tracker](https://github.com/JackWoo0831/Yolov7-tracker)
 5. 
 
 # [https://github.com/Chrispresso/SuperMarioBros-AI 机器学习自动完超级马里奥](https://github.com/Chrispresso/SuperMarioBros-AI)
