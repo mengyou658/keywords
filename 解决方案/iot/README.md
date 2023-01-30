@@ -17,9 +17,13 @@
 
 ### 实用 库/模块/框架
 
+*推荐*
+1. [go vue uniapp https://github.com/ThingsPanel/ThingsPanel-Go](https://github.com/ThingsPanel/ThingsPanel-Go)
+2. [java cloud vue avue https://gitee.com/pnoker/iot-dc3](https://gitee.com/pnoker/iot-dc3)
+
+
 1. [Magician | 异步非阻塞的网络协议解析包 http://magician-io.com/docs/index.html](http://magician-io.com/docs/index.html)
-2. 一整套的物联网微服务解决方案
-   [https://github.com/devicehive](https://github.com/devicehive)
+2. [java 一整套的物联网微服务解决方案 https://github.com/devicehive](https://github.com/devicehive)
 3. JetLinks Community 基于Java8,Spring Boot 2.x ,WebFlux,Netty,Vert.x,Reactor等开发, 是一个全响应式的物联网基础平台。
    [https://github.com/jetlinks/jetlinks-community](https://github.com/jetlinks/jetlinks-community)
 4. [Ultra-lightweight JavaScript engine for the Internet of Things. 轻量级JavaScript引擎 用于物联网设备 https://github.com/jerryscript-project/jerryscript](https://github.com/jerryscript-project/jerryscript)
@@ -27,12 +31,22 @@
 6. [https://github.com/xiaodepei/IOT-server](https://github.com/xiaodepei/IOT-server)
 7. [https://github.com/lf-edge/ekuiper](https://github.com/lf-edge/ekuiper)
 8. [https://github.com/blynkkk/blynk-server](https://github.com/blynkkk/blynk-server)
-9. [https://github.com/thingsboard/thingsboard-gateway](https://github.com/thingsboard/thingsboard-gateway)
+9. [java angular https://github.com/thingsboard/thingsboard](https://github.com/thingsboard/thingsboard)
 10. [开源物联网平台，高性、高吞吐量、高扩展性的物联网平台！单机可以支持百万链接，同时支持自定义扩展功能，功能非常强大，采用netty作为通信层组件，支持插件化开发集成！ https://github.com/xiaonannet/mqtts](https://github.com/xiaonannet/mqtts)
 11. [https://gitee.com/dotnetchina/IoTSharp](https://gitee.com/dotnetchina/IoTSharp)
 12. [https://gitee.com/willbeahero/IOTGate](https://gitee.com/willbeahero/IOTGate)
 13. [rust iot https://github.com/drogue-iot/drogue-cloud](https://github.com/drogue-iot/drogue-cloud)
-14. 
+14. [java cloud vue https://github.com/sitewhere/sitewhere](https://github.com/sitewhere/sitewhere)
+15. [ruby https://github.com/iobridge/thingspeak](https://github.com/iobridge/thingspeak)
+16. [nodejs https://github.com/zettajs/zetta](https://github.com/zettajs/zetta)
+17. [nodejs https://github.com/node-red/node-red](https://github.com/node-red/node-red)
+18. [java cloud vue avue https://gitee.com/pnoker/iot-dc3](https://gitee.com/pnoker/iot-dc3)
+19. [java 网关 https://gitee.com/willbeahero/IOTGate](https://gitee.com/willbeahero/IOTGate)
+20. [python django https://github.com/home-assistant/core](https://github.com/home-assistant/core)
+21. [nodejs 网关 https://github.com/WebThingsIO/gateway](https://github.com/WebThingsIO/gateway)
+22. [go vue uniapp https://github.com/ThingsPanel/ThingsPanel-Go](https://github.com/ThingsPanel/ThingsPanel-Go)
+23. [go angular https://github.com/mainflux/mainflux](https://github.com/mainflux/mainflux)
+24. [java https://github.com/openremote/openremote](https://github.com/openremote/openremote)
 
 ### 完整项目/示例/demo/代码片段
 
