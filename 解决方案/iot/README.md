@@ -18,7 +18,7 @@
 ### 实用 库/模块/框架
 
 *推荐*
-1. [go vue uniapp https://github.com/ThingsPanel/ThingsPanel-Go](https://github.com/ThingsPanel/ThingsPanel-Go)
+1. [go beego vue uniapp https://github.com/ThingsPanel/ThingsPanel-Go](https://github.com/ThingsPanel/ThingsPanel-Go)
 2. [java cloud vue avue https://gitee.com/pnoker/iot-dc3](https://gitee.com/pnoker/iot-dc3)
 3. [java react 功能多 https://github.com/jetlinks/jetlinks-community](https://github.com/jetlinks/jetlinks-community)
 
