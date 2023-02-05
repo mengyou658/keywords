@@ -297,6 +297,7 @@
 8. [https://elkowar.github.io/eww/](https://elkowar.github.io/eww/)
 9. [Frui is a developer-friendly UI framework that makes building user interfaces easy and productive. It's inspired by Flutter architecture and is written in Rust! https://github.com/fruiframework/frui](https://github.com/fruiframework/frui)
 10. [Slint 是一个工具包，用于高效开发流畅的图形用户界面 任何显示器：嵌入式设备和桌面应用程序。我们支持多个 编程语言，如 Rust、C++ 和 JavaScript https://github.com/slint-ui/slint](https://github.com/slint-ui/slint)
+11. [https://github.com/linebender/xilem](https://github.com/linebender/xilem)
 9. 
 
 ### 图形渲染和处理

@@ -710,6 +710,7 @@ import "./app";
 21. [基于electron react的浏览器https://github.com/BonBon-exchange/bonbon-web-browser](https://github.com/BonBon-exchange/bonbon-web-browser)
 22. [Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护 https://github.com/alex8088/electron-vite](https://github.com/alex8088/electron-vite)
 23. [https://gitee.com/dromara/electron-egg.git](https://gitee.com/dromara/electron-egg.git)
+24. [https://github.com/dromara/electron-egg](https://github.com/dromara/electron-egg)
 
 # pwa
 
