@@ -348,7 +348,7 @@ cargo install cargo-watch cargo-edit cargo-watch cargo-update cargo-tarpaulin wa
 35. [Graphite 是一个 Rust 实现的轻量级的光栅和矢量 2D 图形编辑器，它是免费和开源的 https://github.com/GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite)
 36. [Drill is an HTTP load testing application written in Rust https://github.com/fcsonline/drill](https://github.com/fcsonline/drill)
 37. [Easy function multiversioning for Rust Many CPU architectures have a variety of instruction set extensions that provide additional functionality https://github.com/calebzulawski/multiversion](https://github.com/calebzulawski/multiversion)
-38. 
+38. [The cargo vet subcommand is a tool to help projects ensure that third-party Rust dependencies have been audited by a trusted entity. It strives to be lightweight and easy to integrate https://mozilla.github.io/cargo-vet/](https://mozilla.github.io/cargo-vet/)
 25. 
 
 ### 游戏
@@ -541,6 +541,7 @@ Command::new("rustfmt")
 1. [Transform ML models into a native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart, Haskell, Ruby, F#, Rust) with zero dependencies https://github.com/BayesWitnesses/m2cgen](https://github.com/BayesWitnesses/m2cgen)
 2. [Strongly typed Deep Learning in Rust https://github.com/coreylowman/dfdx](https://github.com/coreylowman/dfdx)
 3. [Rust bindings for the C++ api of PyTorch https://github.com/LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs)
+4. [Train your own AI to play asteroids game using neural networks and genetic algorithm that uses the rules of natural selection to evolve. Save the best AI or load it later or play the game yourself https://github.com/sparshg/asteroids-genetic](https://github.com/sparshg/asteroids-genetic)
 
 
 ### rtsp server 视频服务 rtmp
