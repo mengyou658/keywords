@@ -296,12 +296,14 @@
 7. [Rust bindings for Dear ImGui https://github.com/imgui-rs/imgui-rs](https://github.com/imgui-rs/imgui-rs)
 8. [https://elkowar.github.io/eww/](https://elkowar.github.io/eww/)
 9. [Frui is a developer-friendly UI framework that makes building user interfaces easy and productive. It's inspired by Flutter architecture and is written in Rust! https://github.com/fruiframework/frui](https://github.com/fruiframework/frui)
+10. [Slint 是一个工具包，用于高效开发流畅的图形用户界面 任何显示器：嵌入式设备和桌面应用程序。我们支持多个 编程语言，如 Rust、C++ 和 JavaScript https://github.com/slint-ui/slint](https://github.com/slint-ui/slint)
 9. 
 
 ### 图形渲染和处理
 
 1. [https://github.com/gfx-rs/wgpu](https://github.com/gfx-rs/wgpu)
 2. [https://github.com/EmbarkStudios/rust-gpu](https://github.com/EmbarkStudios/rust-gpu)
+3. [The shader translation library for the needs of wgpu https://github.com/gfx-rs/naga](https://github.com/gfx-rs/naga)
 
 ### 工具
 
