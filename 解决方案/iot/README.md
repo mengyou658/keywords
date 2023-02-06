@@ -27,7 +27,7 @@
 2. [java 一整套的物联网微服务解决方案 https://github.com/devicehive](https://github.com/devicehive)
 3. [JetLinks Community 基于Java8,Spring Boot 2.x ,WebFlux,Netty,Vert.x,Reactor等开发, 是一个全响应式的物联网基础平台。https://github.com/jetlinks/jetlinks-community](https://github.com/jetlinks/jetlinks-community)
 4. [Ultra-lightweight JavaScript engine for the Internet of Things. 轻量级JavaScript引擎 用于物联网设备 https://github.com/jerryscript-project/jerryscript](https://github.com/jerryscript-project/jerryscript)
-5. [物联大师，通用的物联数据后台，集成多种软硬件协议，提供丰富的在线模板，帮助用户快速实现零代码开发 https://github.com/zgwit/iot-master](https://github.com/zgwit/iot-master)
+5. [go angular 物联大师，通用的物联数据后台，集成多种软硬件协议，提供丰富的在线模板，帮助用户快速实现零代码开发 https://github.com/zgwit/iot-master](https://github.com/zgwit/iot-master)
 6. [https://github.com/xiaodepei/IOT-server](https://github.com/xiaodepei/IOT-server)
 7. [https://github.com/lf-edge/ekuiper](https://github.com/lf-edge/ekuiper)
 8. [https://github.com/blynkkk/blynk-server](https://github.com/blynkkk/blynk-server)
