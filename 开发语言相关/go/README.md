@@ -37,8 +37,10 @@ export all_proxy=https://goproxy.io
 10. go 入门
     [https://chai2010.cn/advanced-go-programming-book/ch2-cgo/ch2-01-hello-cgo.html](https://chai2010.cn/advanced-go-programming-book/ch2-cgo/ch2-01-hello-cgo.html)
 11. [https://www.zhihu.com/question/482042789](https://www.zhihu.com/question/482042789)
-12. [https://github.com/xxjwxc/uber_go_guide_cn](https://github.com/xxjwxc/uber_go_guide_cn)
-13. 
+12. [golang面试题集合 https://github.com/lifei6671/interview-go](https://github.com/lifei6671/interview-go)
+13. [Go 程序员面试笔试宝典 | 从问题切入，串连 Go 语言相关的所有知识，融会贯通 https://github.com/golang-design/go-questions](https://github.com/golang-design/go-questions)
+14. [Go语言面试题集 https://github.com/iswbm/golang-interview](https://github.com/iswbm/golang-interview)
+15. [【超全golang面试题合集+golang学习指南+golang知识图谱+入门成长路线】 一份涵盖大部分golang程序员所需要掌握的核心知识。常用第三方库(mysql,mq,es,redis等)+机器学习库+算法库+游戏库+开源框架+自然语言处理nlp库+网络库+视频库+微服务框架+视频教程+音频音乐库+图形图片库+物联网库+地理位置信息+嵌入式脚本库+编译器库+数据库+金融库+电子邮件库+电子书籍+分词+数据结构+设计模式+去html tag标签等+go学习+go面试+计算机网络基础+图解网络+操作系统面试题+数据库面试题+面试题合集 https://github.com/xiaobaiTech/golangFamily](https://github.com/xiaobaiTech/golangFamily)
 
 ### cheatsheet 备忘录
 
