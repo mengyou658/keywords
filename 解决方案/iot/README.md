@@ -23,6 +23,8 @@
    2. [iot-ucy是使用java语言且基于netty, spring boot, redis等开源项目开发来的物联网网络中间件, 支持udp, tcp, 串口(com)通讯(window、linux、mac)等底层协议和http, mqtt, websocket(默认实现和自定义协议头实现), modbus(tcp,rtu),plc,dtu(支持心跳，设备注册功能以及AT协议和自定义协议支持),dtu for modbus tcp,dtu for modbus rtu组件适配 等上层协议. 主打工业物联网底层网络交互、设备管理、数据存储、大数据处理. (其中plc包括西门子S7系列，欧姆龙Fins，罗克韦尔CIP，三菱MC). 数据存储将使用taos数据库以及redis消息队列 https://gitee.com/iteaj/iot](https://gitee.com/iteaj/iot)
 2. [java cloud vue avue https://gitee.com/pnoker/iot-dc3](https://gitee.com/pnoker/iot-dc3)
 3. [java react 功能多 https://github.com/jetlinks/jetlinks-community](https://github.com/jetlinks/jetlinks-community)
+4. [物联网管理平台 https://github.com/xiaodingding/iotfast](https://github.com/xiaodingding/iotfast)
+5. [SagooIOT是一个基于golang开发的开源的企业级物联网基础开发平台。负责设备管理和协议数据管理，支持跨平台的物联网接入及管理方案，平台实现了物联网开发相关的基础功能，基于该功能可以快速的搭建起一整套的IOT相关的业务系统。旨在通过可复用的组件，减少开发工作，简化和加速物联网开发交付。适配多种接入协议(TCP,MQTT,UDP,CoAP,HTTP,GRPC,RPC等) https://github.com/sagoo-cloud/sagooiot](https://github.com/sagoo-cloud/sagooiot)
 
 
 1. [Magician | 异步非阻塞的网络协议解析包 http://magician-io.com/docs/index.html](http://magician-io.com/docs/index.html)
