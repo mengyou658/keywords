@@ -20,6 +20,7 @@
 *推荐*
 1. [go beego vue uniapp https://github.com/ThingsPanel/ThingsPanel-Go](https://github.com/ThingsPanel/ThingsPanel-Go)
    1. [其他协议可以参考这个 go angular 内置MQTT、TCP Server/Client、UDP Server/Client、串口等接入服务， 系统集成标准Modbus，水务（SL651、SZY206），电力（DL/T645、IEC101、102、103、104、61850）以及一些主流PLC协议， 系统可以通过插件支持数据采集、公式计算、定时控制、异常报警、自动控制策略、流量监控、远程调试等功能， 适用于大部分物联网或工业互联网应用场景 https://github.com/zgwit/iot-master](https://github.com/zgwit/iot-master)
+   2. [iot-ucy是使用java语言且基于netty, spring boot, redis等开源项目开发来的物联网网络中间件, 支持udp, tcp, 串口(com)通讯(window、linux、mac)等底层协议和http, mqtt, websocket(默认实现和自定义协议头实现), modbus(tcp,rtu),plc,dtu(支持心跳，设备注册功能以及AT协议和自定义协议支持),dtu for modbus tcp,dtu for modbus rtu组件适配 等上层协议. 主打工业物联网底层网络交互、设备管理、数据存储、大数据处理. (其中plc包括西门子S7系列，欧姆龙Fins，罗克韦尔CIP，三菱MC). 数据存储将使用taos数据库以及redis消息队列 https://gitee.com/iteaj/iot](https://gitee.com/iteaj/iot)
 2. [java cloud vue avue https://gitee.com/pnoker/iot-dc3](https://gitee.com/pnoker/iot-dc3)
 3. [java react 功能多 https://github.com/jetlinks/jetlinks-community](https://github.com/jetlinks/jetlinks-community)
 
