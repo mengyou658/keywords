@@ -1824,7 +1824,7 @@ _Jupyter kernels that run and introspect the user's code in a given language._
 3. [使用python来画流程图 visio或者powerdesigner  https://github.com/mingrammer/diagrams](https://github.com/mingrammer/diagrams)
 4.
 
-### network tcp udp 工具库 protocol binary/bit/byte pack/encoder/encoding/serial
+### network tcp udp 工具库 protocol binary/bit/byte pack/encoder/encoding/serialization
 
 第一第二推荐 bit解析， 数据接收使用 tokio 
 
@@ -1855,8 +1855,10 @@ _Jupyter kernels that run and introspect the user's code in a given language._
 23. [go https://github.com/milQA/binencoder](https://github.com/milQA/binencoder)
 24. [go https://github.com/MarcusLing/structGO/blob/main/bytestruct.go](https://github.com/MarcusLing/structGO/blob/main/bytestruct.go)
 25. [go 大小端，bit都支持 https://github.com/nathanhack/binary](https://github.com/nathanhack/binary)
+26. [这个推荐 go 支持，支持sizeof字段交互，大小端 不支持bit  https://github.com/go-restruct/restruct](https://github.com/go-restruct/restruct)
 26. [这个推荐 go bit 支持，自定义编码解码方法，大小端  https://github.com/owlwalks/bitfield](https://github.com/owlwalks/bitfield)
 27. [这个推荐 go 支持sizeof字段交互 不支持bit https://github.com/lunixbochs/struc](https://github.com/lunixbochs/struc)
+    28. go tcp 粘包 https://www.cnblogs.com/juepei/p/4421569.html
 28. [go 作为工具库比较合适 https://github.com/zhuangsirui/binpacker](https://github.com/zhuangsirui/binpacker)
 27.
 
