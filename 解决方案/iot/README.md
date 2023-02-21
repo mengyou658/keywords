@@ -91,6 +91,7 @@
 1. [模拟mqtt设备 https://github.com/vidots/iot](https://github.com/vidots/iot)
 2. [modbus TCP salve模拟器 https://github.com/ericchai/jhdz_gpdy_simulator](https://github.com/ericchai/jhdz_gpdy_simulator)
 3. [modbus tools https://www.modbustools.com/download.html](https://www.modbustools.com/download.html)
+4. [嵌入式工程师做一个项目时需要用到的软件有哪些? https://www.zhihu.com/question/433118953](https://www.zhihu.com/question/433118953)
 
 ### UI
 
