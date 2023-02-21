@@ -85,7 +85,8 @@
 
 ### 测试 调试 模拟 协议模拟
 
-1. [物联网mqtt协议，模拟传感器数据存入数据库 https://github.com/ZHOUTREEMAN/IOTSensorSystem](https://github.com/ZHOUTREEMAN/IOTSensorSystem)
+1. [支持的通讯方式和协议有串口，网络，蓝牙，HTTP，WebSocket，MQTT以及Modbus https://github.com/sige5193/bittly/blob/main/README.zh.md](https://github.com/sige5193/bittly/blob/main/README.zh.md)
+2. [物联网mqtt协议，模拟传感器数据存入数据库 https://github.com/ZHOUTREEMAN/IOTSensorSystem](https://github.com/ZHOUTREEMAN/IOTSensorSystem)
 2. [ICS Common Protocol Simulator工控常见协议模拟工具集 https://github.com/hi-KK/ICS-Common-Protocol-Simulator](https://github.com/hi-KK/ICS-Common-Protocol-Simulator)
 1. [模拟mqtt设备 https://github.com/vidots/iot](https://github.com/vidots/iot)
 2. [modbus TCP salve模拟器 https://github.com/ericchai/jhdz_gpdy_simulator](https://github.com/ericchai/jhdz_gpdy_simulator)
