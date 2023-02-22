@@ -89,6 +89,8 @@
 2. [物联网mqtt协议，模拟传感器数据存入数据库 https://github.com/ZHOUTREEMAN/IOTSensorSystem](https://github.com/ZHOUTREEMAN/IOTSensorSystem)
 2. [ICS Common Protocol Simulator工控常见协议模拟工具集 https://github.com/hi-KK/ICS-Common-Protocol-Simulator](https://github.com/hi-KK/ICS-Common-Protocol-Simulator)
 1. [模拟mqtt设备 https://github.com/vidots/iot](https://github.com/vidots/iot)
+2. [emqx mqtt 服务 https://www.emqx.io/](https://www.emqx.io/)
+2. [mqttx 测试工具 https://mqttx.app/zh](https://mqttx.app/zh)
 2. [modbus TCP salve模拟器 https://github.com/ericchai/jhdz_gpdy_simulator](https://github.com/ericchai/jhdz_gpdy_simulator)
 3. [modbus tools https://www.modbustools.com/download.html](https://www.modbustools.com/download.html)
 4. [嵌入式工程师做一个项目时需要用到的软件有哪些? https://www.zhihu.com/question/433118953](https://www.zhihu.com/question/433118953)
