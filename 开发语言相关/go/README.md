@@ -186,6 +186,7 @@ export all_proxy=https://goproxy.io
 23. [Zero-configuration build system to very quickly build C/C++ projects https://github.com/codecat/qb](https://github.com/codecat/qb)
 24. [开源的云原生监控系统。支持 Docker 等多种部署方式，集数据采集、监控告警、可视化为一体的企业级监控平台。借助高性能时序库，可以满足数亿时间线的采集、存储和告警分析的场景。该项目已在上千家企业部署落地，经历了各种生产环境的检验。 https://github.com/ccfos/nightingale](https://github.com/ccfos/nightingale)
 25. [YAO 是一款开源应用引擎，使用 Golang 编写，以一个命令行工具的形式存在, 下载即用。适合用于开发业务系统、网站/APP API 接口、管理后台、自建低代码平台等 https://github.com/YaoApp/yao](https://github.com/YaoApp/yao)
+26. [免费翻译 https://github.com/OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX)
 24. 
 
 ### web 框架
