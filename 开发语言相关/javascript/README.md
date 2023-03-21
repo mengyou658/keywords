@@ -711,6 +711,8 @@ import "./app";
 22. [Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护 https://github.com/alex8088/electron-vite](https://github.com/alex8088/electron-vite)
 23. [https://gitee.com/dromara/electron-egg.git](https://gitee.com/dromara/electron-egg.git)
 24. [https://github.com/dromara/electron-egg](https://github.com/dromara/electron-egg)
+25. [A minimal, tabbed web browser with support for Chrome extensions—built on Electron https://github.com/samuelmaddock/electron-browser-shell](https://github.com/samuelmaddock/electron-browser-shell)
+26. [Tab component for Electron https://github.com/brrd/electron-tabs](https://github.com/brrd/electron-tabs)
 
 # pwa
 
