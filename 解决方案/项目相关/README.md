@@ -2107,3 +2107,9 @@ _Jupyter kernels that run and introspect the user's code in a given language._
 ### 一个跨平台 OpenGL 终端模拟器，可根据你自身需求进行配置。目前 Alacritty 支持 BSD、Linux、macOS、Windows 等操作系统[https://github.com/alacritty/alacritty](https://github.com/alacritty/alacritty)
 
 ### [一个国产的代码生成的人工智能工具，跟 GitHub Copilot 类似，可以将一种语言的代码翻译成另一种，并提供 VS Code 插件 https://keg.cs.tsinghua.edu.cn/codegeex/index_zh.html](https://keg.cs.tsinghua.edu.cn/codegeex/index_zh.html)
+
+
+## chatgpt chat-gpt gpt gpt4
+1. [该网站可以提交、保存、查看生成式 AI 引擎的常用提示语。类似项目另有 https://openprompt.co/](https://openprompt.co/)
+2. [https://github.com/PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
+3. [基于 GPT3.5 搭建定制化知识库](https://mp.weixin.qq.com/s?__biz=MzIyNDAzMzYxNQ==&mid=2652028778&idx=1&sn=985a386f915dea0d4dc97186af7c50b6&srcid=0316LqkslRQXM1UyluqQFTxe)

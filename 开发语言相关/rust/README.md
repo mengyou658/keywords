@@ -350,6 +350,7 @@ cargo install cargo-watch cargo-edit cargo-watch cargo-update cargo-tarpaulin wa
 36. [Drill is an HTTP load testing application written in Rust https://github.com/fcsonline/drill](https://github.com/fcsonline/drill)
 37. [Easy function multiversioning for Rust Many CPU architectures have a variety of instruction set extensions that provide additional functionality https://github.com/calebzulawski/multiversion](https://github.com/calebzulawski/multiversion)
 38. [The cargo vet subcommand is a tool to help projects ensure that third-party Rust dependencies have been audited by a trusted entity. It strives to be lightweight and easy to integrate https://mozilla.github.io/cargo-vet/](https://mozilla.github.io/cargo-vet/)
+39. [Pluggable and configurable code formatting platform written in Rust https://github.com/dprint/dprint](https://github.com/dprint/dprint)
 25. 
 
 ### 游戏
