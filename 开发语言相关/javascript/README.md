@@ -571,6 +571,7 @@ Hilo，一套HTML5跨终端的互动游戏解决方案。Hilo支持了多届淘�
 58. [一个开源软件，可以将图片从低分辨率变成高分辨率，变得更清晰。 https://github.com/upscayl/upscayl](https://github.com/upscayl/upscayl)
 59. [徽章生成 https://github.com/badges/shields](https://github.com/badges/shields)
 60. [利用webrtc获取客户端ip](https://github.com/diafygi/webrtc-ips)
+61. [js获取类似uuid的唯一指纹 https://github.com/fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs)
 57. 
 
 ### # 文件上传
