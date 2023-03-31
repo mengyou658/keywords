@@ -191,12 +191,15 @@ export all_proxy=https://goproxy.io
 
 ### web 框架
 
-1. [基于GF(Go Frame)的后台管理系统 https://github.com/tiger1103/gfast](https://github.com/tiger1103/gfast)
+1. [代码生成需要掏钱 基于GF(Go Frame)的后台管理系统 https://github.com/tiger1103/gfast](https://github.com/tiger1103/gfast)
 2. [基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器，通用工作流等基础功能，五分钟一套CURD前后端代码，目前已支持VUE3，欢迎issue和pr~ https://github.com/flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)
 3. [https://gitee.com/yunjieg/yjgo](https://gitee.com/yunjieg/yjgo)
 4. [基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、graphql 查询语言、errno 统一定义错误码、gRPC 的使用 等等。 https://github.com/xinliangnote/go-gin-api](https://github.com/xinliangnote/go-gin-api)
 5. [https://github.com/gin-gonic/gin](https://github.com/gin-gonic/gin)
 6. [https://github.com/astaxie/beego](https://github.com/astaxie/beego)
+7. [代码生成 vue3 vue-vben-admin HotGo 是一个基于 vue 和 goframe2.0 开发的全栈前后端分离的开发基础平台和移动应用平台，集成jwt鉴权，动态路由，动态菜单，casbin鉴权，消息队列，定时任务等功能，提供多种常用场景文件，让您把更多时间专注在业务开发上 https://github.com/bufanyun/hotgo](https://github.com/bufanyun/hotgo)
+8. [代码生成 vue3 https://gitee.com/jasonlaw1015/GfEasy](https://gitee.com/jasonlaw1015/GfEasy)
+8. [代码生成 vue2 https://github.com/20156284/go_base_server](https://github.com/20156284/go_base_server)
 7. 
 
 ### php 转 go
