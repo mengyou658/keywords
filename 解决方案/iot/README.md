@@ -20,6 +20,7 @@
 *推荐*
 5. [go gf vue 开源代码不全 需要购买 SagooIOT是一个基于golang开发的开源的企业级物联网基础开发平台。负责设备管理和协议数据管理，支持跨平台的物联网接入及管理方案，平台实现了物联网开发相关的基础功能，基于该功能可以快速的搭建起一整套的IOT相关的业务系统。旨在通过可复用的组件，减少开发工作，简化和加速物联网开发交付。适配多种接入协议(TCP,MQTT,UDP,CoAP,HTTP,GRPC,RPC等) https://github.com/sagoo-cloud/sagooiot](https://github.com/sagoo-cloud/sagooiot)
    4. [参考代码生成 go vue 没有sql 物联网管理平台 https://github.com/xiaodingding/iotfast](https://github.com/xiaodingding/iotfast)
+   5. [代码生成](https://github.com/yuxiaoYX/gf-ruoyi)
    5. [goview https://www.mtruning.club/](https://www.mtruning.club/)
 1. [go beego vue uniapp https://github.com/ThingsPanel/ThingsPanel-Go](https://github.com/ThingsPanel/ThingsPanel-Go)
    1. [其他协议可以参考这个 go angular 内置MQTT、TCP Server/Client、UDP Server/Client、串口等接入服务， 系统集成标准Modbus，水务（SL651、SZY206），电力（DL/T645、IEC101、102、103、104、61850）以及一些主流PLC协议， 系统可以通过插件支持数据采集、公式计算、定时控制、异常报警、自动控制策略、流量监控、远程调试等功能， 适用于大部分物联网或工业互联网应用场景 https://github.com/zgwit/iot-master](https://github.com/zgwit/iot-master)
