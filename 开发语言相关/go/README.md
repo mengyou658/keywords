@@ -130,6 +130,7 @@ export all_proxy=https://goproxy.io
 20. [gout to become the Swiss Army Knife of the http client @^^@---> gout 是http client领域的瑞士军刀，小巧，强大，犀利。具体用法可看文档 https://github.com/guonaihong/gout](https://github.com/guonaihong/gout)
 21. [https://github.com/unidoc/unioffice](https://github.com/unidoc/unioffice)
 22. [Run Kubernetes locally https://github.com/kubernetes/minikube](https://github.com/kubernetes/minikube)
+23. [go flutter  xxim-server是一个功能超多的开箱即用的IM服务器 https://github.com/cherish-chat/xxim-server](https://github.com/cherish-chat/xxim-server)
 20. 
 21. 
 
@@ -187,6 +188,7 @@ export all_proxy=https://goproxy.io
 24. [开源的云原生监控系统。支持 Docker 等多种部署方式，集数据采集、监控告警、可视化为一体的企业级监控平台。借助高性能时序库，可以满足数亿时间线的采集、存储和告警分析的场景。该项目已在上千家企业部署落地，经历了各种生产环境的检验。 https://github.com/ccfos/nightingale](https://github.com/ccfos/nightingale)
 25. [YAO 是一款开源应用引擎，使用 Golang 编写，以一个命令行工具的形式存在, 下载即用。适合用于开发业务系统、网站/APP API 接口、管理后台、自建低代码平台等 https://github.com/YaoApp/yao](https://github.com/YaoApp/yao)
 26. [免费翻译 https://github.com/OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX)
+27. [D2 is a modern diagram scripting language that turns text to diagrams https://github.com/terrastruct/d2](https://github.com/terrastruct/d2)
 24. 
 
 ### web 框架
