@@ -297,7 +297,8 @@
 8. [https://elkowar.github.io/eww/](https://elkowar.github.io/eww/)
 9. [Frui is a developer-friendly UI framework that makes building user interfaces easy and productive. It's inspired by Flutter architecture and is written in Rust! https://github.com/fruiframework/frui](https://github.com/fruiframework/frui)
 10. [Slint 是一个工具包，用于高效开发流畅的图形用户界面 任何显示器：嵌入式设备和桌面应用程序。我们支持多个 编程语言，如 Rust、C++ 和 JavaScript https://github.com/slint-ui/slint](https://github.com/slint-ui/slint)
-11. [https://github.com/linebender/xilem](https://github.com/linebender/xilem)
+11. [An experimental Rust native UI framework https://github.com/linebender/xilem](https://github.com/linebender/xilem)
+169. [Build fast web applications with Rust https://github.com/leptos-rs/leptos](https://github.com/leptos-rs/leptos)
 9. 
 
 ### 图形渲染和处理
@@ -432,6 +433,7 @@ cargo install cargo-watch cargo-edit cargo-watch cargo-update cargo-tarpaulin wa
    1. [https://space.bilibili.com/500416539/channel/collectiondetail?sid=177577](https://space.bilibili.com/500416539/channel/collectiondetail?sid=177577)
 4. [一种多任务调度内核 单物理线程任务优先级+时间片调度 https://github.com/gqf2008/xtask](https://github.com/gqf2008/xtask)
 5. [https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+6. [Tock is an embedded operating system designed for running multiple concurrent, mutually distrustful applications on Cortex-M and RISC-V based embedded platforms https://github.com/tock/tock](https://github.com/tock/tock)
 5. 
 
 ### 区块链开发
