@@ -353,6 +353,7 @@ Hilo，一套HTML5跨终端的互动游戏解决方案。Hilo支持了多届淘�
     [https://github.com/mengyou658/charisma](https://github.com/mengyou658/charisma)
 23. AdminLTE
     [https://github.com/mengyou658/AdminLTE](https://github.com/mengyou658/AdminLTE)
+24. [rust axum openapi](https://github.com/lingdu1234/axum_admin/tree/axum-openapi)
 24.
 25.
 
