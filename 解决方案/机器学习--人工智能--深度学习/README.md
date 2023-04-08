@@ -560,6 +560,7 @@
 16. [https://github.com/skdjfla/toutiao-text-classfication-dataset中文文本分析数据集](https://github.com/skdjfla/toutiao-text-classfication-dataset)
 17. [https://github.com/achuthasubhash/Complete-Life-Cycle-of-a-Data-Science-Project](https://github.com/achuthasubhash/Complete-Life-Cycle-of-a-Data-Science-Project)
 18. [各种训练好的数据集和模型 A repository for storing models that have been inter-converted between various frameworks. Supported frameworks are TensorFlow, PyTorch, ONNX, OpenVINO, TFJS, TFTRT, TensorFlowLite (Float32/16/INT8), EdgeTPU, CoreML https://github.com/PINTO0309/PINTO_model_zoo](https://github.com/PINTO0309/PINTO_model_zoo)
+19. [自动提取分割图片中的所有 The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model https://github.com/facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything)
 19. 
 
 # 笔迹识别算法
