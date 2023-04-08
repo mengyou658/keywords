@@ -741,4 +741,9 @@ http://www.jezzamon.com/fourier/zh-cn.html
 
 ### [一个开源的 AI 工具，可以从图片上擦除任何不需要的物体 https://github.com/Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner)
 
+### text to video 
+1. [https://github.com/Picsart-AI-Research/Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero)
+2. [https://github.com/VideoCrafter/VideoCrafter](https://github.com/VideoCrafter/VideoCrafter)
 
+### 检测pytorch cuda是否存在
+`python -c "import torch;print(torch.cuda.is_available());"`
