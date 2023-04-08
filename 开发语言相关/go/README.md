@@ -87,6 +87,7 @@ export all_proxy=https://goproxy.io
 19. [可能是最知名的 Go 爬虫框架。它拥有友好的 API 和丰富代码示例，短时间内即可上手。性能方面单核能达到 1K 请求/秒，还可以轻松管理请求方式、间隔和最大并发数，功能强大且优雅。 https://github.com/gocolly/colly](https://github.com/gocolly/colly)
 20. [Simple Admin是一个开箱即用的分布式微服务后端管理系统，基于go-zero开发，提供丰富的功能如服务发现，权限管理等。 该框架可以帮助您快速开发具有RPC服务的后台管理系统。Simple Admin is a powerful microservice framework for basic management. It is based on go-zero and supports several advanced features. It can help you to develop a microservice back-end management system in a short time https://github.com/suyuan32/simple-admin-core](https://github.com/suyuan32/simple-admin-core)
 21. [Cloud native multi cloud application management platform | 云原生多云应用管理平台 https://github.com/goodrain/rainbond](https://github.com/goodrain/rainbond)
+22. [ightweight, idiomatic and composable router for building Go HTTP services https://github.com/go-chi/chi](https://github.com/go-chi/chi)
 19. 
 
 ### 完整项目/示例/demo/代码片段
