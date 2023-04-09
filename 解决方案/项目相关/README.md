@@ -2115,3 +2115,6 @@ _Jupyter kernels that run and introspect the user's code in a given language._
 2. [https://github.com/PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
 3. [基于 GPT3.5 搭建定制化知识库](https://mp.weixin.qq.com/s?__biz=MzIyNDAzMzYxNQ==&mid=2652028778&idx=1&sn=985a386f915dea0d4dc97186af7c50b6&srcid=0316LqkslRQXM1UyluqQFTxe)
 4. [对接 chat.openai.com 的对话接口,不使用 API Key, 也不需要注册账号 https://github.com/mengyou658/xyhelper-desktop](https://github.com/mengyou658/xyhelper-desktop)
+73. [https://github.com/Akegarasu/ChatGLM-webui](https://github.com/Akegarasu/ChatGLM-webui)
+74. [https://github.com/imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM)
+5. 

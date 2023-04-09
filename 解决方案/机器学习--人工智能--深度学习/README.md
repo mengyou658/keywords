@@ -313,6 +313,7 @@
 71. [Bagua Speeds up PyTorch https://github.com/BaguaSys/bagua](https://github.com/BaguaSys/bagua)
 72. [Real-time face swap for PC streaming or video calls https://hub.fastgit.xyz/iperov/DeepFaceLive](https://hub.fastgit.xyz/iperov/DeepFaceLive)
 73. [https://github.com/Akegarasu/ChatGLM-webui](https://github.com/Akegarasu/ChatGLM-webui)
+74. [https://github.com/imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM)
 73. 
 74. 
 75. 
@@ -748,3 +749,13 @@ http://www.jezzamon.com/fourier/zh-cn.html
 
 ### 检测pytorch cuda是否存在
 `python -c "import torch;print(torch.cuda.is_available());"`
+
+
+## chatgpt chat-gpt gpt gpt4
+1. [该网站可以提交、保存、查看生成式 AI 引擎的常用提示语。类似项目另有 https://openprompt.co/](https://openprompt.co/)
+2. [https://github.com/PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
+3. [基于 GPT3.5 搭建定制化知识库](https://mp.weixin.qq.com/s?__biz=MzIyNDAzMzYxNQ==&mid=2652028778&idx=1&sn=985a386f915dea0d4dc97186af7c50b6&srcid=0316LqkslRQXM1UyluqQFTxe)
+4. [对接 chat.openai.com 的对话接口,不使用 API Key, 也不需要注册账号 https://github.com/mengyou658/xyhelper-desktop](https://github.com/mengyou658/xyhelper-desktop)
+73. [https://github.com/Akegarasu/ChatGLM-webui](https://github.com/Akegarasu/ChatGLM-webui)
+74. [https://github.com/imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM)
+5. 
