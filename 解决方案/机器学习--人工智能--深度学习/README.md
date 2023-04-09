@@ -585,6 +585,7 @@
 1. 视频素材
    [https://andreaswannerstedt.se/oddly-satisfying-vol5](https://andreaswannerstedt.se/oddly-satisfying-vol5)
 1. [https://github.com/jobsjiang/machine-learning/blob/master/cv/1.%E8%A7%86%E9%A2%91%E5%A4%84%E7%90%86%E5%85%A5%E9%97%A8.ipynb视频处理入门](https://github.com/jobsjiang/machine-learning/blob/master/cv/1.%E8%A7%86%E9%A2%91%E5%A4%84%E7%90%86%E5%85%A5%E9%97%A8.ipynb)
+2. [https://github.com/oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
 
 # 基于opencv
 
@@ -758,4 +759,5 @@ http://www.jezzamon.com/fourier/zh-cn.html
 4. [对接 chat.openai.com 的对话接口,不使用 API Key, 也不需要注册账号 https://github.com/mengyou658/xyhelper-desktop](https://github.com/mengyou658/xyhelper-desktop)
 73. [https://github.com/Akegarasu/ChatGLM-webui](https://github.com/Akegarasu/ChatGLM-webui)
 74. [https://github.com/imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM)
+75. 
 5. 
