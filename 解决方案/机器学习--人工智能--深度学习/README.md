@@ -312,6 +312,7 @@
 70. [https://github.com/NathanUA/U-2-Net](https://github.com/NathanUA/U-2-Net)
 71. [Bagua Speeds up PyTorch https://github.com/BaguaSys/bagua](https://github.com/BaguaSys/bagua)
 72. [Real-time face swap for PC streaming or video calls https://hub.fastgit.xyz/iperov/DeepFaceLive](https://hub.fastgit.xyz/iperov/DeepFaceLive)
+73. [https://github.com/Akegarasu/ChatGLM-webui](https://github.com/Akegarasu/ChatGLM-webui)
 73. 
 74. 
 75. 
