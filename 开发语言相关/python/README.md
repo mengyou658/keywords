@@ -90,7 +90,7 @@
 
 ### UI
 
-1.
+1. [通过配置快速生成web界面，https://github.com/gradio-app/gradio](https://github.com/gradio-app/gradio)
 1.
 
 ### 工具
