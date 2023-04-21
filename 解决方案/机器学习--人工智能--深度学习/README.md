@@ -759,5 +759,11 @@ http://www.jezzamon.com/fourier/zh-cn.html
 4. [对接 chat.openai.com 的对话接口,不使用 API Key, 也不需要注册账号 https://github.com/mengyou658/xyhelper-desktop](https://github.com/mengyou658/xyhelper-desktop)
 73. [https://github.com/Akegarasu/ChatGLM-webui](https://github.com/Akegarasu/ChatGLM-webui)
 74. [https://github.com/imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM)
-75. 
-5. 
+75. [https://huggingface.co/Vision-CAIR/MiniGPT-4](https://huggingface.co/Vision-CAIR/MiniGPT-4)
+
+
+## 生成3d
+1. [https://github.com/ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion)
+
+## 无监督 训练
+1. [DINOv2 模型产生高性能的视觉特征，可以直接与分类器一起使用，就像各种计算机视觉任务上的线性层一样简单;这些视觉功能非常强大，并且跨域性能良好，无需任何微调。这些模型在142 M图像的数据集上进行预训练，不使用任何标签或注释 elhttps://github.com/facebookresearch/dinov2](https://github.com/facebookresearch/dinov2)

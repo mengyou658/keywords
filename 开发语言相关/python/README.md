@@ -146,4 +146,5 @@
 24. [Composer is a library written in PyTorch that enables you to train neural networks faster, at lower cost, and to higher accuracy https://hub.fastgit.xyz/mosaicml/composer](https://hub.fastgit.xyz/mosaicml/composer)
 25. [python 画流程图 Diagram as Code for prototyping cloud system architectures https://github.com/mingrammer/diagrams](https://github.com/mingrammer/diagrams)
 26. [互联网从业者的灵感数据库，无广告，Github Actions自动检测网站访问速度 https://github.com/zhaoolee/ins](https://github.com/zhaoolee/ins)
+27. [数学东华软件 https://github.com/Elteoremadebeethoven/AnimationsWithManim](https://github.com/Elteoremadebeethoven/AnimationsWithManim)
 27. 
