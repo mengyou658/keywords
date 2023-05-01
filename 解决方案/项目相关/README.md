@@ -463,6 +463,12 @@ Hilo，一套HTML5跨终端的互动游戏解决方案。Hilo支持了多届淘�
 18. nodejs 页面聊天工具
     [https://github.com/mengyou658/webchat](https://github.com/mengyou658/webchat)
 19. [react im chat ui https://github.com/alibaba/ChatUI](https://github.com/alibaba/ChatUI)
+20. [Socket.io electron 后台页面模板 https://github.com/Alen-gao/IM-Socket.io](https://github.com/Alen-gao/IM-Socket.io)
+21. [支持多种IM聊天嵌入到同一个electron中，可以自定义自动登录了 https://github.com/manusa/electronim](https://github.com/manusa/electronim)
+22. [electron 腾讯IM集成 基础权限管理 https://github.com/Hyk260/PureAdmin](https://github.com/Hyk260/PureAdmin)
+23. [electron vue IM 界面漂亮 支持视频语音 后台Java https://github.com/wzJun1/YeIM-Uni-SDK-Electron-Demo](https://github.com/wzJun1/YeIM-Uni-SDK-Electron-Demo)
+    24. https://github.com/wzJun1/YeIM-Uni-Server
+25. 
 
 # 唯一ID生成 方案
 
