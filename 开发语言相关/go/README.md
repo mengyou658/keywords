@@ -191,6 +191,7 @@ export all_proxy=https://goproxy.io
 25. [YAO 是一款开源应用引擎，使用 Golang 编写，以一个命令行工具的形式存在, 下载即用。适合用于开发业务系统、网站/APP API 接口、管理后台、自建低代码平台等 https://github.com/YaoApp/yao](https://github.com/YaoApp/yao)
 26. [免费翻译 https://github.com/OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX)
 27. [D2 is a modern diagram scripting language that turns text to diagrams https://github.com/terrastruct/d2](https://github.com/terrastruct/d2)
+28. [https://github.com/OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server)
 24. 
 
 ### web 框架
