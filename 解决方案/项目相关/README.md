@@ -468,7 +468,8 @@ Hilo，一套HTML5跨终端的互动游戏解决方案。Hilo支持了多届淘�
 22. [electron 腾讯IM集成 基础权限管理 https://github.com/Hyk260/PureAdmin](https://github.com/Hyk260/PureAdmin)
 23. [electron vue IM 界面漂亮 支持视频语音 后台Java https://github.com/wzJun1/YeIM-Uni-SDK-Electron-Demo](https://github.com/wzJun1/YeIM-Uni-SDK-Electron-Demo)
     24. https://github.com/wzJun1/YeIM-Uni-Server
-25. 
+25. [vue nodejs electron 代码老 只有简单的聊天没有其他功能 https://github.com/sjjrdfivk/electron-vue-IM](https://github.com/sjjrdfivk/electron-vue-IM)
+26. [vue nodejs  https://gitee.com/howcode/has-chat-service](https://gitee.com/howcode/has-chat-service)
 
 # 唯一ID生成 方案
 
