@@ -470,6 +470,7 @@ Hilo，一套HTML5跨终端的互动游戏解决方案。Hilo支持了多届淘�
     24. https://github.com/wzJun1/YeIM-Uni-Server
 25. [vue nodejs electron 代码老 只有简单的聊天没有其他功能 https://github.com/sjjrdfivk/electron-vue-IM](https://github.com/sjjrdfivk/electron-vue-IM)
 26. [vue nodejs  https://gitee.com/howcode/has-chat-service](https://gitee.com/howcode/has-chat-service)
+27. [vue java electron 功能倒是很全 https://gitee.com/wfchat/vue-pc-chat](https://gitee.com/wfchat/vue-pc-chat)
 
 # 唯一ID生成 方案
 
