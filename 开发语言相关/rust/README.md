@@ -260,6 +260,9 @@
 176. [Make your code extrasafe by preventing it from calling unneeded syscalls https://github.com/boustrophedon/extrasafe](https://github.com/boustrophedon/extrasafe)
 177. [A utility crate for lazily formatting values for later https://github.com/lucretiel/lazy_format](https://github.com/lucretiel/lazy_format)
 178. [Frunk provides developers with a number of functional programming tools like HList, Coproduct, Generic, LabelledGeneric, Validated, Monoid, Semigroup and friends https://lib.rs/crates/frunk](https://lib.rs/crates/frunk)
+179. [一个有趣的、可破解的、GPU 加速的 Rust 神经网络库，由一个白痴编写 https://github.com/kurtschelfthout/tensorken](https://github.com/kurtschelfthout/tensorken)
+180. [https://github.com/udoprog/borrowme](https://github.com/udoprog/borrowme)
+180. 
 140. 
 
 ### 完整项目/示例/demo/代码片段
