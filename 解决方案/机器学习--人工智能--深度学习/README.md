@@ -314,6 +314,7 @@
 72. [Real-time face swap for PC streaming or video calls https://hub.fastgit.xyz/iperov/DeepFaceLive](https://hub.fastgit.xyz/iperov/DeepFaceLive)
 73. [https://github.com/Akegarasu/ChatGLM-webui](https://github.com/Akegarasu/ChatGLM-webui)
 74. [https://github.com/imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM)
+75. [https://github.com/nadermx/backgroundremover](https://github.com/nadermx/backgroundremover)
 73. 
 74. 
 75. 
