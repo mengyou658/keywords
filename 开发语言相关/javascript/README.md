@@ -305,6 +305,7 @@
 120. [Point Cloud Library (PCL) for browser, powered by WebAssembly.｜在浏览器运行的点云库 (PCL)，由 WebAssembly 提供支持 https://github.com/luoxuhai/pcl.js](https://github.com/luoxuhai/pcl.js)
 121. [A strictly typed utility library https://github.com/MathisBullinger/froebel](https://github.com/MathisBullinger/froebel)
 122. [基于fabric.js和Vue的图片编辑器，可自定义字体、素材、设计模板 https://github.com/nihaojob/vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor)
+123. [Orillusion是一个纯粹的Web3D渲染引擎，完全基于WebGPU标准开发。  Orillusion is a pure Web3D rendering engine which is fully developed based on the WebGPU standard. https://github.com/Orillusion/orillusion](https://github.com/Orillusion/orillusion)
 114. 
 
 ##### worker webworker web worker child process child_process thread node electron
