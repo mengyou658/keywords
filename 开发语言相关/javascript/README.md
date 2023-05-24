@@ -306,6 +306,8 @@
 121. [A strictly typed utility library https://github.com/MathisBullinger/froebel](https://github.com/MathisBullinger/froebel)
 122. [基于fabric.js和Vue的图片编辑器，可自定义字体、素材、设计模板 https://github.com/nihaojob/vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor)
 123. [Orillusion是一个纯粹的Web3D渲染引擎，完全基于WebGPU标准开发。  Orillusion is a pure Web3D rendering engine which is fully developed based on the WebGPU standard. https://github.com/Orillusion/orillusion](https://github.com/Orillusion/orillusion)
+124. [A visual no-code/code-free web crawler/spider一个可视化爬虫软件，可以无代码图形化设计和执行的爬虫任务 https://github.com/NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider)
+125. 
 114. 
 
 ##### worker webworker web worker child process child_process thread node electron
