@@ -1869,7 +1869,12 @@ _Jupyter kernels that run and introspect the user's code in a given language._
 27. [这个推荐 go 支持sizeof字段交互，大小端 不支持bit https://github.com/lunixbochs/struc](https://github.com/lunixbochs/struc)
     28. go tcp 粘包 https://www.cnblogs.com/juepei/p/4421569.html
 28. [go 作为工具库比较合适 https://github.com/zhuangsirui/binpacker](https://github.com/zhuangsirui/binpacker)
-27.
+27. [rust https://github.com/bytebeamio/rumqtt](https://github.com/bytebeamio/rumqtt)
+2. [rust https://github.com/slowtec/tokio-modbus](https://github.com/slowtec/tokio-modbus)
+3. [rust https://github.com/berkowski/tokio-serial](https://github.com/berkowski/tokio-serial)
+4. [Rust ZeroMQ bindings for Tokio https://github.com/cetra3/tmq](https://github.com/cetra3/tmq)
+5. [rust An RPC framework for Rust with a focus on ease of use https://github.com/google/tarpc](https://github.com/google/tarpc)
+6. [协议解析 https://github.com/sharksforarms/deku](https://github.com/sharksforarms/deku)
 
 ### 波形图
 
