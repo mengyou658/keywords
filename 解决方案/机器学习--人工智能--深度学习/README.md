@@ -315,6 +315,7 @@
 73. [https://github.com/Akegarasu/ChatGLM-webui](https://github.com/Akegarasu/ChatGLM-webui)
 74. [https://github.com/imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM)
 75. [https://github.com/nadermx/backgroundremover](https://github.com/nadermx/backgroundremover)
+76. [ 一个基于人工智能技术的儿童绘画作品动画化工具，可以根据儿童绘画作品中的人物轮廓和姿势，自动生成相应的动画效果。https://github.com/facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings)
 73. 
 74. 
 75. 
