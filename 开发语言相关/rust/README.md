@@ -319,7 +319,7 @@ cargo install cargo-watch cargo-edit cargo-watch cargo-update cargo-tarpaulin wa
 1. [Rust 的内存安全和未定义行为检测工具 Rudra 是一个静态分析器，用于检测 Rust 程序中常见的未定义行为。它能够分析单个 Rust 包以及 crates.io 上的所有包 https://github.com/sslab-gatech/Rudra](https://github.com/sslab-gatech/Rudra)
 2. [A Python Interpreter written in Rust python 解释器 https://github.com/RustPython/RustPython](https://github.com/RustPython/RustPython)
 3. [远程桌面软件，开箱即用，无需任何配置https://github.com/rustdesk/rustdesk/blob/master/README-ZH.md](https://github.com/rustdesk/rustdesk/blob/master/README-ZH.md)
-4. [https://hub.fastgit.org/immunant/c2rust/](https://hub.fastgit.org/immunant/c2rust/)
+4. [https://github.com/immunant/c2rust/](https://github.com/immunant/c2rust/)
 5. cargo-udeps 是一个了不起的项目，可帮助您分析 Rust 代码库上未使用的依赖项。您可以简单cargo install cargo-udeps地安装它。
 6. [Cargo plugin for linting your dependencies https://github.com/EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny)
 7. [Audit Cargo.lock files for dependencies with security vulnerabilities https://github.com/rustsec/rustsec](https://github.com/rustsec/rustsec)
