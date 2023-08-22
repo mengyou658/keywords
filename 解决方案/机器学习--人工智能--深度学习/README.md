@@ -137,7 +137,7 @@
          * [Datasets subreddit](https://link.jianshu.com/?t=https%3A%2F%2Fwww.reddit.com%2Fr%2Fdatasets)
 41. [https://github.com/CodecWang/OpenCV-Python-Tutorial opencv 教程](https://github.com/CodecWang/OpenCV-Python-Tutorial)
 42. [数据科学竞赛经验分享 https://github.com/yzkang/My-Data-Competition-Experience/](https://github.com/yzkang/My-Data-Competition-Experience/)
-43. 
+43. [https://github.com/chathub-dev/chathub](https://github.com/chathub-dev/chathub)
 44. 
 
 ### 实用 库/模块/框架
@@ -316,9 +316,12 @@
 74. [https://github.com/imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM)
 75. [https://github.com/nadermx/backgroundremover](https://github.com/nadermx/backgroundremover)
 76. [ 一个基于人工智能技术的儿童绘画作品动画化工具，可以根据儿童绘画作品中的人物轮廓和姿势，自动生成相应的动画效果。https://github.com/facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings)
-73. 
-74. 
-75. 
+73. [Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"    “实时辐射场渲染的三维高斯散射”的原始参考实现https://github.com/graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting)
+74. [A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (ggml), Llama models. https://github.com/oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
+74. [Stable Diffusion ui https://github.com/comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+75. [Stable Diffusion web ui https://github.com/AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+76. [https://github.com/lllyasviel/fooocus](https://github.com/lllyasviel/fooocus)
+77. https://github.com/facebookresearch/ImageBind
 
 ### 现成解决方案/完整项目/示例/demo/代码片段
 
@@ -611,6 +614,7 @@
    [https://github.com/LeslieZhoa/tensorflow-YOLO1](https://github.com/LeslieZhoa/tensorflow-YOLO1)
 7. yolo做行人检测+deep-sort做匹配，端对端做多目标跟踪
    [https://github.com/lyp-deeplearning/deep_sort_yolov3](https://github.com/lyp-deeplearning/deep_sort_yolov3)
+8. [football-players-tracking https://github.com/roboflow/supervision](https://github.com/roboflow/supervision)
 8. 对于小目标的检测和识别 主要是用来解决小目标的检测和跟踪问题 斯坦福无人机航拍数据 吉林一号视频数据 航拍数据检测
    [https://github.com/liuguiyangnwpu/TinyObject](https://github.com/liuguiyangnwpu/TinyObject)
 9. 本工程主要目的是集成深度学习中常用的目标检测模型，并利用目标检测模型进行图像和视频中的检测！YOLOv1 航拍数据
@@ -762,10 +766,22 @@ http://www.jezzamon.com/fourier/zh-cn.html
 73. [https://github.com/Akegarasu/ChatGLM-webui](https://github.com/Akegarasu/ChatGLM-webui)
 74. [https://github.com/imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM)
 75. [https://huggingface.co/Vision-CAIR/MiniGPT-4](https://huggingface.co/Vision-CAIR/MiniGPT-4)
+76. [Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the existing code. https://github.com/kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT)
 
 
 ## 生成3d
 1. [https://github.com/ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion)
+2. SceneDreamer: Unbounded 3D Scene Generation from 2D Image Collections https://github.com/FrozenBurning/SceneDreamer
 
 ## 无监督 训练
 1. [DINOv2 模型产生高性能的视觉特征，可以直接与分类器一起使用，就像各种计算机视觉任务上的线性层一样简单;这些视觉功能非常强大，并且跨域性能良好，无需任何微调。这些模型在142 M图像的数据集上进行预训练，不使用任何标签或注释 elhttps://github.com/facebookresearch/dinov2](https://github.com/facebookresearch/dinov2)
+
+
+# Stable Diffusion Midjourney
+74. [Stable Diffusion ui https://github.com/comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+75. [Stable Diffusion web ui https://github.com/AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+76. [Fooocus is a rethinking of Stable Diffusion and Midjourney’s designs https://github.com/lllyasviel/fooocus](https://github.com/lllyasviel/fooocus)
+    77. 插件 https://github.com/Coyote-A/ultimate-upscale-for-automatic1111/
+    78. 合并的模型 https://huggingface.co/WarriorMama777/OrangeMixs
+    79. 图片放大插件 https://github.com/Coyote-A/ultimate-upscale-for-automatic1111
+

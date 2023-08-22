@@ -77,7 +77,8 @@
 24. [nodejs 调用 rust A minimal library for building compiled Node.js add-ons in Rust via Node-API https://github.com/napi-rs/napi-rs](https://github.com/napi-rs/napi-rs)
 25. a lighter, faster browser kernel of blink to integrate HTML UI in your app. 一个小巧、轻量的浏览器内核，用来取代wke和libcef
     [https://github.com/weolar/miniblink49](https://github.com/weolar/miniblink49)
-26.
+26. 内存交换的方式处理进程之间的数据交换 https://github.com/wooddeep/node_ipc
+27. 
 
 ### 完整项目/示例/demo/代码片段
 
