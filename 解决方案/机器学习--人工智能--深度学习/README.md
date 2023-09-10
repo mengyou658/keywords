@@ -404,6 +404,7 @@
    [https://github.com/hzylmf/od-annotation ](https://github.com/hzylmf/od-annotation )
 1. nvidia 官方的在线图像修复，自动生成图像缺失的部分。
    [https://www.nvidia.com/research/inpainting/selection](https://www.nvidia.com/research/inpainting/selection)
+2. 图片无损放大 修复 https://github.com/XPixelGroup/DiffBIR
 1. 生成假的照片的网站
    [https://havetheyfaked.me](https://havetheyfaked.me)
 1. Research techniques and papers related to image generation and image restoration used by DeepNude.
