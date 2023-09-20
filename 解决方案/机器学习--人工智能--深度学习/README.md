@@ -592,6 +592,7 @@
    [https://andreaswannerstedt.se/oddly-satisfying-vol5](https://andreaswannerstedt.se/oddly-satisfying-vol5)
 1. [https://github.com/jobsjiang/machine-learning/blob/master/cv/1.%E8%A7%86%E9%A2%91%E5%A4%84%E7%90%86%E5%85%A5%E9%97%A8.ipynb视频处理入门](https://github.com/jobsjiang/machine-learning/blob/master/cv/1.%E8%A7%86%E9%A2%91%E5%A4%84%E7%90%86%E5%85%A5%E9%97%A8.ipynb)
 2. [https://github.com/oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
+3. 视频去水印，对象删除 https://github.com/sczhou/ProPainter
 
 # 基于opencv
 
