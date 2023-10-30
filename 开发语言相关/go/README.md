@@ -207,6 +207,7 @@ export all_proxy=https://goproxy.io
 7. [代码生成 vue3 vue-vben-admin HotGo 是一个基于 vue 和 goframe2.0 开发的全栈前后端分离的开发基础平台和移动应用平台，集成jwt鉴权，动态路由，动态菜单，casbin鉴权，消息队列，定时任务等功能，提供多种常用场景文件，让您把更多时间专注在业务开发上 https://github.com/bufanyun/hotgo](https://github.com/bufanyun/hotgo)
 8. [代码生成 vue3 https://gitee.com/jasonlaw1015/GfEasy](https://gitee.com/jasonlaw1015/GfEasy)
 8. [代码生成 vue2 https://github.com/20156284/go_base_server](https://github.com/20156284/go_base_server)
+9. admin go goframe vue3 https://github.com/guyan0319/go-vue-admin
 7. 
 
 ### php 转 go
