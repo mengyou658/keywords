@@ -116,7 +116,7 @@
         });
         dataList = dataList.length > 0 ? dataList : [0, 1, 2];
         var pw = '', dataLen = dataList.length - 1;
-        for (var i = 0; i < len; ++i) {
+        for (var i = 0; i <= len; ++i) {
             var strpos = rand(0, dataLen), index = dataList[strpos], d = text[index];
             pw += d.charAt(rand(0, d.length));
         }
