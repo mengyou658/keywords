@@ -316,12 +316,13 @@
 74. [https://github.com/imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM)
 75. [https://github.com/nadermx/backgroundremover](https://github.com/nadermx/backgroundremover)
 76. [ 一个基于人工智能技术的儿童绘画作品动画化工具，可以根据儿童绘画作品中的人物轮廓和姿势，自动生成相应的动画效果。https://github.com/facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings)
-73. [Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"    “实时辐射场渲染的三维高斯散射”的原始参考实现https://github.com/graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting)
-74. [A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (ggml), Llama models. https://github.com/oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
-74. [Stable Diffusion ui https://github.com/comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
-75. [Stable Diffusion web ui https://github.com/AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-76. [https://github.com/lllyasviel/fooocus](https://github.com/lllyasviel/fooocus)
-77. https://github.com/facebookresearch/ImageBind
+77. [Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"    “实时辐射场渲染的三维高斯散射”的原始参考实现https://github.com/graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting)
+78. [A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (ggml), Llama models. https://github.com/oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
+79. [Stable Diffusion ui https://github.com/comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+80. [Stable Diffusion web ui https://github.com/AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+81. [https://github.com/lllyasviel/fooocus](https://github.com/lllyasviel/fooocus)
+82. https://github.com/facebookresearch/ImageBind
+83. [即时语音克隆 https://github.com/myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice)
 
 ### 现成解决方案/完整项目/示例/demo/代码片段
 
