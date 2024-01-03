@@ -770,6 +770,7 @@ http://www.jezzamon.com/fourier/zh-cn.html
 74. [https://github.com/imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM)
 75. [https://huggingface.co/Vision-CAIR/MiniGPT-4](https://huggingface.co/Vision-CAIR/MiniGPT-4)
 76. [Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the existing code. https://github.com/kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT)
+77. [Jan 是 ChatGPT 的开源替代品，可在您的计算机上 100% 离线运行] https://github.com/janhq/jan
 
 
 ## 生成3d
