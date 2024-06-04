@@ -323,6 +323,9 @@
 81. [https://github.com/lllyasviel/fooocus](https://github.com/lllyasviel/fooocus)
 82. https://github.com/facebookresearch/ImageBind
 83. [即时语音克隆 https://github.com/myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice)
+84. [ChatTTS是专门为对话场景设计的文本转语音模型，例如LLM助手对话任务。它支持英文和中文两种语言。最大的模型使用了10万小时以上的中英文数据进行训练。在HuggingFace中开源的版本为4万小时训练且未SFT的版本 https://github.com/2noise/ChatTTS](https://github.com/2noise/ChatTTS)
+85. [Omost is a project to convert LLM's coding capability to image generation (or more accurately, image composing) capability https://github.com/lllyasviel/Omost](https://github.com/lllyasviel/Omost)
+86. [ToonCrafter can interpolate two cartoon images by leveraging the pre-trained image-to-video diffusion priors. Please check our project page and paper for more information https://github.com/ToonCrafter/ToonCrafter](https://github.com/ToonCrafter/ToonCrafter)
 
 ### 现成解决方案/完整项目/示例/demo/代码片段
 
