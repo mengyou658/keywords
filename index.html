@@ -127,7 +127,9 @@
             },
             onSubmitQrcode() {
                 this.formQrcode.show = true
-                let pic = new QRCode(document.getElementById('qrcodeRef'), {
+                let qrcodeRef = document.getElementById('qrcodeRef')
+                qrcodeRef.innerHTML = ''
+                let pic = new QRCode(qrcodeRef, {
                     text: this.formQrcode.text,
                     width: 600,
                     height: 600,
