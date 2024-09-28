@@ -4,16 +4,12 @@
     <meta charset="UTF-8">
     <title>随机密码</title>
     <!-- Import style -->
-    <link
-            rel="stylesheet"
-            href="//cdn.jsdelivr.net/npm/element-plus/dist/index.css"
-    />
+    <link rel="stylesheet" href="https://unpkg.com/element-plus/dist/index.css" />
     <!-- Import Vue 3 -->
-    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="https://unpkg.com/vue@3"></script>
     <!-- Import component library -->
-    <link href="//unpkg.com/element-plus/dist/index.css" rel="stylesheet">
-    <script src="//unpkg.com/vue@3"></script>
-    <script src="//cdn.jsdelivr.net/npm/qrcode-kit"></script>
+    <script src="https://unpkg.com/element-plus"></script>
+    <script src="https://cdn.jsdelivr.net/npm/easyqrcodejs"></script>
 
     <script>
         var _hmt = _hmt || [];
@@ -58,21 +54,22 @@
                     <el-form-item label="二维码内容">
                         <el-input type="textarea" v-model="formQrcode.text" />
                     </el-form-item>
+                    <el-form-item>
+                        <el-button type="primary" @click="onSubmitQrcode">生成</el-button>
+                    </el-form-item>
                 </el-col>
                 <el-col :span="12">
-                    <el-form-item label="图片">
-                        <el-image
+                    <el-form-item label="图片" id="qrcodeRef" ref="qrcodeRef">
+                        <!--<el-image
                                 v-if="formQrcode.img"
                             :src="formQrcode.img"
                                 style="width:600px;height:600px"
                                 :preview-src-list="formQrcode.srcList"
-                        ></el-image>
+                        ></el-image>-->
                     </el-form-item>
                 </el-col>
             </el-row>
-            <el-form-item>
-                <el-button type="primary" @click="onSubmitQrcode">生成</el-button>
-            </el-form-item>
+
         </el-form>
     </el-card>
 </div>
@@ -130,9 +127,13 @@
             },
             onSubmitQrcode() {
                 this.formQrcode.show = true
-                let pic = qrcodeKit.createQrCodeImg(this.formQrcode.text, {})
-                this.formQrcode.img = pic
-                this.formQrcode.srcList = [pic]
+                let pic = new QRCode(document.getElementById('qrcodeRef'), {
+                    text: this.formQrcode.text,
+                    width: 600,
+                    height: 600,
+                })
+                // this.formQrcode.img = pic
+                // this.formQrcode.srcList = [pic]
             }
         }
     };
