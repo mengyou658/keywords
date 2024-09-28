@@ -49,7 +49,7 @@
     </el-card>
     <el-card>
         <el-form :model="formQrcode" label-width="120px">
-            <el-row>
+            <el-row :gutter="20">
                 <el-col :span="12">
                     <el-form-item label="二维码内容">
                         <el-input type="textarea" v-model="formQrcode.text" />
