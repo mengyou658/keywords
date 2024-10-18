@@ -326,6 +326,7 @@
 84. [ChatTTS是专门为对话场景设计的文本转语音模型，例如LLM助手对话任务。它支持英文和中文两种语言。最大的模型使用了10万小时以上的中英文数据进行训练。在HuggingFace中开源的版本为4万小时训练且未SFT的版本 https://github.com/2noise/ChatTTS](https://github.com/2noise/ChatTTS)
 85. [Omost is a project to convert LLM's coding capability to image generation (or more accurately, image composing) capability https://github.com/lllyasviel/Omost](https://github.com/lllyasviel/Omost)
 86. [ToonCrafter can interpolate two cartoon images by leveraging the pre-trained image-to-video diffusion priors. Please check our project page and paper for more information https://github.com/ToonCrafter/ToonCrafter](https://github.com/ToonCrafter/ToonCrafter)
+87. [AI证件照片 https://github.com/Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos)
 
 ### 现成解决方案/完整项目/示例/demo/代码片段
 
@@ -792,3 +793,7 @@ http://www.jezzamon.com/fourier/zh-cn.html
     78. 合并的模型 https://huggingface.co/WarriorMama777/OrangeMixs
     79. 图片放大插件 https://github.com/Coyote-A/ultimate-upscale-for-automatic1111
 
+
+## gpt
+6. Chat with your database (SQL, CSV, pandas, polars, mongodb, noSQL, etc) https://github.com/Sinaptik-AI/pandas-ai
+7. chat with your documents https://github.com/arc53/DocsGPT
