@@ -332,6 +332,12 @@
 90. [TensorZero 创建了一个反馈循环，用于优化 LLM 应用程序——将生产数据转化为更智能、更快、更便宜的模型。 https://github.com/tensorzero/tensorzero](https://github.com/tensorzero/tensorzero)
 91. [数据、分析和人工智能。Snowflake 的现代替代品。经济高效且简单，适用于大规模分析。https://github.com/databendlabs/databend](https://github.com/databendlabs/databend)
 92. [Letta（原 MemGPT）是一个用于创建带内存的 LLM。 https://github.com/letta-ai/letta](https://github.com/letta-ai/letta)
+93. [Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) https://github.com/abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)
+94. [Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。 https://github.com/coaidev/coai](https://github.com/coaidev/coai)
+95. [为第 AI 代做好准备 https://github.com/DS4SD/docling](https://github.com/DS4SD/docling)
+96. [Netflix 级字幕剪切、翻译、对齐甚至配音 - 一键式全自动 AI 视频字幕团队 |Netflix 级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组 https://github.com/Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo)
+95. 
+95. 
 
 ### 现成解决方案/完整项目/示例/demo/代码片段
 
