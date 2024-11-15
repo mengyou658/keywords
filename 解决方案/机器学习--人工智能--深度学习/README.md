@@ -327,6 +327,11 @@
 85. [Omost is a project to convert LLM's coding capability to image generation (or more accurately, image composing) capability https://github.com/lllyasviel/Omost](https://github.com/lllyasviel/Omost)
 86. [ToonCrafter can interpolate two cartoon images by leveraging the pre-trained image-to-video diffusion priors. Please check our project page and paper for more information https://github.com/ToonCrafter/ToonCrafter](https://github.com/ToonCrafter/ToonCrafter)
 87. [AI证件照片 https://github.com/Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos)
+88. [基于 Transformer 扩散的高分辨率和长视频生成的端到端解决方案 https://github.com/aigc-apps/EasyAnimate](https://github.com/aigc-apps/EasyAnimate)
+89. [适合所有人的 3D 重建 https://github.com/ArthurBrussee/brush](https://github.com/ArthurBrussee/brush)
+90. [TensorZero 创建了一个反馈循环，用于优化 LLM 应用程序——将生产数据转化为更智能、更快、更便宜的模型。 https://github.com/tensorzero/tensorzero](https://github.com/tensorzero/tensorzero)
+91. [数据、分析和人工智能。Snowflake 的现代替代品。经济高效且简单，适用于大规模分析。https://github.com/databendlabs/databend](https://github.com/databendlabs/databend)
+92. [Letta（原 MemGPT）是一个用于创建带内存的 LLM。 https://github.com/letta-ai/letta](https://github.com/letta-ai/letta)
 
 ### 现成解决方案/完整项目/示例/demo/代码片段
 
