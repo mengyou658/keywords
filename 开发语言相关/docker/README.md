@@ -21,7 +21,7 @@
 
 ### 实用 库/模块/框架
 
-1.
+1. [不要更改容器镜像中的任何内容，并将其缩小多达 30 倍（对于编译语言甚至更多），使其也安全！（免费和开源） https://github.com/slimtoolkit/slim](https://github.com/slimtoolkit/slim)
 1.
 
 ### 完整项目/示例/demo/代码片段

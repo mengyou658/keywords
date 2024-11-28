@@ -336,7 +336,12 @@
 94. [Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。 https://github.com/coaidev/coai](https://github.com/coaidev/coai)
 95. [为第 AI 代做好准备 https://github.com/DS4SD/docling](https://github.com/DS4SD/docling)
 96. [Netflix 级字幕剪切、翻译、对齐甚至配音 - 一键式全自动 AI 视频字幕团队 |Netflix 级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组 https://github.com/Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo)
-95. 
+97. [EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditioning EchoMimic：通过可编辑的地标调节实现逼真的音频驱动肖像动画 https://github.com/antgroup/echomimic](https://github.com/antgroup/echomimic)
+95. [Simple, unified interface to multiple Generative AI providers 与多个生成式 AI 提供商的简单、统一的接口https://github.com/andrewyng/aisuite](https://github.com/andrewyng/aisuite)
+96. [图片相似度搜索 LightGlue 是一个深度神经网络，可匹配图像对中的稀疏局部特征 https://github.com/cvg/LightGlue](https://github.com/cvg/LightGlue)
+97. [轻松打造 AI 驱动的界面 https://github.com/ant-design/x](https://github.com/ant-design/x)
+97. 
+97. 
 95. 
 
 ### 现成解决方案/完整项目/示例/demo/代码片段
@@ -534,6 +539,7 @@
 36. [A Deep-Learning-Based Chinese Speech Recognition System 基于深度学习的中文语音识别系统https://github.com/nl8590687/ASRT_SpeechRecognition](https://github.com/nl8590687/ASRT_SpeechRecognition)
 37. [Rust 最准确的自然语言检测库，适用于长文本和短文本 https://github.com/pemistahl/lingua-rs](https://github.com/pemistahl/lingua-rs)
 38. [OpenAI 新开源的语音识别模型，经过大量音频数据训练，Whisper 可用于多语言语音识别以及语音翻译。Whisper 提供 5 种不同大小的模型，Large 模型（含 1550M 参数）支持多语言，剩余的其他四种模型在英语应用程序上比较会更好。 https://github.com/openai/whisper](https://github.com/openai/whisper)
+39. [带带弟弟 通用验证码识别OCR pypi版 https://github.com/sml2h3/ddddocr](https://github.com/sml2h3/ddddocr)
 
 # 数据分析/数据可视化
 
@@ -781,11 +787,12 @@ http://www.jezzamon.com/fourier/zh-cn.html
 2. [https://github.com/PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
 3. [基于 GPT3.5 搭建定制化知识库](https://mp.weixin.qq.com/s?__biz=MzIyNDAzMzYxNQ==&mid=2652028778&idx=1&sn=985a386f915dea0d4dc97186af7c50b6&srcid=0316LqkslRQXM1UyluqQFTxe)
 4. [对接 chat.openai.com 的对话接口,不使用 API Key, 也不需要注册账号 https://github.com/mengyou658/xyhelper-desktop](https://github.com/mengyou658/xyhelper-desktop)
-73. [https://github.com/Akegarasu/ChatGLM-webui](https://github.com/Akegarasu/ChatGLM-webui)
-74. [https://github.com/imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM)
-75. [https://huggingface.co/Vision-CAIR/MiniGPT-4](https://huggingface.co/Vision-CAIR/MiniGPT-4)
-76. [Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the existing code. https://github.com/kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT)
-77. [Jan 是 ChatGPT 的开源替代品，可在您的计算机上 100% 离线运行] https://github.com/janhq/jan
+5. [https://github.com/Akegarasu/ChatGLM-webui](https://github.com/Akegarasu/ChatGLM-webui)
+6. [https://github.com/imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM)
+7. [https://huggingface.co/Vision-CAIR/MiniGPT-4](https://huggingface.co/Vision-CAIR/MiniGPT-4)
+8. [Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the existing code. https://github.com/kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT)
+9. [Jan 是 ChatGPT 的开源替代品，可在您的计算机上 100% 离线运行] https://github.com/janhq/jan
+10. [Multiple model integrations: OpenAI, transformers, llama.cpp, exllama2, mamba https://github.com/dottxt-ai/outlines](https://github.com/dottxt-ai/outlines)
 
 
 ## 生成3d

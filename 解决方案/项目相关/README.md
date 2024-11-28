@@ -2131,3 +2131,8 @@ _Jupyter kernels that run and introspect the user's code in a given language._
 73. [https://github.com/Akegarasu/ChatGLM-webui](https://github.com/Akegarasu/ChatGLM-webui)
 74. [https://github.com/imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM)
 5. 
+
+
+## 大规模并行处理
+1. [一个先进成熟的开源 MPP（Massively Parallel Processing）数据库。Greenplum 数据库的开源替代方案。https://github.com/apache/cloudberry](https://github.com/apache/cloudberry)
+2. 
