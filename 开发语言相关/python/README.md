@@ -58,7 +58,8 @@
 14. [https://github.com/ahawker/ulid](https://github.com/ahawker/ulid)
 15. [用于可扩展贝叶斯优化的开源 Python 库 https://github.com/Dragonfly/dragonfly](https://github.com/Dragonfly/dragonfly)
 15. [即时语音克隆 https://github.com/myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice)
-16. 
+16. [数学动画 https://github.com/ManimCommunity/manim](https://github.com/ManimCommunity/manim)
+16. [数学动画 https://github.com/3b1b/manim](https://github.com/3b1b/manim)
 17. 
 
 ### 完整项目/示例/demo/代码片段
