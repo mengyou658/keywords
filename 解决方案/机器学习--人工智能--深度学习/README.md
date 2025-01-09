@@ -340,7 +340,7 @@
 95. [Simple, unified interface to multiple Generative AI providers 与多个生成式 AI 提供商的简单、统一的接口https://github.com/andrewyng/aisuite](https://github.com/andrewyng/aisuite)
 96. [图片相似度搜索 LightGlue 是一个深度神经网络，可匹配图像对中的稀疏局部特征 https://github.com/cvg/LightGlue](https://github.com/cvg/LightGlue)
 97. [轻松打造 AI 驱动的界面 https://github.com/ant-design/x](https://github.com/ant-design/x)
-97. 
+97. [90+ 种语言的 OCR、布局分析、读取顺序、表格识别 https://github.com/VikParuchuri/surya](https://github.com/VikParuchuri/surya)
 97. 
 95. 
 
