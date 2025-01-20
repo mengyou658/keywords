@@ -342,6 +342,9 @@
 100. [轻松打造 AI 驱动的界面 https://github.com/ant-design/x](https://github.com/ant-design/x)
 101. [90+ 种语言的 OCR、布局分析、读取顺序、表格识别 https://github.com/VikParuchuri/surya](https://github.com/VikParuchuri/surya)
 102. [一个强大、高效、低延迟的语音转文本库，具有高级语音活动检测、唤醒词激活和即时转录功能。https://github.com/KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT)
+103. [MiniCPM-o 2.6：GPT-4o 级 MLLM，用于手机上的视觉、语音和多模态直播 https://github.com/OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o)
+104. [SOTA 开源 TTS https://github.com/fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)
+105. [适用于 Python 的轻量级人脸识别和人脸属性分析（年龄、性别、情感和种族）库 https://github.com/serengil/deepface](https://github.com/serengil/deepface)
 103. 
 
 ### 现成解决方案/完整项目/示例/demo/代码片段
