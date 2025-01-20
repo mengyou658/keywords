@@ -337,12 +337,12 @@
 95. [为第 AI 代做好准备 https://github.com/DS4SD/docling](https://github.com/DS4SD/docling)
 96. [Netflix 级字幕剪切、翻译、对齐甚至配音 - 一键式全自动 AI 视频字幕团队 |Netflix 级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组 https://github.com/Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo)
 97. [EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditioning EchoMimic：通过可编辑的地标调节实现逼真的音频驱动肖像动画 https://github.com/antgroup/echomimic](https://github.com/antgroup/echomimic)
-95. [Simple, unified interface to multiple Generative AI providers 与多个生成式 AI 提供商的简单、统一的接口https://github.com/andrewyng/aisuite](https://github.com/andrewyng/aisuite)
-96. [图片相似度搜索 LightGlue 是一个深度神经网络，可匹配图像对中的稀疏局部特征 https://github.com/cvg/LightGlue](https://github.com/cvg/LightGlue)
-97. [轻松打造 AI 驱动的界面 https://github.com/ant-design/x](https://github.com/ant-design/x)
-97. [90+ 种语言的 OCR、布局分析、读取顺序、表格识别 https://github.com/VikParuchuri/surya](https://github.com/VikParuchuri/surya)
-97. 
-95. 
+98. [Simple, unified interface to multiple Generative AI providers 与多个生成式 AI 提供商的简单、统一的接口https://github.com/andrewyng/aisuite](https://github.com/andrewyng/aisuite)
+99. [图片相似度搜索 LightGlue 是一个深度神经网络，可匹配图像对中的稀疏局部特征 https://github.com/cvg/LightGlue](https://github.com/cvg/LightGlue)
+100. [轻松打造 AI 驱动的界面 https://github.com/ant-design/x](https://github.com/ant-design/x)
+101. [90+ 种语言的 OCR、布局分析、读取顺序、表格识别 https://github.com/VikParuchuri/surya](https://github.com/VikParuchuri/surya)
+102. [一个强大、高效、低延迟的语音转文本库，具有高级语音活动检测、唤醒词激活和即时转录功能。https://github.com/KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT)
+103. 
 
 ### 现成解决方案/完整项目/示例/demo/代码片段
 
