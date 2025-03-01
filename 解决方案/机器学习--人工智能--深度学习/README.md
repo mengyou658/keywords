@@ -345,7 +345,9 @@
 103. [MiniCPM-o 2.6：GPT-4o 级 MLLM，用于手机上的视觉、语音和多模态直播 https://github.com/OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o)
 104. [SOTA 开源 TTS https://github.com/fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)
 105. [适用于 Python 的轻量级人脸识别和人脸属性分析（年龄、性别、情感和种族）库 https://github.com/serengil/deepface](https://github.com/serengil/deepface)
-103. 
+103. [视频生成编辑 https://github.com/modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio)
+104. [pdf 识别 https://github.com/allenai/olmocr](https://github.com/allenai/olmocr)
+105. [多图片转3d模型 https://github.com/naver/mast3r](https://github.com/naver/mast3r)
 
 ### 现成解决方案/完整项目/示例/demo/代码片段
 

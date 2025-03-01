@@ -59,6 +59,7 @@
 9. [Erlang跨平台数蛙工业物联网SaaS平台（Industry SaaS for IoT Platform）](https://github.com/dgiot/dgiot)
 10. [network framework https://github.com/ergo-services/ergo](https://github.com/ergo-services/ergo)
 10. [network framework https://github.com/panjf2000/gnet](https://github.com/panjf2000/gnet)
+11. [声波传输数据 https://github.com/ggerganov/ggwave](https://github.com/ggerganov/ggwave)
 
 ### 完整项目/示例/demo/代码片段
 
