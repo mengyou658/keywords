@@ -348,6 +348,7 @@
 103. [视频生成编辑 https://github.com/modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio)
 104. [pdf 识别 https://github.com/allenai/olmocr](https://github.com/allenai/olmocr)
 105. [多图片转3d模型 https://github.com/naver/mast3r](https://github.com/naver/mast3r)
+106. [Text-to-SQL https://github.com/vanna-ai/vanna](https://github.com/vanna-ai/vanna)
 
 ### 现成解决方案/完整项目/示例/demo/代码片段
 
