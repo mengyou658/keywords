@@ -89,7 +89,8 @@ export all_proxy=https://goproxy.io
 21. [Cloud native multi cloud application management platform | 云原生多云应用管理平台 https://github.com/goodrain/rainbond](https://github.com/goodrain/rainbond)
 22. [ightweight, idiomatic and composable router for building Go HTTP services https://github.com/go-chi/chi](https://github.com/go-chi/chi)
 23. [gev 是一个轻量、快速的基于 Reactor 模式的非阻塞 TCP 网络库 / websocket server，支持自定义协议，轻松快速搭建高性能服务器 https://github.com/Allenxuxu/gev](https://github.com/Allenxuxu/gev)
-19. 
+24. [The ultimate LLM/AI application development framework in Golang. Golang 中的终极 LLM/AI 应用程序开发框架。https://github.com/cloudwego/eino](https://github.com/cloudwego/eino)
+25. 
 
 ### 完整项目/示例/demo/代码片段
 
