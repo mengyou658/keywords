@@ -352,6 +352,7 @@
 110. [[CVPR 2024 Highlight] FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects https://github.com/NVlabs/FoundationPose](https://github.com/NVlabs/FoundationPose)
 111. [从eBooks到有章节和元数据的音频书籍的CPU/GPU转换器 https://github.com/DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)
 112. [Universal Monocular Metric Depth Estimation 通用单目度量深度估计 https://github.com/lpiccinelli-eth/UniDepth](https://github.com/lpiccinelli-eth/UniDepth)
+113. [AI 音乐生成模型 https://github.com/ASLP-lab/DiffRhythm](https://github.com/ASLP-lab/DiffRhythm)
 113. 
 
 ### 现成解决方案/完整项目/示例/demo/代码片段
