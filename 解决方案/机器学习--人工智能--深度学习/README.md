@@ -2,7 +2,8 @@
 
 ### 现成列表
 
-1. [最新学习路线图，https://github.com/therealsreehari/Learn-Datascience-For-Free](https://github.com/therealsreehari/Learn-Datascience-For-Free)
+1. [https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_cn.md](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_cn.md)
+2. [最新学习路线图，https://github.com/therealsreehari/Learn-Datascience-For-Free](https://github.com/therealsreehari/Learn-Datascience-For-Free)
 2. 行动识别和相关区域资源的策划清单 A curated list of action recognition and related area resources
    [https://github.com/jinwchoi/awesome-action-recognition](https://github.com/jinwchoi/awesome-action-recognition)
 3. A curated list of awesome computer vision resources 精彩的计算机视觉资源列表
@@ -353,6 +354,9 @@
 111. [从eBooks到有章节和元数据的音频书籍的CPU/GPU转换器 https://github.com/DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook)
 112. [Universal Monocular Metric Depth Estimation 通用单目度量深度估计 https://github.com/lpiccinelli-eth/UniDepth](https://github.com/lpiccinelli-eth/UniDepth)
 113. [AI 音乐生成模型 https://github.com/ASLP-lab/DiffRhythm](https://github.com/ASLP-lab/DiffRhythm)
+114. [MetaGPT 以一行需求作为输入和输出用户故事/竞争分析/需求/数据结构/API/文档 产品经理 / 架构师 / 项目经理 / 工程师 https://github.com/geekan/MetaGPT](https://github.com/geekan/MetaGPT)
+115. [Marker converts documents to markdown, JSON, and HTML quickly and accurately https://github.com/VikParuchuri/marker](https://github.com/VikParuchuri/marker)
+116. [Coco AI 是一个统一的搜索平台，能够将您企业的所有应用程序和数据——包括 Google Workspace、Dropbox、Confluence Wiki、GitHub 等——整合到一个强大而统一的搜索界面中。这个仓库包含了适用于桌面端和移动端的 COCO 应用程序。用户可以通过该应用在不同平台上搜索和操作企业数据 https://github.com/infinilabs/coco-app](https://github.com/infinilabs/coco-app)
 113. 
 
 ### 现成解决方案/完整项目/示例/demo/代码片段
