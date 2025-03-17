@@ -361,6 +361,7 @@
 118. [用于可扩展和多功能 3D 生成的结构化 3D 潜伏物 https://github.com/microsoft/TRELLIS](https://github.com/microsoft/TRELLIS)
 119. [Democratizing Efficient Video Production for All https://github.com/hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora)
 120. [一个使用 AI 模型进行文字识别（OCR）的 Python 工具 https://github.com/allenai/olmocr](https://github.com/allenai/olmocr)
+121. [ai web search https://github.com/ai-christianson/RA.Aid](https://github.com/ai-christianson/RA.Aid)
 113. 
 
 ### 现成解决方案/完整项目/示例/demo/代码片段
