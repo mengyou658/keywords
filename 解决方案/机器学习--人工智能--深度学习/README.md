@@ -359,9 +359,10 @@
 116. [Coco AI 是一个统一的搜索平台，能够将您企业的所有应用程序和数据——包括 Google Workspace、Dropbox、Confluence Wiki、GitHub 等——整合到一个强大而统一的搜索界面中。这个仓库包含了适用于桌面端和移动端的 COCO 应用程序。用户可以通过该应用在不同平台上搜索和操作企业数据 https://github.com/infinilabs/coco-app](https://github.com/infinilabs/coco-app)
 117. [AI 驱动的数据库工具和 SQL 客户端，最热门的 GUI 客户端，支持 MySQL、Oracle、PostgreSQL、DB2、SQL Server、DB2、SQLite、H2、ClickHouse 等 https://github.com/CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB)
 118. [用于可扩展和多功能 3D 生成的结构化 3D 潜伏物 https://github.com/microsoft/TRELLIS](https://github.com/microsoft/TRELLIS)
-119. [Democratizing Efficient Video Production for All https://github.com/hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora)
+119. [Open-Sora：为所有人实现高效的视频制作大众化 Democratizing Efficient Video Production for All https://github.com/hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora)
 120. [一个使用 AI 模型进行文字识别（OCR）的 Python 工具 https://github.com/allenai/olmocr](https://github.com/allenai/olmocr)
 121. [ai web search https://github.com/ai-christianson/RA.Aid](https://github.com/ai-christianson/RA.Aid)
+122. [完全本地的网络研究和报告写作助手Fully local web research and report writing assistant https://github.com/langchain-ai/ollama-deep-researcher](https://github.com/langchain-ai/ollama-deep-researcher)
 113. 
 
 ### 现成解决方案/完整项目/示例/demo/代码片段
