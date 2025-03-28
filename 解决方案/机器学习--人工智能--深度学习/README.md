@@ -365,6 +365,7 @@
 122. [完全本地的网络研究和报告写作助手Fully local web research and report writing assistant https://github.com/langchain-ai/ollama-deep-researcher](https://github.com/langchain-ai/ollama-deep-researcher)
 123. [easily train a good VC model with voice data <= 10 mins!使用语音数据轻松训练一个好的 VC 模型 <= 10 分钟！https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
 124. [1 分钟的语音数据也可以用来训练一个好的 TTS 模型！（少数拍摄语音克隆）https://github.com/RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)
+125. [AigcPanel 是一个简单易用的一站式AI数字人系统，支持视频合成、声音合成、声音克隆，简化本地模型管理、一键导入和使用AI模型 https://github.com/modstart-lib/aigcpanel](https://github.com/modstart-lib/aigcpanel)
 
 ### 现成解决方案/完整项目/示例/demo/代码片段
 
