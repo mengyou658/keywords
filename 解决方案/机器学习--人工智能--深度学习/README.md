@@ -368,6 +368,10 @@
 125. [AigcPanel 是一个简单易用的一站式AI数字人系统，支持视频合成、声音合成、声音克隆，简化本地模型管理、一键导入和使用AI模型 https://github.com/modstart-lib/aigcpanel](https://github.com/modstart-lib/aigcpanel)
 126. [Cherry Studio 是一款支持多个大语言模型（LLM）服务商的桌面客户端，兼容 Windows、Mac 和 Linux 系统 https://github.com/CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 127. [图片表情动画，让肖像栩栩如生,具有拼接和重定向控制的高效人像动画 https://github.com/KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait)
+128. [MCP Toolbox for Databases 是一个用于数据库的开源 MCP 服务器。https://github.com/googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox)
+129. [A collection of MCP clients. MCP 客户端的集合https://github.com/punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients)
+130. [VACE：All-in-One Video Creation and Editing https://github.com/ali-vilab/VACE](https://github.com/ali-vilab/VACE)
+131. [https://github.com/opengeos/geoai](https://github.com/opengeos/geoai)
 
 ### 现成解决方案/完整项目/示例/demo/代码片段
 
