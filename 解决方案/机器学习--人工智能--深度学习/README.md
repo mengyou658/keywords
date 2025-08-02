@@ -372,6 +372,8 @@
 129. [A collection of MCP clients. MCP 客户端的集合https://github.com/punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients)
 130. [VACE：All-in-One Video Creation and Editing https://github.com/ali-vilab/VACE](https://github.com/ali-vilab/VACE)
 131. [https://github.com/opengeos/geoai](https://github.com/opengeos/geoai)
+132. [「大模型」2 小时完全从 0 训练 26M 的小参数 GPT！🌏只需 2 小时即可从头开始训练 26M 参数的 GPT！ https://github.com/jingyaogong/minimind](https://github.com/jingyaogong/minimind)
+133. [Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024) https://github.com/hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
 
 ### 现成解决方案/完整项目/示例/demo/代码片段
 
@@ -644,6 +646,8 @@
 1. [https://github.com/jobsjiang/machine-learning/blob/master/cv/1.%E8%A7%86%E9%A2%91%E5%A4%84%E7%90%86%E5%85%A5%E9%97%A8.ipynb视频处理入门](https://github.com/jobsjiang/machine-learning/blob/master/cv/1.%E8%A7%86%E9%A2%91%E5%A4%84%E7%90%86%E5%85%A5%E9%97%A8.ipynb)
 2. [https://github.com/oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
 3. 视频去水印，对象删除 https://github.com/sczhou/ProPainter
+4. [视频生成模型 https://github.com/Wan-Video/Wan2.1](https://github.com/Wan-Video/Wan2.1)
+5. [无限长度电影生成模型 https://github.com/SkyworkAI/SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2)
 
 # 基于opencv
 
