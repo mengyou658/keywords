@@ -375,6 +375,7 @@
 132. [「大模型」2 小时完全从 0 训练 26M 的小参数 GPT！🌏只需 2 小时即可从头开始训练 26M 参数的 GPT！ https://github.com/jingyaogong/minimind](https://github.com/jingyaogong/minimind)
 133. [Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024) https://github.com/hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
 134. [GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds.GenBI（生成式 BI）以自然语言查询任何数据库，在几秒钟内生成准确的 SQL（文本到 SQL）、图表（文本到图表）和 AI 驱动的见解。 https://github.com/Canner/WrenAI](https://github.com/Canner/WrenAI)
+135. [Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 与您的 SQL 数据库📊聊天。使用 RAG 🔄 通过 LLM 准确生成文本到 SQL 。https://github.com/vanna-ai/vanna](https://github.com/vanna-ai/vanna)
 
 ### 现成解决方案/完整项目/示例/demo/代码片段
 
