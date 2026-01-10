@@ -262,8 +262,9 @@
 178. [Frunk provides developers with a number of functional programming tools like HList, Coproduct, Generic, LabelledGeneric, Validated, Monoid, Semigroup and friends https://lib.rs/crates/frunk](https://lib.rs/crates/frunk)
 179. [一个有趣的、可破解的、GPU 加速的 Rust 神经网络库，由一个白痴编写 https://github.com/kurtschelfthout/tensorken](https://github.com/kurtschelfthout/tensorken)
 180. [https://github.com/udoprog/borrowme](https://github.com/udoprog/borrowme)
-180. 
-140. 
+181. [https://github.com/longbridge/gpui-component](https://github.com/longbridge/gpui-component)
+182. [Redis 的图形客户端，跨平台的桌面应用，不使用 Electron，而是使用 Rust + GPUI，性能更好https://github.com/vicanso/zedis](https://github.com/vicanso/zedis)
+183. 
 
 ### 完整项目/示例/demo/代码片段
  

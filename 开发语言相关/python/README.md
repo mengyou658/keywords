@@ -150,4 +150,4 @@
 27. [数学东华软件 https://github.com/Elteoremadebeethoven/AnimationsWithManim](https://github.com/Elteoremadebeethoven/AnimationsWithManim)
 28. [生成以文本或图像为条件的 3D 对象 https://github.com/openai/shap-e](https://github.com/openai/shap-e)
 29. [自动量化交易机器人 Qbot is an AI-oriented quantitative investment platform, which aims to realize the potential, empower AI technologies in quantitative investment. https://ufund-me.github.io/Qbot :news: qbot-mini: https://github.com/Charmve/iQuant https://github.com/UFund-Me/Qbot](https://github.com/UFund-Me/Qbot)
-27. 
+30. [这个工具可以将 Python 脚本编译成二进制模块，方便隐藏源码 https://github.com/xxnuo/py2dist]https://github.com/xxnuo/py2dist
